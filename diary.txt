@@ -1,0 +1,13 @@
+05/10/16	18:00	18:15	put the first real entry in diary.txt (delete this line!)
+13/10/16    16:00   17:00   begin to set up the env in my home PC
+13/10/16    21:00   23:15   import the data to sqlite3
+15/10/16    12:00   13:30   install docker on my own computer and run sucessful
+15/10/16    17:00   22:30   finished level0, 1 and parts of level2
+16/10/16    15:00   18:00   finished level2
+25/10/16    20:00   23:30   re-write before work, finished orm, model and css part
+26/10/16    10:00   15:00   finish level0, level1 and parts of level2 (mate/unmate, register, profile, password recovery, mate suggestion)
+26/10/16    19:00   23:30   level3 - edit profile information, mate requests, pagination, privacy
+27/10/16    15:00   19:00   level3 - notification (add/delete/comment/accept/decline/read/look/ignore)
+28/10/16    12:00   15:00   fix some small bugs
+
+docker run -p 2041:80 -v /Users/Chenson/Desktop/ass2:/var/www comp2041/cgi

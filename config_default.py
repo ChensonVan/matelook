@@ -1,4 +1,7 @@
-# config_default.py
+#!/usr/bin/env python3.5
+# -*- coding: utf-8 -*-
+
+__author__ = 'Changxun Fan'
 import os
 
 DIR_PATH = os.path.dirname(os.path.realpath(__file__))

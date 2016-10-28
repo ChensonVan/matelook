@@ -1,3 +1,7 @@
+#!/usr/bin/env python3.5
+# -*- coding: utf-8 -*-
+
+__author__ = 'Changxun Fan'
 from db import *
 from model import User, Post, Comment, Pagination, Notifications, Requests
 import operator

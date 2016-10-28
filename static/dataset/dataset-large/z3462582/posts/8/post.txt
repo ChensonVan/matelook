@@ -1,0 +1,5 @@
+longitude=151.1572
+from=z3462582
+message=made a good friend at uni this year. he made me laugh and feel at ease. i know hes been doing it rough and deserves to be on top of the world again. \ni'm sad that now our friendship isnt as strong as it was before. maybe it has to do with crossing the line and confessing my feelings for him, because he cant imagine feeling the same way at this moment in his life.\nor perhaps it was always meant to be a short emotional friendship, which changes the way you feel about everything. \neither way, it feels like I can no longer offer anything to him. i could hope (maybe selfishly and vainly) for things to go back to how they were, because i dont feel my best without him. but maybe he just doesn't need me anymore and instead of pining, i should be grateful for what we had and move on for us both.
+latitude=-33.9570
+time=2014-01-02T13:33:58+0000

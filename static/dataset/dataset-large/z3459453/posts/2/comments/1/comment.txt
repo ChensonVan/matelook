@@ -1,0 +1,3 @@
+message=z5113715 50% discount
+from=z3462326
+time=2016-08-30T00:08:08+0000

@@ -1,0 +1,3 @@
+message=Ni siapa pedajal? z5020328
+from=z3294734
+time=2016-08-06T15:01:24+0000

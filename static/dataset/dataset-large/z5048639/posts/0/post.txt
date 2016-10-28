@@ -1,0 +1,5 @@
+time=2016-04-25T18:23:28+0000
+latitude=-33.9270
+message=Ali Nasser\n\nI think about our kiss every day.\nI really want to do some more stuff with you\nPreferably not with our clothes on
+longitude=151.2241
+from=z5048639

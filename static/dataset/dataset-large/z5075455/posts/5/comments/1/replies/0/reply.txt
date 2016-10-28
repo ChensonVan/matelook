@@ -1,0 +1,3 @@
+message=I wish it was me
+from=z5116414
+time=2016-05-11T11:45:47+0000

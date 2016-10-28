@@ -1,0 +1,5 @@
+time=2016-08-19T14:20:23+0000
+longitude=151.2249
+message=To Hamza m.\n\nYou make studying at the library worthwhile \n\n- se
+from=z5055646
+latitude=-33.9256

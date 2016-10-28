@@ -1,0 +1,5 @@
+longitude=151.2504
+from=z3416144
+message=To Ian from AVIA2701...\n\nWhy is it that I have never seen your handsome before? You were in class last week but you left way too early!\n\nYour handsome smile goes great with your sharp haircut and sleek dark specs.\n\nIf anyone knows of him, please tag him for me!!\n\nxx
+time=2016-10-01T12:39:41+0000
+latitude=-33.9046

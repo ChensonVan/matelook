@@ -1,0 +1,5 @@
+latitude=-33.7912
+time=2016-08-21T14:00:47+0000
+longitude=151.2807
+message=To the person who wrote #12595,\nWe LOVE you <3\nSincerely,\nAll of Shankara and Patricia's friends\n#Flant
+from=z5059421

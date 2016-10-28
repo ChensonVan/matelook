@@ -1,0 +1,3 @@
+time=2016-08-20T07:30:00+0000
+message=I have 2 mates
+from=z5075496

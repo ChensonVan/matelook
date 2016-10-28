@@ -1,0 +1,10 @@
+courses=[2016 S1 ENGG1000, 2016 S1 ENGG1811, 2016 S1 MATH1131, 2016 S1 PHYS1121, 2016 S2 CVEN1300, 2016 S2 ENGG1400, 2016 S2 MATH1231, 2016 S2 MATS1101]
+birthday=1993-11-15
+password=bulldog
+zid=z3418936
+program=Engineering (Hons)/Commerce
+email=M.D.Clymer@unsw.edu.au
+full_name=Misty Dawn Clymer
+home_longitude=151.2037
+home_latitude=-33.8026
+mates=[z3458803, z5099971, z5117020, z5098341, z5024602]

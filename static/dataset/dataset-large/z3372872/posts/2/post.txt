@@ -1,0 +1,5 @@
+time=2013-08-28T00:09:14+0000
+message=Why is it that every time I write a letter to an Indian they never answer? Dearest Anu, my Tuesdays are bearable because of you. Please just say hi at least once. Xoxo, J.S
+longitude=151.2275
+latitude=-33.9198
+from=z3372872

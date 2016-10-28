@@ -1,0 +1,11 @@
+program=Economics
+courses=[2016 S2 ACCT1501, 2016 S2 ECON1203, 2016 S2 FINS1613]
+password=aaaa
+home_suburb=Harbord
+full_name=Diego Colorado
+mates=[z5127733, z5117935, z5020210, z3417908, z5061920, z5059421, z5098135, z5119613, z5024602, z3374132, z3275760, z5061590]
+home_longitude=151.2957
+email=D.Colorado@unsw.edu.au
+birthday=1993-09-09
+zid=z5116082
+home_latitude=-33.7880

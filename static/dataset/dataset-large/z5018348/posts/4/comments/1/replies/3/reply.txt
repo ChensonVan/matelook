@@ -1,0 +1,3 @@
+message=It's kinda fun in a weird way 😂
+time=2016-08-29T09:33:20+0000
+from=z3456408

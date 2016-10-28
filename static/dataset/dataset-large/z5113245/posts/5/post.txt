@@ -1,0 +1,5 @@
+from=z5113245
+message=To the girl I met in my crim1101 tute with the pug pencil case, you're the cutest thing ever. Keep livin' that pug life.
+time=2013-03-21T10:42:51+0000
+longitude=151.1870
+latitude=-33.8998

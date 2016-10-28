@@ -1,0 +1,11 @@
+email=E.Jagodsinski@unsw.edu.au
+courses=[2015 S1 BABS1201, 2015 S1 CHEM1831, 2015 S1 HESC1501, 2015 S1 PSYC1001, 2015 S2 ANAT2111, 2015 S2 HESC1511, 2015 S2 MATH1041, 2015 S2 PSYC1011, 2016 S1 ANAT2451, 2016 S1 BIOC2181, 2016 S1 BIOM2451, 2016 S1 PHSL2501, 2016 S2 HESC2452, 2016 S2 HESC2501, 2016 S2 PATH2202, 2016 S2 PHSL2502]
+program=Exercise Physiology
+password=marvin
+mates=[z3385911, z5113715, z5047516, z3489361]
+home_longitude=151.2401
+full_name=Emmanuelle Jagodsinski
+home_latitude=-33.9146
+zid=z5028311
+home_suburb=University Of New South Wales
+birthday=1992-11-22

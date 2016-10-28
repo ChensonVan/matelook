@@ -1,0 +1,3 @@
+message=GOES BIKING TO OLYMPIC PARK 'sick'
+from=z5024602
+time=2016-05-17T14:55:43+0000

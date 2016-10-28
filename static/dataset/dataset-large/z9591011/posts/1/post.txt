@@ -1,0 +1,5 @@
+latitude=-33.9167
+time=2016-07-31T10:54:51+0000
+message=im in love
+from=z9591011
+longitude=151.2337

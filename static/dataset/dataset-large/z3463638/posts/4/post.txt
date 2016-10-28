@@ -1,0 +1,5 @@
+time=2016-09-03T05:48:51+0000
+longitude=151.2234
+message=To a certain NL\nI sometimes catch you staring at me. I just wanted to say that you're very cute/beautiful and seeing you smile on campus and in lectures pulls a few heartstrings and makes my day :)\nAnon
+from=z3463638
+latitude=-33.8822

@@ -1,0 +1,11 @@
+program=Engineering (Honours)
+birthday=1997-11-26
+full_name=Alyson Hannigan
+password=hello
+home_longitude=151.2141
+home_latitude=-33.8358
+courses=[2015 S2 ELEC1111, 2015 S2 MATH1131, 2015 S2 PHYS1131, 2015 S2 SOLA1070, 2016 S1 ENGG1000, 2016 S1 ENGG1811, 2016 S1 MATS1101, 2016 S1 SOLA2060, 2016 S2 GENC7002, 2016 S2 MATH1231, 2016 S2 PHYS1231, 2016 S2 SOLA2540]
+mates=[z5017842, z5061590, z5112578]
+home_suburb=North Sydney
+zid=z5060306
+email=A.Hannigan@unsw.edu.au

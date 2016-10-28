@@ -1,0 +1,5 @@
+from=z5021309
+latitude=-33.8743
+time=2013-05-30T09:14:40+0000
+longitude=151.2034
+message=oh kenny in my info sys group earlier on this year, how i wish i can see you agaain xx Monica :')

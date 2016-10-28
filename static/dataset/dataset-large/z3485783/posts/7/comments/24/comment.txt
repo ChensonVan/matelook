@@ -1,0 +1,3 @@
+from=z5117982
+time=2016-09-05T01:52:24+0000
+message=z5119613 do you think I'll qualify for this criteria?

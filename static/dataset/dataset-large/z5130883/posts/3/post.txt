@@ -1,0 +1,5 @@
+latitude=-33.9234
+time=2013-05-05T06:26:34+0000
+from=z5130883
+longitude=151.2369
+message=I find that there is a dichotomy in science degrees - the girls either look like Shrek or something out of a perfect romance story.

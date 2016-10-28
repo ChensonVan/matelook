@@ -1,0 +1,5 @@
+message=Josh, you're my one true love and I want to spend the rest of my life with you.\n\nVerity I love you too and can't stop thinking about you. You're on my mind all the time\n\nIt's so hard to be caught in this triangle of true love but you both make my heart skip a beat and I want us all to be together forever
+from=z5110851
+latitude=-34.0208
+longitude=150.6940
+time=2016-09-14T05:44:57+0000

@@ -1,0 +1,5 @@
+time=2016-10-03T14:36:28+0000
+message=To the girl with purple hair who was skateboarding through uni today\nYou had the most beautiful smile and amazing big eyes.\nYou seemed so happy and carefree\nCoffee sometime ?
+from=z5059526
+longitude=151.0394
+latitude=-33.8662

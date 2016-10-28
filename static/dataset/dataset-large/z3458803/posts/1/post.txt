@@ -1,0 +1,5 @@
+from=z3458803
+latitude=-33.9204
+message=To Alex Gonda: after that really cute conversation we had about South American politics which somehow ended on the topic your big smile, I really want to spend more time with you..buy me a drink (or two?) xx
+time=2013-08-05T10:18:55+0000
+longitude=151.2324

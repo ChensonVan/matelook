@@ -1,0 +1,5 @@
+longitude=151.1977
+message=To the hunky 5th year doing Engineering and Commerce. I think your name is Tien Tran? Anyway I've seen you around and I really like your smile and your laugh. Please be mine. xx Secret Admirer
+latitude=-33.8353
+from=z5091050
+time=2013-04-25T12:23:07+0000

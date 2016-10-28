@@ -1,0 +1,5 @@
+time=2016-07-30T09:35:32+0000
+from=z5097972
+latitude=-33.9858
+message=Timmy Z drop down on your knees
+longitude=151.1316

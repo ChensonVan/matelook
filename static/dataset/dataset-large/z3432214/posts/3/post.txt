@@ -1,0 +1,5 @@
+time=2013-10-17T22:16:35+0000
+latitude=-33.7583
+longitude=151.2816
+message=Assyrians at UNSW are hot and we need more of them.
+from=z3432214

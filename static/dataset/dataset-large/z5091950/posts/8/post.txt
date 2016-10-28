@@ -1,0 +1,5 @@
+message=To the guy carrying the 'time to see' posters today, you're so cute. Wish I had the courage to talk to you. <3 please come by again some time
+from=z5091950
+latitude=-33.9177
+time=2016-09-29T02:30:16+0000
+longitude=151.2231

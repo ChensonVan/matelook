@@ -1,0 +1,5 @@
+message=To the texan exchange student Addison, your drawl is like honey and your smile like sunshine. :)\nAlso so I'm told, Everything's bigger in texas ;)
+latitude=-33.9146
+time=2013-06-20T03:24:47+0000
+from=z5115817
+longitude=151.2255

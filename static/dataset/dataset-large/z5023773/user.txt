@@ -1,0 +1,11 @@
+birthday=1998-03-02
+full_name=Mathias Reichhold
+home_latitude=-33.9565
+home_longitude=151.2556
+home_suburb=Malabar
+program=Actuarial Studies / Commerce
+zid=z5023773
+courses=[2016 S1 ACCT1501, 2016 S1 ECON1101, 2016 S1 FINS1613, 2016 S1 MGMT1001, 2016 S2 ACCT1511, 2016 S2 ECON1102, 2016 S2 ECON1202, 2016 S2 ECON1203]
+email=M.Reichhold@unsw.edu.au
+password=extreme
+mates=[z5017822, z3462191, z5099971, z5059325, z5019746, z3219170, z3394912, z5061927]

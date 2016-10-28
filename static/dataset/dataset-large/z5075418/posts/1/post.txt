@@ -1,0 +1,5 @@
+message=To Andrew from third year french,\n\nRoses are red,\nTumblr is blue,\nI see us more as a brotp,\nI hope you do too.
+longitude=151.2398
+time=2013-06-26T00:31:23+0000
+latitude=-33.8692
+from=z5075418

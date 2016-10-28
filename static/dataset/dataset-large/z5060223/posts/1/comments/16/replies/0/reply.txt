@@ -1,0 +1,3 @@
+message=dont even know how to slay :'(
+time=2016-08-13T13:19:19+0000
+from=z3462428

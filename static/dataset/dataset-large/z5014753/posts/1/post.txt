@@ -1,0 +1,5 @@
+latitude=-33.9136
+from=z5014753
+time=2013-05-27T22:27:15+0000
+longitude=151.2394
+message=I love you Connor Taylor. I know you have a girlfriend, but I'll wait ;)

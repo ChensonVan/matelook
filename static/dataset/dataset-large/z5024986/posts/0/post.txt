@@ -1,0 +1,5 @@
+from=z5024986
+time=2013-06-13T21:05:03+0000
+latitude=-33.9179
+message=Michael Wong, aka Chip - I come to your PASS classes not because I dont get stats, but because I want YOUR stat. Please hunt me down, i love you bby
+longitude=151.2313

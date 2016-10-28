@@ -1,0 +1,5 @@
+from=z5118723
+time=2013-04-11T08:03:59+0000
+latitude=-33.9186
+longitude=151.2248
+message=To the beautiful 4th year biomedical engineering student that went to the AGSM building today for a coffee break, I interrupted your newspaper reading to talk to you but forgot to ask for your number at the end because I was too distracted by your smile. Fml. Come have coffee at AGSM again?

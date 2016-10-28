@@ -1,0 +1,3 @@
+message=i'm more like the sun...it hurts your eyes to look at me
+from=z5020913
+time=2013-04-14T08:41:30+0000

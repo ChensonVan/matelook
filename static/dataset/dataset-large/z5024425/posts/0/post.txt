@@ -1,0 +1,5 @@
+from=z5024425
+message=To Alex, Or spiralflex as they call you on boredofstudies, your charm and mathematical skills continue to turn me on since the day we met. I love you spiral, let's grab some coffee some time xoxo
+time=2013-05-09T12:01:19+0000
+latitude=-33.5238
+longitude=151.2077

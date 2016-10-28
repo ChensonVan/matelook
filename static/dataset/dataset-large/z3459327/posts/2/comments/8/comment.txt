@@ -1,0 +1,3 @@
+message=z5017787, are you thinking what I'm thinking?
+from=z3458687
+time=2016-05-30T13:54:56+0000

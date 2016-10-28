@@ -1,0 +1,5 @@
+longitude=151.2045
+latitude=-33.8898
+message=Why do people think it's necessary to mention that the person you're pining for is Asian? This is UNSW, isn't everyone already assuming it anyway?
+from=z5015700
+time=2013-08-18T13:35:58+0000

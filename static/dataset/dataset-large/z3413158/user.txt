@@ -1,0 +1,11 @@
+courses=[2016 S1 ACCT1501, 2016 S1 ECON1101, 2016 S1 ECON1203, 2016 S1 MGMT1001, 2016 S2 ECON1102, 2016 S2 ECON1401, 2016 S2 MARK1012, 2016 S2 MGMT1101]
+mates=[z3494117, z3372872, z5118457, z5061920, z3463248, z5019746, z9591011, z5043226, z5051889, z5118764, z3452764, z3459551]
+zid=z3413158
+email=A.Peirsol@unsw.edu.au
+program=Commerce/Economics
+home_suburb=University Of New South Wales
+full_name=Aaron Peirsol
+home_latitude=-33.9229
+birthday=1995-04-04
+home_longitude=151.2303
+password=internet

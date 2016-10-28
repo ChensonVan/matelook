@@ -1,0 +1,5 @@
+from=z5060359
+message=Hi guys just wondering what does it mean when a girl saying good bye with some kind of "xx" at the end? Does it mean i need to find x^2? Thank you.
+time=2016-07-13T03:32:58+0000
+latitude=-33.9761
+longitude=151.0664

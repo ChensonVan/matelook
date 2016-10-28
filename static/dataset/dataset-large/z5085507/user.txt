@@ -1,0 +1,11 @@
+program=Senior Secondary Student Prog
+home_suburb=University Of New South Wales
+home_latitude=-33.9125
+full_name=Rich Gannon
+birthday=1994-07-28
+zid=z5085507
+courses=[2014 S1 COMP1917, 2016 S1 COMP1917, 2016 S1 COMP2121, 2016 S1 ENGG1000, 2016 S1 MATH1081, 2016 S1 MATH1131, 2016 S2 BIOS1101, 2016 S2 COMP1927, 2016 S2 MATH1231, 2016 S2 SENG1031]
+home_longitude=151.2269
+password=dakota
+email=R.Gannon@unsw.edu.au
+mates=[z3417908, z5028480, z5062608, z3460924, z5048611, z5108472, z3463930]

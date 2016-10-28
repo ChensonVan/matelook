@@ -1,0 +1,3 @@
+message=...\njust\nwow
+from=z5117935
+time=2013-08-13T08:07:18+0000

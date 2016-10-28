@@ -1,0 +1,5 @@
+latitude=-33.8704
+time=2016-06-07T06:17:16+0000
+longitude=151.0372
+message=Cindy\nDon't give up, skeleton!
+from=z5119678

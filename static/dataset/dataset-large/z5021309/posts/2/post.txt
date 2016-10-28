@@ -1,0 +1,5 @@
+latitude=-33.9193
+time=2016-09-07T00:46:24+0000
+message=I fell in love with a boy who has a girlfriend......I'm not happy.........
+longitude=151.2254
+from=z5021309

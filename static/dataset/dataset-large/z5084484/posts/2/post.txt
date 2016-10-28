@@ -1,0 +1,5 @@
+from=z5084484
+message=There are no hot lebanese/wog chicks at uni. If anyone knows of any, feel free to comment below :)
+longitude=151.1473
+latitude=-33.8143
+time=2015-04-17T10:08:15+0000

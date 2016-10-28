@@ -1,0 +1,5 @@
+from=z5112650
+latitude=-33.8479
+time=2016-08-09T12:58:40+0000
+longitude=151.0942
+message=To Michael\nIt was so lucky to meet you. I couldn't forget your smile, your eyes and your every single text. And I couldn't forget your voice while you were teaching me Actl. I know there are many good cafes in Brisbane. So would you come to see me one day? At my favourite cafe?

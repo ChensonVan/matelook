@@ -1,0 +1,5 @@
+from=z5062024
+longitude=151.1630
+message=Farrah....\n\nThanks for dropping your student card, I finally know your name!!!\nI am too shy to introduce myself to you but I just want to say it was truly amazing knowing we were in the same lab at Kora on Wednesday for the prac.\nWatching you is the most distracting thing I have come across!\nI hope we have more meeting like this to come.
+time=2016-06-29T02:01:58+0000
+latitude=-33.9305

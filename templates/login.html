@@ -1,0 +1,48 @@
+{% extends '__base__.html' %}
+
+{% block title %}Login - MateLook{% endblock %}
+
+{% block beforehead %}
+
+{% endblock %}
+
+{% block navbar %}
+    <li><a href="/register">REGISTER</a></li>
+{% endblock %}
+
+{% block content %}
+    <div id="headerwrap" class="centered">
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+             <ul class="flashes">
+                {% for message in messages %}
+                <!-- <div class="message_flash">{{ message }}</div> -->
+                <div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert"></button> {{ message }} </div>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        {% endwith %}
+        <h1>MateLook - Find Your Friends In Here</h1>
+        <div class="col-lg-4 col-lg-offset-4 centered"> 
+            <form action="/login" name="login" method=POST>
+                <div class="form-group">
+                  <label for="InputName1">zID</label>
+                  <input type="text" name="zid" placeholder="zid" class="form-control" id="exampleInputEmail1">
+                </div>
+                <div class="form-group">
+                  <label for="InputName1">Password</label>
+                  <input type="password" name="password" placeholder="password" class="form-control" id="exampleInputEmail1">
+                </div>      
+                <div class="form-group">
+                    <input type="submit" name="btn" value="Login" class="btn btn-theme"/>
+                </div>  
+                <!-- <a href="/">LOGOUT</a> -->
+            </form>
+            <form action="/account/recovery" name="recovery" method="GET">
+                <div class="form-group">
+                    <input type="submit" name="btn" value="Recovery" class="btn btn-theme"/>
+                </div>  
+            </form>
+        </div>
+    </div><!-- header wrap -->  
+{% endblock %}

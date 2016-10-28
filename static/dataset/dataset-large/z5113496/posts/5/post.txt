@@ -1,0 +1,5 @@
+latitude=-33.8477
+message=Dear #13211,\n\nTell them you're straight and then keep. Being. Friends with them.
+time=2016-10-05T14:45:56+0000
+from=z5113496
+longitude=151.2032

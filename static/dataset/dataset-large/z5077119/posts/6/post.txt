@@ -1,0 +1,5 @@
+from=z5077119
+longitude=151.0455
+time=2016-09-05T23:45:21+0000
+latitude=-33.9950
+message=There's a girl I really like, although I believe she doesn't notice my clear hints and unfortunately I don't think it would work out (due to various important factors...) I feel like telling her to get it off my chest but I don't want to wreck this amazing friendship I have with her because of it.  Thoughts?

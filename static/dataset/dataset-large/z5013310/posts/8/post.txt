@@ -1,0 +1,5 @@
+message=Skrheh Ckrx, \nnhhs grlqj zkdw brx gr, \n\nOryh brxu vhfuhw dgpluhu \n\n// Caesar's cipher with a minus three ;)
+from=z5013310
+latitude=-33.9109
+longitude=151.2323
+time=2016-08-15T05:48:52+0000

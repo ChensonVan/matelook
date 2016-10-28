@@ -1,0 +1,93 @@
+{% extends '__base__.html' %}
+
+{% block title %}HomePage - MateLook{% endblock %}
+
+{% block beforehead %}
+{% endblock %}
+
+{% block navbar %}
+    {% import "navbar.html" as navbar %}
+    {{ navbar.nav(user) }}
+{% endblock %}
+
+{% block content %}
+    <!-- *****************************************************************************************************************
+     BLUE WRAP
+     ***************************************************************************************************************** -->
+    <div id="blue">
+        <div class="container">
+            <div class="row">
+                <h3> Welcome come to {{ mate.full_name }} page. </h3>
+                {% with messages = get_flashed_messages() %}
+                    {% if messages %}
+                     <ul class="flashes">
+                        {% for message in messages %}
+                            <div class="message_flash"><h2>{{ message }}</h2></div>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                {% endwith %}
+            </div><!-- /row -->
+        </div> <!-- /container -->
+    </div> <!-- /blue -->
+
+    <!-- *****************************************************************************************************************
+     CONTENT
+     ***************************************************************************************************************** -->
+     <div class="container mtb">
+        <div class="row">
+            <div class="col-lg-8">
+                <h4>Personal Information</h4>
+                <div class="hline"></div>
+                {% if mate.zid in user.getMates() %}
+                    <p><b>Date:</b> April 18, 2014</p>
+                    <p><b>Author:</b> Marcel Newman</p>
+                    <p><b>Categories:</b> Illustration, Web Design, Wordpress</p>
+                    <p><b>Tagged:</b> Flat, UI, Development</p>
+                    <p><b>Client:</b> Wonder Corp.</p>
+                    <p><b>Website:</b> <a href="http://blacktie.co">http://blacktie.co</a></p>
+                {% else %}
+                    <p><b>Date:</b> Visible for friends. </p>
+                    <p><b>Author:</b>  Visible for friends. </p>
+                    <p><b>Categories:</b> Visible for friends. </p>
+                    <p><b>Tagged:</b> Visible for friends. </p>
+                    <p><b>Client:</b> Visible for friends. </p>
+                {% endif %}
+
+                <div class="spacing"></div>
+                <h4>Recent Posts</h4>
+                <div class="hline"></div>
+                <br>
+                <ul class="popular-posts">
+                    {% for post in mate.getPosts() %}
+                        <li>
+                        <div class="col-lg-2">
+                            <a href="#"><img src={{ "/static/profile/" + post.getPosterName()[1]}} alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
+                        </div>
+                        <div class="col-lg-10">
+                            <em>Posted by {{ post.getPosterName()[0] }} on {{ post.time[:-5] }}</em><br>
+                            <p><a href="#"> {{ post.message }} </a></p>
+                        </div>
+                        </li>
+                        <br>
+                        <br>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <!-- *****************************************************************************************************************
+            RIGHT SIDE
+            ***************************************************************************************************************** -->
+            <div class="col-lg-4" style="float:right">
+                {% import "right.html" as right %}
+                {{ right.mate_list(mate.getMatesWithInfo()) }}
+
+                <h4>Course Lists</h4>
+                <div class="hline"></div>
+                    <!-- <span class="badge badge-theme pull-right"></span> -->
+                    {% for course in mate.getCourses() %}
+                        <p><a href="#"><i class="fa fa-angle-right"></i>{{ course }}</a> </p>
+                    {% endfor %}
+        </div>
+    </div>
+{% endblock %}

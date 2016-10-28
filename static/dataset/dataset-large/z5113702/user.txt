@@ -1,0 +1,11 @@
+program=Engineering Science
+courses=[2015 S2 GSOE9810, 2015 S2 MANF9400, 2015 S2 MANF9472, 2015 S2 MMAN4400, 2016 S1 GSOE9010, 2016 S1 MANF6860, 2016 S1 MANF9543, 2016 S1 MANF9544, 2016 S2 GSOE9210, 2016 S2 MANF4430, 2016 S2 MANF9420, 2016 S2 MMAN9001]
+mates=[z5020210, z5077876, z5061920, z3459405, z5024963, z5077131, z5017666, z3330003]
+full_name=Amelia Vega
+birthday=1995-07-20
+home_latitude=-33.8119
+home_longitude=151.1794
+home_suburb=Artarmon
+password=thunder
+email=A.Vega@unsw.edu.au
+zid=z5113702

@@ -1,0 +1,3 @@
+message=Mate, Im on vacation. But the other one, z5060416 is as WSU.
+from=z5120169
+time=2016-04-20T12:19:32+0000

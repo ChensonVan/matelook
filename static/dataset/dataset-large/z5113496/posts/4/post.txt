@@ -1,0 +1,5 @@
+time=2016-05-04T02:58:47+0000
+message=To the Asian guy in MATH1151 lectures with amazing fashion sense, never sits at the front. Perfect hair. Wayfarers?. I've heard you giggle from a distance but couldn't catch your name. You're always with some guys so I can never get you alone to say hi :( I think you know who you are, why can't you know who I am too?
+from=z5113496
+latitude=-33.8828
+longitude=151.1944

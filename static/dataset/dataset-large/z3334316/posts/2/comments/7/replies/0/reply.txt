@@ -1,0 +1,3 @@
+from=z5017258
+time=2016-05-16T13:41:33+0000
+message=Yeah, just like how Arts is kinda a degree!

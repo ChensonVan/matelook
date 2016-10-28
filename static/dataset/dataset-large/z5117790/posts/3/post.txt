@@ -1,0 +1,5 @@
+from=z5117790
+latitude=-33.9107
+longitude=151.2357
+message=This isn't really a LOVE letter, but to the guy who just graduated from his 3 year computer science degree, I would very much like to be your friend! You seemed so nice when I sold you the keychain on Thursday! Sorry I don't know your name :(
+time=2013-06-28T19:54:11+0000

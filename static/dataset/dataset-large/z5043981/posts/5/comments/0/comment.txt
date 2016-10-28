@@ -1,0 +1,3 @@
+from=z5117790
+message=Something else big? You mean the distance between you and Nikki after you receive an AVO?
+time=2016-04-27T09:13:07+0000

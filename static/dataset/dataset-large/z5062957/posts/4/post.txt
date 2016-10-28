@@ -1,0 +1,5 @@
+time=2016-08-22T14:25:23+0000
+message=To the guy who let me sit at a table we were both walking towards in Matthews food court on Wednesday, thanks for that :)
+latitude=-33.8420
+from=z5062957
+longitude=150.8462

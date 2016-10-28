@@ -1,0 +1,11 @@
+zid=z5116685
+full_name=Franck Cerutti
+home_longitude=150.7647
+program=Computer Science and Eng
+home_latitude=-34.0460
+home_suburb=Currans Hill
+email=F.Cerutti@unsw.edu.au
+courses=[2015 S2 COMP6714, 2015 S2 COMP9902, 2016 S1 COMP9417, 2016 S1 COMP9902, 2016 S1 GSOE9400, 2016 S2 COMP9902]
+birthday=1998-03-20
+mates=[z5012884, z5087067, z5063055, z3432214, z5045262, z5059064, z5062654, z5116414, z3462432, z5018348, z5113614]
+password=patrick

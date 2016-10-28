@@ -1,0 +1,11 @@
+email=A.Eckhart@unsw.edu.au
+full_name=Aaron Eckhart
+home_longitude=150.9029
+zid=z5098341
+home_suburb=Long Point
+mates=[z5098157, z5020410, z3418936, z5028480, z5006041, z5110851, z5116414, z5015016, z3459293, z5076189]
+password=jason
+program=Engineering (Honours)
+home_latitude=-34.0196
+birthday=1998-08-30
+courses=[2016 S1 COMP1917, 2016 S1 ENGG1000, 2016 S1 MATH1141, 2016 S1 PHYS1131, 2016 S2 COMP1927, 2016 S2 MATH1081, 2016 S2 MATH1231, 2016 S2 SENG1031]

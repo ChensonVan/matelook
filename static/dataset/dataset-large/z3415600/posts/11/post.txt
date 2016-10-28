@@ -1,0 +1,5 @@
+longitude=151.2218
+message=Dear James Ahn,\nYou're biceps brachii are phenomenal, it's very masculine and nicely sculpted, you might as well be the son of Zyzz. But that's not the only reason why I'm attracted to you. I heard you singing on the way to uni. You sound like One Direction, no you are One Direction. It gave me goosebumps, especially when you hit the high notes. You have perfect pitch. So why don't you know that you're beautiful?\n-yourdreamgirl
+time=2013-06-26T06:00:10+0000
+from=z3415600
+latitude=-33.9106

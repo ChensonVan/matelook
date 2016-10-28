@@ -1,0 +1,5 @@
+message=feels when half of your motivation to succeed in uni is to make a girl who used to like you feel regret :s
+from=z3469502
+latitude=-33.9169
+longitude=151.2387
+time=2016-09-19T14:05:51+0000

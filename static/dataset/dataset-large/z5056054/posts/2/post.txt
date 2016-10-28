@@ -1,0 +1,5 @@
+time=2013-08-07T05:27:02+0000
+latitude=-33.9085
+longitude=151.2395
+message=Thile, you are a freshie; and for that I love you.
+from=z5056054

@@ -1,0 +1,5 @@
+from=z5098313
+time=2016-05-04T13:17:07+0000
+message=To the girl who had trouble finding the toilets in the Red Centre on one early morning, damn you were fine af
+longitude=151.2039
+latitude=-33.8836

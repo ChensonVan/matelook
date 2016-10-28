@@ -1,0 +1,5 @@
+from=z3492794
+time=2013-04-12T04:55:44+0000
+latitude=-33.9193
+message=o that somewhat stoner-looking guy with the long hair majoring in Marketing, you're amazing. Your eyes, you face, your not-fat but not-skinny body. Ooft, I'd go to town.\n\nLove from a secret admirer; let's call him 'gunners'
+longitude=151.2314

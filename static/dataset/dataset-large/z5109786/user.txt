@@ -1,0 +1,11 @@
+zid=z5109786
+full_name=Juan Manuel Marquez
+mates=[z5060477, z5062277, z5023123, z5117623, z5047516, z3463809, z5077163, z5074940, z3422324, z5019239, z5013098]
+courses=[2016 S1 CHEM1011, 2016 S1 ENGG1000, 2016 S1 MATH1131, 2016 S1 PHYS1121, 2016 S2 BIOM1010, 2016 S2 CHEM1021, 2016 S2 ENGG1811, 2016 S2 MATH1231]
+home_suburb=University Of New South Wales
+birthday=1994-01-12
+program=Eng (Hons) / MBiomedE
+home_latitude=-33.9256
+home_longitude=151.2253
+password=jack
+email=J.M.Marquez@unsw.edu.au

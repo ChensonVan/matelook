@@ -1,0 +1,3 @@
+message=Why were you so thirsty last night?
+from=z5059526
+time=2016-08-17T22:39:54+0000

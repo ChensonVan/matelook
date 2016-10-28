@@ -1,0 +1,5 @@
+message=To the tall, gorgeous guy in my UNSW Marketing Fundamentals elective, I think you're studying project management or construction or something? I haven't been able to keep my eyes off you since you first stepped into the room. I can't even concentrate in class because I'm literally planning our wedding in my head!!!! I think we can really "build" something beautiful together. Let's just say, if my heart was a project, I'd let you manage it. \n\nBut yeah, you're the only reason I come to class. Maybe I can return the favour and make you come too? Xoxo
+from=z5019177
+latitude=-33.9241
+longitude=151.2390
+time=2016-10-03T01:06:42+0000

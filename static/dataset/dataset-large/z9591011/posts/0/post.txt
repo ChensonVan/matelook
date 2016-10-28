@@ -1,0 +1,5 @@
+latitude=-33.9262
+message=Why does the first year babs class have so many attractive people?! Gosh, waiting for my lecture after makes me want to join... Congrats to you guys
+time=2016-06-11T14:46:23+0000
+from=z9591011
+longitude=151.2386

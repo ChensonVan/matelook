@@ -1,0 +1,5 @@
+time=2016-06-28T23:50:50+0000
+longitude=150.8599
+latitude=-33.6954
+message=Dear J.Ying\n\nIve had enough of suppressing my feelings for you. This will be my last love letter to you. Next time it'll be a love kiss~
+from=z3459405

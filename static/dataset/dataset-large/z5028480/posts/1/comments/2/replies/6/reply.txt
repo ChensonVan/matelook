@@ -1,0 +1,3 @@
+message=I have exactly one class above average out of twenty
+from=z5098341
+time=2016-05-17T12:38:19+0000

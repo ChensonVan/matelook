@@ -1,0 +1,5 @@
+from=z3416238
+latitude=-33.8946
+time=2013-10-02T06:59:41+0000
+longitude=151.1546
+message=Dear Hasi\n\nI know I haven't been able to talk to you in person lately but I want to use this opportunity to wish you a happy birthday. I also have a request for you. Please forget everything that has happened between us in the past. I just want us to continue being friends. That is all. This is my only request. Thank you.

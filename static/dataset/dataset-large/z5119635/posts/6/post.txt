@@ -1,0 +1,5 @@
+latitude=-33.9138
+from=z5119635
+longitude=151.0475
+message=Emma I love you. Can you just always smile and laugh with me till we're old and grey together?
+time=2016-08-27T22:33:24+0000

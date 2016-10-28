@@ -1,0 +1,5 @@
+longitude=151.1128
+latitude=-33.9002
+from=z3470057
+time=2013-06-26T00:33:31+0000
+message=To the 2nd year ACTL girl in my Econ class, you are so beautiful and smart! I would like to get to know you better.

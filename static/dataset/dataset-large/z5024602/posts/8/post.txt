@@ -1,0 +1,5 @@
+from=z5024602
+time=2016-05-27T15:10:06+0000
+message=Deborah Nemesh you are absolutely gorgeous. Are you single love? If so can I take you out for dinner?\n\nA shy guy
+latitude=-33.8938
+longitude=151.2325

@@ -1,0 +1,5 @@
+longitude=151.2139
+message=Kyra Webb, will you save my heart like you save my grades?
+latitude=-33.8769
+from=z5088545
+time=2016-06-26T23:46:59+0000

@@ -1,0 +1,5 @@
+from=z5020476
+longitude=151.2074
+message=Sam in ARTS2814 lecture, you are cute :) coffee?
+latitude=-33.6769
+time=2016-04-28T12:50:03+0000

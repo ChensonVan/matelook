@@ -1,0 +1,5 @@
+from=z5045262
+latitude=-33.8881
+message=To the girl that was listening to tunes and having some lunch 29/04/13 on the science lawn around 12:15. Our eyes met and I winked at you, your cheeky smile tells me that you enjoyed it. Coffee? ;)
+longitude=151.2741
+time=2013-05-05T06:32:20+0000

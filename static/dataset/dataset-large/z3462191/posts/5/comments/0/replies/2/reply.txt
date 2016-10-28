@@ -1,0 +1,3 @@
+from=z5043507
+time=2016-04-26T08:07:12+0000
+message=Much potential. But the signals they're sending will never make it past Joe's high class filter.

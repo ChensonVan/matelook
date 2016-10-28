@@ -1,0 +1,11 @@
+home_latitude=-33.7715
+home_longitude=151.1246
+email=J.Aniston@unsw.edu.au
+full_name=Jennifer Aniston
+birthday=1998-04-22
+zid=z5059596
+program=Engineering (Honours)
+courses=[2016 S2 ENGG1000, 2016 S2 ENGG1811, 2016 S2 MATH1131, 2016 S2 PHYS1121]
+home_suburb=Macquarie Park
+mates=[z5110358, z5019361, z5132843, z5114743, z5059449, z3289658, z5051889, z5117623, z5015071]
+password=brazil

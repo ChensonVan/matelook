@@ -1,0 +1,5 @@
+latitude=-33.9271
+time=2013-04-17T03:03:54+0000
+longitude=151.2353
+message=to the short hairy wog called gorge zafretis who does construction management, I want to wrestle you
+from=z5032269

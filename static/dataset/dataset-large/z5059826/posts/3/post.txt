@@ -1,0 +1,5 @@
+from=z5059826
+time=2013-05-22T07:47:09+0000
+message=Sebastian Quin-Watson. YOU ARE GORGEOUS. I never really wanted kids, but you can have my babies any day.
+longitude=151.2205
+latitude=-33.9101

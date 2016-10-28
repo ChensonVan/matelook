@@ -1,0 +1,5 @@
+message=Fiona Lee pls marry me
+latitude=-33.9086
+from=z5075071
+longitude=151.2234
+time=2016-10-04T05:35:59+0000

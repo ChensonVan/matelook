@@ -1,0 +1,5 @@
+from=z3459459
+longitude=150.8118
+time=2016-10-01T23:46:57+0000
+latitude=-33.4093
+message=Dear Carl,\n\nI am so glad that it is spring because you start wearing shorts again and I get to see your calves again. \n\nIt hurts me whenever I see you eat lunch with that asian girl. I wish you would look at me the same way you look at her.\n\n-just another asian girl

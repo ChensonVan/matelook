@@ -1,0 +1,5 @@
+message=Has anyone managed to have a successful relationship, party regularly and maintained a HD wam in a STEM field? If you have, start your own religion i wana worship you.
+latitude=-33.9184
+longitude=151.2374
+from=z3459551
+time=2016-09-12T09:24:25+0000

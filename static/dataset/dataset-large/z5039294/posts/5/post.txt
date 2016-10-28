@@ -1,0 +1,5 @@
+time=2016-05-24T11:46:12+0000
+latitude=-33.6450
+message=Ian Eng, \n\nYou are the cutest I've ever seen.\n\nMay I get your phone number please?
+from=z5039294
+longitude=151.2959

@@ -1,0 +1,5 @@
+latitude=-33.8915
+from=z5076642
+message=To the amazing girl I stopped on the main walkway today, I think your name is Shirley and you said you were doing Commerce and Engineering? I should've asked for your number but you looked like you were in a hurry. Coffee sometime? :)
+time=2013-09-13T00:04:08+0000
+longitude=151.1895

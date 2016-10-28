@@ -1,0 +1,5 @@
+message=James Spooner, can you spoon me?
+time=2013-11-04T01:39:45+0000
+from=z3480991
+longitude=151.1405
+latitude=-33.8887

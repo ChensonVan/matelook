@@ -1,0 +1,11 @@
+courses=[2016 S1 COMP1911, 2016 S1 ENGG1000, 2016 S1 MATH1131, 2016 S1 PHYS1131, 2016 S2 COMP1927, 2016 S2 ELEC1111, 2016 S2 MATH1231, 2016 S2 PHYS1231]
+home_suburb=Lalor Park
+birthday=1994-02-23
+zid=z5118457
+mates=[z5025090, z3469502, z5014695, z3413158]
+email=J.Cohen@unsw.edu.au
+program=Engineering (Honours)
+home_longitude=150.9346
+home_latitude=-33.7543
+password=charles
+full_name=Job Cohen

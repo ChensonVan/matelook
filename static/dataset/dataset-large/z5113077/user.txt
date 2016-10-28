@@ -1,0 +1,10 @@
+full_name=Christy Turlington
+password=leather
+birthday=1998-04-05
+home_longitude=151.2916
+mates=[z5059999, z5019161, z5117559, z5101274, z3420952, z5110851, z3294734, z5113241]
+home_latitude=-33.7753
+zid=z5113077
+program=Civil & Environmental Eng
+courses=[2014 S1 COMP9311, 2014 S1 CVEN0008, 2015 S1 MGMT5601, 2015 S2 MGMT5609, 2016 S1 MGMT5603, 2016 S1 MGMT5604, 2016 S2 INFS5621, 2016 S2 INFS5870, 2016 S2 INFS5885, 2016 S2 INFS5929]
+email=C.Turlington@unsw.edu.au

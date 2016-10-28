@@ -1,0 +1,11 @@
+full_name=Neri Marcore
+password=131313
+home_suburb=Maianbar
+home_longitude=151.1281
+birthday=1996-12-09
+program=Computer Science and Eng
+email=N.Marcore@unsw.edu.au
+courses=[2015 S2 COMP9902, 2015 S2 MATH6781, 2016 S1 COMP9902, 2016 S1 GSOE9400, 2016 S1 MATH3041, 2016 S2 COMP9902]
+zid=z5117623
+mates=[z5075726, z5062115, z5059596, z5109786, z5057704]
+home_latitude=-34.0887

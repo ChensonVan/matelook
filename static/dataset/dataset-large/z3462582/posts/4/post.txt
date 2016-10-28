@@ -1,0 +1,5 @@
+message=To the mysterious beautiful slim Korean girl living in UNSW Hall, I fell in love with you at first sight.\nA detective in cryptography
+longitude=151.2309
+time=2016-08-14T09:35:46+0000
+latitude=-33.9114
+from=z3462582

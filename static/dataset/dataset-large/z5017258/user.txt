@@ -1,0 +1,11 @@
+birthday=1993-02-04
+mates=[z5092154, z5059860, z5017993, z3458908, z5015813, z5014335, z5060573, z5110851, z5126202, z3456408, z5060416, z5116995, z5113241]
+home_latitude=-33.8776
+courses=[2016 S1 BABS1201, 2016 S1 CHEM1011, 2016 S1 MATH1041, 2016 S1 PSYC1001, 2016 S2 BINF2010, 2016 S2 BIOS1101, 2016 S2 GENM0707, 2016 S2 PSYC1011]
+home_suburb=Potts Point
+program=Life Sciences
+zid=z5017258
+full_name=Hermann Maier
+home_longitude=151.2311
+email=H.Maier@unsw.edu.au
+password=fishing

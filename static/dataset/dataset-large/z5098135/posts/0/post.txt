@@ -1,0 +1,5 @@
+message=Can you date friends of a girl that liked you in the past? Like i met this girl through the girl who liked me and I think she's also keen.\nOr does it break the girl code thingy?
+from=z5098135
+longitude=151.1502
+time=2016-09-01T15:45:14+0000
+latitude=-34.0880

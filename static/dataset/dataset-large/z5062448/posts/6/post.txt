@@ -1,0 +1,5 @@
+time=2016-08-25T16:28:45+0000
+message=To the absolutely stunning girl in my higher DE tutorial on Thursdays: I thought I only caught that your name started with S, but now I think ive been catching something more.\n\nCoffee sometime? :)
+longitude=151.2390
+latitude=-33.9247
+from=z5062448

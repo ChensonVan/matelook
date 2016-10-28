@@ -1,0 +1,5 @@
+from=z3262692
+message=To the rugged JD guy with the chops, I think he's the sports guy for LawSoc... I see you walking around the law building like all the time, but I never have the courage to talk to you. I really want to join the Law girls touch team just so I can come see you this Sat at the Law v Med Rugby. If you score a try you might score something else ;)
+latitude=-33.9071
+longitude=151.1977
+time=2013-04-21T02:03:19+0000

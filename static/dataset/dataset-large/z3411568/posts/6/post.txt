@@ -1,0 +1,5 @@
+message=To Karen the indian girl who sits at the back of the mtrn lab on monday mornings. Your incredibly cute and I want to come over and say hi, but you're always surrounded by other guys. Sit by yourself next week and give me a chance?
+longitude=151.0640
+from=z3411568
+time=2013-10-06T11:45:01+0000
+latitude=-33.8060

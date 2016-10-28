@@ -1,0 +1,5 @@
+message=I love you more than you know. I've loved you for a long time. I will continue to love you. Your beautiful blue eyes, your lovely brown hair, your smile. What can I say? I'm lost without you. \nE.H
+latitude=-34.0541
+longitude=151.0331
+from=z5109480
+time=2014-01-02T09:29:45+0000

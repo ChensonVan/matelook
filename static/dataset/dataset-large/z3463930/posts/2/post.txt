@@ -1,0 +1,5 @@
+message=Kelvin foo, can i sing you the blues? now let me give you a clue of what you should do: I love you and that is true, so come with me to do some things you'd never do \nyour ass looks great, i'll give it more than an eight, so come on now lets go on a date !!!
+longitude=151.2383
+from=z3463930
+time=2013-04-10T07:40:14+0000
+latitude=-33.9143

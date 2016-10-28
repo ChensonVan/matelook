@@ -1,0 +1,3 @@
+from=z5021028
+message=Prayers answered in short answer 1 today
+time=2016-06-23T14:02:46+0000

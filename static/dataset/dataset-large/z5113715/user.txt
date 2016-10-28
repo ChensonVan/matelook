@@ -1,0 +1,11 @@
+mates=[z5132843, z5098313, z5018107, z5059325, z5098135, z5015085, z5025014, z5028311, z5020328, z5110502, z5019239]
+courses=[2016 S2 ENGG1000, 2016 S2 ENGG1811, 2016 S2 MATH1131, 2016 S2 PHYS1131]
+zid=z5113715
+email=M.Michele@unsw.edu.au
+home_latitude=-33.9075
+password=ladies
+home_suburb=Yagoona
+program=Engineering (Honours)
+full_name=Michael Michele
+home_longitude=151.0241
+birthday=1993-02-24

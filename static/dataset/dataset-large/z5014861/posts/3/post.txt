@@ -1,0 +1,5 @@
+time=2016-04-15T14:08:33+0000
+latitude=-33.8223
+longitude=151.2214
+message=To the asian girl in my chem2041 lab, I couldn't help but smile when I saw you getting frustrated by the tut questions. That determined look on your face to get the right answer was too adorable to look away. I heard you told other people that you're burmese?(not so sure though) Well I hope to get to know you more during the semester :)
+from=z5014861

@@ -1,0 +1,5 @@
+latitude=-33.8684
+message=Hey there lovers!\nSome of you may have noticed that the AnonyMonkey link is no longer working. I was hoping this would fix itself, but it hasn't, so I've moved over to another service. The new link for submissions is\nhttps://submit.crush.ninja/148144265354304\n\nI'm sorry to anyone who hasn't had their letter published, and for the long wait on new submissions, but we're right on time for the start of semester, so keep those letters coming!\n~Admin <3
+from=z5025014
+time=2016-07-24T05:56:10+0000
+longitude=151.2043

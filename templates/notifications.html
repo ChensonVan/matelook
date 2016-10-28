@@ -1,0 +1,67 @@
+{% extends '__base__.html' %}
+
+{% block title %}Notifications - MateLook{% endblock %}
+
+{% block beforehead %}
+{% endblock %}
+
+{% block navbar %}
+    {% import "navbar.html" as navbar %}
+    {{ navbar.nav(user) }}
+{% endblock %}
+
+{% block content %}
+    <!-- *****************************************************************************************************************
+     BLUE WRAP
+     ***************************************************************************************************************** -->
+    <div id="blue">
+        <div class="container">
+            <div class="row">
+                <h3> Welcome back, {{ user.full_name }}. </h3>
+                {% with messages = get_flashed_messages() %}
+                    {% if messages %}
+                     <ul class="flashes">
+                        {% for message in messages %}
+                            <!-- <div class="message_flash"><h2>{{ message }}</h2></div> -->
+                            <div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert">&times;</button> {{ message }} </div>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                {% endwith %}
+            </div><!-- /row -->
+        </div> <!-- /container -->
+    </div> <!-- /blue -->
+
+    <!-- *****************************************************************************************************************
+    CONTENT
+    ******************************************************************************************************************* -->
+     <div class="container mtb">
+        <div class="row">
+            <div class="col-lg-8">
+                <h4>Notifications</h4>
+                <div class="hline"></div>
+                <div class="spacing"></div>
+                {% if isNotifications %}
+                    <ul class="popular-posts">
+                    {% import "print_post.html" as ppost %}
+                    {{ ppost.render_notifications(notifications, pag.begin, pag.end)}}
+                {% else %}
+                    <h3> There are no notifications. </h3>
+                {% endif %}
+                </ul>
+                <!-- pagination -->
+                {% import "pagination.html" as pagination %}
+                {{ pagination.render_pagination("/notifications", "", pag)}}
+            </div>
+
+            <!-- *****************************************************************************************************************
+            RIGHT SIDE
+            ****************************************************************************************************************** -->
+            <div class="col-lg-4" style="float:right">
+                {% import "right.html" as right %}
+                {{ right.search() }}
+                {{ right.mate_list(user.getMatesWithInfo()) }}
+            </div>
+        </div>
+    </div>
+{% endblock %}

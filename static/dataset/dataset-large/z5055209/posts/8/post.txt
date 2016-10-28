@@ -1,0 +1,5 @@
+longitude=151.2178
+message=Dear the volunteer coordinator in Indonesian Night Market 2013 (Indonesian Student Association's program last Wednesday), your nose looks like my crush's in high school. But I think you're way much cuter ;)<3
+latitude=-33.8250
+from=z5055209
+time=2013-05-05T06:26:41+0000

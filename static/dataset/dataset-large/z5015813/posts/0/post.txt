@@ -1,0 +1,5 @@
+message=How to survive more than first date? Advice? \nShould I assume the guy who don't text or call me back after first date is busy, his phone is broken or he's dead?
+from=z5015813
+latitude=-33.9178
+longitude=151.2239
+time=2016-10-04T15:30:50+0000

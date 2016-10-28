@@ -1,0 +1,5 @@
+longitude=151.2256
+time=2016-08-27T23:57:22+0000
+message=Will Shankara and Patricia go out already?!?!? \n\nSincerely\nEveryone
+latitude=-33.9151
+from=z5119635

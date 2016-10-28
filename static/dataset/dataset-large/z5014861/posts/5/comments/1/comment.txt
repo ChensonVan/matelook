@@ -1,0 +1,3 @@
+from=z3470057
+message=Can you do it on Monday or Thursday pls cause she doesn't have uni on Wednesdays bro
+time=2013-10-17T22:16:31+0000

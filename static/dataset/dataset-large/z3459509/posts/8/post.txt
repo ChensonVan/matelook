@@ -1,0 +1,5 @@
+from=z3459509
+time=2016-08-09T13:11:22+0000
+message=To the cute boy with thick glasses in my MATH1151 lecture (people call you Alex but others call you Greg so I'm not sure), I keep hearing your friends joking about how you're trying to find a girlfriend. If they're not joking and you can't find the perfect girl, I'd like to be your boyfriend? Just give me a chance
+latitude=-33.8022
+longitude=151.2490

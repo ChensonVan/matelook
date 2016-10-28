@@ -1,0 +1,5 @@
+latitude=-33.9171
+message=To the super cute guy working at the Squarehouse Design Lab with tatts, thank you for brightening my day with your presence.\nAre you single?
+longitude=151.2373
+time=2016-08-16T15:55:43+0000
+from=z5014229

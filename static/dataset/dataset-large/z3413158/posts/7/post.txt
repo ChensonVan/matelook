@@ -1,0 +1,5 @@
+message=A guy from UNSW came into my work and we had a really great chat. He came back after watching the film 'The Jungle Book' at the Dendy and tried to chat. Work was a bit hectic so I (unintentionally) ignored him! \nWould love if he came back and bartered for another garlic bread.
+longitude=151.2303
+latitude=-33.9229
+time=2016-05-02T06:47:22+0000
+from=z3413158

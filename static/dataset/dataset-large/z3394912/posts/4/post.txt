@@ -1,0 +1,5 @@
+longitude=151.2449
+time=2016-06-22T13:44:12+0000
+message=Anyone interested in teaching me sign language? I'll buy you coffee:)
+latitude=-33.8269
+from=z3394912

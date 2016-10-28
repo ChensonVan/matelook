@@ -1,0 +1,5 @@
+longitude=151.2338
+from=z5078514
+message=To the cute guy at my Math tute, I think your name is Miguel I? (or Nigel I?), I have had feelings for you since last sem but I couldn't approach you since you're always rushing to your next class. Wish we would go out for coffee sometime?\n\n- Em, your future wife
+latitude=-33.9162
+time=2016-08-13T07:38:42+0000

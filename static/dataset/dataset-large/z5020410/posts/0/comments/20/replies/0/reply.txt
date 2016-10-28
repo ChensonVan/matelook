@@ -1,0 +1,3 @@
+from=z5062448
+message=can u stop before i die in a hole
+time=2016-05-18T07:42:32+0000

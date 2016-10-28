@@ -1,0 +1,5 @@
+longitude=151.1308
+message=To the newly single Asian girl named helen, let me buy you a chai latte 😉
+latitude=-33.9668
+from=z3458803
+time=2016-05-12T15:25:55+0000

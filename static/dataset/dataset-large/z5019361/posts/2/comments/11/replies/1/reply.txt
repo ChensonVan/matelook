@@ -1,0 +1,3 @@
+from=z5085507
+time=2016-08-25T01:02:35+0000
+message=But *in the mid-clavicular line, not below it

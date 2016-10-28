@@ -1,0 +1,5 @@
+message=Shall I compare thee to a summers day? Samantha Poulos, you are one of a kind, you are beautiful inside and out. Meet me at the library and we can take some of those raunchy pics you were talking about ;) Don't be like everybody else. Don't be afraid of love. https://www.youtube.com/watch?v=CwN9gN1gW_Q
+from=z5075455
+time=2013-05-27T22:10:50+0000
+latitude=-33.9159
+longitude=151.2302

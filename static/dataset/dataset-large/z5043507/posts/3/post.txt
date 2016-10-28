@@ -1,0 +1,5 @@
+time=2014-08-19T09:45:09+0000
+from=z5043507
+message=someone give me the number to the chick on the moodle homepage! name might be handy too...
+longitude=151.1703
+latitude=-33.8310

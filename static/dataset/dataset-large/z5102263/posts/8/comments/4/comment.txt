@@ -1,0 +1,3 @@
+time=2016-08-21T06:09:38+0000
+message=z5075827 Didnt know you went to usyd
+from=z5012884

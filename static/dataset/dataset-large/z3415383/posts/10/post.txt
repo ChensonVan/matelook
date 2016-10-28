@@ -1,0 +1,5 @@
+longitude=151.1681
+message=To the very very pretty commerce / science student who always has a cute smile on her face. I've heard your friends call your name and I think it starts with a B. My day gets so much brighter every time I see you! I hope you never lose that very special smile of yours, it's such a valuable asset to have. ;) From your not so creepy secret admirer.
+time=2013-04-14T08:43:54+0000
+latitude=-33.8920
+from=z3415383

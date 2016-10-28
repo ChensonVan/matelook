@@ -1,0 +1,5 @@
+latitude=-33.9017
+message=To the 4th year asian optom student, you dress really well! Michael maybe? I think i have an eye problem, they wont stop looking at you! Come cure them for me in my bedroom? ;)
+longitude=151.2586
+from=z5110502
+time=2016-05-17T03:51:34+0000

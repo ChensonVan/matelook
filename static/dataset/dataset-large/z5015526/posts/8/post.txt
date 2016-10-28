@@ -1,0 +1,5 @@
+message=To my friend Julian, I know that you have always liked me since we have met. Even if you are too shy to admit it. But I just want to let you know that I like you alot but I don't think we will ever be more then just good friends...
+latitude=-33.8769
+from=z5015526
+time=2013-04-11T23:38:21+0000
+longitude=151.2199

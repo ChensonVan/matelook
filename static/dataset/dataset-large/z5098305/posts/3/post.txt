@@ -1,0 +1,5 @@
+time=2016-09-14T23:08:57+0000
+latitude=-33.8557
+message=Dear Vihan K,\nYou ignore my messages on Facebook, you don't like to see me anymore. I thought we had a real chance when things were going smooth. Before your holiday during the break we were going well but since then you've changed to dislike me. Maybe I'm a little clingy but I don't mean to be. This space from you has been devastating. Please come back to me, I promise I'll make it worthy of your time. I get super jealous when you're with your friends, you seem to be having a better time than you've ever had with me. I know I can be cranky at times but I will make it up to you, more than flowers and chocolates can. You know who I am.\nLove, Bae
+from=z5098305
+longitude=151.2091

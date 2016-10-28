@@ -1,0 +1,5 @@
+message=To Jesse from FrenchSoc,\n\nYou're hot, but I'm way too shy to actually talk to you. Thank you for existing, though.
+from=z5076156
+time=2013-08-14T03:55:42+0000
+latitude=-33.9143
+longitude=151.1658

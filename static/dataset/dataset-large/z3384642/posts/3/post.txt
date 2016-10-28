@@ -1,0 +1,5 @@
+longitude=151.2511
+message=To the asian girl who was playing Frisbee on the oval in a grey turtle-neck sweater last Tuesday. Frisbee mightn't be a real sport but you've really flung your way into my heart <3 Coffee?
+latitude=-33.9162
+time=2016-06-16T13:35:23+0000
+from=z3384642

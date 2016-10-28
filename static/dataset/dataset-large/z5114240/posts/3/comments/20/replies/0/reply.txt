@@ -1,0 +1,3 @@
+message=myspiritanimal
+from=z5032269
+time=2016-05-17T02:56:57+0000

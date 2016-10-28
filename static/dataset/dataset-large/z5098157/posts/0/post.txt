@@ -1,0 +1,5 @@
+from=z5098157
+message=Dear UNSW Cupid Society, \n\nPlease add me, I want to learn how to make the love \n\nSincerely, \n\na rasin who just wants a date
+time=2016-05-13T06:19:54+0000
+latitude=-33.8895
+longitude=151.2684

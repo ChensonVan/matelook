@@ -1,0 +1,5 @@
+longitude=151.2276
+time=2013-06-20T03:48:39+0000
+message=Emma. Sweet, sweet Emma in first year media. Your short brown hair is so intellectual and you accompany this so well with your respectable but stylish dress sense. So drop the zero and get with the hero.
+latitude=-33.9167
+from=z3493921

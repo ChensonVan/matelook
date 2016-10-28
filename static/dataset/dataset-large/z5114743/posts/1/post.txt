@@ -1,0 +1,5 @@
+time=2016-10-06T01:01:02+0000
+longitude=151.2313
+from=z5114743
+message=Is it weird to like a 5th year student when you are only a 1st year?\nI've only known him for a short time but he's almost about to graduate...\nI guess Facebook is the only way we're going to keep in contact.\n\n~ 1st Year Science Student
+latitude=-33.9260

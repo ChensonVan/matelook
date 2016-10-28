@@ -1,0 +1,5 @@
+longitude=151.2218
+from=z5109480
+message=Nikhil Nanganath I stalked you from the Central bus to our accounting test and I think I'm in love. You're so clumsy you just make it worth getting out of bed. Forget about PR, You Belong with Me <3
+time=2016-05-06T01:19:01+0000
+latitude=-33.9263

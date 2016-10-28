@@ -1,0 +1,5 @@
+from=z5098341
+time=2013-05-02T11:19:40+0000
+longitude=150.9029
+message=Talking about guys in medicine, I find a first year Asian guy in medicine who always has the perfect hair and is always around his friend, an Asian girl, cute!!
+latitude=-34.0196

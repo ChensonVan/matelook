@@ -1,0 +1,5 @@
+message=To the white guy who works the till at the Ramen place on Anzac pde kingsford. You're really cute! I keep coming back just to see you smile. Coffee sometime x\n\nFrom - The boy who tipped you last friday
+from=z5087067
+latitude=-33.9167
+time=2013-11-07T14:30:45+0000
+longitude=151.2220

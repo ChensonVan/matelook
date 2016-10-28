@@ -1,0 +1,3 @@
+time=2016-08-25T22:01:43+0000
+from=z5061301
+message=z5043507 half leb half asian: TRIGGERED

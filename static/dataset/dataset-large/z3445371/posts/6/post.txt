@@ -1,0 +1,5 @@
+message=yo fam,\nwanna smash this ? ;)
+from=z3445371
+longitude=151.2286
+latitude=-33.9196
+time=2016-07-13T15:32:42+0000

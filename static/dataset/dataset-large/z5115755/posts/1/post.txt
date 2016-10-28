@@ -1,0 +1,5 @@
+latitude=-33.9120
+longitude=151.2212
+message=The semester is nearly over, but your gorgeous smile is the only thing that continues to run through my mind. I can't seem to stop thinking about every conversation, every exchanged glance... all those seemingly pointless conversations. I fear that we're not as close as I like to believe we are... Luckily, I believe we are undertaking the same degree so I guess I have another three and a half years to create my own unique space in your warm, kind heart <3 :)
+time=2014-10-30T06:18:59+0000
+from=z5115755

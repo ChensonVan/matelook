@@ -1,0 +1,5 @@
+from=z5113003
+latitude=-33.9136
+time=2013-11-24T06:56:11+0000
+message=To Sumaaya Ferriwala.\n\nI wish you are the kakri to my gajar, the malayi to my lassi, the bhajiya of the bhajjiya's, the shehed to the makkhi, the rass to the jamun, the batata to the vada, the roti to the paneer, the teyl to the pakode and the bagara to my baigan.\n\nIGA grocery shopping, anytime? :)
+longitude=151.2392

@@ -1,0 +1,5 @@
+message=to the lovely chick i pretty much asked out last thursday, please dont put me down too hard, id still like to be friends.
+from=z5015016
+latitude=-33.9200
+longitude=150.8811
+time=2013-04-12T04:41:10+0000

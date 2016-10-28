@@ -1,0 +1,5 @@
+longitude=151.2225
+message=To the guy with a beard doing adv maths, \nYou're not the only one who gets mad when he doesn't get meat. So hurry up and give me yours!
+from=z5039294
+time=2016-07-12T16:23:53+0000
+latitude=-33.9199

@@ -1,0 +1,5 @@
+latitude=-33.9141
+message=A message that needs to go viral!\n\nhttp://www.youtube.com/watch?v=IgJrv3yJJ64
+longitude=151.2361
+from=z5019353
+time=2013-08-27T23:34:51+0000

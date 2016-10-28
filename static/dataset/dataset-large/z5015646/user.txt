@@ -1,0 +1,11 @@
+courses=[2016 S1 COMP9020, 2016 S1 COMP9021, 2016 S1 COMP9311, 2016 S1 COMP9414, 2016 S2 COMP9024, 2016 S2 COMP9041, 2016 S2 COMP9331, 2016 S2 GSOE9210]
+password=2112
+full_name=Franz Beckenbauer
+home_suburb=Ryde
+email=F.Beckenbauer@unsw.edu.au
+zid=z5015646
+mates=[z3494117, z5119635, z5047799, z5116167, z3461074, z5077163, z5098202, z5061590]
+home_latitude=-33.8033
+home_longitude=151.1045
+program=Information Technology
+birthday=1996-01-28

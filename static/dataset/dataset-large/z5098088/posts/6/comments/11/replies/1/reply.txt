@@ -1,0 +1,3 @@
+time=2016-09-06T05:00:12+0000
+message=This is a little different to the last UNSW love letter he wrote me.... \n😂😂🙈
+from=z5059826

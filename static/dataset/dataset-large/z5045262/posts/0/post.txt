@@ -1,0 +1,5 @@
+message=To Kiran, Your funny, smart, tall, and handsome. What more could a girl want? We talk every now and again, but I feel as if you would never like me in the way I like you. I hear rumours that you have a girlfriend... Please comment here and tell me that is not true. I hope one day you'll realise who this is, and you'll see me the way I see you.
+from=z5045262
+longitude=151.2331
+time=2016-05-16T13:02:26+0000
+latitude=-33.8635

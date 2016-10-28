@@ -1,0 +1,5 @@
+time=2016-05-12T22:48:56+0000
+from=z3219170
+latitude=-33.7372
+message=To nathan liu\n\nWe've always been pretty good friends but ive always been flirty with you\nCant you just ask for a gobby already\nI dont want to seem desparate\n\n-S
+longitude=151.1248

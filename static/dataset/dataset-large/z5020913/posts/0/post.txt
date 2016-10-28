@@ -1,0 +1,5 @@
+message=It started off as a crush, then a mutual confession but how did we mess up so bad?\nYou said you liked me, but then told me we were not right for each other... \nAnd just 2 weeks later, you're dating someone else.. were you ever sincere?
+longitude=151.2395
+time=2016-09-04T12:52:17+0000
+latitude=-33.9077
+from=z5020913

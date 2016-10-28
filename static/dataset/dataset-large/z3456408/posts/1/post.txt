@@ -1,0 +1,5 @@
+latitude=-33.9225
+from=z3456408
+time=2016-05-17T10:23:22+0000
+message=The white girl with pink shorts in the Red Centre level 1 on Friday.  Aren't your legs cold? Or are you just that hot that it doesn't matter?
+longitude=151.2384

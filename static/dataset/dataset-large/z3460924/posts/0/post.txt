@@ -1,0 +1,5 @@
+longitude=151.2479
+time=2016-08-02T01:33:31+0000
+message=Sherrie Liu, how am I meant to catch your eye on the bus if you snooze the whole time?\n\nYour shy admirer
+latitude=-33.9449
+from=z3460924

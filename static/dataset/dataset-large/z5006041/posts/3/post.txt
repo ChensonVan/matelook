@@ -1,0 +1,5 @@
+time=2013-08-11T01:44:15+0000
+message=To the hijabi girl that does info sys\nYour eyes are as beautiful as the ocean at sunset.\nAnd baby, I’m lost at sea.
+longitude=151.0205
+latitude=-33.8015
+from=z5006041

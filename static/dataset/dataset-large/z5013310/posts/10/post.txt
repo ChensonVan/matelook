@@ -1,0 +1,5 @@
+from=z5013310
+latitude=-33.8310
+message=To the guy called Jesse in chem1011 who has a twin brother and often sits on the left near the front of the lecture...I admire you from the back of the lecture room and I look at you but you never seem to look at me! You sit with some annoying friends who are loud and talkative but I just wish sometimes I could sit next to you and that maybe you'd notice me! Was wondering if we could get some coffee after class xx
+longitude=150.9954
+time=2016-05-06T10:46:12+0000

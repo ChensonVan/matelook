@@ -1,0 +1,5 @@
+message=The cute curry chick with glasses in the Tuesday arvo Chem lab.  \nAre you copper, coz I can Cu in a relationship with me ;)
+from=z5076189
+latitude=-33.9155
+time=2016-09-05T02:09:45+0000
+longitude=151.2295

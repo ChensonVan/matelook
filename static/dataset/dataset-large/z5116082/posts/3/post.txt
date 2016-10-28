@@ -1,0 +1,5 @@
+longitude=151.2957
+latitude=-33.7880
+message=Cute smiley (possibly inked) girl at the very back of psyc 1b exam as I walked in what's yo number???\nWanted to say hi but the Margaret thatcher lookalike behind you would've probably castrated me then and there
+from=z5116082
+time=2013-11-21T18:02:22+0000

@@ -1,0 +1,5 @@
+message=sonali come with me to Bali!
+time=2016-05-25T11:08:00+0000
+from=z5076554
+longitude=151.2280
+latitude=-33.9211

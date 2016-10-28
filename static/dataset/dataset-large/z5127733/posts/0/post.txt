@@ -1,0 +1,5 @@
+longitude=151.2338
+time=2016-06-18T13:14:30+0000
+latitude=-33.9092
+from=z5127733
+message=To WF,\n\nYour the cutest girl in our comp lecture! :)

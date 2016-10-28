@@ -1,0 +1,5 @@
+from=z3384642
+latitude=-33.8472
+longitude=151.2043
+time=2013-10-05T01:43:52+0000
+message=Why is it that you always like the guy who's become to close a friend for anything to ever happen? The friend where to much time has passed for either of you to make a move.

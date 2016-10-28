@@ -1,0 +1,3 @@
+from=z5043226
+message=Comms is considered arts at UTS ah well you're still a rare species in my book :)
+time=2013-07-29T08:32:18+0000

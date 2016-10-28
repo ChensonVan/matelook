@@ -1,0 +1,5 @@
+longitude=150.6319
+time=2016-08-30T13:44:54+0000
+message=What am i supposed to do with all my feels? Do you want a 50% discount, I'll sell it to you. I take that back, you can have it all for free.
+latitude=-33.6873
+from=z3459453

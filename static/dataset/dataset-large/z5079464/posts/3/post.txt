@@ -1,0 +1,5 @@
+longitude=151.1909
+message=I didn't believe in love until I met you. Thank you cheese, for being the love of my life. <3
+time=2016-07-06T13:03:50+0000
+from=z5079464
+latitude=-33.9487

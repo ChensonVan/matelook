@@ -1,0 +1,5 @@
+from=z5016876
+time=2013-06-18T11:29:18+0000
+longitude=151.2304
+message=Tingwu Wang, when I googled your name, the first result that popped up was "boss". You seem like you have so much money. I wanna marry you right now so I can swim around the house with money lying around, no more financial problems <3
+latitude=-33.9227

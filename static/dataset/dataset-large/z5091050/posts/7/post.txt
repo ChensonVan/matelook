@@ -1,0 +1,5 @@
+from=z5091050
+latitude=-33.9176
+message=To Phoebe Zhou from CSE,\nYour librero skill is, so far,  unrivaled. Your powerful spikes send opponent team in awe. It is such a joy watching you play. My interest for volleyball game grows everyday, as I become to like you more and more :) I guess being a part of CSE faculty means that you are always busy, but how about having lunch together with me sometimes during your free time? \nSincerely, \nYour secret admirer
+longitude=151.2232
+time=2016-06-02T13:49:48+0000

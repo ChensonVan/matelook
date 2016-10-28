@@ -1,0 +1,3 @@
+from=z5118764
+message=z5018248 wtf you dont even live in Sydney why did you write this???
+time=2016-09-19T06:41:05+0000

@@ -1,0 +1,5 @@
+longitude=151.1658
+message=Emily Chow Ive seen you in my babs and chem lectures fuarrrrrrrrrrrrrr so pretty lets have coffee sometime
+from=z5076156
+latitude=-33.9143
+time=2016-05-07T06:49:37+0000

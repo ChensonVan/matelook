@@ -1,0 +1,3 @@
+from=z5015646
+message=z5110502 I'll take one giro from you anyday
+time=2016-04-20T12:11:19+0000

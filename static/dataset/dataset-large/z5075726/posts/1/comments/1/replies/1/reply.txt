@@ -1,0 +1,3 @@
+message=either everyone's raving abt u, or u raving abt sum1
+time=2016-05-11T12:02:13+0000
+from=z5020410

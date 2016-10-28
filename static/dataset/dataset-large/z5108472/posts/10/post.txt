@@ -1,0 +1,5 @@
+from=z5108472
+message=I shouldve said something when i locked eyes with you getting on and off the Carlo train Monday evening. If it was you and thought the same maybe pop up? from the shy tired guy
+time=2016-05-02T06:52:21+0000
+latitude=-33.8517
+longitude=151.2144

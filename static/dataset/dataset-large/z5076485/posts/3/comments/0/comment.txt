@@ -1,0 +1,3 @@
+from=z5024986
+message=I call witchcraft
+time=2014-06-04T04:52:53+0000

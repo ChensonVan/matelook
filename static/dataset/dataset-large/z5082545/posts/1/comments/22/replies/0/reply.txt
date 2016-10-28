@@ -1,0 +1,3 @@
+message=I'd rather kill myself
+from=z3462326
+time=2016-04-15T22:40:24+0000

@@ -1,0 +1,5 @@
+latitude=-33.9133
+longitude=151.2285
+message=To Natalie in my MATH1251 tute on Thursdays, I've been trying to get your attention since ASOC camp, even during class but you just kept looking at the Indian guy sitting in front of me. Can't you give me a chance?
+from=z5060140
+time=2016-08-09T14:06:34+0000

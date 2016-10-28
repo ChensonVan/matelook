@@ -1,0 +1,5 @@
+latitude=-33.8184
+from=z3076154
+message=I saw you in passing, outside Stellini today Rebecca Trunk. How I wish I was the guy putting a smile on your face
+longitude=150.9171
+time=2013-09-08T12:14:06+0000

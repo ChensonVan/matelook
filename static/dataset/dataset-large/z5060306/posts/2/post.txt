@@ -1,0 +1,5 @@
+longitude=151.2339
+time=2013-04-21T10:04:15+0000
+message=To Scout or Emily or whatever your name is. It's been a week, we still haven't gotten coffee together and I'm pretty sure I've seen you with your boyfriend on campus. I should have known you're out of my league. But can I at least get a photo to show my friends that angels really do exist?
+from=z5060306
+latitude=-33.9167

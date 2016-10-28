@@ -1,0 +1,5 @@
+longitude=150.8738
+latitude=-33.7312
+message=When you're heartbroken that Nikki didn't win Bachelor. WHY RICHIE???
+time=2016-09-23T13:20:21+0000
+from=z5116082

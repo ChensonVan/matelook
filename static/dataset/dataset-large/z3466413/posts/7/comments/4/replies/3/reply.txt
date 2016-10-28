@@ -1,0 +1,3 @@
+from=z5088545
+message=noun\n1.\na person suffering from alcoholism.
+time=2016-06-16T03:10:53+0000

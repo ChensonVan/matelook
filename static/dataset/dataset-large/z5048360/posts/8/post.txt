@@ -1,0 +1,5 @@
+time=2015-03-12T05:25:38+0000
+latitude=-33.8959
+message=Liz Tancred, I see your frizzy hair bobbing through the anatomy labs and my loins stir with desire. Perhaps we can move one of the specimens off the bench and go there sometime...? Love Ken Ashwell.
+longitude=151.2578
+from=z5048360

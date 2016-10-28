@@ -1,0 +1,5 @@
+from=z5061308
+time=2013-03-19T11:18:13+0000
+latitude=-33.9153
+longitude=151.2282
+message=Dear Lecturer I am dating, \nI don't really like you. I only like that I can tell people we are dating.

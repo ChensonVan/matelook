@@ -1,0 +1,5 @@
+longitude=151.2299
+latitude=-33.9122
+message=To the o-week sports and academic events coordinator... you were by far the most beautiful person at intro bbq, how about we arrange some compulsory dates of our own?\n\n<3
+from=z5015085
+time=2013-10-30T00:55:46+0000

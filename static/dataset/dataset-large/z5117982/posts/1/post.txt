@@ -1,0 +1,5 @@
+message=Arnav Kumar! We dont hang as much as we used to but ive been hearing you have moved on campus? Maybe we should get in touch again??
+time=2013-08-07T05:24:24+0000
+longitude=151.2503
+latitude=-33.9239
+from=z5117982

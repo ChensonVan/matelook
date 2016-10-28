@@ -1,0 +1,3 @@
+from=z5118627
+message=You obviously have never met my friend z5109880
+time=2016-09-12T02:10:37+0000

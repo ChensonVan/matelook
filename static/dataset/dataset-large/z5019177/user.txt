@@ -1,0 +1,11 @@
+zid=z5019177
+home_suburb=Darlington
+program=Science/Computer Science
+mates=[z5063045, z5109980, z5115666]
+email=T.Banks@unsw.edu.au
+birthday=1998-02-27
+courses=[2016 S1 COMP1917, 2016 S1 MATH1131, 2016 S2 COMP1927, 2016 S2 PSYC1024, 2016 S2 PSYC1111]
+home_latitude=-33.8924
+full_name=Tyra Banks
+home_longitude=151.1842
+password=hunter

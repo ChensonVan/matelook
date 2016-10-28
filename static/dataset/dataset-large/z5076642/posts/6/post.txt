@@ -1,0 +1,5 @@
+message=Chick with the blue dress at law ball? I hear you're president of the Bangladeshi Society. You put the desi in desirable ;)
+latitude=-33.8915
+time=2016-08-17T23:46:14+0000
+longitude=151.1895
+from=z5076642

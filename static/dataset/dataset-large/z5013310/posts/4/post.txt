@@ -1,0 +1,3 @@
+from=z5013310
+message=Dear Kannot-ishk.\nThe day I saw you, I cancelled my shaadi.com account
+time=2016-06-12T05:52:39+0000

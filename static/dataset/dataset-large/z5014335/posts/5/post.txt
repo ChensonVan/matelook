@@ -1,0 +1,5 @@
+from=z5014335
+latitude=-33.9262
+time=2016-04-15T13:48:16+0000
+longitude=151.2380
+message=To R.F. in engineering. I want to be your CC4 <3

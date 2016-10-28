@@ -1,0 +1,11 @@
+password=wizard
+home_suburb=St Peters
+full_name=Tangra Riggle
+home_latitude=-33.9060
+home_longitude=151.1708
+zid=z3446230
+email=T.Riggle@unsw.edu.au
+birthday=1995-04-20
+program=Information Technology
+mates=[z5076189, z5048555, z3372872]
+courses=[2016 S2 COMP9020, 2016 S2 COMP9021, 2016 S2 COMP9311, 2016 S2 MATH5905]

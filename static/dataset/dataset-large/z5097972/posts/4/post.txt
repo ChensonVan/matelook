@@ -1,0 +1,5 @@
+from=z5097972
+message=Daniel K, I know you go to Macquarie but sometimes I wish you went to UNSW \n\nPlease love me back
+longitude=151.2331
+latitude=-33.9082
+time=2016-05-23T13:34:44+0000

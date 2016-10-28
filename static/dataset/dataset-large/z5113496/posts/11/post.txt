@@ -1,0 +1,5 @@
+message=Dear Adam\nI love you\nI love you and your cheeky smile\n26.03
+longitude=151.0320
+time=2016-08-08T12:41:51+0000
+from=z5113496
+latitude=-33.9157

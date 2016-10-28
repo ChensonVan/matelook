@@ -1,0 +1,11 @@
+home_suburb=East Ryde
+full_name=Rich Brooks
+courses=[2016 S2 COMP9020, 2016 S2 COMP9021, 2016 S2 COMP9311, 2016 S2 GSOE9820]
+home_longitude=151.1473
+email=R.Brooks@unsw.edu.au
+zid=z5084484
+home_latitude=-33.8143
+mates=[z5120169, z5074940, z5014972, z9591011, z5110502, z5051889, z5113236, z5113241]
+birthday=1998-02-24
+password=fire
+program=Information Technology

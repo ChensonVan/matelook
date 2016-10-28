@@ -1,0 +1,5 @@
+from=z3462438
+latitude=-33.9162
+time=2013-08-20T14:05:06+0000
+message="It happens like this. One day you meet someone and for some inexplicable reason, you feel more connected to this stranger than anyone else- closer to them than your closest family. Perhaps because this person carries an angel within them- one sent to you for some higher purpose, to teach you an important lesson or to keep you safe during a perilous time. What you must do is trust them- even if they come hand in hand with pain or suffering- the reason for their presence will become clear in due time.\n\nThough here is a word of warning- you may grow to love this person but remember they are not yours to keep. Their purpose isn't to save you, but to show you how to save yourself. And once this is fulfilled, the halo lifts and the angel leaves their body as the person exits your life. They will be a stranger to you once more."\n~ LL
+longitude=151.2340

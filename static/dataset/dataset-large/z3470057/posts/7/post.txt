@@ -1,0 +1,5 @@
+message=Sunday Sunday wish you were mine one day; I could make you scream in more than one way ;) Coffee sometime?
+latitude=-33.9002
+from=z3470057
+time=2016-04-15T14:37:21+0000
+longitude=151.1128

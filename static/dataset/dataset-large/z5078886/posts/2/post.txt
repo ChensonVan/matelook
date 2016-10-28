@@ -1,0 +1,5 @@
+latitude=-33.9072
+message=To the asian guy who I saw studying med in quad lab 2 during stuvac.\nWOW how have I never seen you in life till now, where the eff did you come from and how'd you get in a asb lab?!\nWhatever doesn't matter but your big eyes and cute smile drive me insane. Please come again soon!\nFrom the girl who was admiring you from the back
+longitude=151.1799
+time=2013-06-20T08:55:51+0000
+from=z5078886

@@ -1,0 +1,5 @@
+time=2016-05-12T21:42:08+0000
+latitude=-33.9120
+from=z5019746
+message=carmen you're a pain in the ass 90% of the time but 5% you're aight and 5% you're actually pretty cute
+longitude=151.2371

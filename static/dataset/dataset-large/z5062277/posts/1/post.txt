@@ -1,0 +1,5 @@
+message=Why was I seeing snapstories of guys making out at pubcrawl...
+from=z5062277
+latitude=-33.8457
+time=2016-06-13T06:17:46+0000
+longitude=151.1522

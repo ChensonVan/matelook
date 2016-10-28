@@ -1,0 +1,11 @@
+home_suburb=University Of New South Wales
+mates=[z5020410, z5059860, z5059421, z5025090, z3334316, z5117623, z5015700, z5024975]
+full_name=Stan Kroenke
+email=S.Kroenke@unsw.edu.au
+courses=[2016 S1 ENGG1811, 2016 S1 LAWS1052, 2016 S1 MATH1131, 2016 S1 PHYS1121, 2016 S2 CVEN1300, 2016 S2 ENGG1400, 2016 S2 LAWS1061, 2016 S2 MATH1231]
+home_latitude=-33.9079
+zid=z5075726
+home_longitude=151.2377
+password=hardcore
+program=Engineering (Honours) / Law
+birthday=1998-09-19

@@ -1,0 +1,5 @@
+from=z3416238
+longitude=151.1546
+message=Dear Marcus Lam,\n\nYou're hot. I'm hot. Meet me at the mens toilets on level 3 of the library on Tuesday 19th April. I can show you a whole new side of life.\n\nSincerely,\n\nSecret admirer
+latitude=-33.8946
+time=2016-04-28T14:31:04+0000

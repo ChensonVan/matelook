@@ -1,0 +1,5 @@
+from=z5015813
+time=2016-09-04T14:59:41+0000
+longitude=150.9523
+latitude=-33.8881
+message=Hey Annabelle,\n\nI met you a long time ago and we haven't seen each other since. I'm with someone else now, she's amazing and everything I've ever wanted. I just wanted to say so were you.\n\nHope you've been well,\nTeddy

@@ -1,0 +1,5 @@
+message=To the cute big guy in green GAP hoodie in ELEC2133 \n you are hella cute :) heard your friends calling you Chen, melted me like a cheese.
+time=2016-10-05T14:45:41+0000
+longitude=151.0278
+from=z5051889
+latitude=-33.7021

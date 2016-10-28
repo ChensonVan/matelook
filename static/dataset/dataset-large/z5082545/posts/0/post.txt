@@ -1,0 +1,5 @@
+latitude=-33.9170
+from=z5082545
+message=Happy Holidays Lovers!
+time=2013-03-31T13:54:52+0000
+longitude=151.2274

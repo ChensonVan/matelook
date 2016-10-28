@@ -1,0 +1,11 @@
+full_name=Gwyneth Paltrow
+zid=z5015813
+courses=[2016 S1 COMP1917, 2016 S1 MATH1081, 2016 S1 MATH1141, 2016 S1 SCIF1121, 2016 S2 COMP1927, 2016 S2 COMP2041, 2016 S2 MATH1241, 2016 S2 PHYS1110]
+program=Adv Maths (Hons)/Computer Sci
+email=G.Paltrow@unsw.edu.au
+birthday=1996-11-16
+home_suburb=Carramar
+password=winston
+mates=[z5048611, z5016305, z5025014, z5014695, z5059526, z5119613, z3415383, z5062115, z3417937]
+home_latitude=-33.8881
+home_longitude=150.9523

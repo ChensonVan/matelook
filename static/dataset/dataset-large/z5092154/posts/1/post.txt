@@ -1,0 +1,5 @@
+message=To George Zaferis, Why haven't you been at uni lately? Is everything alright? I miss sitting behind you in class, watching your every move. I hope you'll return to uni soon.. the semester is nearly over and we never got to exchange a word, only deep and meaningful awkward eye contacts when class was over.. Please come back
+time=2013-06-12T00:20:24+0000
+from=z5092154
+longitude=151.0545
+latitude=-33.9405

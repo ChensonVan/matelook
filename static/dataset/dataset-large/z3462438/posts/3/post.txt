@@ -1,0 +1,5 @@
+longitude=151.0296
+message=Lawrence and jimmy you guys should quit playing and get together. If life was a TV show i am pretty sure the whole fandom would be shipping you two
+latitude=-33.9213
+from=z3462438
+time=2016-06-10T12:11:20+0000

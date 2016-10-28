@@ -1,0 +1,9 @@
+mates=[z3418003, z5059719, z3459453, z3461651, z3459050, z5110713, z5115679, z5074940, z5060223, z3492794, z5109786, z5059064]
+password=charles
+full_name=Charlotte Church
+zid=z5023123
+email=C.Church@unsw.edu.au
+home_suburb=University Of New South Wales
+program=Engineering Science
+birthday=1996-05-24
+courses=[2016 S1 ELEC4611, 2016 S1 ELEC9713, 2016 S1 ELEC9714, 2016 S1 GSOE8506, 2016 S1 GSOE9820, 2016 S2 ELEC4613, 2016 S2 ELEC9711, 2016 S2 ELEC9712, 2016 S2 GSOE9210]

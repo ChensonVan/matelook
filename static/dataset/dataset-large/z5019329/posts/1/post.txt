@@ -1,0 +1,5 @@
+message=I still don't understand why we need to be verified that we're not a robot before we submit our love letters...would robots write any love letters???
+time=2016-09-21T13:34:23+0000
+longitude=151.0669
+from=z5019329
+latitude=-34.0305

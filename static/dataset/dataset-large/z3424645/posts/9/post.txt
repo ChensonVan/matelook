@@ -1,0 +1,5 @@
+longitude=151.2217
+from=z3424645
+time=2016-07-28T01:30:50+0000
+message=Just want to say hi to that boy in ARTS1811. You were in my tutorial last semester, think your name is Patrick. If you can pick who i am lets meet up for a HSP
+latitude=-33.9226

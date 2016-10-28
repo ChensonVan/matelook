@@ -1,0 +1,5 @@
+from=z5021309
+message=I saw you again today... Peacefully roaming the library lawn. You playfully snatched my food from my hand and I giggled with delight. When I see your black and white hair fluttering in the wind I get a shiver down my spine. Your long stick thin legs make your walk irresistible to watch. I can only imagine what that long beak could do to me. If you feel the same way, please meet me the library lawn at 12pm on Thursday. I will always love you, my sweet, my kind, my beautiful, Ibis.
+latitude=-33.9138
+time=2013-07-30T11:22:37+0000
+longitude=151.2288

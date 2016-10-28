@@ -1,0 +1,5 @@
+message=Hi Ajmain Ahmed,\n\nI see you on this page all the time.\nDo you root? Meet me in the boys toilets at the library! \n\n;)
+latitude=-33.9180
+from=z3475276
+time=2016-08-08T03:03:40+0000
+longitude=151.2373

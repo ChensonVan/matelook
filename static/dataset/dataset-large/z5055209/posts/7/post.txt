@@ -1,0 +1,5 @@
+longitude=151.2178
+latitude=-33.8250
+time=2016-06-05T01:17:42+0000
+message=Dear Me,\n\nYou're really cute and I can't believe that you're still single. But it's ok, because it's probable just because you're  so cute that everyone else is blown away (kinda like the story about the ugly barnacle that Patrick tells spongebob, except instead of being "so ugly that everyone died" you're cute).\n\nBut anyway, you go glen coco (and by glen coco I mean you). I'd love to take you out to coffee sometime.\n\nLove from,\n\nyour secret admirer (Me) xoxo
+from=z5055209

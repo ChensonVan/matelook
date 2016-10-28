@@ -1,0 +1,5 @@
+time=2013-08-27T23:35:19+0000
+from=z3460724
+latitude=-33.9088
+longitude=151.2291
+message=To that boy that was outside the Electrical Engineering building manning the Hong Kong society stall a couple of days ago... yes.

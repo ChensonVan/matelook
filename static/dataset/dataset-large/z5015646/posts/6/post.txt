@@ -1,0 +1,5 @@
+latitude=-33.9093
+time=2016-10-05T13:01:24+0000
+message=To the tall girl who sits in the quad on Monday lunchtimes with her friends, I love your coats and sunglasses. Sad I won't see you for two weeks. Notice me next time?
+from=z5015646
+longitude=151.2375

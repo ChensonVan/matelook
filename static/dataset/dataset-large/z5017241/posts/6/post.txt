@@ -1,0 +1,5 @@
+longitude=151.1245
+from=z5017241
+time=2016-09-18T02:12:28+0000
+message=Z,\n\nI have never talked to you before, nor are you the hottest guy I have ever seen. But for some reason, I've been attracted to you for almost a year now. You, and only you. I hope I'll be brave enough a girl to talk to you one day.\n\nSincerely,\nVery shy girl
+latitude=-33.9809

@@ -1,0 +1,3 @@
+from=z5083924
+time=2016-08-09T16:05:14+0000
+message=Echo-ing what people said here, think of it this way:\nIf you two are happy now, and you have great years together, even if it ends down the track, would you have regretted those happy years?\n\nWe never know what the future holds, maybe it'll change, maybe it won't, maybe the change will be what makes you realize it won't work out\n\nThe future doesn't come to meet us if we rush, but it will still come

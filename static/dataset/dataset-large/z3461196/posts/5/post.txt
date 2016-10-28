@@ -1,0 +1,5 @@
+message=To Nan Chen, 5th year civil eng. I am so lucky to meet you and know you in UNSW. I want to be with you forever baby.
+longitude=151.1668
+time=2013-04-25T07:39:08+0000
+latitude=-33.7969
+from=z3461196

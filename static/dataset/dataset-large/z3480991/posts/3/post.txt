@@ -1,0 +1,5 @@
+latitude=-33.9135
+longitude=151.2320
+message=To the girl in the blue and white shirt with glasses in the science quad,\n\nI met you today and oh what a day. Not only are you literally the cutest Indian I have ever seen, but you told me where to get free pancakes and hot chocolate. \n\nYour hot and you come with free food, I'm bloody dead.
+from=z3480991
+time=2016-08-12T14:14:16+0000

@@ -1,0 +1,5 @@
+message=To everyone graduating this semester, congrats! We will miss you.
+latitude=-33.9259
+from=z5117170
+time=2013-11-15T15:56:11+0000
+longitude=151.2336

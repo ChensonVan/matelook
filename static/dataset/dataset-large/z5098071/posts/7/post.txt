@@ -1,0 +1,5 @@
+from=z5098071
+longitude=151.1957
+time=2013-04-17T23:31:44+0000
+message=To the beautiful guy in blue and red polo shirt in my Math class, I want to know you more. I want to talk to you, but I think you're straight and I'm sick of being turned down, but if you're bi or you know ;) , let's do extra tutorials and you would know that my limit is to infinity.
+latitude=-33.8440

@@ -1,0 +1,3 @@
+message=M8 stop
+from=z5020410
+time=2016-05-06T13:15:30+0000

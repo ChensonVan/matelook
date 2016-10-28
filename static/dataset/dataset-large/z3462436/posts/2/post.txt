@@ -1,0 +1,5 @@
+from=z3462436
+message=To good-lookin Cheng Liang from tech,\nI hardly see you at uni anymore but I still enjoy looking through your facebook photos during lectures to keep me from dosing off. You are a hot nurse joker ;)\nxx
+latitude=-33.8535
+longitude=151.0865
+time=2013-11-10T08:22:30+0000

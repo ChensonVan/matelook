@@ -1,0 +1,5 @@
+time=2016-07-05T00:43:35+0000
+from=z5098212
+latitude=-33.9243
+message=To the guy sitting behind me in the comp2911 exam, you were really cute. I was sad when you walked off afterwards and we didn't get more of a chance to chat. Hope I see you around classes next sem :)
+longitude=151.2396

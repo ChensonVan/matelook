@@ -1,0 +1,5 @@
+longitude=151.2264
+from=z3460724
+message=Lucas C from Arts Camp are you single yet because i'm waiting ;)
+latitude=-33.9528
+time=2016-04-25T23:56:20+0000

@@ -1,0 +1,3 @@
+message=friendship over
+from=z5113715
+time=2016-05-25T11:28:19+0000

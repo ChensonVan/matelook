@@ -1,0 +1,3 @@
+from=z5074940
+time=2016-07-27T13:42:46+0000
+message=More lures will be dropped outside main library tomorrow:\nz5015191

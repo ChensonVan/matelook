@@ -1,0 +1,5 @@
+latitude=-33.8973
+message=Dear Rafa Rahman,\n\nYou are ugly in a beautiful way <3\nCoffee?\n\nYour secret admirer :)
+longitude=151.2526
+time=2016-07-11T23:15:22+0000
+from=z5087067

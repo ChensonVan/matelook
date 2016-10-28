@@ -1,0 +1,5 @@
+message=To the girl in Elec Engo first year with the black Adidas shoes,\nYou make my current flow.
+from=z3459459
+longitude=151.1439
+time=2016-04-18T06:26:11+0000
+latitude=-33.9479

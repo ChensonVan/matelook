@@ -1,0 +1,5 @@
+latitude=-33.9201
+longitude=151.2243
+from=z5129633
+time=2016-09-07T09:20:41+0000
+message=Dear L, \nYou're the nicest looking guy at unsw. I wish we saw each other more often. Keep being you.

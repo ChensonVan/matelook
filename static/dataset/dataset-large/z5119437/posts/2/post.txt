@@ -1,0 +1,5 @@
+time=2016-09-23T06:58:06+0000
+from=z5119437
+longitude=151.2327
+message=Dear Girl in the Econ 2206 Stata Workshop\n\nI could only see the back of your head, but your beautiful foreign voice and beautiful strawberry blonde hair had me mesmerised (what conditioner do you use, Pantene?).  Baby, you can regress my coefficients anytime ;). Forget MLR1-MLR6. You satisfy all my conditions. Our meeting was not a standard error it was significant.\n\nLove your secret Stata admirer
+latitude=-33.9164

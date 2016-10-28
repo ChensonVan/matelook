@@ -1,0 +1,3 @@
+from=z5015526
+message=Ahahaha z9591011 dat 'mad' yellow fever!
+time=2013-11-02T12:22:35+0000

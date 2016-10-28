@@ -1,0 +1,5 @@
+latitude=-33.7713
+message=girl i talked to last night, never got ur name but your voice was amazing. can't believe i might never see u again, thanks for listening :) newtown or barluca sometime?
+time=2016-08-09T13:16:18+0000
+longitude=151.1594
+from=z3463809

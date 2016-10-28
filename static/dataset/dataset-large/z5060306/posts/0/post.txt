@@ -1,0 +1,5 @@
+time=2013-08-13T06:19:05+0000
+message=To the giggly girl with the big bubbly eyes with the cake at the biomed 895 bus stop who skipped the bus too, your gorgeous!!\nPromise i ll say hi next time if your there again at the same time at 5 again next week, signed the scarf guy\nEnjoy your party <3
+longitude=151.2141
+latitude=-33.8358
+from=z5060306

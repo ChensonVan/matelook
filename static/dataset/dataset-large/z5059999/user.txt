@@ -1,0 +1,11 @@
+home_longitude=151.2358
+courses=[2016 S1 BIOM9332, 2016 S1 BIOM9551, 2016 S1 GSOE9712, 2016 S2 BIOM9541]
+program=Engineering (Biomedical Eng)
+password=murphy
+full_name=Rachel Hunter
+home_suburb=University Of New South Wales
+home_latitude=-33.9189
+email=R.Hunter@unsw.edu.au
+birthday=1998-08-18
+mates=[z5106767, z5014160, z5018549, z5119667, z5018248, z5004426, z5117076, z3459509, z5112650]
+zid=z5059999

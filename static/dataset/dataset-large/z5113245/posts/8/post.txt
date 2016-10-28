@@ -1,0 +1,5 @@
+message=Dear Billy, the finance tutor. You're super cute, are you single?
+latitude=-33.9029
+longitude=151.2443
+from=z5113245
+time=2016-09-14T14:04:25+0000

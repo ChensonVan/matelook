@@ -1,0 +1,5 @@
+message='To the girl with wet hair leaving unsw in gym clothes on Monday night. I've seen you at the terraces now, and I can't get you out of my head. I think you've noticed me too. Coffee next time?
+time=2016-06-07T10:54:22+0000
+latitude=-34.2043
+longitude=150.5636
+from=z5059826

@@ -1,0 +1,5 @@
+message=To number 8 of the UNSW women's  futsal team. If you could leave Wollongong without my heart, that would be great.
+from=z3374132
+time=2016-07-17T14:12:57+0000
+longitude=151.2247
+latitude=-33.9252

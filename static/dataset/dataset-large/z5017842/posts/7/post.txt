@@ -1,0 +1,5 @@
+latitude=-33.9232
+time=2016-08-24T15:02:54+0000
+message=Jay Anand from electrical (I think) stop being insecure about your beard. It's actually quite hot ;)\n\nSecret admirer from Econ lecture
+longitude=151.2211
+from=z5017842

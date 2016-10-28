@@ -1,0 +1,5 @@
+message=To the tall Asian boy with headphones in walking around campus \n\nYou're fine assssss hmu?
+from=z3462432
+latitude=-33.9263
+longitude=151.2322
+time=2016-08-24T11:25:04+0000

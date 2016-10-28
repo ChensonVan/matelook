@@ -1,0 +1,5 @@
+from=z5118457
+longitude=151.2377
+latitude=-33.9208
+message=To Nick Tsang who does psyc. You're pretty lazy in group work but you make up for your cuteness ;)
+time=2013-05-13T22:58:18+0000

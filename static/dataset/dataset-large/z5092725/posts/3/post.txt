@@ -1,0 +1,5 @@
+from=z5092725
+longitude=151.0851
+latitude=-33.8235
+message=what do you do if you don't see someone that often but think of them everyday? :/
+time=2016-05-14T08:35:37+0000

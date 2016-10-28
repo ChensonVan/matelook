@@ -1,0 +1,5 @@
+message=To the tall girl with red hair and alabaster skin. I was enchanted from the moment I saw you, you were at double happy hour with a large group of friends and as far as I could see you were the only person at the bar. I will meet you and we will have a great time.
+from=z3475276
+latitude=-33.9075
+time=2013-05-09T12:27:38+0000
+longitude=151.2385

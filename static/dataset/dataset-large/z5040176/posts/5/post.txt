@@ -1,0 +1,5 @@
+longitude=151.2363
+message=Evelyn, you are a gorgeous girl with a gorgeous soul. You'll be a great doctor one day and if things don't work out with your current boyfriend, or if you ever need a third person for that threesome with sexy Matt, you know who to call~\n\nFrom your admirer, M.
+from=z5040176
+latitude=-33.9077
+time=2013-06-20T04:17:25+0000

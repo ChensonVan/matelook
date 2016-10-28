@@ -1,0 +1,5 @@
+from=z3334316
+latitude=-33.9252
+longitude=151.2388
+message=To the blue/green haired girl in my MGMT1001 tute on Tuesday, I think your name is Amy? I really love your hair but you've had it tied up for the past three weeks. Please let it down for the next one you remind me of a mermaid. \n\nP.S I have that League screensaver too.
+time=2016-05-26T07:18:15+0000

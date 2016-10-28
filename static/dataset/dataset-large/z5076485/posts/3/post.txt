@@ -1,0 +1,5 @@
+latitude=-33.8757
+longitude=151.2436
+from=z5076485
+message=There's a guy whose been recurring in my dreams lately. I have no idea who you are, but I saw you on the central to UNSW bus this morning. Freaked me out.
+time=2014-06-09T07:40:47+0000

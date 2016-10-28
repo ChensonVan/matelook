@@ -1,0 +1,5 @@
+longitude=151.0942
+from=z5114743
+latitude=-33.7129
+message=Herbert Chan, good luck with your exams. Love you. X
+time=2013-06-17T23:38:01+0000

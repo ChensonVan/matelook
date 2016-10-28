@@ -1,0 +1,5 @@
+time=2013-04-27T04:57:33+0000
+from=z5019900
+message=If I see a guy who is better looking than me and is probably straight and single. Does that mean the chances of me getting a girl from UNSW is like 0% ?
+longitude=150.9958
+latitude=-33.8624

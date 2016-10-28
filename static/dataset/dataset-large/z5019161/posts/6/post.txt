@@ -1,0 +1,5 @@
+latitude=-34.0595
+time=2016-08-10T14:17:57+0000
+from=z5019161
+message=Dear UNSW Love Letters\n\nYou are my guilty pleasure\n\nSincerely,\nStudent from Usyd
+longitude=150.8154

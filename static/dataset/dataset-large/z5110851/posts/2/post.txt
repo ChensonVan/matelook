@@ -1,0 +1,5 @@
+latitude=-33.8265
+time=2013-03-17T09:03:11+0000
+message=Dear Stargate on the Library lawn, \nI know you're not operational, but your abstract form shall forever make me wonder what could have been.
+from=z5110851
+longitude=151.2505

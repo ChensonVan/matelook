@@ -1,0 +1,5 @@
+longitude=150.8073
+message=Dear Towser Smith,\nThank you for getting me off facebook to do some damn study.
+time=2016-09-15T11:07:41+0000
+from=z5076025
+latitude=-33.7642

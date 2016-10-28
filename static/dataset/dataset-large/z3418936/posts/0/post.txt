@@ -1,0 +1,5 @@
+message=To the guys sitting on the back seat of the 895 (20/05) talking about Eurovision. I highly recommend taking a gander at Ukraines 2007 performance, 10/10 best act ever does not disappoint.
+longitude=151.0823
+from=z3418936
+latitude=-33.7547
+time=2016-06-09T20:36:52+0000

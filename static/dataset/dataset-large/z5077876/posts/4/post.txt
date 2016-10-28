@@ -1,0 +1,5 @@
+latitude=-33.9411
+longitude=150.5774
+from=z5077876
+message=To the girl who caught the M50 back to Central on Tuesday (8/8) at around 2PM-ish, I'm smitten by your red Wellington boots. :)
+time=2013-08-11T01:43:37+0000

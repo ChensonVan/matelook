@@ -1,0 +1,5 @@
+message=fuar shuuu babii, your a dead set glamour lak oft, do you root? my god... I thought you were Osama Bin Laden, cos baby your the bomb ;)
+longitude=151.1768
+time=2013-06-26T04:52:01+0000
+latitude=-33.8185
+from=z3388364

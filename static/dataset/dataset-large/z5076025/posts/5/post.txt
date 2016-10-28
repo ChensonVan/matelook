@@ -1,0 +1,5 @@
+message=To that girl at the Roundhouse with the cute underbite: is your friend taken? He's tall and has beautiful blue eyes
+longitude=150.8073
+latitude=-33.7642
+time=2013-10-13T07:52:06+0000
+from=z5076025

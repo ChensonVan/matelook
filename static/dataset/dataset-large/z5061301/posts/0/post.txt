@@ -1,0 +1,5 @@
+from=z5061301
+time=2013-06-20T10:25:16+0000
+message=To the tall guy with the pony tail and the amazing caramel skin. Always ducking in and out of IGA to buy chicken. You are my dream man.
+latitude=-33.8545
+longitude=151.2747

@@ -1,0 +1,5 @@
+longitude=151.2368
+time=2013-11-11T02:09:21+0000
+message=Blue cheese, gherkins, fried anchovies....tell me there's a cute boy who's not put off by these!
+latitude=-33.9115
+from=z5115045

@@ -1,0 +1,5 @@
+latitude=-34.0039
+message=To the cute indian boy in my management consulting lecture a couple of weeks ago. I've been really nervous to write this, but I just can't wait any longer till our next encounter. We shared a couple of glances and I was hoping for a little more ;) I love your gleeful smile and the twinkle in your eyes. Coffee sometime, I'd love to tackle this business world together and I would be happy to be your human resource!
+time=2013-05-06T13:07:00+0000
+from=z5062448
+longitude=151.2083

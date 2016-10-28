@@ -1,0 +1,5 @@
+from=z5119437
+latitude=-33.9152
+message=It's so hard to find love at uni. Feeling forever alone.
+longitude=151.2312
+time=2013-10-02T06:01:13+0000

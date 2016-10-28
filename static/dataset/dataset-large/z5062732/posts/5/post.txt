@@ -1,0 +1,5 @@
+time=2013-08-14T00:16:11+0000
+message=Emily from the bookshop...I could gaze at your ink all day long...
+longitude=151.2683
+from=z5062732
+latitude=-33.9045

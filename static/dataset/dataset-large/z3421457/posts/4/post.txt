@@ -1,0 +1,5 @@
+message=Rebecca Trunk why do you keep ignoring me... I just want to talk to you
+longitude=151.0963
+from=z3421457
+latitude=-33.8096
+time=2013-07-01T09:48:22+0000

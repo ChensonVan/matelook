@@ -1,0 +1,5 @@
+time=2016-09-16T08:39:07+0000
+from=z3422324
+longitude=151.2233
+message=AL seeing you around uni makes my day so much better.\n- Secret admirer
+latitude=-33.9207

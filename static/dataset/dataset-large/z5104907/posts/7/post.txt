@@ -1,0 +1,5 @@
+message=I love you.\nI love the girls who are too chicken to say it to my face.
+latitude=-33.9087
+longitude=151.2289
+from=z5104907
+time=2013-08-28T13:49:18+0000

@@ -1,0 +1,5 @@
+time=2016-05-24T14:35:29+0000
+longitude=151.2292
+message=Dear HECS, thank you for supporting me even though I will never be able to pay you back. \nSincerely, \nArts student.
+from=z5024963
+latitude=-33.9196

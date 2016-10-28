@@ -1,0 +1,10 @@
+program=Advanced Science (Honours)
+courses=[2016 S1 BABS1201, 2016 S1 CHEM1031, 2016 S1 MATH1041, 2016 S1 SCIF1121, 2016 S2 BABS1202, 2016 S2 BIOS1101, 2016 S2 CHEM1021, 2016 S2 PHYS1160]
+full_name=Mariangel Ruiz Torrealba
+zid=z3413889
+email=M.R.Torrealba@unsw.edu.au
+birthday=1997-08-02
+home_longitude=151.1698
+password=winston
+home_suburb=Enmore
+home_latitude=-33.8931

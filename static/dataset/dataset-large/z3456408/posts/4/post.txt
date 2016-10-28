@@ -1,0 +1,5 @@
+from=z3456408
+time=2016-09-08T03:08:02+0000
+latitude=-33.9235
+longitude=151.2391
+message=shout out to all the guy/girl friendships that have somehow make it work & havent developed feelings for one another

@@ -1,0 +1,5 @@
+from=z5024986
+time=2013-06-18T00:42:06+0000
+latitude=-33.9081
+longitude=151.2399
+message=To the guy in Pokesoc with the funny ads. Apiwat, is it? I love how you always put up the funniest vids during Pokesoc meetings. If you want, we could make a vid of our own. You can touch my metapod anyday

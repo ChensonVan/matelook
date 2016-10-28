@@ -1,0 +1,5 @@
+from=z5085507
+message=Joseph Raiti in first year, what degree are you doing?
+latitude=-33.9514
+longitude=151.1349
+time=2016-06-24T09:48:21+0000

@@ -1,0 +1,5 @@
+time=2013-05-10T11:03:00+0000
+from=z5092154
+message=Rhiannon Howell, hey girl, feel this sweater, you know what its made of? Boyfriend material. xoxo ryan.
+latitude=-33.9120
+longitude=151.2357

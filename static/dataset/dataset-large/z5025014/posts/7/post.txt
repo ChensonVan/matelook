@@ -1,0 +1,5 @@
+time=2016-04-20T11:52:21+0000
+latitude=-33.9083
+from=z5025014
+longitude=151.2281
+message=Someone is playing Coldplay's song in somewhere around UNSW Village? I really wanna join

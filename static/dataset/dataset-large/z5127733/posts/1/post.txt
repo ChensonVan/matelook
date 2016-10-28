@@ -1,0 +1,5 @@
+message=to the girl rocking the chicago bulls snapback on thursday at the quad foodcourt with your laptop out, you are extremely beautiful. one of the guys with you called you janeen/jineen? i really hope we cross paths again
+latitude=-33.4985
+longitude=150.4506
+from=z5127733
+time=2013-04-16T02:16:20+0000

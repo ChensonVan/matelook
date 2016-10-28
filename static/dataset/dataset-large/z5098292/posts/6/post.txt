@@ -1,0 +1,5 @@
+from=z5098292
+time=2016-04-20T02:16:25+0000
+longitude=151.2347
+message=To the Asian guy in PSYC1001 who volunteered and did push ups during our developmental psych lecture, you're cute (:
+latitude=-33.9158

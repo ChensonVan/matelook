@@ -1,0 +1,5 @@
+latitude=-33.9198
+time=2016-05-24T20:59:09+0000
+message=To the korean wearing glasses who came in late to MGMT2101 lecture and types aggressively, SARANG ME! I'm ready to make aesthetic Korean babies with you!
+from=z5119437
+longitude=151.2370

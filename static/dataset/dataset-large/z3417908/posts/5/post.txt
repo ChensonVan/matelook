@@ -1,0 +1,5 @@
+time=2016-06-22T04:38:50+0000
+longitude=151.2223
+latitude=-33.8789
+message=Dear Adam T., \n\nI love you too<3\n\nSincerely, \nVB
+from=z3417908

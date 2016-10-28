@@ -1,0 +1,5 @@
+longitude=151.1060
+from=z5109880
+message=To Kha-Linh,\nare you single? Need to know so I know if I am allowed to make a move on you or not.
+latitude=-33.8892
+time=2016-09-19T02:30:36+0000

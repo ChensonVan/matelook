@@ -1,0 +1,5 @@
+from=z5051889
+time=2016-10-06T01:11:33+0000
+longitude=151.0278
+message=Someone once told me that I should start looking for a boyfriend in second year. Somehow I don't think that's going to happen.
+latitude=-33.7021

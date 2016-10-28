@@ -1,0 +1,5 @@
+time=2016-10-04T15:30:23+0000
+message=To the brown babe on library lawn on Friday afternoon, you have a gorgeous smile.\nBy the way, your oriental friend's black thong was equally impressive ;P
+from=z5118185
+longitude=151.1922
+latitude=-33.8889

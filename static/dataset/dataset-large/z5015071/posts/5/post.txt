@@ -1,0 +1,5 @@
+time=2013-04-22T03:03:46+0000
+message=To the really cute guy in my Bios 1301 lab on tuesday afternoons. I think your name is Louis (Lewis?) and I really love your smile. I wish I sat at your table during the labs and got to talk to you. Now that the labs are over, it sucks knowing that my chances of seeing you again are slim because the lectures are so large.
+latitude=-33.9176
+longitude=151.2265
+from=z5015071

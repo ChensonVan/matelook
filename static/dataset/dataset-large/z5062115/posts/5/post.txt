@@ -1,0 +1,5 @@
+from=z5062115
+longitude=151.2040
+message=To my Scandinavian psychology babe.\nI know you can't read my mind, but I wish you could cause I've been drooling over you all year. Don't need no psychologist session when I get to see your pretty smile and sense of humor.\n\n- Love from the tall guy in your Monday lecture
+latitude=-33.9160
+time=2016-09-05T09:03:41+0000

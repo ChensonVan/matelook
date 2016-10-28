@@ -1,0 +1,5 @@
+from=z5104907
+latitude=-33.9205
+time=2016-09-22T06:19:03+0000
+message=Karen L in education\n\nU single? Id really like to take you out for coffee some time :)
+longitude=151.2231

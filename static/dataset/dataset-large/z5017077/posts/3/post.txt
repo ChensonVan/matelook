@@ -1,0 +1,5 @@
+from=z5017077
+latitude=-33.9081
+message=To the guy who was outside the Mech. Engineering building on this late Wednesday evening, wearing the white "evil" T-shirt,\n\nI don't know who you are. I don't know your name. I don't know really anything about you. But what I do know is that you have overwhelmingly large biceps. What I have are a very particular set of skills. Skills I have acquired over a very long career. Skills that make me a nightmare for people like you. If you show yourself at the quad food court amongst the Hellsocians this coming Tuesday at 12.30, that'll be the end of it. I will not look for you, I will not pursue you. But if you don't, I will look for you, I will find you and I will (always) love you.\n\n#
+time=2013-04-25T08:28:04+0000
+longitude=151.2251

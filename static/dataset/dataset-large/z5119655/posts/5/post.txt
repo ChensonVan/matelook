@@ -1,0 +1,5 @@
+latitude=-33.9030
+message=To Asri in third year med, I think I need an arthroplasty cause I fractured my hip falling for you ;)
+longitude=151.0017
+time=2013-07-31T03:29:39+0000
+from=z5119655

@@ -1,0 +1,5 @@
+time=2013-08-19T12:43:09+0000
+longitude=151.2265
+latitude=-33.9174
+from=z5110851
+message=To that asian guy called Jono (?) from Engineering in his final year:\n\nAre you from Korea? Because you could be my Seoul mate!!!

@@ -1,0 +1,3 @@
+time=2016-05-17T06:36:38+0000
+message=z5062448 Still not understanding this logic?
+from=z5117170

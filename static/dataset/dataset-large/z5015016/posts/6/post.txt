@@ -1,0 +1,5 @@
+from=z5015016
+latitude=-33.9200
+longitude=150.8811
+time=2016-08-15T01:52:13+0000
+message=Dear Chun Tung Chou,\nYou make ENGG1811 sosoba exciting.\n- Your students who were sosoba listening <3

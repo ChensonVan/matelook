@@ -1,0 +1,5 @@
+latitude=-33.9110
+message=Just met this hot guy on the train to the uts frat party. Didnt catch his name but he was in an nfl jersey and said he went to unsw and got off before I got a chance to properly talk to him. If you see this show urself xo
+from=z5115039
+longitude=151.2428
+time=2016-06-20T05:24:23+0000

@@ -1,0 +1,5 @@
+time=2016-05-26T06:26:12+0000
+longitude=151.2207
+message=To the guys that play Chess at the quad, are you good enough to check-mate me in bed ? ;)
+from=z5062448
+latitude=-33.9224

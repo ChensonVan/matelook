@@ -1,0 +1,5 @@
+latitude=-33.9194
+from=z5075923
+longitude=151.2388
+message=To that beautiful halfie guy at Monday's CHEM1041 lecture wearing that bright blue sweater:\nYou excite me more than electrons during UV-Vis spectroscopy.\nLove, a geeky Chem Eng student.
+time=2016-08-11T14:12:03+0000

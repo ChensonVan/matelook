@@ -1,0 +1,5 @@
+message=The tall Eurasian girl with long brown hair in year one doing management and business statistics and a really cute smile. You said your dad's from NZ and your mom's from China I think your name's Christine or Kristine? I don't see you often enough but I'd like to get to know you better. Coffee sometime?
+longitude=151.1802
+time=2013-04-23T11:09:01+0000
+latitude=-33.8894
+from=z5013363

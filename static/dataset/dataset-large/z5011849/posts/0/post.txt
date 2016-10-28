@@ -1,0 +1,5 @@
+latitude=-33.9165
+from=z5011849
+longitude=151.2334
+time=2013-04-14T05:20:19+0000
+message=To that couple that can't keep their hands to themselves in my Operating Systems lecture, either stop or let me join in. It's a computing course, that's just harsh to everyone else!

@@ -1,0 +1,5 @@
+message=To the cute girl with blonde hair in the Red Centre, we had to squeeze past each other in the corridor, I have dark hair and was wearing glasses and a white shirt. You were really pretty, coffee sometime?
+latitude=-33.9240
+from=z3384642
+time=2016-05-12T12:42:48+0000
+longitude=151.2564

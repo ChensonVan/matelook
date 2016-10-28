@@ -1,0 +1,5 @@
+longitude=151.2359
+message=How important is 'the future' in a relationship? My boyfriend is the sweetest guy EVER and I don't want to hurt him but I just don't ever see myself marrying him. I thought that it didn't matter, since we're only 19, but should I break up with him now in order to save him pain in the future? Am i wasting his time 2016?
+time=2016-08-10T07:56:44+0000
+from=z3379830
+latitude=-33.9182

@@ -1,0 +1,5 @@
+longitude=151.2666
+message=So I saw this really cute guy driving in a 2015 White Jep Wrangler (yes I know my cars) down Anzac Pde on Monday afternoon around 4:30. Think his license plate was 96NATE. I have no idea if he's even from UNSW but if he is I just wanted to say he was pretty cute and handsome looking from where I was sitting on the bus.
+latitude=-33.9058
+time=2016-08-25T04:08:21+0000
+from=z5018348

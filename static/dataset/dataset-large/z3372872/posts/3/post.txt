@@ -1,0 +1,5 @@
+message=I'm only a first year and I feel my standards are dropping as fast as my WAM. x \nhmu girls n boys for a fun time
+longitude=151.2291
+time=2016-04-30T22:41:07+0000
+from=z3372872
+latitude=-33.9249

@@ -1,0 +1,5 @@
+message=There's this really cute guy called Dimitar Berbatov in my Electrical Engineering tutorial on a Friday. I've stalked you on Facebook and noticed you love your football. Maybe we can watch a game together sometime.
+from=z5020200
+time=2013-04-10T08:56:46+0000
+latitude=-33.9144
+longitude=151.2206

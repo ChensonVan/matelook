@@ -1,0 +1,5 @@
+longitude=151.2035
+time=2013-04-26T03:27:20+0000
+message=To all the sexy professors on campus. Looking for a mistress. I'll be at your service ;).
+from=z5019746
+latitude=-33.8498

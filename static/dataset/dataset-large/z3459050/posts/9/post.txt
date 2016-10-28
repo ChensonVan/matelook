@@ -1,0 +1,5 @@
+time=2013-04-25T08:02:22+0000
+from=z3459050
+message=To kim you used to talk to me in first year and I had a huge crush on you. And then all of a sudden you stopped. WHY????
+latitude=-33.8681
+longitude=151.2094

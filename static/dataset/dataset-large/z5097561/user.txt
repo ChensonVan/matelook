@@ -1,0 +1,11 @@
+program=Engineering (Honours)
+email=V.Incontrada@unsw.edu.au
+home_suburb=University Of New South Wales
+courses=[2016 S1 ENGG1000, 2016 S1 ENGG1811, 2016 S1 MATH1131, 2016 S1 PHYS1121, 2016 S2 ENGG1400, 2016 S2 GMAT1110, 2016 S2 MATH1231, 2016 S2 PHYS1121]
+home_longitude=151.2388
+password=marvin
+home_latitude=-33.9102
+mates=[z5077163, z5113496, z5109880, z5017241]
+birthday=1995-05-20
+zid=z5097561
+full_name=Vanessa Incontrada

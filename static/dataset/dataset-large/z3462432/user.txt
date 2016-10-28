@@ -1,0 +1,11 @@
+courses=[2016 S1 COMP1917, 2016 S1 ECON1101, 2016 S1 MATH1131, 2016 S1 MGMT1001, 2016 S2 ACCT1501, 2016 S2 FINS1613, 2016 S2 MATH1231]
+mates=[z5060573, z5091950, z5092194, z5099187, z5116685]
+home_longitude=151.2075
+home_suburb=Mcmahons Point
+program=Commerce / Computer Science
+birthday=1996-09-24
+home_latitude=-33.8498
+password=fishing
+email=G.W Bush@unsw.edu.au
+full_name=George W Bush
+zid=z3462432

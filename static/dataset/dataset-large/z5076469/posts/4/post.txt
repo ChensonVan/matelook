@@ -1,0 +1,5 @@
+message=I know you'll be reading this never knowing its me who wrote it, but I just wanted to say that your the reason I chose UNSW. I don't regret it even though all you want from me is friendship. I'm willing to suffer seeing you almost every day at uni just to make you happy and preserve our friendship even when it aches my heart. I'll be waiting in the hope that one day you'll see me in a different light.
+time=2013-04-20T10:47:34+0000
+latitude=-33.8483
+longitude=151.2020
+from=z5076469

@@ -1,0 +1,5 @@
+longitude=151.2318
+from=z3458908
+time=2013-04-18T04:53:16+0000
+message=To the Greek guy who's name is James, I always see you in my Management Accounting lecture and am just struck by your looks and your style. My journal is open for entry.
+latitude=-33.8819

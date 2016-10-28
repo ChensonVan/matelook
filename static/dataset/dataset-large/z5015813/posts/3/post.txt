@@ -1,0 +1,5 @@
+latitude=-33.9231
+longitude=151.2321
+from=z5015813
+message=You're the most amazing person I've ever met. Intellectual, athletic, personable, and beautiful beyond anyone's comprehension. In this fleeting existence, the greatest regret I'll ever hold is never being able to meet anyone as brilliant as you. I want to you to know that I love you, forever and always. \n\n(as I look fondly into a mirror)
+time=2016-09-08T08:55:21+0000

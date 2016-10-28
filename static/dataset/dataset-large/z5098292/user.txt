@@ -1,0 +1,11 @@
+zid=z5098292
+email=P.Gilmour@unsw.edu.au
+home_longitude=151.2022
+program=Information Technology
+home_suburb=Botany
+birthday=1997-12-18
+full_name=Peter Gilmour
+home_latitude=-33.9355
+password=jasper
+courses=[2016 S2 COMP9020, 2016 S2 COMP9021, 2016 S2 COMP9311, 2016 S2 GSOE9820]
+mates=[z5079464, z3394912]

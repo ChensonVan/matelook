@@ -1,0 +1,5 @@
+message=To Tom Dransfield.\n\nThank you for your marvellous creation which is Bojangles. Saves a lot of time and makes me feel at least half organised about next sem\nPSA: it's updated for Semester 2's timetable this year!!\n\nYours truly,\nAll UNSW students xx
+from=z3464412
+time=2016-04-15T23:21:59+0000
+longitude=151.2336
+latitude=-33.9243

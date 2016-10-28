@@ -1,0 +1,5 @@
+message=To the Asian girl with glasses who works for Arc: Coffee?
+time=2016-04-29T08:12:54+0000
+from=z5092194
+longitude=151.2359
+latitude=-33.9124

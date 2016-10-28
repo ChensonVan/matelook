@@ -1,0 +1,5 @@
+time=2016-06-22T15:06:50+0000
+from=z3459050
+message=Awkward moment when you had a love letter posted about you when you were in a relationship but now you're single and don't know who posted it (dat timing)
+longitude=151.2094
+latitude=-33.8681

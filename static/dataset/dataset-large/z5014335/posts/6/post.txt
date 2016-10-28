@@ -1,0 +1,5 @@
+from=z5014335
+message=To Andy in first year french, us girls in the lecture want some of your french stick.
+latitude=-34.0943
+longitude=150.7954
+time=2013-05-23T02:13:43+0000

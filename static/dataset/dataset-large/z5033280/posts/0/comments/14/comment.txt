@@ -1,0 +1,3 @@
+message=z5099358 teach me ur ways
+from=z5077163
+time=2016-07-26T00:00:23+0000

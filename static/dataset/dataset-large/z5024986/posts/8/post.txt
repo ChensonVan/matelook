@@ -1,0 +1,5 @@
+from=z5024986
+latitude=-33.8998
+message=I have been kicking myself ever since our last tutorial class in EDST1101 on Wednesdays at 1 p.m.because I was never able to get your name or have a proper conversation with you. This post is my last hope. To the gorgeous Asian girl in my class who never usually spoke but would light up the room whenever she smiled. You were friends with this asian guy who would laugh a lot and he looked after my bag after the last class test (dude if u know her name help a brother out!). From the guy who was late to every lesson.
+time=2013-07-04T00:22:25+0000
+longitude=151.1764

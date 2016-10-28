@@ -1,0 +1,5 @@
+message=To the girl in my statistics class, I think your friends call you llama, I have to tell you that I have fallen for you. Your beautiful, soft brown hair reminds me of a llama's butt, so soft and velvety. Will you go on a date with me? Alpaca lunch.
+from=z5112578
+time=2016-06-22T12:24:05+0000
+latitude=-33.8812
+longitude=151.2427

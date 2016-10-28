@@ -1,0 +1,5 @@
+latitude=-33.9166
+from=z3485783
+message=To the hot coffee guy from the Quad you put your love in coffee, maybe one day you could put it in me ;)
+time=2013-05-27T22:02:47+0000
+longitude=151.2280

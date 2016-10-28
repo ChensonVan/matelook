@@ -1,0 +1,5 @@
+message=I have a question to all you first year guys - would you date a third/fourth year girl?
+from=z5118764
+longitude=151.2670
+time=2013-10-02T06:05:58+0000
+latitude=-33.9047

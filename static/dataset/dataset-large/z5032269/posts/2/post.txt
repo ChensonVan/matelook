@@ -1,0 +1,5 @@
+from=z5032269
+message=i hate you i like you i hate that i still like you\nwhy usyd instead\neverytime seeing you tagging a girl makes me wanna cry\n\nbut at least i have the right to like you forever and its none of your business :'(
+latitude=-33.9088
+time=2016-08-03T14:25:54+0000
+longitude=151.2221

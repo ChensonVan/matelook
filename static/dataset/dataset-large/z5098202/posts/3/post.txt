@@ -1,0 +1,5 @@
+latitude=-33.8582
+from=z5098202
+longitude=151.2097
+message=to the beautiful girl with long brown hair who sits in the front in physiology lectures in clancy auditorum. i wish i knew your name......
+time=2013-04-21T01:56:03+0000

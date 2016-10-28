@@ -1,0 +1,3 @@
+time=2016-08-23T13:30:27+0000
+message=His WAM is above HD
+from=z5113482

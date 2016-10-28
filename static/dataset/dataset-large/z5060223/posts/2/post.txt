@@ -1,0 +1,5 @@
+from=z5060223
+longitude=151.2272
+latitude=-33.9117
+time=2016-10-02T03:03:53+0000
+message=To the second year med girl sitting near the front during the neurotransmittion lecture,\nI saw you reading the Australian's national inquirer section, I too enjoy high quality intellectual discourse, and would love to discuss some neoliberal ideas with you.\nCoffee sometime?

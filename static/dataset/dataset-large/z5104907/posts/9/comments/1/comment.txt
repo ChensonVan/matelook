@@ -1,0 +1,3 @@
+from=z5060306
+message=z5020683!!! Ahaha serotonin!
+time=2016-10-02T03:18:01+0000

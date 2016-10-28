@@ -1,0 +1,5 @@
+from=z5047799
+time=2013-09-27T08:52:10+0000
+latitude=-33.9484
+message=To my dearest darling, Nicola Mackey,\nEvery time I see you, I feel so happy.
+longitude=151.2304

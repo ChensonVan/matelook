@@ -1,0 +1,11 @@
+courses=[2016 S1 INFS5621, 2016 S1 INFS5848, 2016 S1 INFS5885, 2016 S1 INFS5991, 2016 S2 INFS5740, 2016 S2 INFS5831, 2016 S2 INFS5873, 2016 S2 INFS5907]
+email=J.Clayson@unsw.edu.au
+password=naked
+mates=[z5062957, z9591011]
+home_longitude=151.2485
+full_name=Jane Clayson
+home_latitude=-33.9050
+program=Information Systems Management
+birthday=1995-10-19
+zid=z3484437
+home_suburb=Waverley

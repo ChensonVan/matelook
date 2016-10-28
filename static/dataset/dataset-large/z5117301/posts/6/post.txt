@@ -1,0 +1,5 @@
+latitude=-33.9349
+from=z5117301
+time=2016-08-14T12:58:17+0000
+message=s/o to the PSYC2101 kids who ask questions i actually need answers to. Also, I get that CRIM1011 wants to encourage attendance for guest lecturers to keep returning but I need the lecs man, sometimes i just cbf getting up for a 9 am lec...
+longitude=151.2277

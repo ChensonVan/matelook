@@ -1,0 +1,5 @@
+latitude=-33.9129
+message=To the cute girl who's the president of NUTS! I first saw you at the O-week stall, I was breathless in the face of your shear beauty. I was asked to join the society and initially refused. I felt your gaze as I waked away. I'm now infatuated with you, and I know that one day we will be married.
+time=2013-03-25T21:47:30+0000
+longitude=151.2210
+from=z5013191

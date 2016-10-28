@@ -1,0 +1,5 @@
+from=z3459054
+longitude=151.2209
+message=To the girl on the Main UNSW homepage.. Jasmine Peters her name is I think. \nDayum girl.. How can you manage to be so pretty? :O\nBeauty with brains! <3\n\nOne of your many secret Admirers. :*
+latitude=-33.9216
+time=2013-11-14T00:19:26+0000

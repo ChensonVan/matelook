@@ -1,0 +1,5 @@
+longitude=151.1696
+time=2013-10-17T21:59:07+0000
+message=Dr Ann Lee, my heartthrob numerical methods lecturer, I wish to see you more frequent in delivering lectures!
+from=z5115780
+latitude=-33.8754

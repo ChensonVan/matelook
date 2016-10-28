@@ -1,0 +1,5 @@
+message=To the girl in my math1231 lecture who was watching videos of rabbits on youtube, I have a pet rabbit. Wanna come to my house to rabbit and chill?
+latitude=-33.8778
+from=z5098071
+time=2016-09-23T14:08:48+0000
+longitude=151.1199

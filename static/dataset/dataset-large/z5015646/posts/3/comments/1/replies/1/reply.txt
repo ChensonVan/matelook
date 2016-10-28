@@ -1,0 +1,3 @@
+message=Big disaster
+from=z5098071
+time=2016-06-15T05:42:14+0000

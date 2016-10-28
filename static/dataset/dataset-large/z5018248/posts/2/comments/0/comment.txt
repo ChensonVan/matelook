@@ -1,0 +1,3 @@
+message=You borrowed a shoe rack from a girl??!\n\n*round of applause*
+time=2013-09-22T13:33:48+0000
+from=z3452764

@@ -1,0 +1,5 @@
+from=z5019177
+time=2016-08-11T14:21:42+0000
+message=Luke Sharp... Please be gay.
+longitude=151.2274
+latitude=-33.9108

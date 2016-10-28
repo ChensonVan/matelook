@@ -1,0 +1,5 @@
+latitude=-33.9263
+longitude=151.2357
+message=None of ya'll first years will know the feeling of falling in love every time you opened moodle to see those glistening eyes of the mysterious beauty (aka "the moodle girl") looking back at you #realtalk #firstunicrush #bringherback
+time=2016-04-28T22:16:17+0000
+from=z5060477

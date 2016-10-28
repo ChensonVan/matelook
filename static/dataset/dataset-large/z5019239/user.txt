@@ -1,0 +1,11 @@
+birthday=1997-11-02
+email=N.Jones@unsw.edu.au
+password=superman
+home_latitude=-33.9890
+program=Law
+courses=[2016 S1 LAWS8028, 2016 S1 TABL5503, 2016 S2 LAWS8219, 2016 S2 TABL5526]
+full_name=Norah Jones
+home_suburb=Alfords Point
+home_longitude=151.0169
+zid=z5019239
+mates=[z5062245, z5059421, z5113715, z3289658, z5113047, z5014229, z5109786]

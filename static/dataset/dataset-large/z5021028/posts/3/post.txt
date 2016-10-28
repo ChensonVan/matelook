@@ -1,0 +1,5 @@
+longitude=151.2396
+time=2013-05-13T23:26:45+0000
+latitude=-33.9081
+message=To Roger, I never got the chance to talk to you. I saw you outside the exam hall, and I just had to run to the bus stop. Is it possible for you to maybe come and talk to me? I'll be sitting in the 2nd row from the front around the middle in the first lecture on wednesday x_x hope you see me.
+from=z5021028

@@ -1,0 +1,5 @@
+time=2016-06-28T14:26:41+0000
+latitude=-33.9182
+message=JDate, anyone?
+longitude=151.1942
+from=z3461271

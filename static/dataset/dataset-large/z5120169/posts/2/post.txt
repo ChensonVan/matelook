@@ -1,0 +1,5 @@
+message=As salaam alaykum. Clearly my HSP post didn't get posted in time, so I'll remake the offer:\n\nIf someone can take me to get a juicy HSP any time on Wednesday 27th April after 2pm, meet me out the front of the library. You'll know who I am. I'll be wearing the white HSPAS shirt. I may be a few minutes late, I'll be coming from lower campus.\n\nJust looking for a friend to make a pilgrimage with. Mashallah
+latitude=-33.7577
+time=2016-04-28T08:33:40+0000
+longitude=151.0009
+from=z5120169

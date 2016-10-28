@@ -1,0 +1,5 @@
+time=2013-06-02T02:48:23+0000
+longitude=151.2265
+message=Sarah Lugay, I saw you walking alone this morning. You are pretty in picture, but you're much prettier in person.
+latitude=-33.9220
+from=z5097972

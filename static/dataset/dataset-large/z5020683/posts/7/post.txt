@@ -1,0 +1,3 @@
+message=To the guy playing the saxophone in the quad, I'd let you whisper carelessly into my ear. ;)
+from=z5020683
+time=2016-05-24T06:08:48+0000

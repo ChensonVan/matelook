@@ -1,0 +1,5 @@
+longitude=151.0492
+time=2016-09-16T15:49:26+0000
+latitude=-33.9068
+message=To W.Z from Commerce.\nI can't stop thinking about you and how you are the CEO of China. Can you take charge and manage my bedroom? \n\nI can teach you how to MATH \nFirst you add the bed\nThen you subtract the clothes\nDivide the legs\nThen we multiply
+from=z5062448

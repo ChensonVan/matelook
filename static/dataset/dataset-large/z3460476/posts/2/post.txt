@@ -1,0 +1,5 @@
+time=2016-06-03T01:06:35+0000
+longitude=151.0785
+message=Stella Wang I need your advice. For the past few months I've been chatting with this girl on an almost daily basis, and have gotten quite close to her, to the point where she would update me on stuff like what she would eat for lunch and dinner every day. Despite all my friends constantly asking me if we were dating, I only really considered her as a friend. Until VERY recently though, I've started to develop strong feelings for her. What should I do? I don't know if she thinks of  us as the friends that I once thought we were myself, but I don't want to potentially ruin a friendship because I caught some feels. Please advise me, it's tearing me apart right now.
+latitude=-33.9551
+from=z3460476

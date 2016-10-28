@@ -1,0 +1,5 @@
+latitude=-33.5954
+longitude=150.8962
+message=To the girl who looks like Liu Wen, I saw you drying your tears and I wanted to give you a hug. ):\nDon't let anyone or anything reduce you to tears, cause you're a shining star.
+time=2016-04-28T05:45:22+0000
+from=z3330003

@@ -1,0 +1,5 @@
+time=2016-07-10T10:33:13+0000
+message=To Sam T doing Micro 2 \n\nNot sure if it's just me but I feel like we make a lot of random eye contact for people who don't know each other. To be honest, I think you're kind of cute. Coffee sometime?
+longitude=150.8976
+from=z5118782
+latitude=-33.9705

@@ -1,0 +1,11 @@
+email=M.Hakim@unsw.edu.au
+full_name=Miguel Hakim
+zid=z3462326
+courses=[2016 S2 BABS2204, 2016 S2 BINF2010, 2016 S2 BIOS2011, 2016 S2 MSCI2001]
+password=ou812
+home_suburb=Bondi
+home_latitude=-33.8953
+birthday=1993-09-26
+home_longitude=151.2593
+mates=[z3463809, z5077876, z9591011]
+program=Exchange Program

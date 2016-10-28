@@ -1,0 +1,5 @@
+latitude=-33.7427
+message=To Khan from VSA, please stop dressing like a f***boy even though you aren't.  \n\nSincerely, \nAll of the cute girls on campus.
+time=2016-06-19T13:59:35+0000
+from=z5010380
+longitude=150.8399

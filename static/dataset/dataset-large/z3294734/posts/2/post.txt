@@ -1,0 +1,5 @@
+from=z3294734
+longitude=151.2230
+latitude=-33.9082
+time=2016-08-14T01:20:47+0000
+message=To the brown haired girl in my MATH 1251 lecture, I think your name is Hannah (from yesterday!!)? You looked soo cute embarrassed when u were singled out by the lecturer for talking yesterday. Study complex numbers with me some time?

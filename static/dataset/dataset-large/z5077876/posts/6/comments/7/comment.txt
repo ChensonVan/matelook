@@ -1,0 +1,3 @@
+from=z5062024
+message=z3462326 they think ur some chinese fob
+time=2013-06-18T02:52:28+0000

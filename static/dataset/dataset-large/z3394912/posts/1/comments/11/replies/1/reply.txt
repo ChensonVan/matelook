@@ -1,0 +1,3 @@
+from=z5062448
+time=2016-08-17T15:12:06+0000
+message=gotta dink head first if you know what i mean

@@ -1,0 +1,5 @@
+message=To the tall, hot guy in my fundamental mathematics class who was wearing shorts and shirt in a cold, windy Friday. I want to be your thermal.
+from=z3431766
+time=2013-05-09T10:52:40+0000
+latitude=-33.7933
+longitude=151.2920

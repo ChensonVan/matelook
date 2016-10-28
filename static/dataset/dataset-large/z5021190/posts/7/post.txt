@@ -1,0 +1,5 @@
+from=z5021190
+latitude=-33.9130
+message=We were close,\nBut in an instant we weren't\nAnd you replaced me with a prettier more capable better woman\nThey don't call them crushes for no reason \nBecause they will never know the pain :( \nTrusted too easy
+longitude=151.2289
+time=2016-08-29T01:06:37+0000

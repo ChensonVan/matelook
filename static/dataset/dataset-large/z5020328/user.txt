@@ -1,0 +1,11 @@
+mates=[z3459423, z5113715, z5059325, z5043226, z3493921, z5113614, z3461271, z5025014, z5076554, z3417937, z5059064]
+courses=[2016 S1 BABS1201, 2016 S1 CHEM1011, 2016 S1 CHEM1021, 2016 S1 COMP1917, 2016 S1 ENGG1000, 2016 S1 MATH1131, 2016 S1 PHYS1111, 2016 S1 SCIF6106, 2016 S2 BABS2011, 2016 S2 BABS2202, 2016 S2 BABS2204, 2016 S2 BIOC2201]
+email=M.Hofland@unsw.edu.au
+zid=z5020328
+program=Engineering (Hons) / Science
+home_latitude=-33.9198
+home_suburb=University Of New South Wales
+home_longitude=151.2211
+birthday=1993-04-22
+password=jordan
+full_name=Michelle Hofland

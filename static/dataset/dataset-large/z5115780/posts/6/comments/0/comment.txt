@@ -1,0 +1,3 @@
+from=z5024963
+message=It's full of people who write love letters to themselves anonymously.
+time=2014-06-02T05:46:19+0000

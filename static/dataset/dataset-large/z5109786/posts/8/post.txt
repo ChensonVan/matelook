@@ -1,0 +1,5 @@
+from=z5109786
+longitude=151.2243
+latitude=-33.9083
+message=Dear Lindsay Kenyon,\n\nYou might have a girl's name\nBut you got this girl's heart\n\nXoxo, Ya Wife
+time=2016-08-22T14:53:13+0000

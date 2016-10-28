@@ -1,0 +1,5 @@
+from=z3494117
+latitude=-33.8934
+longitude=151.1887
+time=2016-07-03T07:41:30+0000
+message=To Melissa Wang. You're a dingo! Fight me moite!

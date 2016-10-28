@@ -1,0 +1,5 @@
+time=2015-10-19T23:30:54+0000
+from=z5025090
+latitude=-33.8635
+longitude=151.2743
+message=Thank you to the amazing person who handed in my laptop that I left at Jewel of India yesterday (onion bhajis were clearly more on my mind). Thank you so much!

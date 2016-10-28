@@ -1,0 +1,5 @@
+time=2013-05-27T21:59:22+0000
+from=z3418003
+message=Am I the only single person on campus that checks this page everyday to see if someone posted about me?
+longitude=151.2355
+latitude=-33.9134

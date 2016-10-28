@@ -1,0 +1,5 @@
+message=Dear UNSW,\n\nI'd like to take say thank you and express my love for you, you've given me a wonderful 4 years, with every moment challenging me to grow both as a person and a professional, I loved every moment - the good and the bad.\n\nYou were my first choice, and no doubt you will be my last. Here's to everyone graduating/finishing their last sem this year. I wish you all the best, and can only hope that your time at uni has been as eventful as mine. \n\nI love you UNSW, faults and all.
+longitude=151.2307
+from=z3480991
+latitude=-33.9192
+time=2013-11-13T21:46:46+0000

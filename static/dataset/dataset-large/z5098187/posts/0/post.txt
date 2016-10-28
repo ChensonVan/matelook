@@ -1,0 +1,5 @@
+from=z5098187
+longitude=151.2068
+latitude=-33.8635
+time=2013-08-12T13:34:17+0000
+message=To vicky, coptic shortie your a funkymonkey ;) Why don't we measure the coefficient of static friction between me and you?

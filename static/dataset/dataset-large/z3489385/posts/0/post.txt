@@ -1,0 +1,5 @@
+from=z3489385
+message=Test Post, Please Ignore.
+time=2013-03-28T10:10:26+0000
+longitude=151.2364
+latitude=-33.8683

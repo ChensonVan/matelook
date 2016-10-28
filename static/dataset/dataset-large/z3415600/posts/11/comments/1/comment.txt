@@ -1,0 +1,3 @@
+from=z5017822
+time=2013-06-26T03:03:00+0000
+message=im taken

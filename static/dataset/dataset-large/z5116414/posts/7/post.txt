@@ -1,0 +1,5 @@
+message=Dearest Christina Lau,\n\nYou were on my 9:23 train when I got on at Hurstville last Monday. We kept making awkward eye contact, but I found you extrememly cute dressed in all black and holding defqon posters. Hope we can rave n chill? \n\nSincerely, the guy in your MGMT1001 tutorial.
+time=2016-07-02T00:14:33+0000
+longitude=151.2227
+latitude=-33.9215
+from=z5116414

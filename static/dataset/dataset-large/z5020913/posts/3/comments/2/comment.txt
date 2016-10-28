@@ -1,0 +1,3 @@
+from=z5115454
+time=2013-04-10T12:24:52+0000
+message=z5028693 ! You like cows and throw things like a weirdo.

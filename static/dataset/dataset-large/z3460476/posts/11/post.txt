@@ -1,0 +1,5 @@
+latitude=-33.8819
+time=2016-04-20T12:04:16+0000
+message=hello good people of unsw love letters,\n\ncould you all please help a sister (or bro) out and tag any cute, single, TALL guys \n\nmucho gracias
+longitude=151.2520
+from=z3460476

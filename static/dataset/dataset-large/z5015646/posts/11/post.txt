@@ -1,0 +1,5 @@
+time=2013-03-22T09:19:17+0000
+latitude=-33.8033
+longitude=151.1045
+message=To the boy in my BIM lecture, you always sit by yourself with your old camera. you look like a modern day asian peter parker and you're too cute when you fall asleep :D
+from=z5015646

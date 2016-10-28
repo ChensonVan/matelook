@@ -1,0 +1,5 @@
+from=z3460924
+longitude=151.2387
+time=2013-08-14T05:08:26+0000
+latitude=-33.9072
+message=Roses are Red\nViolets are Blue\nYou're blowing my mind.\nKeep going Davu.\n\n<3 Your KK #unswlawrevue

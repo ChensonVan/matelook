@@ -1,0 +1,5 @@
+longitude=151.2293
+message=Yatz. Dat ass <3
+time=2013-08-12T10:39:24+0000
+latitude=-33.9138
+from=z3493008

@@ -1,0 +1,5 @@
+longitude=151.2411
+time=2016-06-16T01:31:03+0000
+message=Jeremy Kugo,\nYou are the biggest ball of fluff I have ever met. \nBe my d8 for enginerring ball m8?
+latitude=-33.9779
+from=z3463739

@@ -1,0 +1,5 @@
+longitude=151.2176
+from=z5048360
+message=To the guy i met ( and his friends) at the o-week roundhouse party: I have by now been to a few more parties but you're still on my mind. I wish I didn't have to leave with my friends, pop up to me, I will take an hour travelling to uni on a day without class just to see you. We haven't seen each other since so I doubt we will see each other again...
+time=2016-06-25T11:20:44+0000
+latitude=-33.8638

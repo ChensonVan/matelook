@@ -1,0 +1,5 @@
+message=To the ArtsSoc President, I know you took a bit of Chinese in first year and may not get everything, but this is what I would sing to you to express my love for you. I'll translate for you if you don't get it. :P But trust me, it sounds fabulous when you hear it. :D http://www.youtube.com/watch?v=ULcmgv837MQ P.s. make dat 5eva instead of forever.
+from=z5117020
+latitude=-33.9212
+longitude=151.2288
+time=2013-06-12T00:27:48+0000

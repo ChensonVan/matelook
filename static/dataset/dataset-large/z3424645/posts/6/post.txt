@@ -1,0 +1,5 @@
+message=Eugene Wai,\nEu genes are so amazing,\nWai can't I stop thinking about Eu,\nWill Eu be my Waifu pls
+from=z3424645
+longitude=151.2217
+time=2016-08-29T09:50:23+0000
+latitude=-33.9226

@@ -1,0 +1,5 @@
+message=To the cute Indian guy in my late night INFS1602 tutorial. I wish you would approach me...\n- a shy asian girl
+time=2016-08-21T14:10:08+0000
+latitude=-33.9195
+longitude=151.2240
+from=z5060140

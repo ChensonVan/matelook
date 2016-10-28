@@ -1,0 +1,5 @@
+from=z3468575
+time=2015-03-05T20:42:36+0000
+longitude=151.2568
+latitude=-33.9080
+message=KB,\n\n# MAKEUP adds character.  #I KID #No offence # I want to be a hairdresser # I know it hurts.\n\n-F

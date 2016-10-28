@@ -1,0 +1,5 @@
+from=z5062482
+time=2016-05-25T13:10:46+0000
+latitude=-33.9092
+message=To the tall guy in blue and with swag.\nSaw you walking down Main Walkway like a model.\nBrown Raybans and Oxfords on point.\nWho even casually whistles like that anymore?\nPretty cute, would stare at again /10\nDefinitely bringing a camera next time.\n\nFrom,\nThe girl sitting on the grass.
+longitude=151.2602

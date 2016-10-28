@@ -1,0 +1,5 @@
+from=z5019161
+latitude=-33.7563
+longitude=151.0796
+time=2013-04-15T15:16:16+0000
+message=Amartya Bose, you blow my mind. You are the most beautiful indian boy at UNSW.

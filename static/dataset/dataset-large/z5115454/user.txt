@@ -1,0 +1,11 @@
+home_suburb=Redfern
+home_longitude=151.1990
+zid=z5115454
+password=white
+full_name=Diana Krall
+mates=[z5004426, z5020476, z5013098]
+email=D.Krall@unsw.edu.au
+courses=[2012 S1 COMP1917, 2016 S1 ARTS1630, 2016 S1 COMP1927, 2016 S1 COMP3441, 2016 S1 MATH1131, 2016 S2 ARTS1631, 2016 S2 COMP9447, 2016 S2 MATH1081]
+home_latitude=-33.8904
+birthday=1997-12-16
+program=Senior Secondary Student Prog

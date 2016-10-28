@@ -1,0 +1,68 @@
+{% macro render_pagination(url, query, pagination) %}
+    {% if query %}
+        {% set _url_ = url + '?query=' + query + '&&' + 'page=' %}
+    {% else %}
+        {% set _url_ = url + '?page=' %}
+    {% endif %}
+    <nav>
+        <ul class=pagination>
+            {% if pagination.has_prev %}
+                <li><a href="{{ _url_ }}{{ pagination.page - 1 }}" aria-label="Previous">
+                <span aria-hidden="true">&lt;</span>
+                </a></li>
+            {% endif %}
+            {%- for page in pagination.iter_pages() %}
+                {% if page %}
+                    {% if page != pagination.page %}
+                        <li><a href="{{ _url_ }}{{ page }}" aria-label="{{ page }}">
+                        <span aria-hidden="true">{{ page }}</span>
+                        </a></li>         
+                    {% endif %}
+                {% else %}
+                    <li><span class=ellipsis>…</span></li>
+                {% endif %}
+            {%- endfor %}
+
+            {% if pagination.has_next %}
+                <li><a href="{{ _url_ }}{{ pagination.page + 1 }}" aria-label="Next">
+                <span aria-hidden="true">&gt;</span>
+                </a></li>
+            {% endif %}
+        </ul>
+    </nav>
+{% endmacro %}
+
+
+{% macro render_pagination2(url, pid, pagination) %}
+    {% if pid %}
+        {% set _url_ = url + '?pid=' + pid + '&&' + 'page=' %}
+    {% else %}
+        {% set _url_ = url + '?page=' %}
+    {% endif %}
+    <nav>
+        <ul class=pagination>
+            {% if pagination.has_prev %}
+                <li><a href="{{ _url_ }}{{ pagination.page - 1 }}" aria-label="Previous">
+                <span aria-hidden="true">&lt;</span>
+                </a></li>
+            {% endif %}
+            {%- for page in pagination.iter_pages() %}
+                {% if page %}
+                    {% if page != pagination.page %}
+                        <li><a href="{{ _url_ }}{{ page }}" aria-label="{{ page }}">
+                        <span aria-hidden="true">{{ page }}</span>
+                        </a></li>         
+                    {% endif %}
+                {% else %}
+                    <li><span class=ellipsis>…</span></li>
+                {% endif %}
+            {%- endfor %}
+
+            {% if pagination.has_next %}
+                <li><a href="{{ _url_ }}{{ pagination.page + 1 }}" aria-label="Next">
+                <span aria-hidden="true">&gt;</span>
+                </a></li>
+            {% endif %}
+        </ul>
+    </nav>
+{% endmacro %}

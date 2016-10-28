@@ -1,0 +1,5 @@
+time=2013-04-07T13:14:29+0000
+latitude=-33.8706
+message=Why are all the sexy guys on upper campus on mondays???? I can't figure this shit out!
+longitude=151.2100
+from=z5017894

@@ -1,0 +1,5 @@
+from=z3406406
+time=2016-08-13T01:49:26+0000
+message=He glides so swiftly\nBack into the grass-\nGives me the courtesy of road\nTo let me pass,\nThat I am half ashamed\nTo seek a stone\nTo kill him. \nComposed by Lily H. to da snakes
+longitude=151.1264
+latitude=-33.8357

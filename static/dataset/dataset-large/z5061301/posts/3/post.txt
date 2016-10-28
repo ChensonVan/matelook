@@ -1,0 +1,5 @@
+longitude=151.2747
+message=To the girl waiting at the bus stop near Mascot Station today (Wednesday) with the little blue hair ties holding up your pigtails... Absolutely adorable. Like seriously...
+time=2016-04-19T07:05:21+0000
+latitude=-33.8545
+from=z5061301

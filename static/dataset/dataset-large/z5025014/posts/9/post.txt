@@ -1,0 +1,5 @@
+from=z5025014
+message=Konrad you are one hot mamma xP. That is all.
+longitude=151.2439
+latitude=-33.9646
+time=2013-10-18T01:45:12+0000

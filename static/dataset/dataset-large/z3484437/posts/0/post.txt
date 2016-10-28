@@ -1,0 +1,5 @@
+latitude=-33.9152
+time=2016-10-02T14:31:57+0000
+message=I know I said very clearly that I wasn't interested (even though I was pretty unsure that you really ever actually were). So yeah, things have changed and its scary because I don't know what to do but I definitely don't want to lose you.
+from=z3484437
+longitude=151.2318

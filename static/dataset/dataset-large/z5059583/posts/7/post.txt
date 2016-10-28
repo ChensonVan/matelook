@@ -1,0 +1,5 @@
+longitude=151.2240
+message=all the girls from the hockey team... enough said.
+from=z5059583
+latitude=-33.8208
+time=2013-10-11T10:01:13+0000

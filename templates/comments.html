@@ -1,0 +1,111 @@
+{% extends '__base__.html' %}
+
+{% block title %}HomePage - MateLook{% endblock %}
+
+{% block beforehead %}
+{% endblock %}
+
+{% block navbar %}
+    <li><a href="{{ url_for('home') }}">HOMEPAGE</a></li>
+    <li><a href="{{ url_for('myposts') }}">MYPOSTS</a></li>
+    <li><a href="{{ url_for('search') }}">FIND FRIENDS</a></li>
+    <li><a href="/notifications">NOTIFICATIONS
+    {% if user.getNotifications()[0] %}
+        <span class="badge badge-theme pull-right">
+            {{ user.getNotifications()[0] }}
+        </span>
+    {% endif %}
+    </a></li>
+    <li><a href="{{ url_for('profile') }}">PROFILE</a></li>
+    <li><a href="{{ url_for('logout') }}">LOGOUT</a></li>
+    <img src={{ "/static/profile/" + user.image }}  alt="profile" style="width:50px;height:50px;" class="img-circle">
+{% endblock %}
+
+{% block content %}
+    <!-- *****************************************************************************************************************
+     BLUE WRAP
+     ***************************************************************************************************************** -->
+    <div id="blue">
+        <div class="container">
+            <div class="row">
+                <h3> Welcome back, {{ user.full_name }}. </h3>
+                {% with messages = get_flashed_messages() %}
+                    {% if messages %}
+                     <ul class="flashes">
+                        {% for message in messages %}
+                            <!-- <div class="message_flash"><h2>{{ message }}</h2></div> -->
+                            <div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert">&times;</button> {{ message }} </div>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                {% endwith %}
+            </div><!-- /row -->
+        </div> <!-- /container -->
+    </div> <!-- /blue -->
+
+    <!-- *****************************************************************************************************************
+    CONTENT
+    ******************************************************************************************************************* -->
+     <div class="container mtb">
+        <div class="row">
+            <div class="col-lg-8">
+                <form action="/post" method="POST" name="post">
+                    <ul>
+                        <textarea class="form-control" name="post" cols="104" rows="5"></textarea><br>
+                        <button type="submit" class="btn btn-theme" style="float:right">Post</button>
+                    </ul>
+                </form>
+                <br><br><br>
+
+                <div class="spacing"></div>
+                <h4>My Posts</h4>
+                <div class="hline"></div>
+                <br>
+                <ul class="popular-posts">
+                    {% for post in user.getPosts() %}
+                        <li>
+                        <div class="col-lg-2">
+                            <a href="#"><img src={{ "/static/profile/" + post.getPosterName()[1]}} alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
+                        </div>
+                        <div class="col-lg-10">
+                            <em>Posted by {{ post.getPosterName()[0] }} on {{ post.time[:-5] }}</em><br>
+                            <p><a href="#"> {{ post.message }} </a></p>
+                        </div>
+                        </li>
+                        <br>
+                        <br>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <!-- *****************************************************************************************************************
+            RIGHT SIDE
+            ****************************************************************************************************************** -->
+            <div class="col-lg-4" style="float:right">
+            <h4>Search</h4>
+            <div class="hline"></div>
+                <br/>   
+                <div class="input-append">
+                    <form action="/search/post" method="GET">
+                        <div class="input-group">
+                            <input type="text" class="form-control" name="query" placeholder="Search posts" style="width:300px;margin:0 auto">
+                            <span class="input-group-btn">
+                                <input type="submit" class="btn btn-secondary" name="action" value="Search" />
+                            </span>
+                        </div>
+                    </form>
+                </div>
+
+            <div class="spacing"></div>
+            
+            <h4>Mate Lists</h4>
+            <div class="hline"></div>
+
+                {% for zid in user.getMates() %}
+                    <p><a href="{{ url_for('matelook', u_zid=zid) }}"><i class="fa fa-angle-right"></i>{{ user.findByKey(zid).full_name }}</a> </p>
+                {% endfor %}
+                <div class="spacing"></div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

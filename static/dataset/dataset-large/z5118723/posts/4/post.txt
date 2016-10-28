@@ -1,0 +1,5 @@
+latitude=-34.0103
+time=2016-06-20T04:21:37+0000
+longitude=151.1173
+from=z5118723
+message=Pana Kapodistrias, why haven't you asked me out yet?\nNoot Noot!\n\nLove,\nAnonymous

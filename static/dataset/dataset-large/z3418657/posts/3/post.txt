@@ -1,0 +1,5 @@
+message=Things didn't quite work out for us. But hey I still like you, and I think I'm still going to quite like you for some time and the fun thing? There's nothing you can do about it ;)
+time=2016-08-23T13:13:53+0000
+latitude=-33.9254
+from=z3418657
+longitude=151.2246

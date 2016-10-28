@@ -1,0 +1,5 @@
+longitude=151.2315
+latitude=-33.9229
+message=Lol to the guy in Epping and nearby neighbour arrested again? WTF 3rd time in 5 months?\n\nwhat did u do we are keen to find out?\n\nis UNSW cracking down on plagiarism ?
+time=2016-05-14T12:39:21+0000
+from=z5117790

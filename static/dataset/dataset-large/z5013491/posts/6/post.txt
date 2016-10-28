@@ -1,0 +1,5 @@
+message=There's this cute guy from Salsa class, his name is Charles and he's from Singapore I think. Did some searching and found out he's a university scholar and on the Dean's List as well. Looks and brains in one package... too bad he's Asian, my family and friends would never approve.
+from=z5013491
+latitude=-33.9246
+time=2013-10-14T06:53:45+0000
+longitude=151.2230

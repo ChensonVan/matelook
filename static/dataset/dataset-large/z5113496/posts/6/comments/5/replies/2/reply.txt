@@ -1,0 +1,3 @@
+from=z5020210
+message=i feel like fine is a bit of an understatement, suave is a more appropriate description 💫
+time=2016-09-25T05:22:33+0000

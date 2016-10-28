@@ -1,0 +1,3 @@
+from=z5059325
+message=you don't have to be scared friend
+time=2016-05-18T23:43:56+0000

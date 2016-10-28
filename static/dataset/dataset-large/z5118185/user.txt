@@ -1,0 +1,11 @@
+password=beer
+home_longitude=151.1922
+home_latitude=-33.8889
+zid=z5118185
+home_suburb=Alexandria
+full_name=Laura Ziskin
+program=Music / Engineering (Honours)
+email=L.Ziskin@unsw.edu.au
+birthday=1993-10-17
+mates=[z5075030, z5059449, z3468575, z5060921, z3489385]
+courses=[2016 S1 ENGG1000, 2016 S1 MATH1131, 2016 S1 MUSC1602, 2016 S1 PHYS1121, 2016 S2 ENGG1811, 2016 S2 MATH1231, 2016 S2 MMAN1300, 2016 S2 MUSC1603]

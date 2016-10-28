@@ -1,0 +1,5 @@
+from=z5057687
+longitude=151.2615
+message=To the guy who gave up his seat on the hill bus for me. We shared a moment when the guy next to me was falling asleep on me I just wanted to say thank you! You are a true gentleman
+latitude=-33.8897
+time=2013-08-22T13:51:24+0000

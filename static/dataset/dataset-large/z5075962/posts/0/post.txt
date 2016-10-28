@@ -1,0 +1,5 @@
+time=2013-05-19T08:30:29+0000
+longitude=151.2276
+message=http://www.youtube.com/watch?v=Sx89NOoavls \n\nMichael, I just wanna know you better <3
+latitude=-33.9228
+from=z5075962

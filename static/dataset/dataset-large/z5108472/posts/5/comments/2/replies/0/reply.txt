@@ -1,0 +1,3 @@
+message=Oi nah I was purple like 2 weeks ago. Blue now
+time=2016-04-26T10:37:32+0000
+from=z3493921

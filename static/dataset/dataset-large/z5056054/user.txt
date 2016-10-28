@@ -1,0 +1,11 @@
+home_suburb=University Of New South Wales
+email=J.Garner@unsw.edu.au
+courses=[2015 S2 COMP9021, 2015 S2 COMP9311, 2015 S2 GSOE9210, 2015 S2 GSOE9820, 2016 S1 COMP9024, 2016 S1 COMP9331, 2016 S1 COMP9334, 2016 S1 GSOE9010, 2016 S2 COMP9313, 2016 S2 COMP9318, 2016 S2 COMP9321, 2016 S2 COMP9323]
+home_latitude=-33.9085
+full_name=Joe Garner
+password=saturn
+home_longitude=151.2395
+mates=[z5020683, z5012884, z5118457, z5117020, z5062608, z3251972, z3462055, z5016876, z5109480, z5077131, z5015243]
+program=Information Technology
+zid=z5056054
+birthday=1995-01-29

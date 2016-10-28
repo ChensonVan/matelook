@@ -1,0 +1,5 @@
+latitude=-33.9221
+longitude=151.2372
+time=2013-03-27T08:11:43+0000
+message=To Scott the street teamer; a true friend with a heart of gold. and such a heartbreaker :p you'll find someone someday! you're definitely a catch ;)
+from=z5129633

@@ -1,0 +1,11 @@
+birthday=1997-09-01
+mates=[z5118844, z3493303, z3459459, z5015280, z5060573, z3385911, z5004426, z3461074, z3462438, z5113702, z5127546]
+courses=[2016 S1 ADAD1001, 2016 S1 ARTS1090, 2016 S1 MDIA1002, 2016 S1 SDES1001, 2016 S2 ADAD1002, 2016 S2 ARTS1091, 2016 S2 MDIA1003, 2016 S2 SDES1002]
+email=G.Trevi@unsw.edu.au
+zid=z5118627
+home_suburb=Ryde
+password=panther
+full_name=Gloria Trevi
+home_longitude=151.1027
+program=Design (Honours) /Media (PR&A)
+home_latitude=-33.8219

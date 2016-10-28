@@ -1,0 +1,5 @@
+latitude=-33.9191
+message=Apiwat and Melanie,\n\nCan I join in?\n\nLove,\nYasar
+time=2013-06-20T06:28:24+0000
+longitude=151.2245
+from=z3464149

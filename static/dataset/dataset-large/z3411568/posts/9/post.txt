@@ -1,0 +1,5 @@
+longitude=151.1906
+latitude=-33.7785
+from=z3411568
+time=2013-11-14T02:20:10+0000
+message=To the guy with blondish hair and blue eyes, who always smiles at me when I walk past them in the law building/tyree, I don't know who you are, but you appear to be loosely affiliated with DebSoc, you came to their AGM (though lord knows why you would, it was worse than the Red Wedding). I think you're really cute. :) I wanted to tell you that <3

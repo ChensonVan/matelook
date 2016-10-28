@@ -1,0 +1,5 @@
+latitude=-33.9950
+longitude=151.0455
+from=z5077119
+time=2013-04-14T11:57:44+0000
+message=To the beautiful Indian girl who graced us with her presence in Finance and now works at Bain and Company... I dream of you every night <3

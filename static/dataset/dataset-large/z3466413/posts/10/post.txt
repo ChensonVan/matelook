@@ -1,0 +1,5 @@
+longitude=151.2313
+message=Confession time: I may have posted an anonymous love letter to myself...
+from=z3466413
+time=2013-11-10T11:19:43+0000
+latitude=-33.9181

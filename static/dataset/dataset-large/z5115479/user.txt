@@ -1,0 +1,11 @@
+zid=z5115479
+home_suburb=University Of New South Wales
+full_name=Laura Bozzo
+program=Computer Science
+courses=[2016 S2 COMP1917, 2016 S2 COMP1927, 2016 S2 COMP2041, 2016 S2 COMP2121, 2016 S2 COMP8005, 2016 S2 GENZ3500, 2016 S2 INFS1602, 2016 S2 INFS1603, 2016 S2 MATH1131]
+home_latitude=-33.9158
+birthday=1992-12-29
+home_longitude=151.2213
+mates=[z5074933, z5012884, z5116179, z5075418, z5113715, z3484231, z3394912, z5077163, z5076554, z5092311, z5015071, z3416238]
+password=princess
+email=L.Bozzo@unsw.edu.au

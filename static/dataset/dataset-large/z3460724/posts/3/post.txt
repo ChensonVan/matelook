@@ -1,0 +1,5 @@
+message=Dear Anthony,\n\nI see you every Tuesday coming out of Clancy and I gotta say you are one hell of a looker. The other day with the bowtie you were amazing to look at! But I'm not sure if you are in a relationship with that guy with a tie. I think you are straight but my friend says you are probably into him more than someone like me. I don't actually care cause I just like looking at you.\n\nMuch love, the Guiser
+time=2013-04-25T19:30:56+0000
+from=z3460724
+latitude=-33.7867
+longitude=151.1982

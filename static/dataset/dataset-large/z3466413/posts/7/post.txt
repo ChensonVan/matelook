@@ -1,0 +1,5 @@
+message=Gotta love it when students walk into engineering lectures with a beer in hand. Is that even allowed?
+from=z3466413
+time=2016-06-23T07:11:35+0000
+longitude=150.9479
+latitude=-33.9518

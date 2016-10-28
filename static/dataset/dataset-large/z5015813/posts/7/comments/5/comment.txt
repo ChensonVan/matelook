@@ -1,0 +1,3 @@
+from=z5118627
+message=A wise man once said: "You can't hurry love, no you'll just have to wait."
+time=2013-08-27T23:54:32+0000

@@ -1,0 +1,5 @@
+latitude=-33.9106
+message=To the girl in the light blue dress in Wednesday's 4/20 acct1501 lecture sitting towards the back. You are a 10/10.
+time=2016-05-04T09:13:53+0000
+longitude=151.2281
+from=z5075418

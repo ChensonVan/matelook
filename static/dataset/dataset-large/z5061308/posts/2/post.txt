@@ -1,0 +1,5 @@
+latitude=-33.8233
+time=2016-07-11T14:16:57+0000
+longitude=151.2040
+message=Voting for the Federal election is like attending O week and picking societies to join..... #AusVotes #Paper #too #Long \n\nKind Regards\n\nRich
+from=z5061308

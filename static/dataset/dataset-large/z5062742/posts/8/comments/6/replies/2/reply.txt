@@ -1,0 +1,3 @@
+from=z3379933
+message=too bad i dont have a dooge :'(
+time=2016-04-22T10:41:17+0000

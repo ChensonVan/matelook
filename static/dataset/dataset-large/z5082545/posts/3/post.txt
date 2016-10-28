@@ -1,0 +1,5 @@
+time=2016-08-18T12:33:54+0000
+from=z5082545
+latitude=-33.8910
+message=To the girl with glasses helping at yesterday's CREATE event, u so cute :3\nkeep doing you
+longitude=151.1972

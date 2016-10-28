@@ -1,0 +1,5 @@
+message=To the perfect 10 that sat opposite me on the bus this morning. All I can say is strewth, kicking myself that I didn’t say hello. In my defence, that rose gold heart ring you were wearing suggested you may have been taken, but on the off chance you aren’t, coffee sometime? Xoxo\n\nFrom that guy with the Deus cap.
+latitude=-33.9076
+time=2016-05-19T04:59:53+0000
+from=z3413954
+longitude=151.2337

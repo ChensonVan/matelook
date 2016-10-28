@@ -1,0 +1,11 @@
+home_suburb=Sydney South
+password=kelly
+courses=[2016 S1 COMP1911, 2016 S1 ENGG1000, 2016 S1 MATH1131, 2016 S1 PHYS1131, 2016 S2 COMP1921, 2016 S2 ELEC1111, 2016 S2 MATH1231, 2016 S2 PHYS1231]
+zid=z5021034
+home_latitude=-33.8179
+mates=[z5024975, z5109980, z3456669, z5089708, z5076554, z5117658]
+email=C.Wulff@unsw.edu.au
+home_longitude=151.0432
+program=Engineering (Honours)
+full_name=Christian Wulff
+birthday=1993-11-21

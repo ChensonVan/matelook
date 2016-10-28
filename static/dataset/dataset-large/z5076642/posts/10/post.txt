@@ -1,0 +1,5 @@
+longitude=151.2310
+latitude=-33.9537
+time=2016-08-06T12:30:53+0000
+message=To Martin in 4th year med - hurry up and ask JT out already, everyone can see you're super keen 😉😉
+from=z5076642

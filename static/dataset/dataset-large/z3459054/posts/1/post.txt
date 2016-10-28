@@ -1,0 +1,5 @@
+message=To the cute Civ Eng guy in soils lab D with the beard and great sense of style. I wish the triaxial test wasn't the final lab of semester- just so I could have one mohr chance to CU again ;)
+time=2016-06-16T22:12:13+0000
+longitude=151.2799
+from=z3459054
+latitude=-33.7635

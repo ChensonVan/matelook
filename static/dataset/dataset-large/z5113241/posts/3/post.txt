@@ -1,0 +1,5 @@
+message=To the guy who chatted me up in the library for a few minutes and then just awkwardly left without asking for my number.. you're doing it wrong.
+time=2016-09-04T12:11:22+0000
+latitude=-33.9012
+longitude=151.2496
+from=z5113241

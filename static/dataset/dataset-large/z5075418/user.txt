@@ -1,0 +1,11 @@
+courses=[2016 S1 CHEM1031, 2016 S1 ENGG1000, 2016 S1 MATH1131, 2016 S1 PHYS1131, 2016 S2 CEIC1000, 2016 S2 ENGG1811, 2016 S2 MATH1231, 2016 S2 PHYS1121]
+birthday=1997-09-09
+zid=z5075418
+full_name=Justin Wilson
+home_latitude=-33.9136
+home_longitude=151.2614
+email=J.Wilson@unsw.edu.au
+mates=[z3459405, z5015684, z5113245, z5032269]
+password=beavis
+program=AdvSci(Hons)/Engineering(Hons)
+home_suburb=Coogee

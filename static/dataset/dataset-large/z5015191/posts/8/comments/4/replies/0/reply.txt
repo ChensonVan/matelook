@@ -1,0 +1,3 @@
+from=z5060306
+time=2016-05-16T23:16:42+0000
+message=LOL I don't do econ1203 unfortunately 😂

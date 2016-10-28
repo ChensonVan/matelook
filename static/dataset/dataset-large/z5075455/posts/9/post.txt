@@ -1,0 +1,5 @@
+message=Karl J. I see you looking at me and I know you see me looking at you. Can you be the brave one?
+time=2016-09-26T12:22:40+0000
+latitude=-33.7988
+longitude=151.1435
+from=z5075455

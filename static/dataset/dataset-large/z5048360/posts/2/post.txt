@@ -1,0 +1,5 @@
+message=To Scotty who does Med Sci,\n\nYou are a beautiful beautiful man.\n\nFrom,\na far less aesthetically pleasing guy
+latitude=-33.8164
+longitude=151.1788
+from=z5048360
+time=2013-08-05T03:51:02+0000

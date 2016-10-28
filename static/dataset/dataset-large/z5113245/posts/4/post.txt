@@ -1,0 +1,5 @@
+longitude=151.2311
+latitude=-33.9169
+from=z5113245
+message=I live on campus and I'm in love with my housemate. He walks around without pants and I think he has great legs. But I know it would never work out anyway so it breaks my heart to have to see him everyday.
+time=2013-03-26T10:46:28+0000

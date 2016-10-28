@@ -1,0 +1,5 @@
+message=Shout out to those who hate mainstream music! Love, Garbage Lover
+from=z5060140
+longitude=151.2547
+latitude=-33.9082
+time=2013-06-13T11:34:04+0000

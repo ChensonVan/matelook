@@ -1,0 +1,5 @@
+time=2016-10-05T09:08:33+0000
+message=To my dear Tom, your wild, beautiful curly hair like a road, like a cul-de-sac continues to amaze me. I wish you would charge your laptop at home so you wouldnt have to keep moving away from me to charge it at the back of the room.\n\nPlease notice me
+latitude=-33.8826
+from=z5018248
+longitude=151.1714

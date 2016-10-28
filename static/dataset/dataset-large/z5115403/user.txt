@@ -1,0 +1,11 @@
+program=Engineering Science
+email=P.Chopra@unsw.edu.au
+birthday=1993-05-07
+mates=[z5057687, z3464149, z3462323, z5015280, z3431766, z5004426, z5123999, z5115679, z3456408, z5018348, z5118723]
+home_longitude=151.2383
+full_name=Priyanka Chopra
+password=justin
+zid=z5115403
+courses=[2015 S2 GSOE9758, 2015 S2 GSOE9820, 2015 S2 TELE4652, 2016 S1 GSOE8506, 2016 S1 GSOE9010, 2016 S1 PHTN4661, 2016 S1 TELE4653, 2016 S1 TELE9757, 2016 S2 ELEC9771, 2016 S2 GSOE9830, 2016 S2 PHTN4662, 2016 S2 TELE9755]
+home_suburb=University Of New South Wales
+home_latitude=-33.9128

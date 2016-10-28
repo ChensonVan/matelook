@@ -1,0 +1,5 @@
+message=Find your true love here. Don't miss out on these the limited offer pre-sale tickets! $15 gets you full access into all afterparty venues on Darling Harbour. Doors open all night from 6pm.\n\n$10 extra gets you on a 3 hour cruise from 3-6pm, with the afterparty opening at the boat's doorstep.\n\nSo throw on your lederhosen and be part of Sydney's biggest Oktoberfest! Spread the word and make sure your friends are there!\n\nTICKETS ON SALE THIS TUESDAY, WEDNESDAY & THURSDAY 12:45 - 1:15\nMain walkway, outside red centre west wing\n\nz5063045
+latitude=-33.8607
+time=2013-09-25T13:09:47+0000
+longitude=151.2667
+from=z5110713

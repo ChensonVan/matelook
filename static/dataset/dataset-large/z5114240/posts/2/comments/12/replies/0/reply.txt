@@ -1,0 +1,3 @@
+message=my dog is better than you heh
+from=z5059970
+time=2016-09-01T05:09:30+0000

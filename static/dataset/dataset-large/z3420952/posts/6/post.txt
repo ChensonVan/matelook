@@ -1,0 +1,5 @@
+latitude=-33.7938
+longitude=151.2114
+message=Ness, \n\nYou had me at hello \n\nXx
+time=2016-09-05T07:23:01+0000
+from=z3420952

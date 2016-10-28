@@ -1,0 +1,5 @@
+message=I LOVE YOU, ANDREW!!! <3 I've always loved you! Take me back!
+latitude=-33.9242
+time=2013-12-05T12:39:49+0000
+from=z5057704
+longitude=151.2222

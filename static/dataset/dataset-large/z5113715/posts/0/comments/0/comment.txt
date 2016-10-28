@@ -1,0 +1,3 @@
+message=someone calling you fat z5098313?
+from=z5061308
+time=2013-04-06T02:27:28+0000

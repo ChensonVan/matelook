@@ -1,0 +1,5 @@
+longitude=151.1480
+latitude=-33.9732
+time=2016-06-26T12:16:21+0000
+message=To the group of Nordic gods who emerged from the elevators in the main library on Tuesday afternoon... You all took my breathe away.\nPlease increase your presence and I will be forever grateful
+from=z5002210

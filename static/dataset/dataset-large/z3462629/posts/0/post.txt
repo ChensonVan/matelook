@@ -1,0 +1,5 @@
+from=z3462629
+latitude=-34.0198
+message=MATH2521\n\nI'm a straight guy but even I can help imagining David Crocker holding me against the blackboard and punishing me for assuming an iff when the theorem is only an implication, forcing me to write every axiom of the complex field for each step of algebra that I meekly attempt to solve while he buries his modulus deep within my open set.
+time=2016-08-16T02:26:16+0000
+longitude=151.0049

@@ -1,0 +1,5 @@
+message=Dear cprsx\nWould you like to have cprsex\nSincerely, tracer
+longitude=151.1189
+latitude=-33.9042
+time=2016-07-28T13:32:36+0000
+from=z5109786

@@ -1,0 +1,5 @@
+latitude=-33.9668
+from=z3458803
+time=2016-08-12T08:58:02+0000
+message=To my senpai in COMP2041 lectures. Please notice me. Seeing you ignore me is more savage than Andrew Taylor roasting a student.
+longitude=151.1308

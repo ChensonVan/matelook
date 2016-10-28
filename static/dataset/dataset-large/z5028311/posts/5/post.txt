@@ -1,0 +1,5 @@
+from=z5028311
+message=To Sheryl in acct2542, I bought you chocolate hoping that you'd be mine one day.\nThe accounting homework isn't the only thing I can solve in your life ;)
+time=2013-09-06T10:00:54+0000
+latitude=-33.9221
+longitude=151.2289

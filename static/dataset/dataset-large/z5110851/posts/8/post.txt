@@ -1,0 +1,5 @@
+message=Dear Michael Corban, I'm in your engineering tute. I kinda stalk you every day on facebook, because you are the biggest, sexiest piece of meat walking around uni. You hang at the quad with all your greek friends and I often sit near you just to hear you talk. All your friends make jokes about you being the best, make you could show me just how good you are ;) Ill be wearing a red hat all next week if you are keen please come and talk to me!!
+latitude=-33.9526
+time=2013-04-15T09:24:52+0000
+longitude=151.2368
+from=z5110851

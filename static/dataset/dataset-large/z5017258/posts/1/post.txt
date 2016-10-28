@@ -1,0 +1,5 @@
+message=to the tall bearded cafe guy at quad foodcourt YOU ARE SO CUTE bye stop flirting with every female customer
+latitude=-33.8776
+from=z5017258
+time=2013-10-30T03:37:36+0000
+longitude=151.2311

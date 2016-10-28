@@ -1,0 +1,5 @@
+longitude=151.2190
+message=to the first year guy who really likes air travel and frequent flyer points, please land at my airport, be gentle on the runway, there's lots of room in this terminal, you can have as many flight attendants as you want ;)
+latitude=-33.8960
+from=z5013491
+time=2013-04-19T12:46:30+0000

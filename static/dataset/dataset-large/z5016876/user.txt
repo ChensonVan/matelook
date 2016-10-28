@@ -1,0 +1,11 @@
+home_suburb=Bondi Junction
+home_latitude=-33.8829
+birthday=1992-11-16
+home_longitude=151.2378
+email=F.Alibocus@unsw.edu.au
+courses=[2016 S1 ENGG1811, 2016 S1 MATH1141, 2016 S1 MATS1101, 2016 S1 PHYS1121, 2016 S2 ELEC1111, 2016 S2 ENGG1000, 2016 S2 MATH1231, 2016 S2 MMAN1300]
+password=slayer
+mates=[z5127733, z5116179, z5061308, z5115755, z5051889, z5021190, z3456408, z5092154, z5098341]
+full_name=Faye Alibocus
+program=Engineering (Honours)
+zid=z5016876

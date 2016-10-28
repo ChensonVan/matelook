@@ -1,0 +1,3 @@
+from=z3489361
+time=2016-04-18T10:20:21+0000
+message=This was z5019239's anon msg

@@ -1,0 +1,5 @@
+message=Where are all the single wlw at on campus? Everyone's so straight! :(
+latitude=-33.9219
+from=z5028311
+longitude=151.2276
+time=2016-08-08T10:55:04+0000

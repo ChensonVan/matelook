@@ -1,0 +1,5 @@
+time=2016-08-16T09:41:08+0000
+message=tfw seeing your tinder matches on campus and they're even more charming in person ;p
+longitude=151.2926
+from=z5092194
+latitude=-33.7560

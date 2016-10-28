@@ -1,0 +1,3 @@
+message=Gold is better than silver tho \nHit z3462856 up
+from=z5028311
+time=2016-05-25T23:36:03+0000

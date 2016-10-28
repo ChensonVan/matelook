@@ -1,0 +1,3 @@
+from=z5059421
+message=How does one 'wake away'? Haha. Maybe it's Stacey, Bill!
+time=2013-03-25T12:57:42+0000

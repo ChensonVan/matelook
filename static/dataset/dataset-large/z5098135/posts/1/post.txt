@@ -1,0 +1,5 @@
+from=z5098135
+latitude=-33.8924
+time=2014-01-02T09:30:59+0000
+message=Day 3 in the chronicle of A and I: On my lunch break at the cafe looking up at your office tower. I wonder if my love for you can fly up ___ floors to your window. \n\nWon't you give me a sign? \n\nSincerely, \nMoonstruck
+longitude=151.2663

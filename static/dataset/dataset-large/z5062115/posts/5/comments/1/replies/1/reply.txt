@@ -1,0 +1,3 @@
+from=z5104907
+message=Haha, er ikke på noen lectures på mandager 😅
+time=2016-09-05T09:03:12+0000

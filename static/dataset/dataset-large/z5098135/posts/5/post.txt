@@ -1,0 +1,5 @@
+longitude=150.9537
+message=OCTOBERNIE, YOUR SMILE IS PERFECTION :D\nplease make me your selection
+latitude=-33.9584
+from=z5098135
+time=2013-08-04T11:57:41+0000

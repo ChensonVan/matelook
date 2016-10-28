@@ -1,0 +1,5 @@
+time=2016-06-13T04:59:21+0000
+message=To whoever picked up my wallet today in Matthews, thanks for returning this to FM assist ... your kind soul saved my day, you are a hero to me ❤ I'm in love with UNSW
+latitude=-33.9138
+longitude=151.2362
+from=z3466413

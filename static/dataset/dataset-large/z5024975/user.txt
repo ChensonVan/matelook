@@ -1,0 +1,11 @@
+full_name=Michael Bloomberg
+program=Engineering (Hons)/Commerce
+email=M.Bloomberg@unsw.edu.au
+birthday=1998-05-18
+home_suburb=Beaumont Hills
+password=kevin
+home_longitude=150.9556
+mates=[z5021309, z5099216, z3335004, z5075726, z5059449, z5101274, z5116082, z5018348, z5021034]
+zid=z5024975
+courses=[2016 S1 ENGG1000, 2016 S1 ENGG1811, 2016 S1 MATH1131, 2016 S1 PHYS1121, 2016 S2 CVEN1300, 2016 S2 ENGG1400, 2016 S2 MATH1231, 2016 S2 MATS1101]
+home_latitude=-33.6971

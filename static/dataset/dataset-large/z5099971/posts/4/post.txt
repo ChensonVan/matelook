@@ -1,0 +1,5 @@
+latitude=-33.9178
+time=2016-05-24T05:13:56+0000
+longitude=151.2093
+from=z5099971
+message=I think your name is Raj...not too sure. You are in my CEIC2001 lecture.\nOn a scale of 1 to 10, you are a 9. I'm the 1 you need.

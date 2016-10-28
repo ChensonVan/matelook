@@ -1,0 +1,5 @@
+latitude=-33.9167
+message=To the girl on the 891 to uni at about 8:30 today (friday). You were really focused on your macbook (had a light blue cover on the lid) you were wearing black jeans with I think boots. your bag had flowers on it and you had short brown hair. you looked a bit intense and you had sunnies on your head and some flowers on your backpack. Just wanted to let you know you are one of the most beautiful girls I have seen :) would love to talk to you
+longitude=151.2372
+from=z3461651
+time=2016-05-05T07:56:18+0000

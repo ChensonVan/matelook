@@ -1,0 +1,5 @@
+latitude=-33.9256
+message=To that sexy beast who happens to be in the pokesoc committee and in my ARTS3450 class. Call me maybe?
+time=2013-03-20T10:21:13+0000
+longitude=151.2059
+from=z5043226

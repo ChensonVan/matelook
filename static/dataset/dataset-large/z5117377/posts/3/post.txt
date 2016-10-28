@@ -1,0 +1,5 @@
+longitude=151.0430
+message=Abid Hussain please light up my world like you light up your durries <3
+time=2016-08-21T04:50:50+0000
+from=z5117377
+latitude=-33.8432

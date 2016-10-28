@@ -1,0 +1,5 @@
+latitude=-33.8703
+message=To the girl in the black and white shirt-dress,  wearing glasses leaving  uni around 3pm, you were hella cute
+time=2016-06-11T15:09:53+0000
+longitude=151.0942
+from=z5118627

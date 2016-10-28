@@ -1,0 +1,5 @@
+latitude=-33.9102
+message=C.Y. from Commerce is beautiful. We have never talked but I hear you talking to your friends and your voice is so mesmerising that I could listen to it all day. Your smile is so warm and attractive and your eyes literally shine like the stars. Next time in lecture, please look my way.
+time=2016-08-20T08:38:35+0000
+longitude=151.2388
+from=z5097561

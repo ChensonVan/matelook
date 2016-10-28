@@ -1,0 +1,5 @@
+message=I drop lures at uni just so I have an excuse to walk up to the girls who play PokèmonGo and talk to them about our highest cp and if they wanna go hunting for more than just Pokèmon afterwards
+longitude=151.2519
+time=2016-07-28T09:02:34+0000
+latitude=-33.9030
+from=z5117020

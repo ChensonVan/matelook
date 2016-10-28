@@ -1,0 +1,5 @@
+message=To WF from comp1917,\nYou are the cutest girl in the course!!!\n\nFrom a random guy
+time=2016-07-03T23:14:56+0000
+from=z5052081
+latitude=-33.9068
+longitude=151.0969

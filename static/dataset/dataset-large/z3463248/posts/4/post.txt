@@ -1,0 +1,5 @@
+from=z3463248
+message=To the guy with the beard and the ID card that guided me to the AGSM building today after lunch, thank you so much, I got to my meeting only a couple of minutes late. Feel like guiding me to boost one day?
+latitude=-33.9167
+longitude=151.2208
+time=2013-04-10T07:21:10+0000

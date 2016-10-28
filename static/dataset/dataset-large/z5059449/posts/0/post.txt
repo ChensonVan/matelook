@@ -1,0 +1,5 @@
+time=2016-08-19T14:47:11+0000
+latitude=-33.9840
+longitude=151.1104
+message=Abid Hussian, will you please light up my world like you light up your durries? Xoxo
+from=z5059449

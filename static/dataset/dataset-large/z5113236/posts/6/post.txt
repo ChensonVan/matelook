@@ -1,0 +1,5 @@
+message=To the amazingly good looking indian guy who works at the unsw central bus stop. You're the reason i manage to get out of bed in the mornings. I've seen you on a bike. Take me for a ride any day ;)
+time=2013-04-19T15:25:01+0000
+latitude=-33.9259
+longitude=151.2226
+from=z5113236

@@ -1,0 +1,5 @@
+latitude=-33.9659
+message=S.A\nYou'll get far in life and your ambition and hard work never cease to amaze.\nYou live your life a your own person and chase your dreams with success as your ultimate goal.\nNever stop trying and remain strong, I admire you and everything about you.
+time=2013-12-05T11:21:47+0000
+longitude=151.2250
+from=z5113077

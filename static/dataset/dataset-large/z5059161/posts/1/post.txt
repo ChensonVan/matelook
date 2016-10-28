@@ -1,0 +1,5 @@
+from=z5059161
+message=A beautiful woman from Bassar once caught my eye, \nIt was at the Roundhouse – last July\nMy presence, she didn’t acknowledge… \nBut was told she attended Bassar College\n\nI’ve seen her at the Rege sitting on a bar stool, \nI’ve seen her playing polo in the UNSW pool,\nShe has gorgeous eyes, and an amazing smile, \nI knew that any pursuit would be worthwhile\n\nI messaged her on Facebook, out of the blue\nI offered coffee, or maybe a brew\nBut after finally mustering all of my bravery\nNo reply from Eliza Avery
+longitude=151.2204
+latitude=-33.9153
+time=2016-05-26T13:42:14+0000

@@ -1,0 +1,3 @@
+message=Kawaii smile /10
+from=z3492794
+time=2016-05-16T12:30:55+0000

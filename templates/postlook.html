@@ -1,0 +1,96 @@
+{% extends '__base__.html' %}
+
+{% block title %}HomePage - MateLook{% endblock %}
+
+{% block beforehead %}
+{% endblock %}
+
+{% block navbar %}
+    {% import "navbar.html" as navbar %}
+    {{ navbar.nav(user) }}
+{% endblock %}
+
+{% block content %}
+    <!-- *****************************************************************************************************************
+     BLUE WRAP
+     ***************************************************************************************************************** -->
+    <div id="blue">
+        <div class="container">
+            <div class="row">
+                <h3> Welcome back, {{ user.full_name }}. </h3>
+                {% with messages = get_flashed_messages() %}
+                    {% if messages %}
+                     <ul class="flashes">
+                        {% for message in messages %}
+                            <div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert">&times;</button> {{ message }} </div>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                {% endwith %}
+            </div><!-- /row -->
+        </div> <!-- /container -->
+    </div> <!-- /blue -->
+
+    <!-- *****************************************************************************************************************
+    CONTENT
+    ******************************************************************************************************************* -->
+     <div class="container mtb">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="spacing"></div>
+                <h4>Post Content</h4>
+                <div class="hline"></div>
+                <br>
+                <ul class="popular-posts">
+                    <li>
+                    <div class="col-lg-2">
+                        <a href="#"><img src={{ "/static/profile/" + poster.image}} alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
+                    </div>
+                    <div class="col-lg-10">
+                        <em>Posted by {{ poster.full_name }} on {{ post.time[:-5] }}</em><br>
+                        <p><a href="#"> {{ post.message }} </a></p>
+                    </div>
+                    </li>
+                </ul>
+                <br>
+                <form action="comment" method="POST" name="POST">
+                    <ul>
+                        <textarea class="form-control" name="message" cols="104" rows="2"></textarea>
+                        <br>
+                        <input type="hidden" name="pid", value={{ post.pid }}>
+                        <input type="hidden" name="poster_zid", value={{ post.zid }}>
+                        <input type="hidden" name="page", value={{ pag.page }}>
+                        <button type="submit" class="btn btn-theme" style="float:right">Reply</button>
+                    </ul>
+                </form>
+                <br>
+
+                <!-- <div class="spacing"></div> -->
+                <h4>Comments</h4>
+                <div class="hline"></div>
+                <br><br>
+                {% set comments = post.getComments() %}
+                {% if comments %}
+                <ul class="popular-posts">
+
+                    {% for comment in comments[pag.begin : pag.end] %}
+                        <li>
+                        <div class="col-lg-2" offset=1>
+                            <a href="#"><img src={{ "/static/profile/" + comment['image']}} alt="Popular Post" style="width:50px;height:50px;" class="img-circle"></a>
+                        </div>
+                        <div class="col-lg-10">
+                            <em>Posted by {{ comment["name"] }} on {{ comment.time[:-5] }}</em><br>
+                            <p><a href="#"> {{ comment.message }} </a></p>
+                        </div>
+                        </li>
+                    {% endfor%}
+                </ul>
+                    {% import "pagination.html" as pagination %}
+                    {{ pagination.render_pagination2('/postlook', post.pid, pag)}}
+                {% else %}
+                    <h3>The post current has no comment. </h3>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+{% endblock %}

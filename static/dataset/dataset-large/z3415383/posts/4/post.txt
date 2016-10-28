@@ -1,0 +1,5 @@
+from=z3415383
+time=2016-09-17T22:52:53+0000
+message=Remind me that the next time I fall for someone, please please just slap me in the face so I could regain my own senses.\nit's so annoying when it just consumes you.
+latitude=-33.9239
+longitude=151.2334

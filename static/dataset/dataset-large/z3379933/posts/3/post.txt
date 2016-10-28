@@ -1,0 +1,5 @@
+from=z3379933
+latitude=-34.2344
+time=2013-09-10T02:18:45+0000
+message=Yatz. My love for you is like diarrhea, I just can't hold it in.
+longitude=150.7012

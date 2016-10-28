@@ -1,0 +1,5 @@
+latitude=-33.9034
+message=Sorry but where are all these perfect, dreamy gay guys? Help a guy out
+longitude=151.1805
+from=z9591011
+time=2013-07-30T13:00:50+0000

@@ -1,0 +1,5 @@
+from=z5127733
+latitude=-33.4985
+time=2016-09-17T08:46:26+0000
+longitude=150.4506
+message=Dear Alvin (from Med I think),\n\nYou're so stylish. Tune me maybe ;)

@@ -1,0 +1,11 @@
+home_longitude=151.0602
+courses=[2016 S1 COMP9020, 2016 S1 COMP9021, 2016 S1 COMP9311, 2016 S1 GSOE9820, 2016 S2 COMP9024, 2016 S2 COMP9331, 2016 S2 GMAT9600, 2016 S2 GSOE9210]
+birthday=1994-12-31
+home_latitude=-33.6053
+home_suburb=Fiddletown
+program=Information Technology
+email=S.Abraham@unsw.edu.au
+full_name=Spencer Abraham
+zid=z5116995
+mates=[z5098135, z3489361, z5048555, z5017258, z5061927, z5113047]
+password=corvette

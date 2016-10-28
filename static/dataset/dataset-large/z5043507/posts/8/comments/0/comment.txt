@@ -1,0 +1,3 @@
+from=z5061301
+time=2013-04-03T06:01:51+0000
+message=original is shit, check out remix of this song:\nhttp://www.youtube.com/watch?v=vcdvXWlR894

@@ -1,0 +1,5 @@
+longitude=151.1216
+time=2013-10-10T01:29:45+0000
+latitude=-33.8619
+message=Sophia Ye, I may be the cute LB that you're looking for ;)\nSincerely, one of your many secret admirers\np.s. i do lift and have a 99+ ATAR
+from=z5017787

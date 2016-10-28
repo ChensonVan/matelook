@@ -1,0 +1,3 @@
+message=z5043981 this is ur guy. KFC 24/7.
+from=z5017842
+time=2013-05-20T08:46:06+0000

@@ -1,0 +1,5 @@
+latitude=-33.7970
+time=2013-09-05T22:22:51+0000
+message=To the lovely boy who found my phone in clancy during the 11am maths lecture today, you're very attractive & thank you for being an absolute hero.
+from=z5062443
+longitude=151.2541

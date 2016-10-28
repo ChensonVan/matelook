@@ -1,0 +1,5 @@
+longitude=151.2122
+from=z5117377
+latitude=-33.8640
+message=To the girl at the Big Gay Wedding (17/5/16) at the Lib Lawn! You were wearing a white dress and putting sunscreen on. What is your name?\n\nYou are really beautiful! 😊
+time=2016-06-06T02:35:30+0000

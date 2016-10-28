@@ -1,0 +1,5 @@
+latitude=-33.8923
+longitude=151.2608
+message=To the boy on library lawn at Monday 1-2pm, who had a black Nike bag, Nike shoes, a turquoise Le Coq Sportif shirt, black glasses, a weeby haircut and a beautiful (surely orthodonticised) smile, me and my friend could not stop checking you out. You're so cute.
+from=z5109480
+time=2016-06-04T14:07:52+0000

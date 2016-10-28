@@ -1,0 +1,3 @@
+from=z5118782
+message=z5006041 you dude
+time=2016-08-11T02:02:28+0000

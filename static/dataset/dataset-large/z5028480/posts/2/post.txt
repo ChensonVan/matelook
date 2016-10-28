@@ -1,0 +1,5 @@
+message=I can't wait till my girlfriend lands here and I get a chance to propose her in front of the entire UNSW right at the Walkway outside the Built Environment building.. at about 4 pm when everyone is there. <3
+latitude=-33.8230
+from=z5028480
+time=2013-08-13T02:05:44+0000
+longitude=151.1328

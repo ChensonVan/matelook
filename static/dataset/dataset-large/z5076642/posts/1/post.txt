@@ -1,0 +1,5 @@
+message=To Andrew Thornton, do you like boys?
+time=2016-05-07T10:05:48+0000
+latitude=-33.8915
+longitude=151.1895
+from=z5076642

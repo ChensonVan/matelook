@@ -1,0 +1,5 @@
+latitude=-33.9195
+time=2013-04-29T23:30:15+0000
+message=To the suited up, cute Indian guy in the legt2741 lecture sporting the Harvey Specter haircut, are you keen on closing my case?
+longitude=151.2295
+from=z3416923

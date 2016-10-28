@@ -1,0 +1,5 @@
+longitude=151.2238
+from=z5021028
+latitude=-33.8645
+message=Are there any gothic (or just dark metalhead) girls out there willing to accompany me to the eternal darkness (Or at least netflix and chill).
+time=2016-09-12T08:37:42+0000

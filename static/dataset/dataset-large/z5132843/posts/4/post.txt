@@ -1,0 +1,5 @@
+time=2016-05-09T01:02:02+0000
+message=Phoebe in MATH1141\n\nRoses are red\nViolets are blue\nyou rock that pixie cut\nAnd that hair ruffle too\n\nXoxo asian chick next to you ;)
+longitude=151.2562
+latitude=-33.8905
+from=z5132843

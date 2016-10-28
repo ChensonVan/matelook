@@ -1,0 +1,5 @@
+from=z5024975
+latitude=-33.6971
+message=To the middle eastern girl at math 1231 yesterday with the floral headscarf, you're beautiful! Hopefully we can introduce each other.
+longitude=150.9556
+time=2016-08-02T02:08:49+0000

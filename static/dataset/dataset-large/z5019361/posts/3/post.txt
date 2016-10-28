@@ -1,0 +1,5 @@
+time=2013-04-28T11:10:50+0000
+message=To the asian girl, with the beige shorts that was sitting behind a stand until 3.30 at Wednesday (Indonesian night market), in the arcade between medibank and postgraduate lounge. I think you were selling jewels. I was knocking the glass wall to tell you something but you couldn’t listen. You are gorgeous.
+longitude=151.0807
+latitude=-33.9749
+from=z5019361

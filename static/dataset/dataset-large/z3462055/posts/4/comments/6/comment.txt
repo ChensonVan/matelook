@@ -1,0 +1,3 @@
+time=2013-08-11T08:59:47+0000
+message=Only z5024602 would write something like this haha
+from=z5060477

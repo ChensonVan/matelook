@@ -1,0 +1,5 @@
+from=z5063045
+longitude=151.2369
+time=2013-09-21T08:27:29+0000
+message=Super tall, eurasian guy called Alex from 3rd year engineering is fine as hell.
+latitude=-33.9136

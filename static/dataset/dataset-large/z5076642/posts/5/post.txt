@@ -1,0 +1,5 @@
+message=To Dave Winterton, lecturer at the Law Faculty: please change your profile pic to the shirtless one. With love, your secret(s) admirer(s).
+latitude=-33.8915
+longitude=151.1895
+from=z5076642
+time=2013-08-22T08:43:47+0000

@@ -1,0 +1,5 @@
+latitude=-33.7332
+message=danny of second year crim law is very cute.\nxoxo tinder girl
+from=z5113700
+time=2016-08-09T12:05:50+0000
+longitude=151.2410

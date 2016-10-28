@@ -1,0 +1,11 @@
+password=scooter
+program=Engineering Science
+courses=[2015 S2 ELEC4613, 2015 S2 ELEC4617, 2015 S2 GSOE9820, 2016 S1 ELEC4612, 2016 S1 ELEC9713, 2016 S1 GSOE8112, 2016 S1 GSOE8312, 2016 S1 GSOE8512, 2016 S1 GSOE9017, 2016 S2 ELEC9711, 2016 S2 ELEC9712, 2016 S2 SOLA9001]
+zid=z5025014
+birthday=1996-02-05
+home_latitude=-33.8684
+full_name=Robert Korzeniowski
+email=R.Korzeniowski@unsw.edu.au
+home_longitude=151.2043
+mates=[z5110358, z5019329, z5113715, z5015813, z3461271, z3416923, z5059583]
+home_suburb=Ultimo

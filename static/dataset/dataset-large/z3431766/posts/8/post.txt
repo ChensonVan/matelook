@@ -1,0 +1,5 @@
+latitude=-33.7526
+from=z3431766
+message=To the guy that's always at ASB, I think your name is Steven? You seem like such a genuine, friendly and handsome guy. I would really love to get to know you better but you always look so busy and I'm too shy :(
+longitude=151.2928
+time=2013-05-22T23:23:56+0000

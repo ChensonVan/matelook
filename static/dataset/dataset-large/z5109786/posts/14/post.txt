@@ -1,0 +1,5 @@
+message=To a ruggedly handsome first year named Nick who is Greek & in law school: dayum, you're one hot mess. Perhaps I'll come into your Sweet Spot sometime ;)\nxoxo
+longitude=151.2253
+from=z5109786
+time=2013-09-25T23:32:08+0000
+latitude=-33.9256

@@ -1,0 +1,5 @@
+time=2016-08-09T13:03:10+0000
+longitude=151.2247
+message=To the very cute former lecturer John Eldridge, I heard you don't teach at UNSW anymore. I've always had a huge crush on you but it's sad that we couldn't meet in real life. Hope you're doing well and find the one (or if you believe in polygamy/serial monogamy idk).
+from=z5113047
+latitude=-33.9193

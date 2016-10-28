@@ -1,0 +1,5 @@
+time=2013-04-11T11:44:05+0000
+longitude=150.8900
+from=z5098157
+latitude=-34.0114
+message=Dear Lora ( donno if the names spelt right) whos at the arc reception next to PG lounge; you are simply amazing. If you find me ill sing for you!

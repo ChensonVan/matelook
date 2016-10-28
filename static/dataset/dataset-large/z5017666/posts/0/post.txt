@@ -1,0 +1,5 @@
+from=z5017666
+message=Love a girl who can parallel park quickly with ease and not use any parking assistance. Actually, love a girl who can drive and drive well. Anyone else find it super hot when girls can do that?
+latitude=-33.8711
+time=2016-10-04T05:39:47+0000
+longitude=151.0366

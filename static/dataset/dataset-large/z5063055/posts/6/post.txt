@@ -1,0 +1,5 @@
+from=z5063055
+longitude=151.2393
+message=To Heather, one of the only sexy mining engineer females on campus, I watched you complete complex mathematical equations in our math tute. I would love to 'rock' your world one day ;) xoxo
+latitude=-33.9210
+time=2013-04-25T08:38:52+0000

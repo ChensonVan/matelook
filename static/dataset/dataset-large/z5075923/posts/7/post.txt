@@ -1,0 +1,5 @@
+message=I love that sigma guy. If you are single would you like to go for coffee sometime?
+longitude=151.2472
+from=z5075923
+latitude=-33.8867
+time=2016-06-09T11:57:39+0000

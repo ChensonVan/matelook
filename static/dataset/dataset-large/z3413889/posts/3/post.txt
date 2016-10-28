@@ -1,0 +1,5 @@
+message=Dear Boost Juice Free The Fruit game\n\nThank you for the free boost almost every single day\n\nWith much love, a broke UNSW student
+latitude=-33.9097
+time=2016-05-24T22:25:25+0000
+longitude=151.2277
+from=z3413889

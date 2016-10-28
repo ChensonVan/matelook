@@ -1,0 +1,3 @@
+from=z3417937
+message=a long call seller faces potentially unlimited losses. be careful to hedge your position girl
+time=2013-08-03T04:22:17+0000

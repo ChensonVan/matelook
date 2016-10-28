@@ -1,0 +1,5 @@
+time=2013-07-03T05:57:51+0000
+from=z3468575
+latitude=-33.7704
+message=Goodbye UNSW and to all the hot guys in there. It was a nice ride.\nNirvan Gelda, you're really cute. Please always smile.
+longitude=150.8263

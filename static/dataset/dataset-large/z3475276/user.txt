@@ -1,0 +1,9 @@
+email=M.Chrousala@unsw.edu.au
+full_name=Marieta Chrousala
+courses=[2016 S1 CHEM1011, 2016 S1 ENGG1000, 2016 S1 MATH1131, 2016 S1 PHYS1121, 2016 S2 CVEN1701, 2016 S2 ENGG1200, 2016 S2 ENGG1811, 2016 S2 MATH1231]
+mates=[z5037271, z5098313, z5087067, z5116179, z5075687, z5117559, z5099358, z3460476, z3463638, z3493303, z5017077, z5077163, z5098088]
+password=golf
+zid=z3475276
+program=Eng (Hons) / Eng Science
+home_suburb=North Ryde
+birthday=1996-04-27

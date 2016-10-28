@@ -1,0 +1,5 @@
+latitude=-33.8011
+longitude=151.2473
+time=2016-08-17T09:07:44+0000
+from=z5048555
+message=When you're really in love with a girl and all your friends ship it but you both know it isn't happening... yeah, ouch.

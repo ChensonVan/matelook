@@ -1,0 +1,11 @@
+zid=z5115755
+email=M.A.C.Moreira@unsw.edu.au
+home_suburb=Centennial Park
+mates=[z5016876, z5017993, z3492794]
+home_latitude=-33.8904
+full_name=Marco Archer Cardoso Moreira
+program=Engineering (Hons) / Science
+courses=[2016 S1 ENGG1000, 2016 S1 ENGG1811, 2016 S1 MATH1131, 2016 S1 PHYS1131, 2016 S2 ELEC1111, 2016 S2 MATH1231, 2016 S2 MMAN1300, 2016 S2 PHYS1231]
+birthday=1992-12-23
+password=john
+home_longitude=151.2303

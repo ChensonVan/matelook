@@ -1,0 +1,5 @@
+message=To Nic in first year media/journalism. I think you work in real estate? Let me manage your beautiful italian property someday soon. I hope you're still on the market, because boy I'm SOLD on you
+time=2013-06-12T10:42:01+0000
+from=z3372872
+longitude=151.2291
+latitude=-33.9249

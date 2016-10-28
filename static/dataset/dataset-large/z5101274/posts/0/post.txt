@@ -1,0 +1,5 @@
+from=z5101274
+longitude=151.2210
+time=2016-05-18T11:41:25+0000
+message=To the tall filipino 1st year with a slightly american accent in econ1203...Jason? Johnson? - you were talking about cooking dinner the other day... I'd turn up the heat any time you wanna get steamy ;)
+latitude=-33.9235

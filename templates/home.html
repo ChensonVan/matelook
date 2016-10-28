@@ -1,0 +1,106 @@
+{% extends '__base__.html' %}
+
+{% block title %}HomePage - MateLook{% endblock %}
+
+{% block beforehead %}
+{% endblock %}
+
+{% block navbar %}
+    {% import "navbar.html" as navbar %}
+    {{ navbar.nav(user) }}
+{% endblock %}
+
+{% block content %}
+    <!-- *****************************************************************************************************************
+     BLUE WRAP
+     ***************************************************************************************************************** -->
+    <div id="blue">
+        <div class="container">
+            <div class="row">
+                <h3> Welcome back, {{ user.full_name }}. </h3>
+                {% with messages = get_flashed_messages() %}
+                    {% if messages %}
+                     <ul class="flashes">
+                        {% for message in messages %}
+                            <!-- <div class="message_flash"><h2>{{ message }}</h2></div> -->
+                            <div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert">&times;</button> {{ message }} </div>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                {% endwith %}
+            </div><!-- /row -->
+        </div> <!-- /container -->
+    </div> <!-- /blue -->
+
+    <!-- *****************************************************************************************************************
+    CONTENT
+    ******************************************************************************************************************* -->
+     <div class="container mtb">
+        <div class="row">
+            <div class="col-lg-8">
+                <form action="/post" method="POST" name="post">
+                    <ul>
+                        <textarea class="form-control" name="post" cols="104" rows="5"></textarea><br>
+                        <button type="submit" class="btn btn-theme" style="float:right">Post</button>
+                    </ul>
+                </form>
+                <br><br><br>
+
+                {% if query %}
+                    <h4>Results</h4>
+                    <div class="hline"></div>
+                    <div class="spacing"></div>
+                    {% if posts %}
+                        <ul class="popular-posts">
+                        <!-- print posts -->
+                        {% import "print_post.html" as ppost %}
+                        {{ ppost.render_posts(posts, pag.begin, pag.end)}}
+                    {% else %}
+                        <h3> {{ query }} not found. </h3>
+                    {% endif %}
+                    <br><br><br><br><br>
+                    </ul>
+                    <!-- pagination -->
+                    {% import "pagination.html" as pagination %}
+                    {{ pagination.render_pagination('/search/post', query, pag)}}
+                {% elif print_myposts %}
+                    <h4>My Rescent Results</h4>
+                    <div class="hline"></div>
+                    <div class="spacing"></div>
+                    {% if myposts %}
+                        <ul class="popular-posts">
+                        <!-- print posts -->
+                        {% import "print_post.html" as ppost %}
+                        {{ ppost.render_myposts(myposts, pag.begin, pag.end)}}
+                        <!-- pagination -->
+                        {% import "pagination.html" as pagination %}
+                        {{ pagination.render_pagination('/home', '', pag)}}
+                    {% else %}
+                        <h3> Sorry, you didn't post anything. </h3>
+                    {% endif %}
+                {% else %}
+                    <h4>Friends Recent Posts</h4>
+                    <div class="hline"></div>
+                    <br>
+                    <ul class="popular-posts">
+                    <!-- print posts -->
+                    {% import "print_post.html" as ppost %}
+                    {{ ppost.render_posts(user.getRecentPosts(), pag.begin, pag.end)}}
+                    <!-- pagination -->
+                    {% import "pagination.html" as pagination %}
+                    {{ pagination.render_pagination('/home', '', pag)}}
+                    </ul>
+                {% endif %}
+            </div>
+
+            <!-- *****************************************************************************************************************
+            RIGHT SIDE
+            ****************************************************************************************************************** -->
+            <div class="col-lg-4" style="float:right">
+                {% import "right.html" as right %}
+                {{ right.search() }}
+                {{ right.mate_list(user.getMatesWithInfo()) }}
+            </div> 
+        </div>
+    </div>
+{% endblock %}

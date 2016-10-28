@@ -1,0 +1,5 @@
+from=z5043981
+time=2013-06-26T00:29:20+0000
+message=Dear Matthew,\nI wish your girlfriend was mine. You don't deserve her.\nkthxbye.
+latitude=-33.7366
+longitude=150.8078

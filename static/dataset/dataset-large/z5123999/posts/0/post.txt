@@ -1,0 +1,5 @@
+from=z5123999
+latitude=-33.9084
+longitude=151.2368
+message=To that cute guy in my maths1251 (think it was chenxiao??)\n\nEverytime I see your cute lil smile, my heart races. Coffee sometime? ;)
+time=2016-08-15T00:11:38+0000

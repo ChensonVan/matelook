@@ -1,0 +1,5 @@
+time=2013-07-01T14:44:33+0000
+latitude=-33.6299
+longitude=151.3309
+from=z5113241
+message=To the chick called Joanne Chan I like your display photo

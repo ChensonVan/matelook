@@ -1,0 +1,5 @@
+latitude=-33.9230
+time=2013-10-09T23:26:38+0000
+message=To the girl studying psychology, you have a math1041 tut on Wednesday 12 o clock, you wear glasses, you have a red checkered bag.I like you.\nfrom a designers perspective
+longitude=151.2330
+from=z5099971

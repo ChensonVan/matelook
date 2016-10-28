@@ -1,0 +1,5 @@
+latitude=-33.7969
+message=To the brazilian guy studying environmental enginerring: You're the cuttest guy that i've ever met, and I'd like you to inspection my sewer!
+longitude=151.1668
+from=z3461196
+time=2013-04-23T12:37:24+0000

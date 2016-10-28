@@ -1,0 +1,5 @@
+longitude=151.2630
+time=2015-10-01T14:04:52+0000
+message=Why do I always attract the weirdos?
+from=z5117790
+latitude=-33.9187

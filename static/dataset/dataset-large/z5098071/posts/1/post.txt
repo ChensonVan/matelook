@@ -1,0 +1,5 @@
+latitude=-33.8414
+longitude=151.1419
+message=Shannon Suryawan-na go on a date sometime?
+from=z5098071
+time=2016-06-07T05:39:01+0000

@@ -1,0 +1,11 @@
+courses=[2016 S1 COMP9020, 2016 S1 COMP9021, 2016 S1 COMP9311, 2016 S1 COMP9414, 2016 S2 COMP9024, 2016 S2 COMP9041, 2016 S2 COMP9331, 2016 S2 GSOE9210]
+full_name=Brad Johnson
+birthday=1995-03-15
+zid=z3422324
+program=Information Technology
+home_suburb=Bonnet Bay
+email=B.Johnson@unsw.edu.au
+home_longitude=151.0459
+home_latitude=-34.0185
+password=danielle
+mates=[z3262692, z5088545, z3462191, z3458803, z3424645, z5113496, z3432214, z5062448, z5016876, z5076642, z3461074, z5127546, z3417937, z5109786]

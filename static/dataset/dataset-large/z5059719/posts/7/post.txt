@@ -1,0 +1,5 @@
+message=That tiny asian gurl doing law in 2nd year is adorable
+latitude=-33.9203
+time=2013-11-21T15:35:20+0000
+longitude=151.2401
+from=z5059719

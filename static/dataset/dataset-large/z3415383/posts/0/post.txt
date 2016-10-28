@@ -1,0 +1,5 @@
+message=To the white girl sitting outside Tyree on Wednesday afternoon in the corner by herself... you are stunning!
+from=z3415383
+time=2016-09-20T16:42:21+0000
+longitude=151.2360
+latitude=-33.9128

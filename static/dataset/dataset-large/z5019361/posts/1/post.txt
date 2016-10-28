@@ -1,0 +1,5 @@
+time=2016-05-11T12:40:25+0000
+longitude=151.2225
+latitude=-33.9101
+message=to the tall girl with the glasses and blonde hair in my Tuesday German tute (you sit next to a guy usually?) I think you are heiß heiß heiß
+from=z5019361

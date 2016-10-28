@@ -1,0 +1,5 @@
+latitude=-33.9195
+from=z5059719
+message=To INFS2605 lecturer Michael, your name resides in a private final field in my object. I was instantiated with your name on it. Love sincerely an devoted student
+time=2015-05-21T15:00:47+0000
+longitude=151.2601

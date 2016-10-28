@@ -1,0 +1,3 @@
+from=z5074940
+message=Speaking of which.....\n\nhttp://sphotos-c.ak.fbcdn.net/hphotos-ak-frc1/1613_602235646467731_866437337_n.jpg
+time=2013-06-18T03:01:20+0000

@@ -1,0 +1,5 @@
+latitude=-33.9227
+message=To Kristina,\n\nI love you and your mineral water <3
+longitude=151.2364
+from=z3463809
+time=2016-08-17T04:38:29+0000

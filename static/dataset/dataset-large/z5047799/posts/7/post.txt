@@ -1,0 +1,5 @@
+from=z5047799
+longitude=151.2304
+time=2013-04-04T10:50:11+0000
+message=To the gorgeous Lebanese boy I met today...taaa ta hebak!
+latitude=-33.9484

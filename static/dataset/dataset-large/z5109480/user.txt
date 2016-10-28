@@ -1,0 +1,11 @@
+courses=[2016 S1 BABS1201, 2016 S1 COMP1917, 2016 S1 ENGG1000, 2016 S1 MATH1131, 2016 S2 BIOS1101, 2016 S2 CHEM1011, 2016 S2 COMP1917, 2016 S2 MATH1231]
+password=girl
+home_longitude=151.2444
+full_name=Tim Welsh
+home_latitude=-33.8791
+program=Engineering (Hons) / Science
+mates=[z5021309, z3462856, z5020210, z5060479, z5117559, z5078756, z5078886, z5076002, z5016565, z3459050, z5056054, z5119613, z5077119, z5032269, z5059583]
+home_suburb=Woollahra
+zid=z5109480
+email=T.Welsh@unsw.edu.au
+birthday=1993-10-18

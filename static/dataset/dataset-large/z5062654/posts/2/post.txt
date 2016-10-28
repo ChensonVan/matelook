@@ -1,0 +1,5 @@
+latitude=-33.8577
+message=to the girl who was handing out balloons at o week wearing a hoodie saying she was leader of the transition team - you were such a sweetheart and so friendly! you looked like you could use a pick me up so i went to get you coffee but when i came back you were gone....coffee sometime when you're not so busy?
+longitude=151.1084
+from=z5062654
+time=2013-07-30T10:32:51+0000

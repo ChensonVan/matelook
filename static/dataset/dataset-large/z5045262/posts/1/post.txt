@@ -1,0 +1,5 @@
+message=I'm in love with the cuties Mike & Ryan from Coco Cubano. I'll take either of you, anytime!
+from=z5045262
+longitude=151.2741
+latitude=-33.8881
+time=2013-11-15T20:02:15+0000

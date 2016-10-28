@@ -1,0 +1,11 @@
+zid=z3445371
+birthday=1993-01-01
+home_latitude=-33.9196
+password=theman
+courses=[2016 S1 ARTS1010, 2016 S1 ARTS1090, 2016 S1 LAWS1052, 2016 S1 MDIA1002, 2016 S2 ARTS1091, 2016 S2 LAWS1061, 2016 S2 MDIA1003, 2016 S2 MDIA1004]
+home_suburb=University Of New South Wales
+mates=[z5113482, z5113077, z5109786, z5076002, z5062448, z5112650, z5060359, z5017787, z5015243]
+email=S.Bullock@unsw.edu.au
+program=Media (Com & Journalism) / Law
+home_longitude=151.2286
+full_name=Sandra Bullock

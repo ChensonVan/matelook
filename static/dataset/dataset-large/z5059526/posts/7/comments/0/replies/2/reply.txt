@@ -1,0 +1,3 @@
+message=Whats your burmese name?
+from=z3452764
+time=2016-04-26T03:25:57+0000

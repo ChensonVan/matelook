@@ -1,0 +1,5 @@
+longitude=151.2378
+from=z5016876
+latitude=-33.8829
+time=2016-06-24T11:42:45+0000
+message=Joe Chen you single? I see you at ASOC events and your mysterious aura is cute\nCome find me-the short asian first year girl at ASOC

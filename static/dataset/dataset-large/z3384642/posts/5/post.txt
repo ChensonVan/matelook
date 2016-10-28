@@ -1,0 +1,5 @@
+latitude=-33.8427
+from=z3384642
+time=2016-08-11T09:06:42+0000
+message=Feels when the person you wanted to go to BSOC Ball with won't even be there because they're going to defqon instead...
+longitude=151.0425

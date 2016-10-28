@@ -1,0 +1,3 @@
+from=z5010380
+message=z5025090 you but bleeding on the inside haha
+time=2016-09-10T12:11:34+0000

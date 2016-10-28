@@ -1,0 +1,3 @@
+from=z5084484
+message=Fear not, z5062732 is moving to USyd
+time=2016-10-05T23:36:52+0000

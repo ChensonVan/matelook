@@ -1,0 +1,3 @@
+from=z5060416
+time=2016-07-08T07:16:45+0000
+message=The semester is over and alas I might never see you again. To alex in comp1911 (I think with a big nose) your smile makes me bubbly from the inside. I hope we can meet up some time so I can show you my holes and you can show me your island from the assignment ;)

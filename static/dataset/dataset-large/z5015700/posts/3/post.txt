@@ -1,0 +1,5 @@
+from=z5015700
+latitude=-33.9023
+message=Dear Simba from Sunswift,\n\nYou are actually the hottest person I have ever seen. Seeing you with that Sunswift car makes me want to hop on and take a ride ;) Just like your namesake, I just can't wait to make you my king, hakuna my tatas, etc.
+time=2016-04-20T08:45:35+0000
+longitude=151.2292

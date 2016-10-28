@@ -1,0 +1,5 @@
+longitude=151.1104
+latitude=-33.8907
+message=Cynthia Tang = u are the cutest thing at unsw. I always wanted to grab ur ass but I have no idea why
+from=z3470057
+time=2013-04-30T08:34:18+0000

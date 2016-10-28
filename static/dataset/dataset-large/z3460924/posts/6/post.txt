@@ -1,0 +1,5 @@
+message=Thile, you are the fresh prince.
+latitude=-33.9269
+longitude=151.2259
+from=z3460924
+time=2013-08-11T01:55:02+0000

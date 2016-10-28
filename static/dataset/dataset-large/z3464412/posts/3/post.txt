@@ -1,0 +1,5 @@
+longitude=151.2205
+latitude=-33.8703
+message=To the indian/wog girl sitting at the front of the Wednesday MATH1151 lecture, you looked really cute in that red sweater ;)\nAlso you could probably support me with a high-paying job after I fail Actuarial and have to drop out...
+time=2016-06-05T14:12:52+0000
+from=z3464412

@@ -1,0 +1,5 @@
+time=2013-04-18T13:19:00+0000
+longitude=151.1260
+message=To the asian guy with glasses, I think I'm in love with you.
+latitude=-33.8531
+from=z5076642

@@ -1,0 +1,3 @@
+from=z5076642
+time=2016-07-04T09:24:11+0000
+message=I picked it because I thought you would barely\nHave to go to uni

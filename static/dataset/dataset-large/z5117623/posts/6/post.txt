@@ -1,0 +1,5 @@
+longitude=151.1281
+latitude=-34.0887
+time=2013-06-14T04:58:28+0000
+message=To the cute asian guy working at IGA, your face is perfect.
+from=z5117623

@@ -1,0 +1,11 @@
+full_name=Mickey Sherman
+home_suburb=Coogee
+zid=z5117982
+birthday=1997-10-19
+program=Commerce
+password=freedom
+email=M.Sherman@unsw.edu.au
+mates=[z5087067, z5060479, z3372872, z5020410, z3458803, z3289658, z5115039, z5024602, z5115780, z5017787, z5092194, z5059064]
+home_longitude=151.2503
+courses=[2016 S2 ACCT1501, 2016 S2 ECON1101, 2016 S2 FINS1613, 2016 S2 MGMT1001]
+home_latitude=-33.9239

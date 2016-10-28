@@ -1,0 +1,5 @@
+message=To the cute guy wearing mustard shorts and a grey-longsleeved-undershirt outside the library,\nYou're a part of the "getting started" crew. You're absolutely stunning!\n\nGay?
+from=z3460476
+latitude=-33.8804
+time=2013-08-05T07:33:20+0000
+longitude=151.0967

@@ -1,0 +1,5 @@
+latitude=-33.8938
+message=To the kinda tall half Asian girl with the straight black bob who always dresses amazingly. \nI see you around cofa and main campus and you're always surrounded by friends and smiling. \nWhere have you been the last couple of weeks? I miss your contagious laughter
+longitude=151.2325
+time=2016-05-11T11:39:55+0000
+from=z5024602

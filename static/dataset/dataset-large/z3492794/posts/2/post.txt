@@ -1,0 +1,5 @@
+from=z3492794
+latitude=-33.9173
+longitude=151.2211
+time=2016-05-11T10:00:27+0000
+message=To the guy in my ECON1101 Monday tutorial at Ainsworth, the way you concentrate on your work is mesmerising... I think your name starts with N or M

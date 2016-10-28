@@ -1,0 +1,5 @@
+from=z5014861
+longitude=151.1356
+latitude=-33.8855
+message=To C,\n\nStop playing games with him, just tell him how you feel\n\nN.D.
+time=2016-09-07T16:24:35+0000

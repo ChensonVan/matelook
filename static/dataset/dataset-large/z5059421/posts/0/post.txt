@@ -1,0 +1,5 @@
+latitude=-33.7754
+from=z5059421
+time=2013-08-07T07:47:22+0000
+message=Find your soul mate on this cruise...\nz5063045
+longitude=151.1850

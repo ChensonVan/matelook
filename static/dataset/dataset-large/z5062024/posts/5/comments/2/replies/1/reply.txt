@@ -1,0 +1,3 @@
+from=z5117623
+message=Word for word 👌🏽👌🏽
+time=2016-05-25T10:04:34+0000

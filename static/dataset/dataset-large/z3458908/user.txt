@@ -1,0 +1,11 @@
+email=A.Jolie@unsw.edu.au
+home_suburb=Camellia
+full_name=Angelina Jolie
+zid=z3458908
+home_longitude=151.0222
+program=Engineering (Honours)
+birthday=1997-01-05
+password=tester
+courses=[2016 S2 ELEC1111, 2016 S2 ENGG1000, 2016 S2 MATH1131, 2016 S2 PHYS1131]
+home_latitude=-33.8187
+mates=[z3462856, z5083841, z5098157, z5024986, z5062732, z3470057, z5017258, z3452764, z5076554, z5117301, z5032269, z5059161]

@@ -1,0 +1,5 @@
+message=I am a first year engi student started from semester 2.\nI think I have confidence issues and when I start having crush for someone, I always fear that the person who I have crush in will think of me as an embarasment. Any advice?
+latitude=-33.9159
+time=2016-10-04T07:58:28+0000
+from=z3442036
+longitude=151.1484

@@ -1,0 +1,5 @@
+time=2013-11-02T14:23:41+0000
+latitude=-33.9763
+from=z5052081
+longitude=151.1465
+message=Dear Asian guy with black ear piercings serving (really good) coffee at Coco Cubano; you make the trip from ASB Labs to Coco worth it.

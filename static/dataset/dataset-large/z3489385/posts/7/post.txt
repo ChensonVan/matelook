@@ -1,0 +1,5 @@
+message=To the cute asian guy who wears glasses in my mgmt tute on thursday, wanna grab coffee sometime?? \nI think your name is Lam. \n\nThe hoodie chick
+longitude=150.9063
+time=2016-08-14T04:09:45+0000
+from=z3489385
+latitude=-33.8664

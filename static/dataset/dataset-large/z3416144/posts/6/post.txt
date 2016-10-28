@@ -1,0 +1,5 @@
+latitude=-33.9306
+message=Falling for an exchange student is one of the worst things ever.\n\nArthur Belaud, can you draw me like one your French girls?
+longitude=151.2001
+time=2016-08-14T13:01:14+0000
+from=z3416144

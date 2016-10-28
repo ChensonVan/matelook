@@ -1,0 +1,5 @@
+time=2016-05-25T09:20:58+0000
+longitude=151.2261
+message=To the girl in the long, blue dress who I let infront of me when getting off the bus at Central around 6:30pm Tuesday, you have the most gorgeous smile
+latitude=-33.9099
+from=z5013098

@@ -1,0 +1,5 @@
+longitude=151.1045
+latitude=-33.8033
+message=Dear cute curry guys at student central counter 1,\n\nYour responses to my inquiries were on point just as you were 😉 thought you should know that you guys made my day.\n\nLove,\nGirl who needed your help 😊
+from=z5015646
+time=2016-08-06T12:14:15+0000

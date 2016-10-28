@@ -1,0 +1,5 @@
+from=z5042720
+latitude=-33.9084
+message=To the girl in my COMP1917 lecture - coffee sometime?
+time=2013-08-20T12:02:24+0000
+longitude=151.2316

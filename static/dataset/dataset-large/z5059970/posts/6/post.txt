@@ -1,0 +1,5 @@
+longitude=151.1909
+latitude=-33.8795
+from=z5059970
+time=2013-07-23T11:30:45+0000
+message=hi, this isn't a love letter, but just a little service announcement to remind everyone that unsw is holding o day on thursday, so if anyone missed out on creating a love affair with their favourite societies, you get a second chance to join up if you come along this thursday! The event will be held in G19, the scientia building, hope to see you there!

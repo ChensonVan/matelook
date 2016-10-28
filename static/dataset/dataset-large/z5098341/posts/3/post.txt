@@ -1,0 +1,5 @@
+time=2016-04-26T01:25:40+0000
+longitude=151.2303
+from=z5098341
+latitude=-33.8850
+message=To the boy with red hair and eyelashes I encountered on the bus before the break,\n\nThank you for helping me notice the different colouring of eyelashes. Also, from observation you're quite pretty.\n\nThe Asian girl who let you off the bus before her.

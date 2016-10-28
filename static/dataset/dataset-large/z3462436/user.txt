@@ -1,0 +1,11 @@
+home_longitude=150.9796
+zid=z3462436
+email=M.E.Mastrantonio@unsw.edu.au
+courses=[2016 S1 ENGG1811, 2016 S1 MATH1131, 2016 S1 MATS1101, 2016 S1 PHYS1131, 2016 S2 CVEN1300, 2016 S2 ECON1101, 2016 S2 ENGG1000, 2016 S2 MATH1231]
+home_latitude=-33.3238
+home_suburb=Central Macdonald
+full_name=Mary Elizabeth Mastrantonio
+birthday=1993-05-21
+password=birdie
+mates=[z5130883, z5109980, z3411568, z5059413, z5108472, z3462438, z5075923, z5092040, z5117658, z5010380]
+program=Engineering (Hons) / Science

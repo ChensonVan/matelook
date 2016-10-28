@@ -1,0 +1,11 @@
+mates=[z3468575, z5017842]
+program=Engineering (Honours)
+home_latitude=-33.8976
+home_longitude=151.2107
+email=K.Olbermann@unsw.edu.au
+home_suburb=Waterloo
+birthday=1997-01-07
+password=xavier
+full_name=Keith Olbermann
+zid=z5083924
+courses=[2016 S2 ELEC1111, 2016 S2 ENGG1000, 2016 S2 MATH1131, 2016 S2 PHYS1121]

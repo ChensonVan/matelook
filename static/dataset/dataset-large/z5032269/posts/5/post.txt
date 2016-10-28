@@ -1,0 +1,5 @@
+message=to the curlie-haired god on campus, I see u walking up the main walkway with ur sunnies on and the sun behind making ur hair glow. i smiled at u and u smiled back, sit with ur friends at wednesday happy hour? i will buy a tooeys old for u
+time=2013-08-07T05:23:08+0000
+longitude=151.2353
+latitude=-33.9085
+from=z5032269

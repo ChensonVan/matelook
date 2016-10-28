@@ -1,0 +1,3 @@
+from=z5060223
+message=must be u Hans Wibz!!
+time=2013-04-17T02:59:00+0000

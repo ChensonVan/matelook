@@ -1,0 +1,11 @@
+birthday=1995-03-27
+home_latitude=-33.9484
+home_longitude=151.2304
+password=king
+home_suburb=Matraville
+courses=[2016 S1 COMP1917, 2016 S1 MATH1141, 2016 S1 PHYS1131, 2016 S1 SCIF1121, 2016 S2 COMP1927, 2016 S2 MATH1081, 2016 S2 MATH1241, 2016 S2 PHYS1231]
+email=R.Stevenin@unsw.edu.au
+program=Adv Science(Hons)/Computer Sci
+zid=z5047799
+mates=[z5127733, z5043507, z5018549, z3460476, z5015646, z5092040, z3374132, z5017787, z5113614]
+full_name=Robinson Stevenin

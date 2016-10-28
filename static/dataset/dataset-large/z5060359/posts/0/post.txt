@@ -1,0 +1,5 @@
+time=2016-08-31T17:15:02+0000
+message=To my one true love, despite initially hating you at first I've realised that since I started uni all those years ago I've needed you more than ever.\nI love you coffee, please don't ever leave me.
+from=z5060359
+latitude=-33.9337
+longitude=151.2216

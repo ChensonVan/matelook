@@ -1,0 +1,5 @@
+latitude=-33.9473
+longitude=151.1486
+time=2013-05-21T10:09:52+0000
+message=To the boy in my slsp3000, who is of asian decent. I think your name is Axel? You can axe me anytime.
+from=z5038337

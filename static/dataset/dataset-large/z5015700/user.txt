@@ -1,0 +1,11 @@
+program=Information Technology
+full_name=Steve Karsay
+zid=z5015700
+password=xxxxxx
+home_latitude=-33.9023
+home_suburb=Kensington
+email=S.Karsay@unsw.edu.au
+home_longitude=151.2292
+mates=[z5024963, z3462438]
+birthday=1993-03-16
+courses=[2015 S1 COMP9021, 2015 S1 COMP9024, 2015 S1 COMP9414, 2015 S2 COMP4418, 2016 S1 COMP4141, 2016 S1 COMP9417, 2016 S1 GSOE9820, 2016 S2 COMP6714, 2016 S2 COMP9318]

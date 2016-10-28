@@ -1,0 +1,5 @@
+message=To the girl in the red skirt that was really short on one side of her leg and really long on the other, I met you at the optom cruise a few weeks ago and have been trying to find you everywhere. Do you do optometry/vision science? Maybe you don't even do this course or go to UNSW.... Me and my little man have been thinking about you ever since that night.......
+from=z3416923
+longitude=151.2214
+latitude=-33.9213
+time=2013-05-03T09:38:13+0000

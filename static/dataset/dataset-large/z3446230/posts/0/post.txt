@@ -1,0 +1,5 @@
+message=To my dearest Yifan. It was 5 years ago when I first met you, and gazed into your deep brown eyes. 5 years later and I have finally managed to track you down. I even changed university so we can finally be together. Every time I see you I imagine our life together, we will grow old and have 4 children together. You know who I am, my body is ready
+latitude=-34.0737
+longitude=150.7968
+from=z3446230
+time=2013-03-27T01:31:05+0000

@@ -1,0 +1,5 @@
+latitude=-33.9146
+from=z5075071
+message=I thought we hit it off, why did you 'seen' my message and not replyyyyyy. :'(
+longitude=151.2353
+time=2016-10-05T00:27:24+0000

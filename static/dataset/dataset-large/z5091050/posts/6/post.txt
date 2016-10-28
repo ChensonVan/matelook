@@ -1,0 +1,5 @@
+latitude=-33.4920
+time=2016-06-23T14:02:46+0000
+message=tfw you're getting straight HDs but your love life is going nowhere
+longitude=150.2663
+from=z5091050

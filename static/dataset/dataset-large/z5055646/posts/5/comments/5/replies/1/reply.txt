@@ -1,0 +1,3 @@
+time=2016-04-26T08:36:01+0000
+message=didnt u bring 2 kebabs to uni today
+from=z5042720

@@ -1,0 +1,5 @@
+from=z5112578
+longitude=151.2392
+latitude=-33.9198
+message=Why doesn't anyone ever write anything about ex Phys students? We need love too guys. 💔
+time=2016-08-14T13:57:06+0000

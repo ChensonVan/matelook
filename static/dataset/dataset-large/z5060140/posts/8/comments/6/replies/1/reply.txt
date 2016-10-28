@@ -1,0 +1,3 @@
+message=Fair call, I accept my defeat
+from=z5117982
+time=2016-07-26T19:47:42+0000

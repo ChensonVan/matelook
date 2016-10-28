@@ -1,0 +1,5 @@
+time=2013-05-27T21:57:24+0000
+message=To the cute UNSW guy with glasses that got on the south line at central on Wednesday arvo who was entertaining that cute little baby. You're not the only one who was entertained ;)
+latitude=-33.8450
+from=z3463638
+longitude=151.1389

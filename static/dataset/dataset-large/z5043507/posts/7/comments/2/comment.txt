@@ -1,0 +1,3 @@
+from=z5047799
+time=2013-04-11T23:07:32+0000
+message=HAHA! This is hilarious. I was outside the red centre yesterday, but I'm pretty sure that conversation happened on Tuesday.

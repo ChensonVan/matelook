@@ -1,0 +1,3 @@
+message=He gets off at blacktown train station every friday at 4pm and has a red mazda at that carpark, the back trunk is unlocked ;)
+time=2013-11-14T12:08:37+0000
+from=z3416144

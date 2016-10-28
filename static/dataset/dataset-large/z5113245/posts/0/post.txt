@@ -1,0 +1,5 @@
+latitude=-33.8301
+from=z5113245
+time=2016-08-29T07:18:42+0000
+longitude=151.1751
+message=To Simon and Hanna,\nAre you two dating?

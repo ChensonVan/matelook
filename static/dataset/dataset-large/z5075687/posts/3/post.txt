@@ -1,0 +1,5 @@
+longitude=151.2130
+from=z5075687
+latitude=-33.9278
+message=Second year chem engo Andy Wang, do you like boys? Coffee sometime?
+time=2016-05-17T11:04:52+0000

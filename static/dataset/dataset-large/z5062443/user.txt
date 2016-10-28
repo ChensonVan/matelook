@@ -1,0 +1,11 @@
+courses=[2016 S1 COMP1917, 2016 S1 COMP1927, 2016 S1 COMP2121, 2016 S1 COMP2911, 2016 S1 COMP3331, 2016 S1 COMP8004, 2016 S1 GENZ2000, 2016 S1 MATH1081, 2016 S1 MATH1131, 2016 S2 COMP2041, 2016 S2 COMP3511, 2016 S2 COMP4336, 2016 S2 MATH1231]
+birthday=1997-04-27
+email=A.Zakayev@unsw.edu.au
+full_name=Akhmed Zakayev
+program=Computer Science
+home_suburb=University Of New South Wales
+home_longitude=151.2211
+mates=[z5012884, z5113482, z5062732, z3489361, z3486844, z5113614]
+zid=z5062443
+home_latitude=-33.9100
+password=music

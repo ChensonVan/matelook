@@ -1,0 +1,5 @@
+message=To the boy who sneezed during the med revue choir-like song towards the end, you were so cute and i could see you laughing so much from that. Hope you stay a cute little monkey mr T!
+latitude=-33.7734
+longitude=151.2570
+time=2013-05-26T23:40:33+0000
+from=z3442036

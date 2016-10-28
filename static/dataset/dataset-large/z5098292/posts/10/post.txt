@@ -1,0 +1,5 @@
+from=z5098292
+longitude=151.2022
+message=To the chick who plays the apprentice in CSE Revue... Babin'
+latitude=-33.9355
+time=2013-10-14T00:40:13+0000

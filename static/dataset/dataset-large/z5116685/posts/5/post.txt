@@ -1,0 +1,5 @@
+message=Monisha, since I met you, I fell in love with you! I asked all my indian friends about indian movies so i could have something to talk to you about! Please accept me into your heart!
+longitude=151.2294
+from=z5116685
+time=2013-08-04T12:13:19+0000
+latitude=-33.9271

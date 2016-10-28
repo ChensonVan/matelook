@@ -1,0 +1,3 @@
+message=Fake friend
+from=z5024425
+time=2016-09-08T05:26:22+0000

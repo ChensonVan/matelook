@@ -1,0 +1,5 @@
+message=To the guy studying architecture and jumped from his friends’ balcony tonight,\n\nAlthough, I didn’t catch your name and you’ve had a few to drink tonight. I hope you remember that in between talking about el jannah’s, TC brothers and my favourite foodie spots -  that you agreed to build my dream house for me! \n\nJust remember: 5 levels, 8 bedrooms with ensuite bathrooms, wall to floor library, wrap around glass walls, recessed bed on the top level with a sunroof, 3 tiers and Audi R8 in the garage. \n\nI’ll be waiting :)\n\nMycroft.
+time=2016-06-22T21:34:00+0000
+from=z3431766
+longitude=150.8031
+latitude=-33.7751

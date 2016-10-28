@@ -1,0 +1,5 @@
+from=z5023773
+longitude=151.2556
+message=To the Jamaican-looking med girl with the big fizzy hair...I think your name is mavvy or something...I hope you're going to be a psychiatrist because ja makin' me crazy
+latitude=-33.9565
+time=2013-04-22T03:29:57+0000

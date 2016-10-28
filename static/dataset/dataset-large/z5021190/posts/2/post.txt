@@ -1,0 +1,5 @@
+longitude=151.1215
+latitude=-33.9863
+from=z5021190
+time=2013-05-05T06:26:54+0000
+message=To all the Asian women in my JD cohort, why do you all have white fever? I am so disappointed.

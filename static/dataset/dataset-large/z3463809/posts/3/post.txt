@@ -1,0 +1,5 @@
+message=The female anglerfish knows that sometimes the parasitic remains of a male member of the species, fused to one's skin and atrophied to nothing more than a functioning pair of gonads, can't keep you company when you're watching Craig Ferguson and wondering where you went wrong with your life.
+from=z3463809
+time=2013-05-30T09:16:19+0000
+latitude=-33.9173
+longitude=151.2368

@@ -1,0 +1,5 @@
+latitude=-33.9163
+message=To the CompSci society president - thank you for being the epitome of "small things come with big packages"... If you know what I mean ;)
+from=z3219170
+time=2016-05-05T13:54:55+0000
+longitude=151.2227

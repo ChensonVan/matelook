@@ -1,0 +1,5 @@
+message=kieran chu, \n\ni love chu. chu chu (insert blowing kisses emoji here x10)
+from=z5062482
+longitude=151.1254
+latitude=-33.9210
+time=2016-05-13T12:52:39+0000

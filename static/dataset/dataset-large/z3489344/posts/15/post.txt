@@ -1,0 +1,5 @@
+latitude=-33.9088
+time=2013-10-02T08:47:24+0000
+from=z3489344
+message=Who is the guy on the front of the UNSW Scholarships page? Be mine x
+longitude=151.2375

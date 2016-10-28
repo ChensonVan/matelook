@@ -1,0 +1,3 @@
+from=z5062482
+message=Squirtle might be water type\nand Charmander might be fire type.\nShirley L , I think I might be your type. \n\nPokemon Go Some day?
+time=2016-08-28T10:24:49+0000

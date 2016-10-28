@@ -1,0 +1,5 @@
+from=z3462629
+message=To the girl who was on the 400 this afternoon who got off in Kingsford at the main entrance at about 4:15 I'm sorry I was too shy to say hi, you are beautiful and something about you intrigued me, there were a few back and forth smiles, awkwardly I seemed to be the one always getting caught not just by you but everyone on the bus, probably will never see you again or figure out who you are so thought I would try this I mean can't really do anything else who knows this may work
+longitude=151.2273
+time=2016-06-08T16:10:30+0000
+latitude=-33.9219

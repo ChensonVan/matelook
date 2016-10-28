@@ -1,0 +1,116 @@
+{% extends '__base__.html' %}
+
+{% block title %}HomePage - MateLook{% endblock %}
+
+{% block beforehead %}
+{% endblock %}
+
+{% block navbar %}
+    {% import "navbar.html" as navbar %}
+    {{ navbar.nav(user) }}
+{% endblock %}
+
+{% block content %}
+    <!-- *****************************************************************************************************************
+     BLUE WRAP
+     ***************************************************************************************************************** -->
+    <div id="blue">
+        <div class="container">
+            <div class="row">
+                <h3> Welcome back, {{ user.full_name }}. </h3>
+                {% with messages = get_flashed_messages() %}
+                    {% if messages %}
+                     <ul class="flashes">
+                        {% for message in messages %}
+                            <div class="message_flash"><h4>{{ message }}</h4></div>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                {% endwith %}
+            </div><!-- /row -->
+        </div> <!-- /container -->
+    </div> <!-- /blue -->
+
+    <!-- *****************************************************************************************************************
+    CONTENT
+    ******************************************************************************************************************* -->
+     <div class="container mtb">
+        <div class="row">
+            <div class="col-lg-8">
+                <h4>Editting your information</h4>
+
+                <div class="hline"></div>
+                    <br>
+                    <br>
+    
+                    <form action="/profile" method="POST">
+                        <div class="form-group">
+                            <label for="message1">Description</label>
+                            <textarea class="form-control" name="description" rows="3">{{ user.description }}</textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="InputName1">Your Name</label>
+                            <input type="text" class="form-control" name="full_name" value="{{ user.full_name }}">
+                        </div>
+                        <div class="form-group">
+                            <label for="InputEmail1">Email address</label>
+                            <input type="email" class="form-control" name="email" value="{{ user.email }}">
+                        </div>
+                        <div class="form-group">
+                            <label for="InputSubject1">Old Password</label>
+                            <input type="password" class="form-control" name="old_password">
+                        </div>
+                        <div class="form-group">
+                            <label for="InputSubject1">Password</label>
+                            <input type="password" class="form-control" name="password">
+                        </div>
+                        <div class="form-group">
+                            <label for="InputSubject1">Birthday</label>
+                            <input type="date" class="form-control" name="birthday" value="{{ user.birthday }}">
+                        </div>
+                        <div class="form-group">
+                            <label for="InputSubject1">Program</label>
+                            <input type="text" class="form-control" name="program" value="{{ user.program }}">
+                        </div>
+                        <div class="form-group">
+                            <label for="InputSubject1">Courses</label>
+                            <input type="text" class="form-control" name="courses" value="{{ user.courses }}">
+                        </div>
+                        <div class="form-group">
+                            <label for="InputSubject1">Home Latitude</label>
+                            <input type="text" class="form-control" name="home_latitude" value="{{ user.home_latitude }}">
+                        </div>
+                        <div class="form-group">
+                            <label for="InputSubject1">Home Longitude</label>
+                            <input type="text" class="form-control" name="home_longitude" value="{{ user.home_longitude }}">
+                        </div>
+                        <div class="form-group">
+                            <label for="InputSubject1">Home Suburb</label>
+                            <input type="text" class="form-control" name="home_suburb" value="{{ user.home_suburb }}">
+                        </div>
+                        <div class="form-group">
+                            <label for="InputSubject1">Public</label>
+                            <label class="checkbox-inline">
+                                <input type="radio" name="public" value="1" checked> Yes
+                            </label>
+                            <label class="checkbox-inline">
+                                <input type="radio" name="public" value="0"> No
+                            </label>
+                        </div>
+
+                        <button type="submit" class="btn btn-theme">Submit</button>
+                    </form>
+
+            </div> <!--/col-lg-8 -->
+
+            <!-- *****************************************************************************************************************
+            RIGHT SIDE
+            ****************************************************************************************************************** -->
+            <div class="col-lg-4" style="float:right">
+                {% import "right.html" as right %}
+                {{ right.search() }}
+                {{ right.mate_list(user.getMatesWithInfo()) }}
+            </div>
+        </div>
+    </div>
+{% endblock %}

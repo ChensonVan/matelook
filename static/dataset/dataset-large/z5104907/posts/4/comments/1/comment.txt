@@ -1,0 +1,3 @@
+from=z5118457
+time=2016-05-06T14:42:35+0000
+message=z5110502 not u soz u fit 0% criteria

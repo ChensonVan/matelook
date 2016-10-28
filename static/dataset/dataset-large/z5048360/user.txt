@@ -1,0 +1,11 @@
+courses=[2015 S2 COMP1917, 2015 S2 ENGG1000, 2015 S2 MATH1131, 2015 S2 SOLA1070, 2016 S1 COMP1917, 2016 S1 MATH1081, 2016 S1 PHYS1121, 2016 S2 COMP1917, 2016 S2 ECON1101, 2016 S2 MATH1231]
+home_longitude=151.2176
+full_name=Daniel Bruehl
+birthday=1998-04-07
+home_latitude=-33.8638
+program=Computer Science
+mates=[z5106767, z5020210, z5082545, z3459423, z5098305, z5061927, z3463739, z3486844, z5024438, z5076189]
+password=stupid
+zid=z5048360
+email=D.Bruehl@unsw.edu.au
+home_suburb=Circular Quay

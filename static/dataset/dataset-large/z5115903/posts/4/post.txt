@@ -1,0 +1,5 @@
+from=z5115903
+message=I have a massive crush on the girl name Dakshi, She is Sri lankan I think and doing Engineering
+latitude=-33.9162
+time=2013-04-18T22:26:20+0000
+longitude=151.2662

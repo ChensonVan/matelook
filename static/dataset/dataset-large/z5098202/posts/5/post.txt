@@ -1,0 +1,5 @@
+longitude=151.2334
+message=All I want is a cute girl that watches anime and is good to talk to all the time
+latitude=-33.9106
+time=2016-09-22T17:39:34+0000
+from=z5098202

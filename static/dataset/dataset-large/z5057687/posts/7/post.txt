@@ -1,0 +1,5 @@
+from=z5057687
+longitude=151.1924
+message=Dear Anthony Zhang,\n\nI wish your violin was not the only thing you tuned.. Maybe we could grab coffee some time, and you can play me like I'm your instrument.\n\nRegards xx
+latitude=-33.8904
+time=2016-09-02T01:39:29+0000

@@ -1,0 +1,5 @@
+latitude=-33.9150
+message=I'm in First Year Optom but recently I've had a huge crush on a hot guy in Second Year. He has a really nice fauxhawk and the cutest smile ever! I think they call him the LG slayer (I don't even know what that means). I think we should get together so I can check out your eyes <3
+longitude=151.2291
+time=2013-05-02T11:53:36+0000
+from=z5087067

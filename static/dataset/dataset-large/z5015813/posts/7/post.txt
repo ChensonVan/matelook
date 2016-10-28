@@ -1,0 +1,5 @@
+message=I wish there was a way to access student id's and know their class timetable so we can plan our day-to-day schedule according to it.\nCoz it gets tiring roaming all over UNSW hopefully trying to see her for a minute at least. But then at the day of the day, I've just walked another 2 kms trying to find her and still haven't seen a glimpse of her.
+longitude=151.1547
+from=z5015813
+time=2013-08-28T02:02:18+0000
+latitude=-33.9442

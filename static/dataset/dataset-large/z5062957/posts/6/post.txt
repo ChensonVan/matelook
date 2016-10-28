@@ -1,0 +1,5 @@
+longitude=151.2386
+message=Dear playboy of first year law, aka Nandos: will you be my peri peri?
+from=z5062957
+time=2013-11-27T09:24:36+0000
+latitude=-33.8713

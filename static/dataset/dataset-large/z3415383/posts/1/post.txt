@@ -1,0 +1,5 @@
+time=2013-08-09T13:40:50+0000
+latitude=-33.9236
+longitude=151.2260
+message=To the tall, brunette Getting Started guy out the front of the main library this week, you're godly hot and you make my heart skip a beat. That is all. Enjoy helping out the noobs.
+from=z3415383

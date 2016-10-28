@@ -1,0 +1,5 @@
+from=z3461651
+latitude=-33.9242
+time=2013-10-02T08:31:35+0000
+message=I've got another confession to make\nI'm your fool\nEveryone's got their chains to break\nHoldin' you\nAre you gone and onto someone new?\nI needed somewhere to hang my head\nWithout your noose\nYou gave me something that I didn't have\nBut had no use\nI was too weak to give in\nToo strong to lose\nMy heart is under arrest again\nBut I break loose\nMy head is giving me life or death\nBut I can't choose\nI swear I'll never give in\nI refuse\n\ni need you my little blue and white lobster
+longitude=151.2206

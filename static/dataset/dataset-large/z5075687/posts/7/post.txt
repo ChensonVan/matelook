@@ -1,0 +1,5 @@
+longitude=151.2373
+message=To that couple that keep making out on library lawn and sharing a bit too much on the bus,\n\nHun, you downgraded big time.\n\nLike, seriously.\n\nxx
+latitude=-33.7568
+time=2016-06-03T11:13:01+0000
+from=z5075687

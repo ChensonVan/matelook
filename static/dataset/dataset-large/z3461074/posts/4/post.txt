@@ -1,0 +1,5 @@
+from=z3461074
+time=2016-10-06T00:35:02+0000
+longitude=151.2246
+latitude=-33.9198
+message=Dear MC,\n\nI know you're running for VPE, but aren't you already Vansh's Personal Escort?\n\nJG

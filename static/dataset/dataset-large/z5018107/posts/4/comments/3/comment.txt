@@ -1,0 +1,3 @@
+from=z3462629
+message=Oh please, you saw my portfolio, i can type properly if i wish to
+time=2013-06-18T00:37:41+0000

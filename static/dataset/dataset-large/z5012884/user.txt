@@ -1,0 +1,11 @@
+mates=[z5099216, z3494117, z5114240, z3489385, z5075071, z5018549, z5062443, z5062654, z5115479, z3459050, z3485885, z5115679, z5060416, z5116685]
+home_latitude=-33.7511
+home_longitude=151.1214
+courses=[2016 S1 COMP9021, 2016 S1 COMP9311, 2016 S1 COMP9414, 2016 S1 GSOE9820, 2016 S2 COMP4418, 2016 S2 COMP9024, 2016 S2 COMP9331, 2016 S2 MATH5905]
+birthday=1995-10-18
+home_suburb=West Pymble
+full_name=Mike Weir
+zid=z5012884
+password=turtle
+program=Information Technology
+email=M.Weir@unsw.edu.au

@@ -1,0 +1,5 @@
+time=2013-05-05T06:32:29+0000
+latitude=-33.9124
+longitude=151.2259
+message=To the girl with the duck bag, where did you get your bag from? It's cute and I want to date it... and I want to date you too.
+from=z3417908

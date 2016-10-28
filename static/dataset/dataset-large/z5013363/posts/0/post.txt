@@ -1,0 +1,5 @@
+from=z5013363
+longitude=151.2500
+message=Cynthia Tang you make my wang-wang go bang-bang.
+latitude=-33.8759
+time=2013-05-10T05:36:57+0000

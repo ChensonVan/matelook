@@ -1,0 +1,3 @@
+from=z5110502
+message=Massive Yeahbaaap... No chicken twisties or jags in sight 😒
+time=2016-08-14T07:36:15+0000

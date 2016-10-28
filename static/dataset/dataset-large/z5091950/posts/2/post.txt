@@ -1,0 +1,5 @@
+latitude=-33.9096
+from=z5091950
+longitude=151.2260
+message=Dear Alvin from med 2nd year. You're so stylish. \n\nTune me maybe? ;)
+time=2016-09-19T01:45:21+0000

@@ -1,0 +1,5 @@
+message=Andrew Shim, your campness and utter lack of ability to act like a regular human being is so adorable.
+longitude=151.1648
+time=2013-10-02T06:10:39+0000
+latitude=-33.8176
+from=z5092311

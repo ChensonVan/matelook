@@ -1,0 +1,5 @@
+longitude=151.2379
+time=2016-08-31T13:01:20+0000
+from=z5076642
+latitude=-33.6767
+message=I know I can't take one more step towards you\n'Cause all that's waiting is regret\nDon't you know I'm not your ghost anymore\nYou lost the love I loved the most\nI learned to live half alive\nAnd now you want me one more time\n\nAnd who do you think you are?\nRunnin' 'round leaving scars\nCollecting your jar of hearts\nAnd tearing love apart\nYou're gonna catch a cold\nFrom the ice inside your soul\nSo don't come back for me\nWho do you think you are?

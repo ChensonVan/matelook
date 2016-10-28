@@ -1,0 +1,3 @@
+from=z5119655
+message=I thought of you and z5114743 straight away
+time=2016-08-03T22:14:39+0000

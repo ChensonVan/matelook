@@ -1,0 +1,5 @@
+longitude=151.1496
+message=The Filo guy with a long black hair. I think your name is Michael. You're handsome and I do hand jobs...
+time=2013-08-07T11:58:25+0000
+latitude=-33.6158
+from=z5020200

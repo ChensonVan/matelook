@@ -1,0 +1,5 @@
+longitude=151.2311
+latitude=-33.8776
+message=To the beautiful Asian girl whom made eye contact with me 3 times as we sauntered down the main walkway. Our connection may have been made in a fleeting moment but I'll daydream about you forever.\n\nLet me take you to the innovative learning spaces of the ASB for a night you won't forget.
+from=z5017258
+time=2016-05-24T16:05:40+0000

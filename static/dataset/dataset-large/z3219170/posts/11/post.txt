@@ -1,0 +1,5 @@
+longitude=150.6046
+time=2013-08-11T05:04:14+0000
+message=To the arc member guy with glasses and the cute accent who gave me an extra lollipop for filling out my details without it being necessary. You now have my number, call me maybe?
+from=z3219170
+latitude=-33.8994

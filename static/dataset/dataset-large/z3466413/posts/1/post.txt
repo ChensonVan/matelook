@@ -1,0 +1,5 @@
+latitude=-33.9217
+message=Hi Someone, I was really happy that I was able to finally see you in person for the first time today. You look really handsome in person and taller than people tease you for. Hope I can see you again soon and finally say hi :)
+from=z3466413
+time=2013-05-13T22:59:07+0000
+longitude=151.2247

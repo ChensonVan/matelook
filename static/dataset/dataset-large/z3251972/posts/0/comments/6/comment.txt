@@ -1,0 +1,3 @@
+from=z5059421
+time=2016-08-09T13:11:36+0000
+message=Anyone calculating the percentage of tagged Asians among all tagged ones here?

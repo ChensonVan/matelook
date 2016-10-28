@@ -1,0 +1,5 @@
+longitude=151.2317
+message="It's dangerous to speak in the silences that tie our mouths closed,\n\nThey're supposed to consume you\n\nand you're supposed to let them."\n~LL
+latitude=-33.9257
+from=z3462428
+time=2013-10-02T12:53:45+0000

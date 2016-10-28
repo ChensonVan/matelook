@@ -1,0 +1,3 @@
+message=If you know the degree look up the courses and the times
+time=2013-08-27T23:49:13+0000
+from=z3459459

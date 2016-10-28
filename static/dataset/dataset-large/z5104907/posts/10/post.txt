@@ -1,0 +1,5 @@
+latitude=-33.9129
+message=Vape me like there's no tomorrow :')
+time=2016-08-04T04:47:02+0000
+from=z5104907
+longitude=151.2291

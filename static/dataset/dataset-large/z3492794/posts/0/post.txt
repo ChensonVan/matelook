@@ -1,0 +1,5 @@
+longitude=151.2262
+time=2016-08-25T16:26:46+0000
+latitude=-33.9248
+message=Nivaaz Kaur, I might not go down in history, but I’ll go down on you!\n\nLove\nL F
+from=z3492794

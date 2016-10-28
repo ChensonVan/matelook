@@ -1,0 +1,5 @@
+message=To the girl with the black xtensions, everlast singlet, tnzs n winged eyeliner outside main library. Imma shout u maccas coz walla babe i fink ur da 1
+latitude=-33.9244
+from=z5060306
+longitude=151.2343
+time=2013-04-18T13:40:40+0000

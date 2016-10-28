@@ -1,0 +1,5 @@
+latitude=-33.9085
+message=To the girl in the MATH3711 class who wore her hair in a French bun last Thursday - you are like 8 kinds of sexy.
+from=z3460724
+longitude=151.2296
+time=2013-06-07T08:20:10+0000

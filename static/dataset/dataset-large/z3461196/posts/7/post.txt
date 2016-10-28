@@ -1,0 +1,5 @@
+message=To Calandra in engineering\n\nMarry me. I'll buy you all the food you can eat.\n\nWhich is probably a lot.\n\n:)
+latitude=-33.7969
+time=2016-05-11T00:08:13+0000
+longitude=151.1668
+from=z3461196

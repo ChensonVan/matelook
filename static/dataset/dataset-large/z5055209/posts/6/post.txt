@@ -1,0 +1,5 @@
+from=z5055209
+latitude=-33.9111
+message=Dear hot girl in my PHYS1131 lecture with long brunette hair.\n\nRapunzel, rapunzel, give me your name\nIf I can't have dinner with you, it'd be such a shame\n\nYour secret admirer
+time=2016-05-11T14:10:31+0000
+longitude=151.2473

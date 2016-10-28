@@ -1,0 +1,5 @@
+from=z5091050
+message=Tfw you do second year engineering and have to pick engg1000 to pick up first year chicks :(
+time=2016-06-28T14:26:21+0000
+longitude=151.2238
+latitude=-33.9096

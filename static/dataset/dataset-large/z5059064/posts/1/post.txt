@@ -1,0 +1,5 @@
+message=To the guy in my drama class, I think your name is ray. You are so loud and your smile so hypnotising? Wanna make a play with me?
+latitude=-33.8176
+time=2013-04-22T00:00:25+0000
+longitude=151.1955
+from=z5059064

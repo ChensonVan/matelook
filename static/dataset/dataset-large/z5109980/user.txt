@@ -1,0 +1,11 @@
+home_suburb=Arncliffe
+password=freddy
+home_longitude=151.1567
+zid=z5109980
+email=G.Frerotte@unsw.edu.au
+full_name=Gus Frerotte
+birthday=1997-05-13
+home_latitude=-33.9410
+courses=[2016 S1 ENGG1000, 2016 S1 ENGG1811, 2016 S1 MATH1131, 2016 S1 PHYS1121, 2016 S2 CHEM1011, 2016 S2 MATH1231, 2016 S2 MATS1192, 2016 S2 MMAN1300]
+mates=[z5114743, z5060416, z3462436, z5062608, z5113496, z5019177, z3463638, z5014972, z3485885, z5021034, z5113236]
+program=Mat Sci and Eng Hons/Eng Sci

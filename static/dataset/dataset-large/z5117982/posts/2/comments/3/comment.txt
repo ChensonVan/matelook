@@ -1,0 +1,3 @@
+from=z5113047
+message=z5061572 is she the riyal de-al ?
+time=2016-08-26T04:06:23+0000

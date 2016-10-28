@@ -1,0 +1,5 @@
+from=z5116685
+time=2016-05-21T13:49:41+0000
+message=Dear Muslim girl who was evidently creeped out by my decision to fill the vacant seat next to you on the 891. Trust me, I didn't want to sit next to you either.
+longitude=150.7647
+latitude=-34.0460

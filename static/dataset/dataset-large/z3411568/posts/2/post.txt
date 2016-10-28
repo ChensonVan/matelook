@@ -1,0 +1,5 @@
+message=i have the biggest trolls / comedic geniui on my facebook. you guys are actually fekn hilarious john giang, ben gleeson, howard d tran, rebecca trunk lin. cheers for making my otherwise boring newsfeed somewhat funny
+time=2013-07-01T19:00:20+0000
+from=z3411568
+latitude=-33.7785
+longitude=151.1906

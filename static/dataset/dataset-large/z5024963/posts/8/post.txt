@@ -1,0 +1,5 @@
+latitude=-33.9196
+longitude=151.2292
+time=2016-09-08T15:40:46+0000
+from=z5024963
+message=Shout out to molodog for providing my Tuesday mornings with an abundance of lures up in Matthews. You make listening to David crocker so much better <3

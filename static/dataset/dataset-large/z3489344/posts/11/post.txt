@@ -1,0 +1,5 @@
+time=2016-09-01T12:21:38+0000
+message=Why do I have to fall in love with international students?\n\nA. Lim, coffee sometime? <3 Too bad I don't speak Mandarin :(\n\nSincerely your secret admirer, <3\n\nW.C
+from=z3489344
+latitude=-33.6594
+longitude=151.2912

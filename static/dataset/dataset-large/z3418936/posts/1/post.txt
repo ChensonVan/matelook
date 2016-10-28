@@ -1,0 +1,5 @@
+from=z3418936
+time=2016-06-09T05:02:45+0000
+longitude=151.2037
+message=To Sunny, \nYou aesthetically pleasing man. I love your bike! Hope you can take me for a ride one day ;)
+latitude=-33.8026

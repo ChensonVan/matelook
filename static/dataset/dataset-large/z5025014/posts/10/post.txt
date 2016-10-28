@@ -1,0 +1,5 @@
+longitude=150.8311
+latitude=-33.6895
+from=z5025014
+message=Beautiful guitar boy with the blonde/reddish hair I walked past outside Village on Thursday morning,\nDear god everything about you was perfect, from your playing to your beautifully constructed face\nwhere can I find you again \nLove, the hot mess girl who rolled out of bed and threw on a hoodie
+time=2016-05-25T09:58:47+0000

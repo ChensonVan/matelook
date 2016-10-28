@@ -1,0 +1,5 @@
+longitude=151.2059
+message=Sam Bason & Tom Morrison, this isn't really a love letter, but I will say that I'm really into this bromance the two of you seem to have, and believe it would be "mega ridic" if you guys didn't get voted onto the ARC Board! GOOD LUCK! :')
+from=z5043226
+latitude=-33.9256
+time=2013-05-16T02:01:37+0000

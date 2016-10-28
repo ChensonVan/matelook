@@ -1,0 +1,11 @@
+courses=[2016 S1 COMP1917, 2016 S1 ENGG1000, 2016 S1 MATH1081, 2016 S1 MATH1131, 2016 S2 COMP1927, 2016 S2 COMP2041, 2016 S2 MATH1241, 2016 S2 SENG1031]
+home_suburb=Ingleburn
+mates=[z5020210, z5012884, z5018549, z5078886, z5063045, z5076002, z3385911, z5028693, z5023005, z3463739, z5075923, z5092154]
+email=C.Longo@unsw.edu.au
+home_latitude=-33.9921
+password=tiger
+home_longitude=150.8615
+program=Eng (Hons) / MBiomedE
+full_name=Christian Longo
+zid=z5075071
+birthday=1994-01-28

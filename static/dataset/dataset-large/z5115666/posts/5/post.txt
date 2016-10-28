@@ -1,0 +1,5 @@
+from=z5115666
+latitude=-33.8678
+longitude=151.2025
+message=This isn't a love confession but an appeal to the person who left her phone (orange cover with a black strap) in the Keith Burrows toilet on Tuesday, around 4 pm. Please tag yourself and I'll fb message you :)
+time=2013-10-30T00:54:38+0000

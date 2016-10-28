@@ -1,0 +1,11 @@
+home_suburb=University Of New South Wales
+courses=[2016 S1 CHEM1031, 2016 S1 ENGG1000, 2016 S1 MATH1141, 2016 S1 PHYS1121, 2016 S2 BIOM1010, 2016 S2 COMP1917, 2016 S2 MATH1231, 2016 S2 MMAN1300]
+mates=[z5062448, z5015280]
+password=guitar
+birthday=1997-12-22
+home_latitude=-33.9106
+email=M.Knorr@unsw.edu.au
+program=Eng (Hons) / MBiomedE
+full_name=Micah Knorr
+home_longitude=151.2218
+zid=z3415600

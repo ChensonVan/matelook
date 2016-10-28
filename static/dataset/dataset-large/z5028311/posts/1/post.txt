@@ -1,0 +1,5 @@
+longitude=151.1477
+message=To my beloved Andersen in PHYS1121 on Tuesday 3-4pm, ur antique lenovo laptop really turns me on. You are my mass*acceleration in my life and I wish you could notice me.\n\nFrom,\nthe shy Girl to your left, cheekily staring :)
+from=z5028311
+latitude=-33.6300
+time=2016-05-04T11:47:14+0000

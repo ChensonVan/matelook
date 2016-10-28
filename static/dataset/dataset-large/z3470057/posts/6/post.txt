@@ -1,0 +1,5 @@
+latitude=-33.9236
+time=2016-08-26T17:56:48+0000
+message=I thought I was the best thing that ever happened to you. I thought you loved me the most.\nI don't know why I cry. But I think it's 'cause I remembered for the first time, since I hated you, that I used to love you.\nI used to love you.
+from=z3470057
+longitude=151.2215

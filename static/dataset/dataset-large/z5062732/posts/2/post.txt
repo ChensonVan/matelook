@@ -1,0 +1,5 @@
+longitude=151.2381
+message=Ok, so my friend here is single and ready to mingle. Can you guys please help me out and tag yourself below if you are a cute Korean boy. Thanks mate. Love you heaps.
+latitude=-33.9174
+time=2016-08-15T10:44:47+0000
+from=z5062732

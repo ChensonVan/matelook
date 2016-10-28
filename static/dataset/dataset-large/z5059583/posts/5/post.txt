@@ -1,0 +1,5 @@
+from=z5059583
+longitude=150.7810
+message=Dearest Danny Ma (can someone please tag him as I cannot),\n\nI have watched you throughout your 4 years of actuarial studies and I admire your big cheeky smile that I see during lectures.\n\nI hope we can one day meet and live happily ever after!\n\nI am sure that you know who I am, so please contact me when you feel the same way because I always will.
+time=2013-10-11T03:21:58+0000
+latitude=-34.0838

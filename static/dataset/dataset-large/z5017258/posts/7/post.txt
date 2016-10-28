@@ -1,0 +1,5 @@
+latitude=-33.8776
+longitude=151.2311
+message=To the boy at the Roundhouse Halloween party who had a skeleton painted on his face and longish dark hair. I was too drunk to remember your name but not drunk enough to forget your good looks and irresistible charm. I was going to ask you for your number but you ran off and I never found you again! WHO ARE YOU MYSTERIOUS SKELETON BOY?!
+time=2013-11-05T01:59:28+0000
+from=z5017258

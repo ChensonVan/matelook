@@ -1,0 +1,5 @@
+from=z5024963
+message=I have a huge crush on my tutor but I don't know if I should tell her my feelings?\n\nany advice guys?
+latitude=-33.9220
+longitude=151.2346
+time=2016-05-14T15:46:02+0000

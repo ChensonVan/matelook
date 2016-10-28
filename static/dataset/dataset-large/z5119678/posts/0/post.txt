@@ -1,0 +1,5 @@
+message=We're both studying the same Engineering course.\nWe're both friends, hang out every now and then actually.\nI adore you.\nbut...\nI wish you knew I still do and that I still care for you very much.\nYou always tend to make me smile and laugh.\nYou're sporty, strong, interesting and you're different.\nAnd I like that.\nYou'll always hold a special place in my heart.\n\n“I don’t want to have the world’s attention. Yours is enough J.”
+from=z5119678
+longitude=151.1674
+latitude=-33.9214
+time=2013-09-21T14:54:51+0000

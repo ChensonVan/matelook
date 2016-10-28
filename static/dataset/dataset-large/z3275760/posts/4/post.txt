@@ -1,0 +1,5 @@
+message=Dearest Claudia Hu from UNSW, bby you got dat ass dat I wanna tap!
+time=2013-06-20T12:18:04+0000
+longitude=151.1544
+from=z3275760
+latitude=-33.9193

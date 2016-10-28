@@ -1,0 +1,11 @@
+home_longitude=151.2713
+password=696969
+mates=[z5059449, z5006383, z5076642, z3377644, z5060140, z5077163, z5113614]
+zid=z5016305
+email=R.Perez@unsw.edu.au
+home_suburb=Rose Bay North
+birthday=1994-06-25
+home_latitude=-33.8728
+courses=[2016 S2 ARTS2361, 2016 S2 COMP3331, 2016 S2 COMP3421, 2016 S2 COMP3511]
+full_name=Rosie Perez
+program=Study Abroad Program

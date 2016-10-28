@@ -1,0 +1,5 @@
+time=2013-05-30T10:00:59+0000
+longitude=151.0793
+latitude=-34.0611
+message=Sarah Lugay, I want to be your friend because you know all the beautiful guys on campus.
+from=z5013491

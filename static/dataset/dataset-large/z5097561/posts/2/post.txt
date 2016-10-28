@@ -1,0 +1,5 @@
+message=Sean Chen,\nThe back of your head is ridiculous. Damn boi that jawline too. Coffee sometime? \n\nSincerely, a girl sitting 6 rows behind you.
+time=2016-06-08T15:54:57+0000
+latitude=-33.9171
+longitude=151.2208
+from=z5097561

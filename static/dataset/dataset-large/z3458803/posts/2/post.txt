@@ -1,0 +1,5 @@
+time=2013-04-25T12:32:53+0000
+from=z3458803
+latitude=-33.8734
+message=To the girl in the grey dress and tights with curls in her hair, I've never seen anyone quite like you. If I saw you at a cafe or something I'd approach you in a heartbeat but you were walking away and looking all beautiful and shit and I thought it might be slightly creepy to chase you down the main walkway.
+longitude=150.8911

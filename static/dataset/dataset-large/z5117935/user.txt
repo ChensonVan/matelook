@@ -1,0 +1,11 @@
+password=doggie
+mates=[z3462856, z5020683, z5062957, z5024967]
+home_latitude=-33.9507
+home_longitude=151.2161
+home_suburb=Eastgardens
+zid=z5117935
+birthday=1997-09-16
+email=D.Osmond@unsw.edu.au
+program=Computer Science and Eng
+courses=[2016 S2 COMP9902, 2016 S2 GSOE9400]
+full_name=Donny Osmond

@@ -1,0 +1,5 @@
+latitude=-33.8421
+time=2013-04-10T12:24:52+0000
+longitude=151.0340
+message=To that girl who chucked the calculator who likes cows and their mooing, i really would like you to chuck a calculator at me one day....
+from=z5020913

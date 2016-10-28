@@ -1,0 +1,5 @@
+from=z5062732
+time=2013-05-07T11:30:15+0000
+message=To the student who courageously gave a presentation in front of the whole lecture theatre on Monday in our 2A class, your voice is so かわいい~♪♪ you are just like a little boy~ give me a private presentation sometime? (ღ˘⌣˘ღ)
+latitude=-33.8345
+longitude=151.1431

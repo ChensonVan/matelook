@@ -1,0 +1,5 @@
+latitude=-33.9087
+longitude=151.2289
+time=2013-05-30T09:14:00+0000
+message=To the surveying hottie who gets called 'tpol'. i have no idea what your real name is but i hear you have a large package that I'd like to unwrap.
+from=z5104907

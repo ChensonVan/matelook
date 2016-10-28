@@ -1,0 +1,3 @@
+message=Ugh...Crocker...\n'That's wrong!' \n'Half a mark off this, half a mark off that'.\n(Taylor and Laurent Series) '...I don't just want the first 5 or 6 terms, I want ALL the terms!'
+from=z5041714
+time=2016-08-14T13:05:46+0000

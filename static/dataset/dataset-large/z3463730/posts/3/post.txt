@@ -1,0 +1,5 @@
+message=ヽ༼ຈل͜ຈ༽ﾉ raise your dongers ヽ༼ຈل͜ຈ༽ﾉ
+latitude=-33.8252
+from=z3463730
+longitude=151.1270
+time=2013-08-27T23:32:36+0000

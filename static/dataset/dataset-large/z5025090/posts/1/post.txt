@@ -1,0 +1,5 @@
+from=z5025090
+longitude=151.2372
+latitude=-33.9105
+message=Dear Cedric I can't stop thinking about you You are so sweet and cute I really think I'm falling in love with you But I don't think I could ever tell you how I feel So I wanted to say it here Cedric Chan I love you
+time=2013-04-23T11:26:01+0000

@@ -1,0 +1,3 @@
+from=z5117623
+message=lemme judge who cooks the best curry and i may retract my comment
+time=2016-05-25T12:45:39+0000

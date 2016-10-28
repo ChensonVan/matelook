@@ -1,0 +1,5 @@
+time=2013-07-03T05:43:46+0000
+latitude=-33.9588
+longitude=151.0860
+message=To the cute Asian boy who took the CRIM1010 exam: you were sitting at desk C1 and didn't turn around enough times! Hope to see you in CRIM1011? :)
+from=z5127733

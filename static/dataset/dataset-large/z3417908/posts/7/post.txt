@@ -1,0 +1,5 @@
+latitude=-33.9125
+longitude=151.2372
+from=z3417908
+time=2016-05-24T22:56:38+0000
+message=To the girl with the first name starting with I, and last name starting with T,\nI'm heavily infatuated with you. Hope to see you around campus more.

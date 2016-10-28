@@ -1,0 +1,5 @@
+message=to ask or not to ask out best friend? =S
+from=z5059999
+latitude=-33.9211
+time=2013-04-30T05:33:31+0000
+longitude=151.2402

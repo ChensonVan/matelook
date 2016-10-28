@@ -1,0 +1,5 @@
+time=2016-06-15T13:50:10+0000
+message=When you walk past a girl who starts moving about in some ritualistic way like shes trying to get your attention to say hi... Then you realise it would be too much of a miracle and notice the bee she is trying to avoid.
+from=z5017993
+longitude=151.1235
+latitude=-33.7232

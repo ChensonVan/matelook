@@ -1,0 +1,5 @@
+longitude=150.9523
+message=He does engineering\nand I go to COFA\ncan I make it any more obvious
+latitude=-33.8881
+from=z5015813
+time=2016-08-22T21:24:09+0000

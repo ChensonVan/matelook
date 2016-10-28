@@ -1,0 +1,11 @@
+mates=[z5020200, z5062024, z3465151, z5062482]
+email=J.Garth@unsw.edu.au
+full_name=Jennie Garth
+courses=[2016 S2 ACCT1501, 2016 S2 ECON1101, 2016 S2 ECON1203, 2016 S2 MARK1012]
+program=Commerce
+home_suburb=Banksia
+birthday=1998-02-08
+home_latitude=-33.9473
+home_longitude=151.1486
+zid=z5038337
+password=booger

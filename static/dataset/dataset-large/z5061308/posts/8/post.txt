@@ -1,0 +1,5 @@
+longitude=151.2233
+from=z5061308
+message=To Jeremy Kwok, the first time i saw you in my marketing lecture you looked very cute and had that vibe i never experienced before. You are the apple of my eye and i wished we could be together.
+latitude=-33.9125
+time=2013-09-09T10:30:46+0000

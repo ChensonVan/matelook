@@ -1,0 +1,11 @@
+home_suburb=Riverwood
+courses=[2016 S1 COMP1911, 2016 S1 LAWS1052, 2016 S1 MATH1141, 2016 S1 PHYS1121, 2016 S2 ENGG1000, 2016 S2 LAWS1061, 2016 S2 MATH1231, 2016 S2 MMAN1300]
+birthday=1993-12-31
+full_name=Ian Thorpe
+home_longitude=151.0545
+zid=z5092154
+mates=[z5019361, z5018549, z5075071, z5078886, z5017241, z5016876, z5017258, z3461196, z5060416, z5024967]
+home_latitude=-33.9405
+password=charles
+email=I.Thorpe@unsw.edu.au
+program=Engineering (Honours) / Law

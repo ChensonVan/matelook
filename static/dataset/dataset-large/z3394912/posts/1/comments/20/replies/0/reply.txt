@@ -1,0 +1,3 @@
+message=Dont need training bro already tournament level ;)
+time=2016-08-17T19:33:36+0000
+from=z3492794

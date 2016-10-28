@@ -1,0 +1,5 @@
+from=z3462582
+message=To every man on campus, with a scruffy stubble and a deep voice.. Come at me. xx RC
+time=2013-05-10T05:35:32+0000
+latitude=-33.9221
+longitude=151.2359

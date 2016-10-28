@@ -1,0 +1,5 @@
+message=To the dark girl on upper campus lawn on tuesday the 27th, you had a purple balloon attached to your hand and an orange shirt.. i couldnt stop starring at you, can i pop your balloon?
+latitude=-33.9186
+time=2013-08-28T21:36:55+0000
+longitude=151.2313
+from=z3299058

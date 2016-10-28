@@ -1,0 +1,5 @@
+from=z5024975
+time=2016-04-29T13:25:12+0000
+message=rishi, oh rishi my little chocolate rocket scientist.
+latitude=-33.6971
+longitude=150.9556

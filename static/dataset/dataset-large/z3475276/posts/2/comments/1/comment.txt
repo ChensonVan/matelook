@@ -1,0 +1,3 @@
+message=AMEN BRO.
+from=z5015700
+time=2013-06-26T00:59:16+0000

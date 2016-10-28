@@ -1,0 +1,3 @@
+from=z3461196
+message=I can personally vouch for Alex as a fantastic candidate as a love interest.  His supportive personality and optimistic outlook touches all who are around him. From a meta-analysis of 8 studies we found:\n\nLooks: 10 (p<0.05)\nPersonality:10 (p<0.05)\nX-factor: 8.5"
+time=2016-09-07T08:34:09+0000

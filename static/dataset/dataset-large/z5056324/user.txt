@@ -1,0 +1,11 @@
+home_longitude=151.1837
+birthday=1994-09-09
+program=Engineering (Honours)
+home_latitude=-33.8518
+email=M.Richt@unsw.edu.au
+home_suburb=Birchgrove
+zid=z5056324
+mates=[z3335004, z5118782, z5014335, z5062448, z3465151, z3379933, z5115679, z3462629]
+courses=[2016 S2 ELEC1111, 2016 S2 ENGG1000, 2016 S2 MATH1131, 2016 S2 PHYS1121]
+full_name=Mark Richt
+password=theman

@@ -1,0 +1,5 @@
+latitude=-33.9133
+message=To the really cute girl in the back of the Elec 2133 tut (Jorja? not sure),\nRoses are red,\nViolets are blue,\nI heard you like Harry Potter,\nBut I like you <3
+longitude=151.2388
+time=2016-09-27T13:15:26+0000
+from=z5113700

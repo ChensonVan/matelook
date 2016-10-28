@@ -1,0 +1,11 @@
+home_suburb=Hunters Hill
+courses=[2016 S1 COMP1917, 2016 S1 ENGG1000, 2016 S1 MATH1131, 2016 S1 PHYS1121, 2016 S2 ACCT1501, 2016 S2 BIOM1010, 2016 S2 MATH1231, 2016 S2 MMAN1300]
+home_latitude=-33.8154
+home_longitude=151.1275
+email=A.B.Hussein@unsw.edu.au
+mates=[z5059860, z3487885, z5018731, z3416144, z5091050]
+full_name=Ali Bin Hussein
+program=Engineering (Hons)/Commerce
+birthday=1996-07-08
+zid=z5075827
+password=calvin

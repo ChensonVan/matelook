@@ -1,0 +1,5 @@
+from=z5129633
+longitude=151.2328
+time=2016-06-13T10:29:44+0000
+latitude=-33.7444
+message=I have a bizarre feeling Zachary Torrevilla writes these statuses up just so he can comment his friends on EVERY POST because he clearly has nothing better to do. :)

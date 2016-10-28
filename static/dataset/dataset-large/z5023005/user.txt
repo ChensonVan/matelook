@@ -1,0 +1,11 @@
+home_suburb=Warringah Mall
+zid=z5023005
+birthday=1993-05-07
+courses=[2016 S1 COMP1917, 2016 S1 ENGG1000, 2016 S1 MATH1141, 2016 S1 PHYS1121, 2016 S2 ELEC1111, 2016 S2 MATH1241, 2016 S2 MMAN1300, 2016 S2 MTRN2500]
+password=justin
+mates=[z5116414]
+full_name=Rob Lowe
+home_longitude=151.2473
+program=Engineering (Honours)
+email=R.Lowe@unsw.edu.au
+home_latitude=-33.7452

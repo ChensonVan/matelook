@@ -1,0 +1,3 @@
+from=z5098341
+message=z3493303 damn it John back at it again with the friend zoning
+time=2016-05-10T07:22:41+0000

@@ -1,0 +1,5 @@
+longitude=151.2302
+from=z5048639
+time=2016-07-06T14:32:43+0000
+message=i am in love with unsw main library. i am involve with the way her hair shines under the lights, the way her eyes sparkle under the sun, and the way the edges of her smile lift slightly when someone mentions the word 'study'. i am heavily infatuated by you, and i hope you feel the same way about me.
+latitude=-33.9254

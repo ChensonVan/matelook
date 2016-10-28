@@ -1,0 +1,5 @@
+message=To Nicky that does actuarial studies. You're so cute and the way you smile is adorable.I'm also doing actuarial studies and I'm in many of your lectures but you never notice me, coffee some time? ;)
+longitude=150.8981
+from=z5024438
+latitude=-33.9262
+time=2013-05-29T22:06:25+0000

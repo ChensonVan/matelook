@@ -1,0 +1,5 @@
+time=2016-06-03T13:15:43+0000
+from=z5059860
+message=Dear Tinder guy, \nI know I said I would share a HSP with you, but I've decided I'm going to go on a healthy diet now.\nSo our HSP date can't happen anymore.\n\nSoz.
+longitude=150.9969
+latitude=-33.8446

@@ -1,0 +1,5 @@
+message=Please tag all your single friends that are going to BSOC Ball
+longitude=151.1246
+time=2016-09-06T02:25:57+0000
+from=z5059596
+latitude=-33.7715

@@ -1,0 +1,11 @@
+home_latitude=-33.7568
+courses=[2016 S1 COMP1911, 2016 S1 ENGG1000, 2016 S1 MATH1141, 2016 S1 PHYS1131, 2016 S2 CVEN1300, 2016 S2 ENGG1400, 2016 S2 MATH1231, 2016 S2 MATS1101]
+password=jack
+full_name=Angela Alvarado Rosa
+program=Engineering (Hons)/Commerce
+email=A.A.Rosa@unsw.edu.au
+mates=[z3417908, z5119667, z3475276, z5060140, z5010380]
+home_suburb=Warringah Mall
+zid=z5075687
+birthday=1996-11-19
+home_longitude=151.2373

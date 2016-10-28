@@ -1,0 +1,5 @@
+message=frank p,\nI miss you coz I haven't seen you since bsoc cruise ): I never see you on campus or at any events.. but somehow I still look for your face around campus.. x
+from=z5016305
+latitude=-33.8711
+longitude=151.1970
+time=2016-06-05T03:34:02+0000

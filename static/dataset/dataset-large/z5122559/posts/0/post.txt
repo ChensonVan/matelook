@@ -1,0 +1,5 @@
+time=2016-06-25T06:28:39+0000
+latitude=-33.9245
+longitude=151.2389
+from=z5122559
+message=Nathan from MGMT1001, I don't think I'll be seeing you again but dude are you single? V keen.

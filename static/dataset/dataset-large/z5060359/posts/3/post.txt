@@ -1,0 +1,5 @@
+longitude=151.1836
+latitude=-33.8469
+time=2016-04-25T10:55:21+0000
+from=z5060359
+message=To the two girls who gave me free pizza at around 8pm as I was walking him on the 7th April\n\nI love you

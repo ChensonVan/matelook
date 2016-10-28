@@ -1,0 +1,5 @@
+longitude=151.1977
+time=2016-05-05T23:56:41+0000
+message=Psych boy Austin,\nI want us to be friends but you don't even know my name :( \nCoffee sometime? Kidding you said you don't like coffee.
+from=z5091050
+latitude=-33.8353

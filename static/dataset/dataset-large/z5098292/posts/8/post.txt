@@ -1,0 +1,5 @@
+longitude=151.2022
+from=z5098292
+latitude=-33.9355
+message=To the indian girl in second year optometry. Your eyes are beautiful. I like you!
+time=2013-06-20T10:30:07+0000

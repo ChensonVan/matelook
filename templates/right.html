@@ -1,0 +1,33 @@
+{% macro search() %}
+    <h4>Search</h4>
+    <div class="hline"></div>
+    <br/>   
+    <div class="input-append">
+        <form action="/search/post" method="GET">
+            <div class="input-group">
+                <input type="text" class="form-control" name="query" placeholder="Search posts" style="width:300px;margin:0 auto">
+                <span class="input-group-btn">
+                    <input type="submit" class="btn btn-secondary" name="action" value="Search" />
+                </span>
+            </div>
+        </form>
+    </div>
+    <div class="spacing"></div>
+{% endmacro %}
+
+
+
+{% macro mate_list(mates) %}
+    <h4>Mate Lists</h4>
+    <div class="hline"></div>
+    <br/> 
+    {% for mate in mates %}
+        <p><a href="{{ url_for('matelook', u_zid=mate.zid) }}">
+            <i class="fa fa-angle-right"></i>
+            <img src={{ "/static/profile/" + mate.image }}  alt="profile" style="width:25px;height:25px;" class="img-circle">
+            {{ mate.full_name }}
+        </a></p>
+    {% endfor %}
+    <div class="spacing"></div>
+{% endmacro %}
+

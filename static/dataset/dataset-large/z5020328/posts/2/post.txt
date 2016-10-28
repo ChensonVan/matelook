@@ -1,0 +1,5 @@
+time=2016-05-06T13:16:54+0000
+message=I think your name is Ainsworth? You're in my maths 1131 lecture. I don't really care about you, but that Indian looking chick who sits next to you? DAMN! Would rate a solid 6/10. Introduce me. I wear glasses and sit behind you two.
+latitude=-33.9141
+from=z5020328
+longitude=151.2309

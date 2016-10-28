@@ -1,0 +1,11 @@
+program=Eng (Hons) / MBiomedE
+password=donald
+email=T.Ritter@unsw.edu.au
+zid=z5006383
+full_name=Tex Ritter
+home_suburb=University Of New South Wales
+mates=[z5063045, z5016305]
+home_latitude=-33.9217
+birthday=1997-11-15
+home_longitude=151.2329
+courses=[2016 S1 ENGG1000, 2016 S1 MATH1131, 2016 S1 PHYS1121, 2016 S1 PSYC1001, 2016 S2 CEIC1000, 2016 S2 ENGG1811, 2016 S2 MATH1231, 2016 S2 MMAN1300]

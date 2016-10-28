@@ -1,0 +1,5 @@
+longitude=151.1708
+latitude=-33.9057
+message=Exams soon. Hmmm. That must be why this page and confessions page have become more active xD
+from=z3418657
+time=2014-11-08T14:27:56+0000

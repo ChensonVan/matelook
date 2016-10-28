@@ -1,0 +1,5 @@
+from=z5117377
+latitude=-33.7540
+time=2016-06-24T06:18:18+0000
+message=Do girls appreciate a guy who can and will wait for whatever the girl has to end? Or should I just go ahead and tell her how I feel?
+longitude=150.8933

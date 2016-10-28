@@ -1,0 +1,3 @@
+message=I love my WAM
+from=z5099187
+time=2016-08-18T15:53:20+0000

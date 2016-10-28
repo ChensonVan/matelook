@@ -1,0 +1,5 @@
+longitude=151.2326
+latitude=-33.9214
+message=That girl with the pug shirt in the library yesterday, I love you
+time=2015-05-24T08:16:08+0000
+from=z5059596

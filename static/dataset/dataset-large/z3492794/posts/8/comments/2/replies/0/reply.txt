@@ -1,0 +1,3 @@
+message=Already enrolled for usyd next year
+from=z5024986
+time=2016-10-05T15:20:50+0000

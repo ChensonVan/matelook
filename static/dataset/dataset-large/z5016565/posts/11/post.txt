@@ -1,0 +1,5 @@
+from=z5016565
+message=I'm moving on, and I feel happy. But today I felt something new: I miss the sadness. Once upon a time I loved you. With you was the happiest I'd ever been, and you with me. And now, here I am, happy without you, but I don't want to be.
+longitude=151.2275
+latitude=-33.9138
+time=2016-08-29T01:37:06+0000

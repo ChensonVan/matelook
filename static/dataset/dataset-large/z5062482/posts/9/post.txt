@@ -1,0 +1,5 @@
+latitude=-33.9210
+time=2013-06-20T03:27:01+0000
+longitude=151.1254
+message=A big THANKYOU to the tall asian engineering student who shared his umbrella with me today on the main walkway and even walked me to the 895 bus stop :) Good luck with your thesis, coffee next time?
+from=z5062482

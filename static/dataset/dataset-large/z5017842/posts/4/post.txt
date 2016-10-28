@@ -1,0 +1,5 @@
+message=Andrew Z. You are the biggest player.
+time=2013-09-21T13:46:09+0000
+from=z5017842
+latitude=-33.9073
+longitude=151.1626

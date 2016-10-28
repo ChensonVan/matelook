@@ -1,0 +1,5 @@
+latitude=-33.9194
+message=To the girl who randomly shot my friend (with her fingers) walking down between Red Centre and Old Main Building while my friend was walking up in the opposite direction. You got him straight in the heart. Come and collect your prize.
+time=2013-05-30T09:13:12+0000
+longitude=151.2330
+from=z5098292

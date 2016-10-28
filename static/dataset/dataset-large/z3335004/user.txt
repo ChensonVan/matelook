@@ -1,0 +1,11 @@
+home_suburb=Beaconsfield
+password=angela
+home_longitude=151.1930
+full_name=Dave Williams
+courses=[2016 S1 ACCT1501, 2016 S1 BIOS1301, 2016 S1 COMP1917, 2016 S1 MATH1131, 2016 S2 ACCT1511, 2016 S2 ENGG1000, 2016 S2 MATH1131, 2016 S2 MGMT1001]
+home_latitude=-33.9207
+zid=z3335004
+email=D.Williams@unsw.edu.au
+program=Engineering (Hons)/Commerce
+mates=[z5077163, z5024975, z5056324, z5063055]
+birthday=1992-12-03

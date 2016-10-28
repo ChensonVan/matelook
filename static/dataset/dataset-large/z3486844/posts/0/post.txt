@@ -1,0 +1,5 @@
+from=z3486844
+longitude=151.2310
+latitude=-33.9114
+message=To the hotty Jeffrey Cheung. I hear you write blogs , can you blog about me sometime??
+time=2013-05-16T17:02:17+0000

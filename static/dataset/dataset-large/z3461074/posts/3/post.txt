@@ -1,0 +1,5 @@
+from=z3461074
+latitude=-33.9956
+time=2016-09-30T01:19:50+0000
+message=So I'm feeling really confused right now and have no idea what to do. I have been messaging someone for a while (a long while) and then suddenly, they just stopped replying. I don't wanna spam them and appearing annoying, and there is always that gut feeling telling me to back off, but I am worried for them. What should I do? Plz Help
+longitude=151.0881

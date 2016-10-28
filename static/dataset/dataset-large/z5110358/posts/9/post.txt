@@ -1,0 +1,5 @@
+latitude=-33.8943
+message=To the super cute guy whose always at the Tyree building and orders a flat white... I think I overheard you study petroleum engineering and you are treated like a celebrity by the owners of the cafe! I think your name is Andrew... I'm your number one fan.
+from=z5110358
+longitude=151.0853
+time=2013-04-26T05:39:22+0000

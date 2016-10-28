@@ -1,0 +1,5 @@
+message=To the guy attending friday acct1101 consultation:\nThanks for solving my problem while waiting, good luck with your exams! Just wanna say THANK YOU AND YOU LOOK GREAT <3 coffee?
+longitude=151.2352
+latitude=-33.9225
+from=z3422324
+time=2016-06-28T14:27:30+0000

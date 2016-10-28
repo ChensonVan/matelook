@@ -1,0 +1,5 @@
+latitude=-33.9219
+time=2016-06-17T13:59:40+0000
+message=The cute guy wearing a red shirt and blue pants in the week 12 numerics lecture. I haven't seen you around before. How about we do some cramming together in STUDVAC ;)
+longitude=151.2333
+from=z3468575

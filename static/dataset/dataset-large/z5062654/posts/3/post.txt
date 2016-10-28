@@ -1,0 +1,5 @@
+time=2013-04-17T01:47:32+0000
+longitude=151.2263
+message=I'm too shy to tell you how i feel. So i'll hide behind timid smiles and soft hellos. I'm afraid if i ask you "What do you think of me?" your reply will be: "I don't."
+latitude=-33.9162
+from=z5062654

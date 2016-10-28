@@ -1,0 +1,5 @@
+latitude=-33.8013
+longitude=151.2130
+from=z5059449
+time=2013-04-24T07:40:10+0000
+message=To the cute new bartender at the whitehouse, I don't go to the gym for the pilates any more - these days I go just in case you happen to be there and I can watch you work up a sweat. Is it hot in the weights room, or is that just you? Hint: it's totally you.

@@ -1,0 +1,5 @@
+latitude=-33.9261
+from=z3365499
+longitude=151.2350
+message=To all the attractive gurls in Frenchsoc, I'm a Canto guy trying to learn French, but when I say adieu I keep saying ahh diuuuu. So when I say goodbye to you lovely ladies, my Chinese friends laugh at me because they think I'm insulting you all :'(
+time=2016-08-08T14:00:11+0000

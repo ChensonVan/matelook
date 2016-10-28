@@ -1,0 +1,5 @@
+longitude=151.2145
+from=z5109480
+time=2013-03-19T08:53:01+0000
+message=To the chubby pale skinned fellow with spiky brown hair and a black earring who appears to be the uni milkman. Your milkshake brings me to your yard ;)
+latitude=-33.8531

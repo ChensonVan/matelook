@@ -1,0 +1,3 @@
+from=z5020913
+time=2016-04-26T09:58:09+0000
+message=z3486844 check your bank statement

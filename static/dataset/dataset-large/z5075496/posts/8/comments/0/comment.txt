@@ -1,0 +1,3 @@
+message=Wow, if you're actually serious, pls message me and we'll go from there :)
+from=z3463638
+time=2016-06-22T23:34:45+0000

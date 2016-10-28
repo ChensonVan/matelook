@@ -1,0 +1,5 @@
+from=z5115755
+latitude=-33.8904
+longitude=151.2303
+message=I knew I loved you from the moment I saw you. The way you held yourself, and your smile as I introduced myself will remain etched in my memory forever. I thought you loved me too, and maybe you did, for a while anyway. But then you grew distant. I kept wondering what I'd done wrong. Thinking that it was me. So I did my best to give you space and not smother you, but it soon became apparent that distance was exactly what you wanted. I try to think that I've reconciled myself with being left, but I haven't. You broke me. You made me so much more than I was, and then tore it all away. And now I'm just drinking my life away, because feeling empty is better than feeling lonely.
+time=2016-08-15T09:12:32+0000

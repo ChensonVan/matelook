@@ -1,0 +1,9 @@
+password=131313
+birthday=1996-01-02
+mates=[z5087067, z5019161, z3462323, z5017894, z5014861, z5113241]
+program=Science (International)
+home_suburb=Kensington
+courses=[2016 S1 BABS1201, 2016 S1 CHEM1011, 2016 S1 MATH1031, 2016 S1 MATH1041, 2016 S2 BABS1202, 2016 S2 CHEM1021]
+full_name=Romario Farias
+zid=z5019353
+email=R.Farias@unsw.edu.au

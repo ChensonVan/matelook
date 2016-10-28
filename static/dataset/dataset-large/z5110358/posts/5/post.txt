@@ -1,0 +1,5 @@
+time=2016-08-23T13:36:24+0000
+latitude=-34.0500
+message=Jason Li,\nSo many people walking in uni every single day \nBut of all those people, you're the only one I see. \nSo many girls hanging around you every single moment \nBut I'm never the one who catches your attention.
+from=z5110358
+longitude=151.1319

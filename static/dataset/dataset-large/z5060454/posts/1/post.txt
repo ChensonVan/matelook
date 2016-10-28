@@ -1,0 +1,5 @@
+from=z5060454
+latitude=-33.8797
+message=to the hot gym instructor: i can tell you're gay by the way you wink at me and hit on me subtly whenever i'm around... stretch me out sometime?
+longitude=151.0968
+time=2013-04-10T03:28:37+0000

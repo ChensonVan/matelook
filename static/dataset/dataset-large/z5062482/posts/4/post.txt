@@ -1,0 +1,5 @@
+from=z5062482
+latitude=-33.9210
+message=to the nicest tutor I've ever met I just want to say that\n\nyou're awesome as hell, you're endearing as hell and quite frankly you're hot as hell\n\nmuch <3 to you, I hope you 'wood' not mind me writing this <3\n\nXOXO Gossip Girl
+time=2016-06-09T15:01:24+0000
+longitude=151.1254

@@ -1,0 +1,5 @@
+latitude=-33.9113
+from=z5091950
+longitude=151.2312
+time=2013-04-22T03:05:48+0000
+message=To the girl I never had a crush on I hope you never find out.

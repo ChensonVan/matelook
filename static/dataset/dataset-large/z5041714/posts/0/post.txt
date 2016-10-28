@@ -1,0 +1,5 @@
+latitude=-33.8314
+from=z5041714
+time=2013-11-17T09:08:56+0000
+longitude=151.1710
+message=Olivia Haliday, you're an absolute glamour ;)

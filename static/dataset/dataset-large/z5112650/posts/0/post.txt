@@ -1,0 +1,5 @@
+latitude=-33.9214
+message=Why'd you have to go and make me like you?\nYeah this is a feeling I'm not used to\nWhy'd you have to go and make me like you?\nI'm so mad at you cause now you got me missing you\nCause now you got me missing you
+from=z5112650
+time=2016-08-23T13:13:13+0000
+longitude=151.2264

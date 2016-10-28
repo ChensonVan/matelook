@@ -1,0 +1,5 @@
+from=z3489385
+longitude=151.2362
+latitude=-33.9197
+message=Dear alex turner,\n\ni think u do engineering? everytime you walk into my tutorial i get all flushed and shy at how good looking you are. goddamn.\n\nFrom, M x
+time=2016-08-12T09:36:57+0000

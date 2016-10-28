@@ -1,0 +1,5 @@
+message=Dear christine jung, i love the way your eyes sparkle in the lecture hall lights and the way your mouth crinkles as you yawn and the way your fingers type furiously in statistics, will u d8 me m8
+longitude=151.0432
+latitude=-33.8179
+from=z5021034
+time=2016-05-11T13:02:41+0000

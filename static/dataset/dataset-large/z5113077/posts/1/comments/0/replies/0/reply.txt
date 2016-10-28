@@ -1,0 +1,3 @@
+from=z5078886
+message=you're funny
+time=2016-05-24T23:18:55+0000

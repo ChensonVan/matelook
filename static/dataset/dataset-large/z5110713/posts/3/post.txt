@@ -1,0 +1,5 @@
+from=z5110713
+message=To the amazingly sexy electrical engineering tutor who never seems to have time. Sometimes I get a little intimated by how hot you are, but don't let that deter you. Come at me. From your secret admirer, B.
+latitude=-33.8742
+longitude=151.2026
+time=2013-05-14T04:47:48+0000

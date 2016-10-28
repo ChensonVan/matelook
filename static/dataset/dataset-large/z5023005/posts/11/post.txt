@@ -1,0 +1,5 @@
+latitude=-33.9271
+longitude=151.2251
+message=To the guy that was at the law student desk and sacrificed his spot in Land law for me. I was in a rush and never got to say thanks ! x
+from=z5023005
+time=2013-05-09T11:03:40+0000

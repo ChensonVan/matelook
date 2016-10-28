@@ -1,0 +1,11 @@
+birthday=1994-02-12
+courses=[2016 S2 CHEM1011, 2016 S2 ENGG1000, 2016 S2 MATH1131, 2016 S2 PHYS1121]
+mates=[z3459054, z3486844]
+full_name=Demi Moore
+home_suburb=Mcmahons Point
+home_longitude=151.2034
+program=Mat Sci and Eng Hons
+home_latitude=-33.8499
+zid=z5118613
+email=D.Moore@unsw.edu.au
+password=eric

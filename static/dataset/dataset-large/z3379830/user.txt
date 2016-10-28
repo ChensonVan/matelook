@@ -1,0 +1,9 @@
+zid=z3379830
+birthday=1998-08-31
+email=T.Daschle@unsw.edu.au
+full_name=Tom Daschle
+password=bond007
+courses=[2016 S1 ACCT1501, 2016 S1 ECON1101, 2016 S1 MGMT1001, 2016 S2 ECON1102, 2016 S2 ECON1203, 2016 S2 MARK1012]
+mates=[z3459459, z5019746, z5043226, z5020296, z5048611, z3459509, z5060140, z5076189, z5018348, z3413954]
+program=Commerce / Computer Science
+home_suburb=Tamarama

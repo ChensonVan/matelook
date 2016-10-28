@@ -1,0 +1,5 @@
+longitude=151.2310
+message=To all the FOB Chinese girls around UNSW: 你的眼神充滿美麗帶走我的心跳, 你的溫柔如此靠近帶走我的心跳~
+latitude=-33.9231
+time=2013-06-18T11:22:57+0000
+from=z5077876

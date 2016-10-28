@@ -1,0 +1,5 @@
+latitude=-33.8744
+from=z3462323
+longitude=151.2310
+time=2016-04-21T07:25:00+0000
+message=Please tag LB slayers, keen to get slayed ;)

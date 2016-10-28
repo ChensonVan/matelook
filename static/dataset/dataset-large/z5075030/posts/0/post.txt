@@ -1,0 +1,5 @@
+from=z5075030
+message=It has been a few months after you rejected me\nBut i still love you \nI still do
+longitude=150.8801
+latitude=-33.9279
+time=2016-10-06T01:14:23+0000

@@ -1,0 +1,5 @@
+longitude=151.2588
+latitude=-33.8979
+from=z5075496
+time=2013-11-05T02:27:52+0000
+message=DAT ASS, Rebecca Lin. DAT ASS.

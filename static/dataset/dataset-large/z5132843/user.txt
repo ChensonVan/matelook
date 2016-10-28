@@ -1,0 +1,11 @@
+home_longitude=150.9305
+zid=z5132843
+home_suburb=Stanhope Gardens
+birthday=1997-10-10
+email=P.Zahn@unsw.edu.au
+program=Engineering (Honours)
+password=daniel
+full_name=Paula Zahn
+mates=[z3470057, z5017666, z3484231, z5059596]
+home_latitude=-33.7196
+courses=[2015 S2 MATH1131, 2015 S2 MATS1101, 2015 S2 PHYS1121, 2015 S2 PTRL1010, 2016 S1 ECON1101, 2016 S1 ENGG1000, 2016 S1 ENGG1811, 2016 S1 PTRL2010, 2016 S2 GEOS3321, 2016 S2 MATH1231, 2016 S2 PTRL2018, 2016 S2 PTRL2019]

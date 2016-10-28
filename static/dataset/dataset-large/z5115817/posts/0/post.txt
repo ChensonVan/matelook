@@ -1,0 +1,5 @@
+longitude=151.2373
+time=2013-03-22T13:46:49+0000
+message=To the cute Asian guy with spiky hair and glasses who is always in the Red Centre Math Labs. If you need someone the hold with those beautiful biceps, I'm your girl ;)
+from=z5115817
+latitude=-33.9240

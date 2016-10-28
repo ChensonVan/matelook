@@ -1,0 +1,5 @@
+message=Not a love letter but reaching out for help.\n\nHas anyone who's lived with depression gotten over it as they got older? Recently, I've been getting panic attacks and anxiety attacks and I just don't see an end to it. Please help
+time=2016-08-10T14:42:45+0000
+latitude=-33.9133
+longitude=151.2311
+from=z5059449

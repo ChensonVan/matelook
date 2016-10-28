@@ -1,0 +1,3 @@
+from=z3468575
+message=If I did, then every word of it would still hold. Am I wrong?
+time=2016-06-02T06:28:08+0000

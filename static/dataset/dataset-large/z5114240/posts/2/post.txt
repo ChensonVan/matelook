@@ -1,0 +1,5 @@
+latitude=-33.9212
+longitude=151.1977
+message=I just really really love dogs. Sometimes my friends joke that I love my dog more than people... it's not a joke - my dog is better than you.
+time=2016-09-03T05:29:05+0000
+from=z5114240

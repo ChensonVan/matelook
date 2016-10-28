@@ -1,0 +1,5 @@
+latitude=-33.9201
+time=2016-08-31T05:25:57+0000
+message=can't stop thinking about the guy that ran out onto the soccer field with flowers for his girlfriend on friday. wish someone treated me with that kind of affection - good on ya!
+from=z5113702
+longitude=151.2212

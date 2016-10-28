@@ -1,0 +1,3 @@
+from=z5062608
+time=2013-06-06T04:37:31+0000
+message=Not sure what you mean with the unzipping the genes thing. Seems inappropriate behaviour for a tutor

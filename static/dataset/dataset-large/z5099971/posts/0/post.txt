@@ -1,0 +1,5 @@
+longitude=151.0818
+latitude=-33.9324
+from=z5099971
+message=Dear TSM, Every moment since I met you has been different, yet magical. I don't know what it is about you. However, every time we meet I feel this strange yet very real connection with you.  I've never felt this alive around anyone else before. It's surreal
+time=2016-08-18T18:31:21+0000

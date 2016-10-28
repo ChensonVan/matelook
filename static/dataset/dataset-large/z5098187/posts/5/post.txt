@@ -1,0 +1,5 @@
+message=To Rebecca Lin, Having you as a friend on facebook has been nothing but laughs for years now. from your status updates about your monthly period and slaying LB's you have shown nothing but class. i applaud your honesty and openness, cheers
+from=z5098187
+longitude=151.1860
+time=2013-04-22T10:20:05+0000
+latitude=-33.7768

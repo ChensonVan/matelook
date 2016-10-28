@@ -1,0 +1,5 @@
+latitude=-33.9108
+longitude=151.2321
+message=Dear cute first year girl that I see in my French tute.... Vanessa?? Are you ever free after class? Would love to get to know you more :)\n\nI like spirited away, cute animals and looking at beautiful things\n\nYou should be on display at the Louvre, right next to the mona lisa\n\nLove, your secret admirer xOxoXo
+time=2016-04-28T06:59:14+0000
+from=z5119437

@@ -1,0 +1,5 @@
+latitude=-33.9158
+time=2016-03-12T12:52:26+0000
+message=z5056054 is a sexy beast.\n\nXoxo
+from=z3275760
+longitude=151.2263

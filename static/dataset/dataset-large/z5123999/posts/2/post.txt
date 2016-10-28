@@ -1,0 +1,5 @@
+latitude=-33.9200
+from=z5123999
+longitude=151.2379
+message=to the girl who always sits in the stool at the corner of the roundhouse wearing that black beautiful dress. Mohamed Mohamud loves you.
+time=2014-03-31T14:15:39+0000

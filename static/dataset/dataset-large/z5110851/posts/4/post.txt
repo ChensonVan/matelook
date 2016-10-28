@@ -1,0 +1,5 @@
+time=2016-05-04T21:05:28+0000
+longitude=151.0992
+from=z5110851
+latitude=-33.8953
+message=Managed to find a pretty girl in computing. Turned out to be my tutor. :/

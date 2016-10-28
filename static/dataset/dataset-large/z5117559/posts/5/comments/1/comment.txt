@@ -1,0 +1,3 @@
+from=z5023005
+message=z5061301 maybe it's me
+time=2016-04-16T08:04:08+0000

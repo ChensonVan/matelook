@@ -1,0 +1,5 @@
+message=I'm secretly in love with Emily in 3rd year Pathology.
+time=2013-11-26T13:15:11+0000
+longitude=151.2316
+from=z5091950
+latitude=-33.9233

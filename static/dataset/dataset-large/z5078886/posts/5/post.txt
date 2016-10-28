@@ -1,0 +1,5 @@
+latitude=-33.9072
+longitude=151.2223
+time=2016-06-02T13:14:30+0000
+message=To the girl in Monday acct1501 lecture with the really beautiful eyes. You're so cute. You single?
+from=z5078886

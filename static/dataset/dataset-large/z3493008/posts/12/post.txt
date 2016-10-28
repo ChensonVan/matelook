@@ -1,0 +1,5 @@
+latitude=-33.8844
+time=2014-01-02T11:46:25+0000
+longitude=151.2811
+from=z3493008
+message=Dear Yongzhen\n\n<3\n\nfrom Pokesoc

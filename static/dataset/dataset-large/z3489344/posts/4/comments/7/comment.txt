@@ -1,0 +1,3 @@
+from=z5014972
+message=Transfer to USYD. That's where the real OG are.
+time=2016-08-25T03:27:03+0000

@@ -1,0 +1,5 @@
+time=2013-05-07T10:50:24+0000
+message=On the 7.15 (From Macarthur) East Hills express into the city this morning (YESTERDAY), I also forgot which stop you got on, you; in a yellow coat were on your iphone looking through the UNSW Love Letters page. I know you'll see this, as youll be checking it sooner or later. I was sitting right next to you, you know who I am (well, kind of).
+longitude=151.2369
+latitude=-33.9166
+from=z5106767

@@ -1,0 +1,5 @@
+longitude=151.2333
+time=2013-12-05T12:37:07+0000
+from=z5119437
+message=Hasi, are you studying to become an interior decorator? 'Cause when I saw you, the entire room became beautiful.
+latitude=-33.9100

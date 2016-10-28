@@ -1,0 +1,5 @@
+from=z5023773
+latitude=-33.3351
+time=2013-05-05T03:24:32+0000
+message=Dear Jason Xu, You are the love of my life, I see you in every reflection, and every face staring back at me. Recently I haven't been able to see your angelic face! Where have you hidden yourself my adorable panda? Have you returned to heaven my angel? Please come back to me soon! I don't know how much more I can take without you here! I love you forever and ever my handsome hunky man! <3
+longitude=150.9827

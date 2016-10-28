@@ -1,0 +1,5 @@
+latitude=-33.7537
+time=2016-07-12T11:47:15+0000
+message=Dear Nikhil N,\n\nNever change baby ;) <3\n\n-PR
+longitude=151.2715
+from=z3388364

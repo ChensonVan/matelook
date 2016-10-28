@@ -1,0 +1,5 @@
+time=2016-08-21T04:41:24+0000
+longitude=151.2332
+latitude=-33.9117
+from=z5113047
+message=To Howjer Gu,\n\nI'm no weatherman, but you can expect a few inches tonight ;)

@@ -1,0 +1,5 @@
+from=z3452764
+message=To Henry from New College, i remember hearing that you slept with some random girl a few weeks ago and it tore my heart... please mend it and be mine? You deserve more than a one night stand.
+latitude=-33.8722
+time=2016-04-19T05:06:23+0000
+longitude=151.2849

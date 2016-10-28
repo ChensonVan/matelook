@@ -1,0 +1,5 @@
+from=z3462191
+latitude=-33.9222
+time=2016-06-11T14:45:54+0000
+longitude=151.2308
+message=Sarah Saitta, girl you fineeee! Also, you seem like a really fun person.  It's a shame you aren't first year...

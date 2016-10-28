@@ -1,0 +1,5 @@
+message=you told me where there's a will there's a way\nWill where are you you lil bish I miss you
+time=2016-08-11T23:31:01+0000
+longitude=151.1391
+from=z3493303
+latitude=-33.8823

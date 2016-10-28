@@ -1,0 +1,5 @@
+latitude=-33.8247
+longitude=151.2337
+message=Since this is anonymous - I just want to say I love you Herbert Chan xoxo
+from=z5033280
+time=2013-05-17T12:10:26+0000

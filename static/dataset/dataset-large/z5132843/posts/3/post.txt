@@ -1,0 +1,5 @@
+latitude=-33.9269
+message=Is Alvin Chan from 2nd year Med single?
+from=z5132843
+time=2016-10-05T01:37:51+0000
+longitude=151.2214

@@ -1,0 +1,5 @@
+message=To the Daniel Radcliffe lookalike in my ARTS1031 lecture- your adorable face has me under your spell... Care to teach me a few magic tricks?
+from=z5002210
+time=2013-08-13T10:58:07+0000
+longitude=151.0500
+latitude=-33.8371

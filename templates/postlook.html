@@ -44,7 +44,7 @@
                 <ul class="popular-posts">
                     <li>
                     <div class="col-lg-2">
-                        <a href="#"><img src={{ "/static/profile/" + poster.image}} alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
+                        <a href="#"><img src="{{ url_for('static', filename='profile/' + poster.image) }}" alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
                     </div>
                     <div class="col-lg-10">
                         <em>Posted by {{ poster.full_name }} on {{ post.time[:-5] }}</em><br>
@@ -76,7 +76,7 @@
                     {% for comment in comments[pag.begin : pag.end] %}
                         <li>
                         <div class="col-lg-2" offset=1>
-                            <a href="#"><img src={{ "/static/profile/" + comment['image']}} alt="Popular Post" style="width:50px;height:50px;" class="img-circle"></a>
+                            <a href="#"><img src="{{ url_for('static', filename='profile/' + comment['image']) }}" alt="Popular Post" style="width:50px;height:50px;" class="img-circle"></a>
                         </div>
                         <div class="col-lg-10">
                             <em>Posted by {{ comment["name"] }} on {{ comment.time[:-5] }}</em><br>

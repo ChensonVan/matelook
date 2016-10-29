@@ -2,7 +2,7 @@
     {% for post in posts[begin : end] %}
         <li>
         <div class="col-lg-2">
-            <a href="{{ url_for('matelook', u_zid=post.zid) }}"><img src={{ "/static/profile/" + post.getPosterName()[1]}} alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
+            <a href="{{ url_for('matelook', u_zid=post.zid) }}"><img src="{{ url_for('static', filename='profile/' + post.getPosterName()[1]) }}" alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
         </div>
         <div class="col-lg-10">
             <p>
@@ -27,7 +27,7 @@
     {% for post in posts[begin : end] %}
         <li>
         <div class="col-lg-2">
-            <a href="{{ url_for('matelook', u_zid=post.zid) }}"><img src={{ "/static/profile/" + post.getPosterName()[1]}} alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
+            <a href="{{ url_for('matelook', u_zid=post.zid) }}"><img src="{{ url_for('static', filename='profile/' + post.getPosterName()[1]) }}" alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
         </div>
         <div class="col-lg-10">
             <p><csmall>Posted: {{ post.time[:-5] }}.</csmall> | <csmall2>By: {{ post.getPosterName()[0] }} - {{ post.commentsSize }} Comments</csmall2> | <csmall3><a href={{ url_for('myposts', action='delete', pid=post.pid)}}> Delete </a></csmall3></p>
@@ -46,7 +46,7 @@
     {% for notification in notifications[begin : end] %}
         <li>
         <div class="col-lg-2">
-            <a href="{{ url_for('matelook', u_zid=notification.from_zid ) }}"><img src={{ "/static/profile/" + notification.from_img}} alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
+            <a href="{{ url_for('matelook', u_zid=notification.from_zid ) }}"><img src="{{ url_for('static', filename='profile/' + notification.from_img) }}" alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
         </div>
         <div class="col-lg-10">
             <csmall>Send by <a href="{{ url_for('matelook', u_zid=notification.from_zid ) }}">{{ notification.from_name }}</a><csmall> | <csmall2> On {{ notification.time }}</csmall2><br>

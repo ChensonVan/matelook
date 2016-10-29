@@ -24,7 +24,7 @@
     {% for mate in mates %}
         <p><a href="{{ url_for('matelook', u_zid=mate.zid) }}">
             <i class="fa fa-angle-right"></i>
-            <img src={{ "/static/profile/" + mate.image }}  alt="profile" style="width:25px;height:25px;" class="img-circle">
+            <img src="{{ url_for('static', filename='profile/' + mate.image) }}"  alt="profile" style="width:25px;height:25px;" class="img-circle">
             {{ mate.full_name }}
         </a></p>
     {% endfor %}

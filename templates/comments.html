@@ -9,7 +9,7 @@
     <li><a href="{{ url_for('home') }}">HOMEPAGE</a></li>
     <li><a href="{{ url_for('myposts') }}">MYPOSTS</a></li>
     <li><a href="{{ url_for('search') }}">FIND FRIENDS</a></li>
-    <li><a href="/notifications">NOTIFICATIONS
+    <li><a href="{{ url_for('notifications') }}">NOTIFICATIONS
     {% if user.getNotifications()[0] %}
         <span class="badge badge-theme pull-right">
             {{ user.getNotifications()[0] }}
@@ -18,7 +18,7 @@
     </a></li>
     <li><a href="{{ url_for('profile') }}">PROFILE</a></li>
     <li><a href="{{ url_for('logout') }}">LOGOUT</a></li>
-    <img src={{ "/static/profile/" + user.image }}  alt="profile" style="width:50px;height:50px;" class="img-circle">
+    <img src="{{ url_for('static', filename='profile/' + user.image) }}"  alt="profile" style="width:50px;height:50px;" class="img-circle">
 {% endblock %}
 
 {% block content %}
@@ -65,7 +65,7 @@
                     {% for post in user.getPosts() %}
                         <li>
                         <div class="col-lg-2">
-                            <a href="#"><img src={{ "/static/profile/" + post.getPosterName()[1]}} alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
+                            <a href="#"><img src="{{ url_for('static', filename='profile/' + post.getPosterName()[1]) }}" alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
                         </div>
                         <div class="col-lg-10">
                             <em>Posted by {{ post.getPosterName()[0] }} on {{ post.time[:-5] }}</em><br>

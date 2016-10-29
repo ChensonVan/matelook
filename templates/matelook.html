@@ -62,7 +62,8 @@
                     {% for post in mate.getPosts() %}
                         <li>
                         <div class="col-lg-2">
-                            <a href="#"><img src={{ "/static/profile/" + post.getPosterName()[1]}} alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
+                            <!-- <a href="#"><img src={{ "/static/profile/" + post.getPosterName()[1]}} alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a> -->
+                            <a href="#"><img src="{{ url_for('static', filename='profile/' + post.getPosterName()[1]) }}" alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
                         </div>
                         <div class="col-lg-10">
                             <em>Posted by {{ post.getPosterName()[0] }} on {{ post.time[:-5] }}</em><br>

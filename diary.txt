@@ -12,3 +12,5 @@
 28/10/16    20:00   22:00   deploy to CSE server
 
 docker run -p 2041:80 -v /Users/Chenson/Desktop/ass2:/var/www comp2041/cgi
+
+http://127.0.0.1:2041/

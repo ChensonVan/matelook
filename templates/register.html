@@ -7,7 +7,7 @@
 {% endblock %}
 
 {% block navbar %}
-    <li><a href="/login">LOGIN</a></li>
+    <li><a href="{{ url_for('login') }}">LOGIN</a></li>
 {% endblock %}
 
 {% block content %}
@@ -24,7 +24,7 @@
         {% endwith %}
 
         <div class="col-lg-4 col-lg-offset-4 centered"> 
-            <form action="/register" name="register" method=POST>
+            <form action="{{ url_for('register') }}" name="register" method=POST>
                 <div class="form-group">
                     <label>Zid</label> <br>
                     <input type="text" name="zid" placeholder="zid"  class="form-control"><br>

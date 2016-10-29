@@ -7,7 +7,7 @@
 {% endblock %}
 
 {% block navbar %}
-    <li><a href="/register">REGISTER</a></li>
+    <li><a href="{{ url_for('register') }}">REGISTER</a></li>
 {% endblock %}
 
 {% block content %}
@@ -36,8 +36,8 @@
                 <div class="form-group">
                     <input type="submit" name="btn" value="Login" class="btn btn-theme"/>
                 </div>  
-                <!-- <a href="/">LOGOUT</a> -->
             </form>
+
             <form action="/account/recovery" name="recovery" method="GET">
                 <div class="form-group">
                     <input type="submit" name="btn" value="Recovery" class="btn btn-theme"/>

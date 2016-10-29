@@ -40,7 +40,7 @@
                 <h4>Find New Friends</h4>
                 <div class="hline"></div>
                 <div class="spacing"></div>
-                <form action="/search/user" method="GET">         
+                <form action="{{ url_for('search', user=user) }}" method="GET">         
                     <div  class="input-group">
                         <div class="input-group">
                             <input type="text" class="form-control" name="query" placeholder="Search something" style="width:680px;margin:0 auto">
@@ -61,7 +61,7 @@
                     {% if users %}
                         {% for mate in users[pag.begin : pag.end] %}
                         <div class="col-lg-2">
-                            <a href="{{ url_for('matelook', u_zid=mate.zid) }}"><img src={{ "/static/profile/" + mate['image']}} alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
+                            <a href="{{ url_for('matelook', u_zid=mate.zid) }}"><img receiversrc="{{ url_for('static', filename='profile/' + mate['image']) }}"alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
                         </div>
                         <div class="col-lg-10">
                             <p><a href="{{ url_for('matelook', u_zid=mate.zid) }}"> {{ mate.full_name }} </a></p>
@@ -99,7 +99,7 @@
                     <div class="spacing"></div>
                     {% for mate in user.mateSuggestions()[pag.begin : pag.end] %}
                         <div class="col-lg-2">
-                            <a href="{{ url_for('matelook', u_zid=mate['zid']) }}"><img src={{ "/static/profile/" + mate['image']}} alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
+                            <a href="{{ url_for('matelook', u_zid=mate.zid) }}"><img src="{{ url_for('static', filename='profile/' + mate['image']) }}" alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
                         </div>
                         <div class="col-lg-10">
                             <p><a href="{{ url_for('matelook', u_zid=mate['zid']) }}"> {{ mate['name'] }} </a>

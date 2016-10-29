@@ -422,6 +422,6 @@ def mateManager():
 
 if __name__ == '__main__':
     # app.run(host, port, debug, options)
-    app.run(host=_URL_, port=_PORT_)
-    # app.run(port=8080)
+    # app.run(host=_URL_, port=_PORT_)
+    app.run(port=8080)
     # debug=True, user_reloader=True

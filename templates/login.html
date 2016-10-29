@@ -24,7 +24,7 @@
         {% endwith %}
         <h1>MateLook - Find Your Friends In Here</h1>
         <div class="col-lg-4 col-lg-offset-4 centered"> 
-            <form action="/login" name="login" method=POST>
+            <form action="{{ url_for('login') }}" name="login" method=POST>
                 <div class="form-group">
                   <label for="InputName1">zID</label>
                   <input type="text" name="zid" placeholder="zid" class="form-control" id="exampleInputEmail1">
@@ -34,13 +34,13 @@
                   <input type="password" name="password" placeholder="password" class="form-control" id="exampleInputEmail1">
                 </div>      
                 <div class="form-group">
-                    <input type="submit" name="btn" value="Login" class="btn btn-theme"/>
+                    <input type="submit" value="Login" class="btn btn-theme"/>
                 </div>  
             </form>
 
-            <form action="/account/recovery" name="recovery" method="GET">
+            <form action="{{ url_for('register', action=recovery) }}" name="recovery" method="GET">
                 <div class="form-group">
-                    <input type="submit" name="btn" value="Recovery" class="btn btn-theme"/>
+                    <input type="submit" value="Recovery" class="btn btn-theme"/>
                 </div>  
             </form>
         </div>

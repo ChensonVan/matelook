@@ -106,6 +106,10 @@ def register():
         flash('Register Failed: zid was wrong.')
         return render_template('register.html')
 
+    if not password:
+        flash('Register Failed: password cannot be empty.')
+        return render_template('register.html')
+
     user = User.findByKey(zid)
     if user:
         flash('Register Failed: zid is already in use.')

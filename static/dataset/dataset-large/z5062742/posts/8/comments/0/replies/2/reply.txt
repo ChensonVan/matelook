@@ -1,3 +1,0 @@
-message=Omg can I come as well please
-from=z3442036
-time=2016-04-22T06:27:57+0000

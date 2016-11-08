@@ -1,3 +1,0 @@
-from=z3484231
-time=2013-04-18T12:42:05+0000
-message=joy to the world.

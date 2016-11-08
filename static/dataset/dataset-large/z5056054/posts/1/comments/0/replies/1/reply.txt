@@ -1,3 +1,0 @@
-message=Nah, I left at 1 :P
-time=2016-05-24T02:05:04+0000
-from=z3439243

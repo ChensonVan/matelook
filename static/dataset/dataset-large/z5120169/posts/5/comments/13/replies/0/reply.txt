@@ -1,3 +1,0 @@
-time=2016-08-12T10:42:31+0000
-message=This sounds nothing like me
-from=z5017787

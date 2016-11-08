@@ -1,3 +1,0 @@
-message=Ngaw. Cut3
-time=2016-06-04T03:46:42+0000
-from=z5032269

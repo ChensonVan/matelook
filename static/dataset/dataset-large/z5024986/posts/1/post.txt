@@ -1,5 +1,0 @@
-message=to steph xu who does med chem, you're a babe ;)
-time=2013-11-23T07:40:03+0000
-longitude=151.2399
-from=z5024986
-latitude=-33.9189

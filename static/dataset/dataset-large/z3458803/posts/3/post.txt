@@ -1,5 +1,0 @@
-message=To a Burmese girl from mechanical engineering, \nHer nick name for me is SKY since she is using all blue. \nWhat make you so pretty? \nWhat make you so cute?\nWhat make you so lovely? \nWhat make you so kind? \nI am coming to school to just see your sweet smile. \nCan I be your study partner? \n\nA secret admirer from Aero
-latitude=-33.9103
-from=z3458803
-time=2016-06-17T13:58:39+0000
-longitude=151.2264

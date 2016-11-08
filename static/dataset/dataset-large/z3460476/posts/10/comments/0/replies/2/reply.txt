@@ -1,3 +1,0 @@
-message=If you go at 8 it'll probably just be damindri and prithvika waiting for you
-time=2016-09-22T03:39:11+0000
-from=z3299058

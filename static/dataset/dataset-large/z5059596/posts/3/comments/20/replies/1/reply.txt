@@ -1,3 +1,0 @@
-time=2016-09-02T23:28:46+0000
-from=z5109980
-message=Distance makes the heart grow fonder

@@ -1,5 +1,0 @@
-from=z5015684
-time=2016-06-13T13:57:38+0000
-message=The letter is written to a special person—JC，a charming guy who likes talk to himself ，I've got a crush on ya!
-latitude=-33.8794
-longitude=151.1832

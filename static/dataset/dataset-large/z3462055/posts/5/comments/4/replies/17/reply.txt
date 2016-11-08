@@ -1,3 +1,0 @@
-message=Ooooh great call Andrea, you win this time...
-from=z5110502
-time=2016-08-31T07:54:16+0000

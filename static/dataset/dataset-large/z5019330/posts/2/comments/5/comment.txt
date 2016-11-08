@@ -1,3 +1,0 @@
-message=But isn't last week mid sem break ? O.o
-from=z3406406
-time=2016-10-02T03:17:10+0000

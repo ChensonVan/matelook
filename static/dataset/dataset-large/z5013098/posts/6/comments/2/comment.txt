@@ -1,3 +1,0 @@
-from=z5021309
-time=2013-11-24T21:30:56+0000
-message=Omgosh hahaha

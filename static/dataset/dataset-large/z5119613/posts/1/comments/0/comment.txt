@@ -1,3 +1,0 @@
-message=Hahahaha legally blonde!
-time=2013-04-18T01:04:29+0000
-from=z5109480

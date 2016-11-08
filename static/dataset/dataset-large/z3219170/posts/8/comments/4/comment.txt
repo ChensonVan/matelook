@@ -1,3 +1,0 @@
-from=z5060573
-message=z3379933O'Shea is this you?
-time=2016-08-02T15:33:11+0000

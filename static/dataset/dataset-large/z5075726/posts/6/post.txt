@@ -1,5 +1,0 @@
-message=To Mark C in engineering, I hope this doesn't creep you out but I remember seeing you on first week of uni. I overheard your friend call your name and by chance I found you on facebook and I was just wondering if you were single. Coffee sometime? :)
-time=2013-05-28T06:19:56+0000
-longitude=151.1641
-latitude=-33.8105
-from=z5075726

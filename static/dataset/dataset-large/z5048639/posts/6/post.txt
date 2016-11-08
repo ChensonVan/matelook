@@ -1,5 +1,0 @@
-time=2016-04-25T08:45:46+0000
-longitude=151.2154
-message=Hey Lovers!\nSorry about the number of posts: there have been some technical issues preventing me from getting your letters out there over the last week, and this is to make up for that! As you may have noticed, we have a new admin (welcome!), and once Kategari gets settled, we promise things will be back to normal.\n\nIn the meantime, you have your weekend's supply of letters at your disposal right now!\n~ Admin <3
-from=z5048639
-latitude=-33.8257

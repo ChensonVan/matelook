@@ -1,3 +1,0 @@
-from=z3484231
-message=you forgot to buy a wand, silly 😝😝
-time=2016-08-24T23:56:25+0000

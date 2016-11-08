@@ -1,3 +1,0 @@
-from=z5110358
-time=2016-04-28T09:09:04+0000
-message=fairly standard imo

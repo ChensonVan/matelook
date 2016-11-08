@@ -1,5 +1,0 @@
-from=z3335004
-message=every part of me is saying "go get her"\n\n-wlw
-longitude=151.1930
-time=2016-09-25T21:48:10+0000
-latitude=-33.9207

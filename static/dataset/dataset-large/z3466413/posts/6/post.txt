@@ -1,5 +1,0 @@
-from=z3466413
-time=2016-04-29T12:20:06+0000
-longitude=151.2317
-message=To the girl sitting next to me on the 895, that ham and cheese croissant smells amazing. I am writing this in hope you read it over my shoulder and are willing to share....
-latitude=-33.9186

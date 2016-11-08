@@ -1,3 +1,0 @@
-time=2013-05-27T11:00:52+0000
-message=That was Crocon-awful.
-from=z3462055

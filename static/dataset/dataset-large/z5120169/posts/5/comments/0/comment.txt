@@ -1,3 +1,0 @@
-from=z5119437
-time=2016-08-11T22:57:18+0000
-message=z5017258 didn't realise you were a God in tennis

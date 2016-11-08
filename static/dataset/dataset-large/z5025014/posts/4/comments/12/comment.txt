@@ -1,3 +1,0 @@
-from=z5059596
-message=z5074933 you can pretend to know some martial arts right?
-time=2016-09-08T02:00:58+0000

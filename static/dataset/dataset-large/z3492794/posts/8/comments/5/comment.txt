@@ -1,3 +1,0 @@
-message=z5060446 ur next uni destination has been set
-from=z5062742
-time=2016-10-06T02:33:12+0000

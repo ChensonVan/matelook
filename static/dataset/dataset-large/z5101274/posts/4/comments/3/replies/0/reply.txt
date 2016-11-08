@@ -1,3 +1,0 @@
-from=z5110851
-time=2016-10-06T00:56:24+0000
-message=Dog lady percentage

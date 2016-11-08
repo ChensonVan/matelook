@@ -1,3 +1,0 @@
-from=z3459551
-time=2013-03-24T23:45:26+0000
-message=Yes, especially when you curl it. Makes everyone go 'ouffft' ;) haha

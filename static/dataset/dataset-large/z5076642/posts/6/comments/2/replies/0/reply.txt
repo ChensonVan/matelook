@@ -1,3 +1,0 @@
-message=Tru das mi
-time=2016-08-17T14:20:23+0000
-from=z5119635

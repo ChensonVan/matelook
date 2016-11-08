@@ -1,3 +1,0 @@
-from=z5092040
-time=2016-08-02T09:58:49+0000
-message=Same here 😰😞

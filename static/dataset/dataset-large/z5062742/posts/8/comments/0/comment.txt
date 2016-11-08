@@ -1,3 +1,0 @@
-from=z5098313
-time=2016-04-22T05:23:52+0000
-message=I love cats. I'll go with you stranger. I've been to a couple so you know I'm reliable. Also if you don't like me we can just ignore each other and play with the cats instead!

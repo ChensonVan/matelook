@@ -1,5 +1,0 @@
-message=Ask someone out and risk a semester of awkward classes when they reject you or don't and live with a semester of regret when you see them every week?
-longitude=151.2246
-time=2016-05-20T12:07:48+0000
-from=z5117076
-latitude=-33.9236

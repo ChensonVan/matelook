@@ -1,3 +1,0 @@
-time=2016-08-22T07:49:09+0000
-message=Omg who
-from=z5126202

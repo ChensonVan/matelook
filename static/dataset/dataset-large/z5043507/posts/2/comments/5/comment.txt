@@ -1,3 +1,0 @@
-from=z5074940
-message=I live for you, Ray Ray
-time=2013-06-01T14:00:02+0000

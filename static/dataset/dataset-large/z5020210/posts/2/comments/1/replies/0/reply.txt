@@ -1,3 +1,0 @@
-from=z5099187
-time=2016-04-20T13:12:54+0000
-message=Haha you cutie

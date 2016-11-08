@@ -1,3 +1,0 @@
-message=Still waiting for mine
-from=z3415383
-time=2013-04-27T02:02:06+0000

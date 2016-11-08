@@ -1,3 +1,0 @@
-time=2016-09-08T10:23:11+0000
-message=only actively lookin for dogs
-from=z3415600

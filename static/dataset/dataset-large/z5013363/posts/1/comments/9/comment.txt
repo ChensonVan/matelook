@@ -1,3 +1,0 @@
-from=z5119667
-message=z5056054 What base you in now?
-time=2016-09-10T11:25:10+0000

@@ -1,3 +1,0 @@
-from=z3459293
-time=2016-04-26T01:16:02+0000
-message=z5116179 very smooth

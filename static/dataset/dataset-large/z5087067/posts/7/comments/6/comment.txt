@@ -1,3 +1,0 @@
-from=z5063045
-time=2013-09-06T03:59:54+0000
-message=Exoticness appeals to everyone haha

@@ -1,3 +1,0 @@
-message=I am 'Courage' the cowardly dog
-from=z5015684
-time=2013-06-24T12:08:18+0000

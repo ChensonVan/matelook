@@ -1,3 +1,0 @@
-from=z3461074
-message=z5028693 yea sounds like z5078514
-time=2013-09-02T02:58:41+0000

@@ -1,3 +1,0 @@
-from=z5076485
-message=z5098071 hahahahaha this is definitely about you!
-time=2013-05-01T12:17:13+0000

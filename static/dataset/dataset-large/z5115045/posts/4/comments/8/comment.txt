@@ -1,3 +1,0 @@
-from=z5004426
-message=z3379933 you're uppp
-time=2016-09-13T07:59:21+0000

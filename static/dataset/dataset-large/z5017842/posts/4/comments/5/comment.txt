@@ -1,3 +1,0 @@
-from=z5113702
-time=2013-09-21T10:34:12+0000
-message=z5109880 you heartbreaker </3

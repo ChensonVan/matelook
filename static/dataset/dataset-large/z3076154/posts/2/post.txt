@@ -1,5 +1,0 @@
-time=2016-04-29T13:01:27+0000
-message=Dear Lily Gu\n\nYou are so beautiful. Please be mine. I dream about you when I see you at uni.\n\nPls
-latitude=-33.9095
-longitude=151.2444
-from=z3076154

@@ -1,5 +1,0 @@
-message=Madeleine Egerton, you probably don't know me but I'm in one of your classes at the moment, and honestly I can't take my eyes off you when we have class together. Date?
-latitude=-33.9235
-from=z3459050
-time=2016-08-16T23:57:54+0000
-longitude=151.2361

@@ -1,5 +1,0 @@
-from=z5028311
-message=To the girl who accidently leaned against the fire alarm in the elevator last Wednesday in the Electrical Engineering Building. I think you're cute. Lets do it again next Wednesday.
-latitude=-33.9146
-time=2013-05-05T06:27:48+0000
-longitude=151.2401

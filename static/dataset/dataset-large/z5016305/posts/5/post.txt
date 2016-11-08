@@ -1,5 +1,0 @@
-longitude=151.2274
-message=Dear L in 2nd yr med,\n\nI think I have fallen for you. Would you say yes?\n\nSecret admirer
-from=z5016305
-time=2016-05-14T10:46:55+0000
-latitude=-33.9807

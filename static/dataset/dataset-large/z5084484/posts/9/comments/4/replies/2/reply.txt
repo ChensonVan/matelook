@@ -1,3 +1,0 @@
-from=z5038337
-time=2016-09-07T03:15:11+0000
-message=Probs the most important criteria tbh

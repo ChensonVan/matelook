@@ -1,3 +1,0 @@
-time=2013-07-03T07:31:32+0000
-message=Same person who wrote the original post..?
-from=z5048360

@@ -1,3 +1,0 @@
-message=Definitely z5002400
-from=z3374132
-time=2013-04-03T07:30:30+0000

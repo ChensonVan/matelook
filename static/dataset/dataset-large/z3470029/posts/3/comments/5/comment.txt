@@ -1,3 +1,0 @@
-from=z5019746
-time=2016-09-06T11:38:10+0000
-message=z5117658 ur life story

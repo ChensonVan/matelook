@@ -1,3 +1,0 @@
-time=2016-04-29T08:56:47+0000
-from=z5112578
-message=Who the heck is Bryan..

@@ -1,3 +1,0 @@
-time=2016-06-13T01:15:56+0000
-message=z5024438 keep the meme machine running
-from=z5015085

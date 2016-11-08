@@ -1,5 +1,0 @@
-latitude=-33.9179
-message=Charlie the Village RA - you brighten up the days and nights I get to sneak a peek at you
-longitude=151.2203
-from=z5017666
-time=2016-05-06T09:32:23+0000

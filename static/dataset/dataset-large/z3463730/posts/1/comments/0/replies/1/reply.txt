@@ -1,3 +1,0 @@
-from=z5085507
-message=*Clubs room
-time=2016-04-16T01:16:09+0000

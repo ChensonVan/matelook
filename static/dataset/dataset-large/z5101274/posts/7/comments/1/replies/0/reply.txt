@@ -1,3 +1,0 @@
-from=z5013098
-time=2016-09-11T22:49:46+0000
-message=nah it's mostly z5127733 who wrote it obviously

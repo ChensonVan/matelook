@@ -1,3 +1,0 @@
-from=z9591011
-message=Hehehe
-time=2016-08-17T00:59:18+0000

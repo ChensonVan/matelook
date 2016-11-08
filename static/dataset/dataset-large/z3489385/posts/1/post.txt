@@ -1,5 +1,0 @@
-longitude=151.0450
-latitude=-33.9109
-message=Adley Phu, my love for you is like my love for grass, evergreen.
-from=z3489385
-time=2016-08-09T14:11:31+0000

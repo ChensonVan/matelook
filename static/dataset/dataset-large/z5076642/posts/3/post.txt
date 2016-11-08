@@ -1,5 +1,0 @@
-latitude=-33.8915
-from=z5076642
-time=2013-04-11T08:01:33+0000
-message=To the beautiful 4th year biomedical engineering student that went to the AGSM building to have a coffee break today, I interrupted your newspaper reading to chat with you but I forgot to ask for your number at the end due to being distracted by your brilliant smile. FML. Come have coffee at AGSM again?
-longitude=151.1895

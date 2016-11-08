@@ -1,5 +1,0 @@
-latitude=-33.9175
-message=Stop the presses! Luke Sharp got a hair cut!!
-time=2013-08-27T23:33:26+0000
-from=z5076002
-longitude=151.2376

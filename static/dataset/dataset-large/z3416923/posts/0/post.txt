@@ -1,5 +1,0 @@
-latitude=-33.8001
-message=To someone, I think I have a crush on you. You're very nice and charming and you always make me feel so happy (you might not know that) :). I really like seeing you and I guess you're the reason why I really like coming to lab. Last week I was really worried about these mid exams, but when I saw you in the lab I felt a lot better :) ps: I can't really say anything in detail because I don't want you to know that I'm talking about you, and I hope you'll never gonna find out.
-time=2013-05-09T13:07:53+0000
-from=z3416923
-longitude=150.9936

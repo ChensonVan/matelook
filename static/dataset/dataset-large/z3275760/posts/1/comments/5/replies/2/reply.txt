@@ -1,3 +1,0 @@
-time=2016-09-15T08:04:32+0000
-message=z5102263 including farhan?
-from=z5061308

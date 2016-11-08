@@ -1,3 +1,0 @@
-time=2016-05-24T12:14:43+0000
-message=I like your ellipsis
-from=z5075827

@@ -1,3 +1,0 @@
-from=z5025090
-message=z5017894 lololll
-time=2016-05-12T13:00:33+0000

@@ -1,3 +1,0 @@
-message=Actual stalker
-from=z3485783
-time=2016-06-16T08:24:02+0000

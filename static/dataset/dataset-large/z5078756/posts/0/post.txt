@@ -1,5 +1,0 @@
-time=2013-07-30T11:59:17+0000
-from=z5078756
-longitude=151.1401
-message=If it wasn't for going to UNSW, I wouldn't have met you. You're my best friend and I want to thank you for always being there for me.\n<3 you
-latitude=-33.8600

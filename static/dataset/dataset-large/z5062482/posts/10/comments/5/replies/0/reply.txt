@@ -1,3 +1,0 @@
-message=HAHA the troll is real xD
-from=z5015191
-time=2016-06-19T11:04:05+0000

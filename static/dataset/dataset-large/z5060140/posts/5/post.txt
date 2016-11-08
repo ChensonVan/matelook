@@ -1,5 +1,0 @@
-message=the boy with the holister white tee and glasses in my fins1613 lec on tuesday 4 to 6 pm. can i have your fb?
-latitude=-33.9240
-longitude=151.2251
-time=2016-05-23T12:54:49+0000
-from=z5060140

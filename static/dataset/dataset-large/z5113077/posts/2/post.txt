@@ -1,5 +1,0 @@
-time=2013-05-15T23:07:09+0000
-latitude=-33.7753
-message=To the chick with pink jeans on the steps outside library lawn monday afternoon...youre cute :)
-from=z5113077
-longitude=151.2916

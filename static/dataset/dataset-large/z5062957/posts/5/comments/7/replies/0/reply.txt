@@ -1,3 +1,0 @@
-from=z5076363
-time=2016-09-19T22:18:31+0000
-message=that's not saying much for you

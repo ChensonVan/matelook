@@ -1,3 +1,0 @@
-from=z3463809
-message=z3462856 is a full time com/law student and part-time dealer. Thank me later
-time=2016-06-08T12:02:43+0000

@@ -1,3 +1,0 @@
-message=He is going epping to stmary
-time=2016-06-25T10:46:52+0000
-from=z5113003

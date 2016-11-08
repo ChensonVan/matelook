@@ -1,3 +1,0 @@
-message=Because eshayz brah
-from=z3413158
-time=2016-09-01T13:08:50+0000

@@ -1,5 +1,0 @@
-from=z5014335
-latitude=-33.9427
-longitude=151.1116
-message=Anthony T, \nToday I came across your profile when you popped up on my newsfeed and all I wanted so say,\nwas that I hope we meet one day :) x
-time=2016-09-12T09:18:48+0000

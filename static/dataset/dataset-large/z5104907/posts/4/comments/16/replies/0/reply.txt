@@ -1,3 +1,0 @@
-from=z5059596
-time=2016-05-07T04:23:44+0000
-message=aw im cute, ty

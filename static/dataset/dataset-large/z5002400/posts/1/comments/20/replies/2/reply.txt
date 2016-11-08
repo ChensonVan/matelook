@@ -1,3 +1,0 @@
-message=^^^ ill take z5115755 then
-from=z5075071
-time=2016-05-10T04:52:55+0000

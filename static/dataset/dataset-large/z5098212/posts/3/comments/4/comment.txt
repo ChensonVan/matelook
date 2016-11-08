@@ -1,3 +1,0 @@
-from=z5060223
-message=That is what USYD is for...
-time=2013-05-29T11:58:26+0000

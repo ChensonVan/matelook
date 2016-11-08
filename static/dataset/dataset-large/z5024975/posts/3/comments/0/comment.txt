@@ -1,3 +1,0 @@
-message=Hahaha ;) no shame for you, we presume ;)
-from=z5013098
-time=2013-11-15T00:34:47+0000

@@ -1,3 +1,0 @@
-time=2013-05-31T05:50:20+0000
-message=z5109880 this you?
-from=z3465151

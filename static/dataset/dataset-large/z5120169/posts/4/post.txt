@@ -1,5 +1,0 @@
-from=z5120169
-message=I need a love letter about me. I'm slowly losing self-confidence on top of confidence in dating.
-longitude=151.2904
-time=2016-09-09T03:22:42+0000
-latitude=-33.6457

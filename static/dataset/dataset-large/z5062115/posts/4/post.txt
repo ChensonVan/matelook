@@ -1,5 +1,0 @@
-time=2016-05-05T12:58:51+0000
-longitude=151.1333
-message=To V. Desai\n\nI love you \n\nPls be mine \n\nxoxoxoxoxoxoxo
-latitude=-33.9930
-from=z5062115

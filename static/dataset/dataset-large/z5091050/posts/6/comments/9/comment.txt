@@ -1,3 +1,0 @@
-message=z5098202 story of your life
-time=2016-06-19T10:59:49+0000
-from=z5076025

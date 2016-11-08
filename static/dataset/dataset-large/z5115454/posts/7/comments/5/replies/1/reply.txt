@@ -1,3 +1,0 @@
-from=z5020913
-message=This is z5075030, only he would mention the beard...
-time=2016-09-06T15:17:32+0000

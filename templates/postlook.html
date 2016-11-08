@@ -53,7 +53,7 @@
                     </li>
                 </ul>
                 <br>
-                <form action="comment" method="POST" name="POST">
+                <form action="{{ url_for('comment') }}" method="POST" name="POST">
                     <ul>
                         <textarea class="form-control" name="message" cols="104" rows="2"></textarea>
                         <br>
@@ -86,7 +86,7 @@
                     {% endfor%}
                 </ul>
                     {% import "pagination.html" as pagination %}
-                    {{ pagination.render_pagination2('/postlook', post.pid, pag)}}
+                    {{ pagination.pagination_post('postlook', pag, post.pid)}}
                 {% else %}
                     <h3>The post current has no comment. </h3>
                 {% endif %}

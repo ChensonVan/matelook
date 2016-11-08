@@ -1,5 +1,0 @@
-message=I'm representing 99.95% of the female species in this uni/world and just gonna ask a simple and straightforward question to you guys: How do you make a guy to like you (back) ?\n\nSincerely,\nConfused girls.
-latitude=-33.8973
-longitude=151.2078
-time=2016-08-13T07:52:45+0000
-from=z5013098

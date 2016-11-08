@@ -1,3 +1,0 @@
-message=Too bad its not MMAN1300
-time=2016-08-25T02:24:37+0000
-from=z5110851

@@ -1,3 +1,0 @@
-time=2013-04-10T12:38:33+0000
-message=shitttt
-from=z5015813

@@ -1,3 +1,0 @@
-message=The great urban constructions of UTs has no space for cats
-time=2016-09-25T07:00:50+0000
-from=z5117658

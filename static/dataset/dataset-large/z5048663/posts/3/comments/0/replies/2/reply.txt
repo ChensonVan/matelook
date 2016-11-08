@@ -1,3 +1,0 @@
-from=z5076156
-time=2016-09-01T01:59:16+0000
-message=o that makes a lot more sense..

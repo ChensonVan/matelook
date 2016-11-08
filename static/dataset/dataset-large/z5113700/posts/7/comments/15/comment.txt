@@ -1,3 +1,0 @@
-time=2016-09-01T10:29:57+0000
-message=z5075071 z5118457 z5097972 can I tag myself
-from=z3463638

@@ -1,5 +1,0 @@
-latitude=-33.8693
-from=z3294734
-longitude=151.2059
-message=To the brown guy in my Wealth Management class- I think your name was Kieran? You have a grey and red bag- I so regret not talking to you and asking if you wanted to grab coffee or more ;).  Hope I'm lucky enough to see you next semester ;)
-time=2016-06-22T13:44:31+0000

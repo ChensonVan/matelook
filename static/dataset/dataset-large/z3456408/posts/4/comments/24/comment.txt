@@ -1,3 +1,0 @@
-from=z5047799
-message=z5117790, you and person x 😂
-time=2016-09-02T15:07:15+0000

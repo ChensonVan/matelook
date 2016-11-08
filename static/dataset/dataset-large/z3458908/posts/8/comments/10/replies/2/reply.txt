@@ -1,3 +1,0 @@
-message=Slippery gecko
-time=2016-06-07T06:51:41+0000
-from=z3413954

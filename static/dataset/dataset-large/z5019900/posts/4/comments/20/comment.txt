@@ -1,3 +1,0 @@
-time=2016-09-13T03:37:03+0000
-message=z3388364 i think this is me
-from=z3462323

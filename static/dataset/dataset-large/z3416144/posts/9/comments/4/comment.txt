@@ -1,3 +1,0 @@
-time=2016-05-24T22:56:37+0000
-message=z5098187 , we all know this is you
-from=z5075827

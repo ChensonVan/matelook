@@ -1,3 +1,0 @@
-from=z5015280
-message=Told you Mr. Photogenic ;))
-time=2013-04-15T23:25:28+0000

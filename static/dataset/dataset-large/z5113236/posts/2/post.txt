@@ -1,5 +1,0 @@
-from=z5113236
-longitude=151.2719
-message=To the boy who went to lawlapalooza in a black waistcoat. I think I danced with you for a brief but heart-stopping moment. You have gorgeous dark eyes. Just your admirer, the boy in the scarlet sweater.
-latitude=-33.7910
-time=2013-05-27T21:58:24+0000

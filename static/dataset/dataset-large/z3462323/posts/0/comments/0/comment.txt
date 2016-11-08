@@ -1,3 +1,0 @@
-message=z5024602 you thinking what I'm thinking b1?
-time=2016-04-20T22:13:50+0000
-from=z3418657

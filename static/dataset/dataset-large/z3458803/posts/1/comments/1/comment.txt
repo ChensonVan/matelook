@@ -1,3 +1,0 @@
-from=z5063045
-time=2013-08-05T10:18:55+0000
-message=z5074940, buying a round.... this is unherd of.

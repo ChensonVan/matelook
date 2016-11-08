@@ -1,3 +1,0 @@
-message=*chamber of secrets opens*
-from=z5098135
-time=2016-04-15T13:58:46+0000

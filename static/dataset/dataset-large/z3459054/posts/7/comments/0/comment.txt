@@ -1,3 +1,0 @@
-from=z3462856
-message=https://www.youtube.com/watch?v=HJABSKSstn4#t=207
-time=2016-08-22T10:20:52+0000

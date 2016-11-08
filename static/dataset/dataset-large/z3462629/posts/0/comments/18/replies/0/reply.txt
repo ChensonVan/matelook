@@ -1,3 +1,0 @@
-message=He's a shit tutor
-from=z5015700
-time=2016-08-15T08:59:33+0000

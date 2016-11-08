@@ -1,5 +1,0 @@
-from=z5119613
-message=I didn't do ECON1203 this sem but I have heard that the PASS leaders are really smart and cute. \n\nPlease tag them so that I can see their timelines.
-latitude=-33.9120
-longitude=151.2225
-time=2016-06-18T10:17:05+0000

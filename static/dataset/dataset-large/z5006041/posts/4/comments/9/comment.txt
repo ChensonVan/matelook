@@ -1,3 +1,0 @@
-time=2013-03-22T03:09:40+0000
-message=Wow that's gotta be offensive...
-from=z5051889

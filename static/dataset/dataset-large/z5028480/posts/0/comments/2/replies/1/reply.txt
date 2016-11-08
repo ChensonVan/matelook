@@ -1,3 +1,0 @@
-time=2016-09-03T00:04:44+0000
-from=z5116179
-message=hahaha possibly lol

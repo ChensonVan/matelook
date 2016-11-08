@@ -1,5 +1,0 @@
-longitude=151.1499
-time=2016-06-19T00:24:18+0000
-latitude=-33.9034
-from=z3365499
-message=To the bootiful chocolate man( initials GS who does matsci), \nI think you're kinda cute\nChocolate Milk sometime?

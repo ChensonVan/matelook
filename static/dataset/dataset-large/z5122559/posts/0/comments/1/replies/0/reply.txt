@@ -1,3 +1,0 @@
-from=z5113702
-time=2016-06-25T05:52:05+0000
-message=Haha not this semester!

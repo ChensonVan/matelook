@@ -1,3 +1,0 @@
-message=Por que no los dos ^^^
-from=z3416923
-time=2016-08-14T23:01:57+0000

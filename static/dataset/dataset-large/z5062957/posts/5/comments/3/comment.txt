@@ -1,3 +1,0 @@
-from=z5097972
-time=2016-09-19T13:06:37+0000
-message=z5023123 guess im switching my decision once again

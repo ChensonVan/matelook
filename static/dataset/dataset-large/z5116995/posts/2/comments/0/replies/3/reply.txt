@@ -1,3 +1,0 @@
-message=Don't worry Josh, she's in a league of her own
-from=z5061927
-time=2016-06-15T07:52:35+0000

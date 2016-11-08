@@ -1,5 +1,0 @@
-time=2013-04-17T12:46:02+0000
-latitude=-33.8442
-message=To Cedric I really like you, but I don't kow how to tell you, and there are reasons why I can't tell you, but I hope that one day I can because you're really sweet and I would like to get to know you better
-from=z5015646
-longitude=151.0829

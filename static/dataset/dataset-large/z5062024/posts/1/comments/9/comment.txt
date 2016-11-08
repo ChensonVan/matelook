@@ -1,3 +1,0 @@
-time=2016-09-08T00:18:12+0000
-message=Harambe
-from=z5060573

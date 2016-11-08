@@ -1,5 +1,0 @@
-message=SamirKinger4PM
-longitude=150.4506
-latitude=-33.4985
-from=z5127733
-time=2013-07-01T08:46:10+0000

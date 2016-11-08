@@ -1,3 +1,0 @@
-message=yep thats me, super proud
-from=z5119635
-time=2013-08-14T11:03:36+0000

@@ -1,3 +1,0 @@
-from=z5060223
-message=Did they not notice at first?
-time=2013-06-18T00:53:37+0000

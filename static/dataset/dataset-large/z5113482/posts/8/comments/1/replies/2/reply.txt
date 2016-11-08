@@ -1,3 +1,0 @@
-from=z5112578
-time=2016-08-30T23:58:58+0000
-message=Regardless, this guy needs better material\n\nTangents to curves? This isn't high school

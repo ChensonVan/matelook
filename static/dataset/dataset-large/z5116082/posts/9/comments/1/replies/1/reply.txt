@@ -1,3 +1,0 @@
-from=z3417937
-message=z5015813 when you turned up to a tute with 5L of redbull and mother
-time=2016-06-30T11:26:52+0000

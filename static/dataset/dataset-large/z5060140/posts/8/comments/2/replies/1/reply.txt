@@ -1,3 +1,0 @@
-from=z3459551
-message=this person can be your one true love
-time=2016-07-26T12:39:35+0000

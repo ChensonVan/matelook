@@ -1,3 +1,0 @@
-from=z5019330
-time=2016-08-11T00:26:48+0000
-message=Teach me your ways Sam

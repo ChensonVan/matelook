@@ -1,5 +1,0 @@
-longitude=151.1634
-time=2016-05-02T06:48:04+0000
-latitude=-33.8403
-message=To the girl who took the train arriving to Central at ~10 AM last Tuesday, whom I sat next to on the train with, I just want to say you looked so pretty but I was too shy to talk to you or introduce myself. If I see you again, I'll say hi this time.\n\n~Shy guy who wanted to share an umbrella with you
-from=z3460476

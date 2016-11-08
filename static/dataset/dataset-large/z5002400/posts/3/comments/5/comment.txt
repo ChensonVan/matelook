@@ -1,3 +1,0 @@
-from=z3464149
-message=z5119655 time for new tactics buddy
-time=2016-09-19T15:02:43+0000

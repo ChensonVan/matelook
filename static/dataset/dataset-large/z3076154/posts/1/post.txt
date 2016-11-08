@@ -1,5 +1,0 @@
-from=z3076154
-latitude=-33.9013
-message=To the most innocent looking guy in elec eng, please be mine :D
-time=2013-06-14T20:11:00+0000
-longitude=151.2476

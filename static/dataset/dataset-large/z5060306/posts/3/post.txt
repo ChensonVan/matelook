@@ -1,5 +1,0 @@
-latitude=-33.8358
-message=To Jeeves Verma, Arc's resident funny man. I don't mean to be rude, but...do you gotta woman?
-from=z5060306
-time=2013-09-04T01:09:15+0000
-longitude=151.2141

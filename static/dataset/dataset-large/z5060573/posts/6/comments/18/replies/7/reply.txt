@@ -1,3 +1,0 @@
-time=2016-05-07T10:33:50+0000
-message=z5113715 LOL WHAT
-from=z5098212

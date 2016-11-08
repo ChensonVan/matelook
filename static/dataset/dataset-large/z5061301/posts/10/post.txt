@@ -1,5 +1,0 @@
-latitude=-33.9638
-message=Your muscles are nice but your smile is nicer. I don't know your name and I don't think that you know mine but I know that I catch a glimpse of you everyday at uni. Have a nice day.
-from=z5061301
-time=2013-10-08T13:01:15+0000
-longitude=150.9946

@@ -1,3 +1,0 @@
-from=z5059325
-message=more fake than that taxi you once took
-time=2016-09-06T22:33:48+0000

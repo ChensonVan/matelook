@@ -1,3 +1,0 @@
-from=z5113047
-time=2016-09-09T15:14:33+0000
-message=wow this is u in reverse z5016305

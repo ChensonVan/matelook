@@ -1,5 +1,0 @@
-from=z5061308
-latitude=-33.9156
-message=To that beautiful girl with long black hair in my Tuesday noon MGMT tutorial,\nYour beauty can only be matched by your personality. Seeing you makes my day, and I want to know more about you. Thanks for coming to UNSW :)\nYour admirer
-longitude=151.2267
-time=2016-05-06T00:20:31+0000

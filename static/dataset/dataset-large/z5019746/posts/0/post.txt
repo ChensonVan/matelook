@@ -1,5 +1,0 @@
-from=z5019746
-longitude=151.1979
-time=2016-03-08T03:52:36+0000
-latitude=-33.9603
-message=This page actually makes me miss going to school. To all the university students, make sure to enjoy it while it lasts!

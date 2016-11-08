@@ -1,3 +1,0 @@
-from=z5118185
-time=2016-09-13T05:50:16+0000
-message=I'm confused z3462432, they didn't say "The Actl Snake"

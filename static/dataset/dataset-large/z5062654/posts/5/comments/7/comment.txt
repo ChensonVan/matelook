@@ -1,3 +1,0 @@
-from=z3394912
-message=finally. took long enough
-time=2013-04-18T12:45:28+0000

@@ -1,3 +1,0 @@
-message=froyo > fried rice
-time=2013-06-26T02:15:07+0000
-from=z5023123

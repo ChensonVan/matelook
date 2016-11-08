@@ -1,3 +1,0 @@
-message=z5118627 time to move the exercise ball a little closer
-from=z5109880
-time=2016-08-29T03:35:48+0000

@@ -1,5 +1,0 @@
-from=z5118782
-longitude=151.2307
-time=2013-09-26T00:30:50+0000
-message=To the guy who played the cop in 'The Producers'. You ran like a fool to cover when the gavel broke on Wednesday night...Made me laugh so hard. I'm in love with your goofiness!!!
-latitude=-33.9263

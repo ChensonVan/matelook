@@ -1,3 +1,0 @@
-time=2013-06-05T13:14:06+0000
-message=nordiclykgod
-from=z5063045

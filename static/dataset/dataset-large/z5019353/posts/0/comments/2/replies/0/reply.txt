@@ -1,3 +1,0 @@
-time=2016-09-29T05:59:15+0000
-from=z5017894
-message=u got me Toshi

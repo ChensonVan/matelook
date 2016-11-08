@@ -1,5 +1,0 @@
-from=z5133976
-message=Where are all the first year LG gangas?
-latitude=-33.9267
-longitude=151.1478
-time=2016-07-02T12:09:14+0000

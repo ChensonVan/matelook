@@ -1,3 +1,0 @@
-message=you keep telling yourself that :L
-time=2016-09-04T20:34:11+0000
-from=z5056054

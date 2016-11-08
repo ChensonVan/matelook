@@ -1,3 +1,0 @@
-time=2013-05-10T07:04:59+0000
-message=There were 4 Rebeccas on the camp Lol
-from=z5048611

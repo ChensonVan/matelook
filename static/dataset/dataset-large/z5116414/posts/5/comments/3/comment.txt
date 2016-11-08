@@ -1,3 +1,0 @@
-from=z5120169
-time=2013-05-22T11:57:39+0000
-message=thats haram.

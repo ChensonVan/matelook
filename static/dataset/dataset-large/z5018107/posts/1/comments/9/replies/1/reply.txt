@@ -1,3 +1,0 @@
-message=Exposed
-from=z5130883
-time=2016-09-19T08:07:07+0000

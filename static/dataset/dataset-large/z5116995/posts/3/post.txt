@@ -1,5 +1,0 @@
-time=2016-08-25T12:37:29+0000
-message=Dear Chloe,\n\nU are the apple of my eye, the sugar to coffee, the dirty to my mind. \n\nSincerely,\nDude who looks at you with someone else
-latitude=-33.6053
-longitude=151.0602
-from=z5116995

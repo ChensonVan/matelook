@@ -1,3 +1,0 @@
-message=Tech pride
-time=2013-10-28T13:38:59+0000
-from=z3411568

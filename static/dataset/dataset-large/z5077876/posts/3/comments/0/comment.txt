@@ -1,3 +1,0 @@
-from=z5059826
-time=2016-08-14T14:20:54+0000
-message=I did some research. Turns out her name was z3485783

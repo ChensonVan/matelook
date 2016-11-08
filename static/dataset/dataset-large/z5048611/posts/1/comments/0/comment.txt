@@ -1,3 +1,0 @@
-time=2016-08-08T05:14:36+0000
-message=I don't like Kajol
-from=z5059526

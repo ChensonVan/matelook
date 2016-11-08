@@ -1,3 +1,0 @@
-from=z5113496
-message=z5102263 stop writing love letters
-time=2016-09-08T05:55:06+0000

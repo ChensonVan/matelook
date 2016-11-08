@@ -1,3 +1,0 @@
-message=Have you seen his smize
-from=z5015813
-time=2016-10-03T21:59:32+0000

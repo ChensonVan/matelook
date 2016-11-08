@@ -1,3 +1,0 @@
-from=z5019746
-message=z5059826 you've been studying for finals for past couple of weeks, when'd you find the time to write this
-time=2016-06-19T12:35:16+0000

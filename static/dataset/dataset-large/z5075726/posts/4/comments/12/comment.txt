@@ -1,3 +1,0 @@
-message=z5015813 quit playin
-from=z5015280
-time=2016-06-16T10:03:24+0000

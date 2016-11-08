@@ -1,3 +1,0 @@
-message=...This post makes me think I love Henry too.
-from=z3462629
-time=2016-08-24T02:30:23+0000

@@ -1,5 +1,0 @@
-from=z3365499
-time=2013-08-11T11:43:09+0000
-latitude=-33.8921
-message=To my love Michael,\n\nFrom the moment I saw you I knew you would be the one, we are destined to be together. I love the way you smile, you're so mesmerising. I hope you would notice me but you don't seem to attend any more engineering lectures :( I was really looking forward to getting to know you better.\n\nSincerely, a shy girl from your lecture.
-longitude=151.2140

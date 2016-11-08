@@ -1,3 +1,0 @@
-message=the fashion guidance and advice is working
-time=2016-09-12T08:45:40+0000
-from=z5119437

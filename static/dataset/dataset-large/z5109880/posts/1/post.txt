@@ -1,5 +1,0 @@
-message=To Korean Commerce student named Benjamin, HI! I had an awesome 10-15 walk with you last night. I can't believe that we talked a lot within that span of time.\n\nIt's me,\nUTS Nursing student
-from=z5109880
-time=2013-05-03T04:21:58+0000
-longitude=150.7619
-latitude=-34.1086

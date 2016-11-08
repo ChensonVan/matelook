@@ -1,3 +1,0 @@
-from=z5059860
-message=Guys with macho brains are always in hot demand lol
-time=2016-09-04T10:51:24+0000

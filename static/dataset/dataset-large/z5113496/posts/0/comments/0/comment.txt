@@ -1,3 +1,0 @@
-from=z3461651
-message=roses are red\nviolets are blue\nharambe is dead\ncome to revue
-time=2016-09-02T00:10:37+0000

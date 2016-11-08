@@ -1,5 +1,0 @@
-from=z5043507
-longitude=151.2363
-message=To the girl in third year advanced math. You have the most amazingly beautiful curly hair and I've always been impressed by you. It's not just because you're the only girl in the class, I think you would stand out anyway.
-latitude=-33.9168
-time=2013-04-18T00:12:20+0000

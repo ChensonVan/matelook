@@ -1,3 +1,0 @@
-message=No i am ok with >platv
-from=z5020476
-time=2016-09-12T23:53:04+0000

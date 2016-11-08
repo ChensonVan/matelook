@@ -1,5 +1,0 @@
-longitude=151.2302
-message=Dear Cindy Ngo\nApart from sexy, what else do you do for a living?\nCoffee sometime?
-from=z5113003
-latitude=-33.9232
-time=2016-05-25T08:53:11+0000

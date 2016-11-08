@@ -1,3 +1,0 @@
-message=Egor pls.
-from=z5092311
-time=2013-04-14T11:38:15+0000

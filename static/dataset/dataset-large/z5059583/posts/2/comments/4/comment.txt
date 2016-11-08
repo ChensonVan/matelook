@@ -1,3 +1,0 @@
-from=z5025014
-message=SKUX WANG.
-time=2013-08-02T14:21:40+0000

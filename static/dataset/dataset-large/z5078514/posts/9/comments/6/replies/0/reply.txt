@@ -1,3 +1,0 @@
-time=2016-06-11T16:40:33+0000
-message=z3466413 muzzking
-from=z5110358

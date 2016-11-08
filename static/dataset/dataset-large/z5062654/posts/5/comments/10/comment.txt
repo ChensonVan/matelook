@@ -1,3 +1,0 @@
-message=There are cute guys from all the races at UNSW. We're a good looking university.
-from=z5004426
-time=2013-04-18T13:09:01+0000

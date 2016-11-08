@@ -1,5 +1,0 @@
-longitude=151.1345
-latitude=-33.7789
-time=2016-09-17T03:46:37+0000
-message=why are all the hot guys at macquarie uni?\nthe struggle in finding a hot guy at unsw is too real\ni think i went to the wrong uni lmao\n\nprove me wrong pls... tag away
-from=z5062277

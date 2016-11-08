@@ -1,5 +1,0 @@
-message=Dear boy who sits in the front in math1231, who constantly laughs and goes "oooh",,\n\nYour laugh is contagious, but I wish you'd keep it to a minimum during the lectures. It gets recorded on echo360 too.\n\nLove,\nPerson in a love-hate relationship with your laugh
-latitude=-33.9087
-longitude=151.2289
-from=z5104907
-time=2016-09-28T08:05:02+0000

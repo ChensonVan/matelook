@@ -1,3 +1,0 @@
-from=z5019177
-message=Who cannot resist that smile
-time=2016-08-08T07:09:41+0000

@@ -1,3 +1,0 @@
-from=z5114240
-message=z3458908 make sure you wear yours xx
-time=2016-09-03T11:26:46+0000

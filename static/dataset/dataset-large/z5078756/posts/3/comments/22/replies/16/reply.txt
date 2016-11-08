@@ -1,3 +1,0 @@
-message=Don't know what you're talking about, our friendship is purely online
-time=2016-08-14T09:39:10+0000
-from=z5015191

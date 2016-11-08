@@ -1,3 +1,0 @@
-from=z5014335
-message=let me stress the ADVANCED nature of my course
-time=2016-04-28T07:58:29+0000

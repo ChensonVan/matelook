@@ -1,3 +1,0 @@
-message=wallet saids no, brain saids more !
-time=2016-06-30T11:01:40+0000
-from=z5048360

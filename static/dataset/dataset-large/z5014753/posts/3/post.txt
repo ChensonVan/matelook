@@ -1,5 +1,0 @@
-message=The tall, dark and handsome guy that looks like he's running things at Roundhouse events. He was hanging behind the vodka redbull bar at Halloween and then at the Silent Disco. He's insanely attractive!
-time=2014-01-02T09:31:46+0000
-from=z5014753
-latitude=-33.9241
-longitude=151.2307

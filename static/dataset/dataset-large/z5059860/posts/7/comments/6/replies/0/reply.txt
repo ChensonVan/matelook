@@ -1,3 +1,0 @@
-message=it wasn't me LOL #dontgohere
-from=z5025014
-time=2016-07-30T11:09:08+0000

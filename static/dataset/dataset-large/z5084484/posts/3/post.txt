@@ -1,5 +1,0 @@
-latitude=-33.8143
-time=2016-08-28T10:01:49+0000
-from=z5084484
-message=Can I just say that guy playing the music in The quadrangle on Thursday afternoon was just on point. So many laughs! He made me smile! I looooove him
-longitude=151.1473

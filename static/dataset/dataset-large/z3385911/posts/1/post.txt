@@ -1,5 +1,0 @@
-from=z3385911
-message=To those who love Shirley Manson - You're awesome! (And notice I spelt 'you're' correctly)
-longitude=151.2385
-latitude=-33.9201
-time=2013-05-05T06:30:26+0000

@@ -1,3 +1,0 @@
-message=Some spin off of the university of qld?
-time=2016-05-19T13:19:37+0000
-from=z3462326

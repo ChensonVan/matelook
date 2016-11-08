@@ -1,5 +1,0 @@
-from=z3422324
-latitude=-34.0185
-longitude=151.0459
-message=Hello everyone?howz break goin on ???
-time=2013-12-05T16:14:53+0000

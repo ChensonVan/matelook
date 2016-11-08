@@ -1,3 +1,0 @@
-from=z3459459
-time=2016-08-24T07:05:32+0000
-message=5. Actuarial & Law [tick]....

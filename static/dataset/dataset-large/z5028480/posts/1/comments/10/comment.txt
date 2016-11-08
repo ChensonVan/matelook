@@ -1,3 +1,0 @@
-message=z5075455 is our resident lg hunter
-time=2016-05-17T08:56:32+0000
-from=z5051889

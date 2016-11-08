@@ -1,3 +1,0 @@
-from=z5113047
-time=2016-05-24T00:04:28+0000
-message=Wtf no

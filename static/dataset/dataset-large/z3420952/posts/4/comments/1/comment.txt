@@ -1,3 +1,0 @@
-from=z5133976
-message=z5113003 who knew there were so many kelvins in the world 😂😂
-time=2016-09-19T13:35:49+0000

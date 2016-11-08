@@ -1,3 +1,0 @@
-time=2016-06-16T23:00:34+0000
-message=Maybe they overheard our discussion on calculators ;)
-from=z3459050

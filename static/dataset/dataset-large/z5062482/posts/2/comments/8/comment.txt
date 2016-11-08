@@ -1,3 +1,0 @@
-from=z3462055
-message=z5087067 z5061920 when pokemon go is life
-time=2016-08-27T11:19:10+0000

@@ -1,3 +1,0 @@
-from=z3452764
-time=2016-08-28T21:19:24+0000
-message=Why yes, that is one if the symptoms

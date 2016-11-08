@@ -1,3 +1,0 @@
-time=2013-04-20T10:47:34+0000
-message=Pssh, we're beyond friendship
-from=z5017258

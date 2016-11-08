@@ -1,3 +1,0 @@
-from=z5019177
-message=z5079464, oooo someone is offering you a free return airfare from the pit of civilisations (Montreal) back to the glory of Sydney for a coffee.
-time=2016-09-13T01:34:13+0000

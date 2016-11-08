@@ -1,3 +1,0 @@
-message=z5059826 speak Mandarin u poof
-from=z5077131
-time=2016-08-29T06:08:11+0000

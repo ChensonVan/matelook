@@ -1,3 +1,0 @@
-time=2016-06-03T09:16:02+0000
-message=HD looks with a strong D (wam)
-from=z5048360

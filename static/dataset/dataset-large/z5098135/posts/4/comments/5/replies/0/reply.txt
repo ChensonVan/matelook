@@ -1,3 +1,0 @@
-from=z5024967
-time=2016-04-21T05:15:20+0000
-message=Yeah but what about z5014972? Some professional prettiness right there

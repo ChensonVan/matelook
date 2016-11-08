@@ -1,3 +1,0 @@
-from=z3462323
-message=z5028311 did u send this to yourself
-time=2016-06-04T14:55:19+0000

@@ -1,3 +1,0 @@
-from=z5113482
-time=2016-09-01T10:11:49+0000
-message=z5060921 go away plz. Not sitting next to you again

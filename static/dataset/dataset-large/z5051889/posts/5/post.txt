@@ -1,5 +1,0 @@
-latitude=-33.7237
-message=The first time I met you, I would never have guessed that we would be where we are now. You mean the world to me, and meeting you in first year was one of the best things that has ever happened to me. I had my heart broken, and I was scared of taking risks and being hurt again. But i'm glad that I took that risk to tell you how I felt, otherwise I wouldn't be nearly as happy as I am now. I would be living with the regret of ""what if"", or even worse, seeing you be with someone else. \nI guess I write this to encourage everyone to be honest with themselves and their feelings. It goes without saying that it may pay off, or at the very least, close a chapter so that you can move on and open a new one.
-longitude=150.7936
-time=2013-11-26T10:53:02+0000
-from=z5051889

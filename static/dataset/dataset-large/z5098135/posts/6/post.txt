@@ -1,5 +1,0 @@
-latitude=-33.8758
-longitude=151.1985
-message=To the ladies out there - I’m a brown guy and I don’t fit into any of the brown societies. I’ve been waiting for years for the right lady to spend time with watching the clouds go by on the village green. Would love to meet you before I leave or my parents will arrange me to someone.
-from=z5098135
-time=2013-04-24T11:42:32+0000

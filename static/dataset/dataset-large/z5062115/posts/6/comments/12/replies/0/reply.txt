@@ -1,3 +1,0 @@
-time=2016-08-10T10:50:03+0000
-message=I hope your future employer doesn't see this
-from=z3493303

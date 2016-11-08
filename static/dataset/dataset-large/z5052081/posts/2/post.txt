@@ -1,5 +1,0 @@
-time=2016-05-07T07:24:30+0000
-message=Bianca in second year crim, I hope you like curry boys, because you're turban me on
-from=z5052081
-latitude=-33.9763
-longitude=151.1465

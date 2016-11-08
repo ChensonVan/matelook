@@ -1,3 +1,0 @@
-time=2013-04-23T11:20:20+0000
-from=z5061308
-message=we are, aren't we :3

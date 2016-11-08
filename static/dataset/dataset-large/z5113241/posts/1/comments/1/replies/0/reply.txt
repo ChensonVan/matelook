@@ -1,3 +1,0 @@
-message=Why'd you have to say that :'(
-time=2016-05-19T02:16:49+0000
-from=z5127546

@@ -1,3 +1,0 @@
-message=z5061572 looks like you're getting married
-time=2016-09-08T05:45:40+0000
-from=z5076025

@@ -1,3 +1,0 @@
-from=z5097561
-message=Pete this is literally you though...
-time=2016-09-02T00:43:06+0000

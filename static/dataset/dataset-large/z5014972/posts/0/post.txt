@@ -1,5 +1,0 @@
-longitude=151.2390
-time=2016-08-17T03:15:41+0000
-latitude=-33.9072
-from=z5014972
-message=The poet Clyde, \nYour lyrical skills far surpass my own\n\nCould you perhaps, bless this soul with your phone?

@@ -1,3 +1,0 @@
-message=racists everywhere
-from=z5006041
-time=2016-08-27T10:53:44+0000

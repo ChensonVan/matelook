@@ -1,3 +1,0 @@
-message=z5116167 you doing physics again mate?
-from=z5083924
-time=2016-05-26T10:40:29+0000

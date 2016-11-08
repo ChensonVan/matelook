@@ -1,3 +1,0 @@
-from=z5024986
-time=2016-04-21T10:51:42+0000
-message=Ye I was wearing half white and half pink

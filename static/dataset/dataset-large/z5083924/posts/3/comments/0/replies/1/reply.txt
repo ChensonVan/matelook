@@ -1,3 +1,0 @@
-from=z5116685
-message=Seems legit 😎
-time=2016-04-21T09:37:35+0000

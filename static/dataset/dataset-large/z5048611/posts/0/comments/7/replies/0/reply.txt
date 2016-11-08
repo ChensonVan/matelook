@@ -1,3 +1,0 @@
-message=Haha what a calling 😂
-from=z5098313
-time=2016-08-06T23:23:39+0000

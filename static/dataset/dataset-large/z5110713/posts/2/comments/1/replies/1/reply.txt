@@ -1,3 +1,0 @@
-from=z5017666
-message=HAHAHA there was a baby husky on campus today!!!!!!
-time=2016-09-08T10:25:30+0000

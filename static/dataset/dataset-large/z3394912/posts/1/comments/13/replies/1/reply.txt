@@ -1,3 +1,0 @@
-message=hey guys what about me?
-from=z5061308
-time=2016-08-17T13:54:59+0000

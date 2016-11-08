@@ -1,3 +1,0 @@
-time=2016-08-24T01:28:02+0000
-message=lol cheers
-from=z5059860

@@ -1,5 +1,0 @@
-longitude=151.1830
-message=whats the easiest faculty of arts and social sciences subject to take as an elective???
-latitude=-33.8786
-from=z5075962
-time=2016-04-15T21:41:48+0000

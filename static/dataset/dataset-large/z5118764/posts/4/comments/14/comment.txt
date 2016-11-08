@@ -1,3 +1,0 @@
-from=z5017077
-time=2013-10-02T17:44:01+0000
-message=Age is only a number,\nGaol is only a room

@@ -1,5 +1,0 @@
-longitude=151.2619
-time=2016-09-11T13:21:39+0000
-message=To Christy and Michael\n\nMake it official already,\n\n- Your friends
-latitude=-33.7851
-from=z5047799

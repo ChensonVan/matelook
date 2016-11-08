@@ -1,3 +1,0 @@
-from=z5017842
-time=2013-04-04T04:48:14+0000
-message=SwagYolo is not. \n

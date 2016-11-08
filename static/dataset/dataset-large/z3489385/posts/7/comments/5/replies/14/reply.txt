@@ -1,3 +1,0 @@
-from=z5109880
-time=2016-08-13T12:44:29+0000
-message=Fk teach me ur ways

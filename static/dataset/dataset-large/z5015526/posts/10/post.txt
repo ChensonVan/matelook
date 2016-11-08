@@ -1,5 +1,0 @@
-time=2013-10-05T01:48:46+0000
-longitude=151.2809
-latitude=-33.7200
-message=to the asian... oh wait.
-from=z5015526

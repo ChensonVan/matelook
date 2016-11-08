@@ -1,3 +1,0 @@
-time=2016-07-12T03:43:25+0000
-from=z5098135
-message=z5020476 double x

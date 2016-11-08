@@ -1,5 +1,0 @@
-time=2013-08-09T13:41:46+0000
-message=To the beautiful, bearded curry guy from UNSW Makers Society. You made my day. Wanna make something together? ;)
-longitude=151.2419
-from=z5117301
-latitude=-33.8313

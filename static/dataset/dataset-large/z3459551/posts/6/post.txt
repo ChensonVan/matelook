@@ -1,5 +1,0 @@
-latitude=-33.9190
-message=This is a shout out to Dhyey Shah. Damn boy you fine! are you single? Ive been eyeing you from afar for a while now. Meet up sometime?\n\nFrom an asian girl in your lecture
-longitude=151.2269
-time=2016-05-25T07:05:10+0000
-from=z3459551

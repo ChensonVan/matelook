@@ -1,3 +1,0 @@
-message=And he's already taken ;)
-time=2013-04-25T13:54:00+0000
-from=z5015700

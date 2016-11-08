@@ -1,3 +1,0 @@
-message=^exactly
-time=2016-08-28T04:54:07+0000
-from=z5025090

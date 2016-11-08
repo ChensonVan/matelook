@@ -1,3 +1,0 @@
-time=2016-07-08T01:23:53+0000
-message=LOL wtf too accurate
-from=z5115045

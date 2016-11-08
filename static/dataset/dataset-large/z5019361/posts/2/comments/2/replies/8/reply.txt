@@ -1,3 +1,0 @@
-time=2016-08-24T23:44:55+0000
-message=Woooow
-from=z5015526

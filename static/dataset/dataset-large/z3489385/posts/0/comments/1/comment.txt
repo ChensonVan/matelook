@@ -1,3 +1,0 @@
-time=2013-03-27T08:07:10+0000
-from=z3446230
-message=You can't tell me what to do!

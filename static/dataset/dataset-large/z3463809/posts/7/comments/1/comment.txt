@@ -1,3 +1,0 @@
-from=z5075455
-time=2013-03-22T09:43:08+0000
-message=z5076642 is this you brah?

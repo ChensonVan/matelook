@@ -1,3 +1,0 @@
-time=2013-04-25T11:08:10+0000
-message=Pretty sure someone is being a troll.
-from=z5017894

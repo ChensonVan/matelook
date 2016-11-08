@@ -1,3 +1,0 @@
-from=z3480991
-time=2016-09-01T00:31:23+0000
-message=aye potatoes!

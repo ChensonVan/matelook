@@ -1,3 +1,0 @@
-from=z5042720
-message=y-you too
-time=2013-08-13T02:17:44+0000

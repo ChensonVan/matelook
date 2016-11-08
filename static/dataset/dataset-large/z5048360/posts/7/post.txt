@@ -1,5 +1,0 @@
-longitude=151.2334
-latitude=-33.9231
-time=2013-04-22T03:02:16+0000
-from=z5048360
-message=Jonothan Ziveyi actl2001 dat accent! ;)

@@ -1,5 +1,0 @@
-from=z3458803
-longitude=151.2489
-latitude=-33.9794
-time=2016-09-03T00:15:26+0000
-message=The gay couple in actl. Too cute.

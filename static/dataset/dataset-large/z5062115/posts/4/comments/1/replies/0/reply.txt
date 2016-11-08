@@ -1,3 +1,0 @@
-from=z5041714
-message=Pls. It's so lame and boring. I could not have written this.
-time=2016-05-04T12:00:04+0000

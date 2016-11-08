@@ -1,3 +1,0 @@
-time=2016-08-25T06:45:37+0000
-message=Very good z5092154
-from=z5023123

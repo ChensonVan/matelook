@@ -1,3 +1,0 @@
-from=z5062608
-message=im diggin her too
-time=2013-08-13T13:00:04+0000

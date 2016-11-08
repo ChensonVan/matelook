@@ -1,3 +1,0 @@
-message=z5024602 u one day
-from=z3418657
-time=2016-09-05T21:06:30+0000

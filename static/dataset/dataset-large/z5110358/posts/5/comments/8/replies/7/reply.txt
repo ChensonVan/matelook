@@ -1,3 +1,0 @@
-from=z5115780
-time=2016-08-09T12:24:54+0000
-message=We appreciate your sacrifice

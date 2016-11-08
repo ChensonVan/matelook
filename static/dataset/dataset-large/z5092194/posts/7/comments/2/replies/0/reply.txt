@@ -1,3 +1,0 @@
-time=2016-07-03T02:08:41+0000
-message=This is gol
-from=z5019177

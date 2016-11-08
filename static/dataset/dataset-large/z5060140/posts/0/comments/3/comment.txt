@@ -1,3 +1,0 @@
-time=2016-08-09T05:06:22+0000
-message=z5015243 stop being such a snake
-from=z5016305

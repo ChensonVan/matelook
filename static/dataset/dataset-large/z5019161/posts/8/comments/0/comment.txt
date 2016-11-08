@@ -1,3 +1,0 @@
-from=z5117790
-message="Dear my ex"\n"Your Unknown Lover"\n\n?????????
-time=2016-04-15T13:55:06+0000

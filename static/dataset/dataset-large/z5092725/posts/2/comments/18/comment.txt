@@ -1,3 +1,0 @@
-from=z5062443
-message=^ shutup
-time=2013-06-26T05:29:16+0000

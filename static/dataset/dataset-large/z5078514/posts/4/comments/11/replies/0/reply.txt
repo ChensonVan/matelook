@@ -1,3 +1,0 @@
-from=z5120169
-message=Thank you... So much.
-time=2013-11-02T12:18:08+0000

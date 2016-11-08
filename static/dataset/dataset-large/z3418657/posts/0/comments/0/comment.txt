@@ -1,3 +1,0 @@
-message=George Chen? More like z5020683
-from=z5019900
-time=2016-09-14T05:55:33+0000

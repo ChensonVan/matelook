@@ -1,3 +1,0 @@
-from=z5119613
-message=But we all know who has the famous smile
-time=2016-05-16T12:52:30+0000

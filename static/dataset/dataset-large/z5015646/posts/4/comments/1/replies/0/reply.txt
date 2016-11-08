@@ -1,3 +1,0 @@
-message=Cos you're too sad to be reading this
-from=z5099358
-time=2016-07-08T15:38:05+0000

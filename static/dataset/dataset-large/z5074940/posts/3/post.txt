@@ -1,5 +1,0 @@
-from=z5074940
-latitude=-33.9139
-message=Dear Nanway Chen,\n\nWe went together to see Aladin the musical! It was such a thrilling experience to enjoy the play and your company! The theatricals were good and all, but sometimes I think we could have a bit more... Could I ride your magic carpet?\n\nRegards xx
-time=2016-09-21T22:56:19+0000
-longitude=151.2203

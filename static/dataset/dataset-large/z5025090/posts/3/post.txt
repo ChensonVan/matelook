@@ -1,5 +1,0 @@
-message=To Derick Thai, the handsome muscle bound Asian of UNSW. My gym sucks, can I squat on you?
-from=z5025090
-time=2013-05-01T03:47:15+0000
-latitude=-34.0452
-longitude=151.1488

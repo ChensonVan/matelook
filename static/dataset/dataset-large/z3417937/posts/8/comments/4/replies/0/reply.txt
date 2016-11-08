@@ -1,3 +1,0 @@
-from=z5126202
-message=You wrote this didn't you ? 😂😂
-time=2016-08-04T03:54:38+0000

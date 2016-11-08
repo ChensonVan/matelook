@@ -1,5 +1,7 @@
 #!/usr/bin/env python3.5
 # -*- coding: utf-8 -*-
+# write by tutorial by liaoxuefeng
+# http://www.liaoxuefeng.com/
 
 __author__ = 'Changxun Fan'
 
@@ -10,12 +12,11 @@ import re
 
 from db import *
 
-# def next_id():
-#     return '%015d%s000' % (int(time.time() * 1000), uuid.uuid4().hex)
 
 def create_args_string(num):
     L = ['?' for _ in range(num)]
     return ', '.join(L)
+
 
 class Field(object):
     def __init__(self, name, column_type, primary_key, default):
@@ -75,7 +76,6 @@ class ModelMetaclass(type):
             raise StandardError('Primary key not found.')
         for k in mappings.keys():
             attrs.pop(k)
-        # ????
         escaped_fields = list(map(lambda f: '`%s`' % f, fields))
         attrs['__mappings__'] = mappings # 保存属性和列的映射关系
         attrs['__table__'] = tableName
@@ -115,46 +115,38 @@ class Model(dict, metaclass=ModelMetaclass):
 
     @classmethod
     def findByKey(cls, pk):
-        # print(cls.__select__)
         r = select('%s where `%s`=?' % (cls.__select__, cls.__primary_key__), (pk,))
         if len(r) == 0:
             return None
-
         _RE_COLUMNS_ = re.compile(r'^select (`.*?`)+ from')
         cr = re.findall(_RE_COLUMNS_, cls.__select__)
         cols = cr[0].replace('`', '').split(', ')
-
-        # result = dict((k, v) for k in cols for v in r[0])
         result = dict(zip(cols, r[0]))
-        # result = dict()
-        # for i in range(len(cols)):
-        #     result[cols[i]] = r[0][i]
         return cls(**result)
 
-    @classmethod
-    def findByColumns(cls, where=None, args=None, **kw):
-        sql = [cls.__select__]
-        if where:
-            sql.append('where')
-            sql.append(where)
-        if args is None:
-            args = []
-        orderBy = kw.get('orderBy', None)
-        if orderBy:
-            sql.append('order by')
-            sql.append(orderBy)
-        limit = kw.get('limit', None)
-        if limit is not None:
-            sql.append('limit')
-            if isinstance(limit, int):
-                sql.append('?')
-                args.append(limit)
-            elif isinstance(limit, tuple) and len(limit) == 2:
-                sql.append('?, ?')
-                args.extend(limit)
-            else:
-                raise ValueError('Invalid limit value: %s' % str(limit))
-        # print(sql)
+    # @classmethod
+    # def findByColumns(cls, where=None, args=None, **kw):
+    #     sql = [cls.__select__]
+    #     if where:
+    #         sql.append('where')
+    #         sql.append(where)
+    #     if args is None:
+    #         args = []
+    #     orderBy = kw.get('orderBy', None)
+    #     if orderBy:
+    #         sql.append('order by')
+    #         sql.append(orderBy)
+    #     limit = kw.get('limit', None)
+    #     if limit is not None:
+    #         sql.append('limit')
+    #         if isinstance(limit, int):
+    #             sql.append('?')
+    #             args.append(limit)
+    #         elif isinstance(limit, tuple) and len(limit) == 2:
+    #             sql.append('?, ?')
+    #             args.extend(limit)
+    #         else:
+    #             raise ValueError('Invalid limit value: %s' % str(limit))
 
     def save(self):
         args = list(map(self.getValueOrDefault, self.__fields__))

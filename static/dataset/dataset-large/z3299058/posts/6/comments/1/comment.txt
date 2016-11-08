@@ -1,3 +1,0 @@
-from=z5061301
-message=go home, kristen bell. you're drunk.
-time=2013-03-25T10:57:56+0000

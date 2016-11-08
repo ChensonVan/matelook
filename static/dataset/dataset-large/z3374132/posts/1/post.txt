@@ -1,5 +1,0 @@
-from=z3374132
-time=2013-07-30T10:34:06+0000
-longitude=151.2601
-latitude=-33.8991
-message=Are you:\n\ntall\nhandsome\ndutch (on exchange)\nlive at international house\nstudy biology\ncaught a 394 bus into the city with us on Friday night\n\nWe'd like to have a drink with you at Coco Cubano's but we forgot to ask for your name and contact deets. Hope you found TripView useful :)

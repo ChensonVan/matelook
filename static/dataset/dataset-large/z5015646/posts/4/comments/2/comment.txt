@@ -1,3 +1,0 @@
-time=2016-07-08T16:30:12+0000
-message=z3480991 I think I'm still partially in the ditch
-from=z5085507

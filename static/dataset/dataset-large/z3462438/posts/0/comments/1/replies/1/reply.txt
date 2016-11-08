@@ -1,3 +1,0 @@
-time=2016-04-27T11:17:36+0000
-from=z5117935
-message=Yes pls

@@ -1,3 +1,0 @@
-from=z5113614
-time=2016-06-19T11:49:54+0000
-message=no purrsuasion needed

@@ -1,3 +1,0 @@
-message=Maybe when im a bit more desperate
-time=2016-09-21T14:08:19+0000
-from=z5122559

@@ -1,3 +1,0 @@
-from=z3459509
-message=How did you know, it's like you sent the letter?
-time=2016-05-11T12:53:29+0000

@@ -1,3 +1,0 @@
-time=2016-09-10T11:59:59+0000
-message=Shit I've been found
-from=z5061920

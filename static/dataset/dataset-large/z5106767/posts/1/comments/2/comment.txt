@@ -1,3 +1,0 @@
-from=z5115479
-time=2016-05-14T00:27:42+0000
-message=Sylvia Cho

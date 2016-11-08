@@ -1,5 +1,0 @@
-time=2016-05-13T08:01:08+0000
-longitude=151.2240
-from=z5004426
-latitude=-33.9110
-message=To Mary from second year actuarial \n\nI love you \n\nCan u pls be mine pls pretty pls

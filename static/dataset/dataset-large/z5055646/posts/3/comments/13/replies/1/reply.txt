@@ -1,3 +1,0 @@
-message=your name says it all
-from=z3462326
-time=2016-05-19T08:29:50+0000

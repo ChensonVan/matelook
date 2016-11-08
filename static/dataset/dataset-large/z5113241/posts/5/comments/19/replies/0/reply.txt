@@ -1,3 +1,0 @@
-from=z5079464
-time=2016-09-30T09:29:49+0000
-message=how i instantly knew this wasn't me

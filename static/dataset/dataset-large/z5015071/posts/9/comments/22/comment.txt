@@ -1,3 +1,0 @@
-message=z5117623 You are tanzimania
-from=z5098212
-time=2016-06-19T13:11:56+0000

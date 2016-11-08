@@ -1,3 +1,0 @@
-message=Haha this is great!!! I see Cameron finally did it hahahahah
-from=z3461196
-time=2013-09-21T10:58:25+0000

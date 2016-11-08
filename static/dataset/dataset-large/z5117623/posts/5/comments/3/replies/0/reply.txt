@@ -1,3 +1,0 @@
-from=z5109786
-message=Haha not me :P
-time=2016-04-22T13:18:58+0000

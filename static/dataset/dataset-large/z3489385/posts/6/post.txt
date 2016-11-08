@@ -1,5 +1,0 @@
-from=z3489385
-message=To the girl at the Whitehouse on Monday with purple hair...holy shit, your smile made my day. You're gorgeous. Marry me?
-time=2016-09-05T13:24:46+0000
-longitude=151.2235
-latitude=-33.9225

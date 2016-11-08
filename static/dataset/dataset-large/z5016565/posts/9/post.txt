@@ -1,5 +1,0 @@
-from=z5016565
-latitude=-34.0799
-time=2016-05-12T14:43:46+0000
-message=White girl walking on Anzac Parade on Monday wearing black jeans (I think) with rips near the knees...\nThe dark clothes really bring out your blonde hair. Youre so cute.
-longitude=150.7970

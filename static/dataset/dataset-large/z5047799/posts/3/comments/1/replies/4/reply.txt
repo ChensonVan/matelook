@@ -1,3 +1,0 @@
-from=z5075496
-message=whatever arjun you'll never be as cute as us
-time=2016-10-03T02:45:24+0000

@@ -1,3 +1,0 @@
-time=2016-09-21T13:39:39+0000
-message=hey, you're nearly 20!!!!
-from=z5014695

@@ -1,3 +1,0 @@
-from=z3459551
-message=z5013310 THIS YOU
-time=2016-09-10T22:36:45+0000

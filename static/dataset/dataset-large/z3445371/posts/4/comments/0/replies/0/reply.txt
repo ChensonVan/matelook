@@ -1,3 +1,0 @@
-message=What do you mean I don't look like her
-from=z5017787
-time=2016-08-31T10:07:08+0000

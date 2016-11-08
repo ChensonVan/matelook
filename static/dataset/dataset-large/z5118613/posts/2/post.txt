@@ -1,5 +1,0 @@
-message=To the boy whose heart I broke in first year, we're nearing graduation and I wish I could take it back and fix it.
-from=z5118613
-latitude=-33.9211
-time=2013-10-30T06:54:21+0000
-longitude=151.2355

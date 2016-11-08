@@ -1,3 +1,0 @@
-from=z5059325
-time=2016-09-06T22:29:58+0000
-message=I need to study the human mind though

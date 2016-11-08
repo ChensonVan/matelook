@@ -1,3 +1,0 @@
-message=Yo is there a cat cafe around here that i dont know about? Coz if there is lemme in on it
-from=z5119635
-time=2016-04-22T05:41:06+0000

@@ -1,3 +1,0 @@
-message=You can hang out with z5116082
-from=z3372872
-time=2016-05-11T05:41:36+0000

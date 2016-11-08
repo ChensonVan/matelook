@@ -1,3 +1,0 @@
-from=z3275760
-message=z5015071 stop writing them bro, they've stopped making sense
-time=2016-08-11T03:26:44+0000

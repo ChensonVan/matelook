@@ -1,3 +1,0 @@
-from=z5109880
-message=. never again
-time=2016-09-02T05:47:12+0000

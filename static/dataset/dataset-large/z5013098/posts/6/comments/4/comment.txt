@@ -1,3 +1,0 @@
-from=z5079464
-message=https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash4/9898_10151812676553563_2119941743_n.jpg
-time=2014-03-02T10:38:46+0000

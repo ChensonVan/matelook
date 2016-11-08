@@ -1,3 +1,0 @@
-message=^^\n"do I look fat in the dress?"\n"hell yeah you do!"\nbest
-from=z3422324
-time=2013-06-26T01:24:25+0000

@@ -1,3 +1,0 @@
-message=True, and that's common knowledge
-time=2016-09-21T11:45:42+0000
-from=z5060223

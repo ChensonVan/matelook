@@ -1,3 +1,0 @@
-message=z3330003 there is another one on campus today!
-from=z5098187
-time=2016-09-22T00:53:00+0000

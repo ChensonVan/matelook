@@ -1,3 +1,0 @@
-message=At my house
-time=2013-11-21T14:14:09+0000
-from=z5074933

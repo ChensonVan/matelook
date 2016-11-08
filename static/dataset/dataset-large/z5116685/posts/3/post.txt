@@ -1,5 +1,0 @@
-message=Hi Ananya\n\nYou have a pretty name, pretty eyes and a beautiful smile. Just thought you should know.
-latitude=-34.0460
-from=z5116685
-time=2016-05-23T21:43:00+0000
-longitude=150.7647

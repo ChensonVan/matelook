@@ -1,3 +1,0 @@
-from=z5110851
-time=2016-06-16T01:56:10+0000
-message=z5023773 z3464412 Jake isn't stepping up his game.

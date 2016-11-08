@@ -1,3 +1,0 @@
-message=shhhh its a secret XD
-from=z3420952
-time=2016-08-30T02:32:48+0000

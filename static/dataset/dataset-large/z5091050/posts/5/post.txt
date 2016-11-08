@@ -1,5 +1,0 @@
-message=Don't even know why but you've literally been my no.1 fav on tinder since we met but now seems like you have a girlfriend from your trip. Anyways you may still call me whenever you feel like fried chicken.
-longitude=151.0119
-from=z5091050
-time=2016-09-28T09:02:28+0000
-latitude=-34.0304

@@ -1,3 +1,0 @@
-message=^exhibit A
-from=z3462582
-time=2016-05-02T09:16:53+0000

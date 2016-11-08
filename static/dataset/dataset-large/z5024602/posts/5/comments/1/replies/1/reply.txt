@@ -1,3 +1,0 @@
-message=z5006383 why didnt you tell us
-time=2016-09-29T08:35:29+0000
-from=z5119613

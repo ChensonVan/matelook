@@ -1,3 +1,0 @@
-from=z5085507
-message=Yes z5098313 I'm proud of you
-time=2016-09-19T07:02:19+0000

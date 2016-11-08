@@ -1,3 +1,0 @@
-message=Lmao, i'll teach
-time=2016-09-06T05:06:40+0000
-from=z3417908

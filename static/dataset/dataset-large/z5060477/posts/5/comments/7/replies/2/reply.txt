@@ -1,3 +1,0 @@
-from=z5059526
-message=z5084484  about me
-time=2016-04-16T05:58:00+0000

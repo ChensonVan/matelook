@@ -1,3 +1,0 @@
-from=z5062448
-time=2016-04-16T14:09:09+0000
-message=z5015646 this couldve been you fam

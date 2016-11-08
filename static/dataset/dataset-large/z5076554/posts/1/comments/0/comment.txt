@@ -1,3 +1,0 @@
-from=z5077163
-message=No if you're Ron Weasley. Yes if you're David Bowie. Does that answer your question? :P
-time=2013-09-01T21:47:22+0000

@@ -1,3 +1,0 @@
-from=z5113702
-time=2016-05-16T14:31:58+0000
-message=z5115454 you dont need tamil matramani any more

@@ -1,3 +1,0 @@
-from=z5025090
-message=z5015684 LOL I rmbr who this is
-time=2016-07-29T18:33:34+0000

@@ -1,3 +1,0 @@
-message=if GSW beat OKC then yeah, i'll settle
-from=z3465151
-time=2016-05-30T13:41:51+0000

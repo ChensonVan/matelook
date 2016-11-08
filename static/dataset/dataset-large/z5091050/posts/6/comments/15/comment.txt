@@ -1,3 +1,0 @@
-from=z5028311
-time=2016-06-19T14:32:26+0000
-message=Getting neither tho z3462856

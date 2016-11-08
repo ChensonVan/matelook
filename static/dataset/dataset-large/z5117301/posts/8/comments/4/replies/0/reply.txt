@@ -1,3 +1,0 @@
-message=Clearly his doctor*
-from=z5110502
-time=2016-08-21T21:28:09+0000

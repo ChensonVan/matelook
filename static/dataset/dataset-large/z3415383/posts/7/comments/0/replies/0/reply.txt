@@ -1,3 +1,0 @@
-message=Haha I don't wear green sorry
-time=2016-08-21T20:13:22+0000
-from=z5019886

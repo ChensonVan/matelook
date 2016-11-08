@@ -1,5 +1,0 @@
-time=2013-06-12T11:12:22+0000
-latitude=-33.9305
-message=To Janaki Patel\nI'm not a doctor but I promise to ease your pain. I'm not an angel but I promise to be there for you. I'm not Jesus but I'll die for you. All because I love you.\nHope you are single!
-from=z5019161
-longitude=151.2197

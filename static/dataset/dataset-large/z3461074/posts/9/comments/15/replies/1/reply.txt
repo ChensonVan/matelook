@@ -1,3 +1,0 @@
-time=2016-09-04T07:34:34+0000
-message=no i thought u did
-from=z3379933

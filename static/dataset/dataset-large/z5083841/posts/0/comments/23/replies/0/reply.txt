@@ -1,3 +1,0 @@
-message=This man is my side hoe
-time=2016-08-08T12:14:07+0000
-from=z5019329

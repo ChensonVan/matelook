@@ -1,3 +1,0 @@
-from=z5116082
-message=Did you learn a lot? I hope you've mastered your imaginary numbers
-time=2016-09-29T08:25:28+0000

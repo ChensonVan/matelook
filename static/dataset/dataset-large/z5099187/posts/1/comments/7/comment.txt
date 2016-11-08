@@ -1,3 +1,0 @@
-time=2016-05-11T12:16:15+0000
-message=z5116414 success
-from=z3459050

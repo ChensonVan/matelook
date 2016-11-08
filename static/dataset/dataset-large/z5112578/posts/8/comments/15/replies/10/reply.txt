@@ -1,3 +1,0 @@
-message=I see... Neilo getting use to it
-time=2016-05-31T02:06:10+0000
-from=z5062024

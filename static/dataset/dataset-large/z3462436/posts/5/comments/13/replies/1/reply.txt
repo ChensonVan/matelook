@@ -1,3 +1,0 @@
-message=Im more focussing on the tall part
-time=2016-05-04T13:57:36+0000
-from=z5113245

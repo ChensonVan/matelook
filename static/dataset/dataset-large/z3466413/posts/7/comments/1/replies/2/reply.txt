@@ -1,3 +1,0 @@
-from=z5074933
-time=2016-06-17T05:31:03+0000
-message=No another guy

@@ -1,3 +1,0 @@
-message=im like hey wassup hello
-from=z5060223
-time=2016-04-19T23:43:01+0000

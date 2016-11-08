@@ -1,3 +1,0 @@
-from=z5019886
-time=2016-08-29T09:19:21+0000
-message=z5059526 just giving you some sustenance

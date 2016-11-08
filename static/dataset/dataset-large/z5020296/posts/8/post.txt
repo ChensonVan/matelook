@@ -1,5 +1,0 @@
-message=To the UNSW hottie who does bell ringing (and does engineering I think) , you can ring my ones anytime you want ;).
-longitude=151.2261
-from=z5020296
-time=2013-04-06T11:40:54+0000
-latitude=-33.9103

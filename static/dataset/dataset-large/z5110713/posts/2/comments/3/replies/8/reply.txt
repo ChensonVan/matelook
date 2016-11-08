@@ -1,3 +1,0 @@
-time=2016-09-08T05:30:06+0000
-message=You know too much
-from=z5004426

@@ -1,5 +1,0 @@
-latitude=-33.8093
-message=I think Nikhil Nanganath and Pringael Rae would make a cute couple <3
-longitude=151.2146
-time=2016-06-17T01:11:04+0000
-from=z5117301

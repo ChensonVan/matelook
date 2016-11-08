@@ -1,3 +1,0 @@
-from=z5076554
-time=2016-06-07T08:11:43+0000
-message=Yeah no worries. I'll let you know tomorrow if I'm in or not haha

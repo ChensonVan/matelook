@@ -1,3 +1,0 @@
-message=Just one more secret admirer
-from=z3411568
-time=2016-09-08T04:53:41+0000

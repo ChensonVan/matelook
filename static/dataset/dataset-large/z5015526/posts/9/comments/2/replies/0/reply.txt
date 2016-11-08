@@ -1,3 +1,0 @@
-message=hot af
-time=2016-09-05T00:57:08+0000
-from=z5075030

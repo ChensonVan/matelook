@@ -1,5 +1,0 @@
-message=Riya Dalal, I saw you in 204 today. You are by far the most beautiful girl in our fluids class. Are you single?
-from=z5117982
-longitude=151.2503
-time=2016-08-27T12:25:56+0000
-latitude=-33.9239

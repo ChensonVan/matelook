@@ -1,3 +1,0 @@
-time=2016-05-18T10:33:12+0000
-message=I can confirm we can work something out
-from=z5060416

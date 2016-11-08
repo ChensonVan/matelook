@@ -1,3 +1,0 @@
-message=HAHAHA WDF
-time=2016-06-09T04:43:22+0000
-from=z5062742

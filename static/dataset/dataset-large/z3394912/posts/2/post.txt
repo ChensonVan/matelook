@@ -1,5 +1,0 @@
-longitude=151.2370
-message=All these posts about unrequited love and i cant even find girls
-from=z3394912
-latitude=-33.9176
-time=2016-08-02T14:19:24+0000

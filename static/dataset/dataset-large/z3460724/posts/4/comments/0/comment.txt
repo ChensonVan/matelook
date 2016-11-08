@@ -1,3 +1,0 @@
-message=there are two girls in our class....
-from=z3462055
-time=2013-05-29T11:40:25+0000

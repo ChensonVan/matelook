@@ -1,5 +1,0 @@
-longitude=151.2275
-from=z5117170
-message=To the cute brown guy that served me my burger at Roundhouse. I'd love to return the favor.
-time=2016-05-10T12:32:24+0000
-latitude=-33.9211

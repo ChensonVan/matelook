@@ -1,3 +1,0 @@
-time=2016-06-12T05:52:39+0000
-message=It's a hidden secret lel
-from=z3459050

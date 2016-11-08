@@ -1,3 +1,0 @@
-from=z5006041
-time=2013-10-02T06:04:54+0000
-message=Carol Sin from UNsoc, I Ecuador you.

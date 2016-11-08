@@ -1,3 +1,0 @@
-message=I was just being a sophisticated gentleman as usual
-from=z5116179
-time=2016-04-26T01:25:40+0000

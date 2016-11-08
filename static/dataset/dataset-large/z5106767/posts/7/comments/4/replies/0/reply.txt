@@ -1,3 +1,0 @@
-from=z5117559
-message=Making his move ooft
-time=2016-06-16T08:51:26+0000

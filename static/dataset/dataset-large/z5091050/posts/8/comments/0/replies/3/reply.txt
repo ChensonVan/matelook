@@ -1,3 +1,0 @@
-time=2016-06-29T15:57:37+0000
-from=z5119678
-message=YES YES YES

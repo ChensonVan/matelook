@@ -1,5 +1,0 @@
-time=2016-09-28T15:35:24+0000
-message=Dear Women,\nWhy do you bring up something somewhat related to the actual topic you want to talk about, before talking about what you really want to talk about?
-latitude=-34.1220
-from=z5102263
-longitude=150.7910

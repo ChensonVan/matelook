@@ -1,5 +1,0 @@
-from=z3459551
-message=Everyone says the reason I'm single is because my standards are too high...but I'm just waiting to meet the male version of myself. Thanks for the compliment I guess
-longitude=151.2379
-latitude=-33.9135
-time=2016-06-25T02:19:00+0000

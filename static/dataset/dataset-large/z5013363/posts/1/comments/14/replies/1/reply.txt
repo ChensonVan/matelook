@@ -1,3 +1,0 @@
-from=z3415383
-message=Maybe one day Prince Charming will catch you as you fall
-time=2016-09-11T09:23:32+0000

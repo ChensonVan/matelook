@@ -1,5 +1,0 @@
-longitude=151.2286
-message='The sxc third year aviation Bae that always wears his Qantas baggage handler uniform to class please meet me at the food truck thurs at 3 so you can handle deez baaaaagz boo boo xoxox ps don't wear panties'
-time=2016-08-29T03:27:54+0000
-latitude=-33.9196
-from=z3445371

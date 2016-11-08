@@ -1,5 +1,0 @@
-time=2016-08-08T01:43:47+0000
-message=David, you are so Tan.\nPlease be my man.
-from=z3493008
-latitude=-33.9769
-longitude=151.1078

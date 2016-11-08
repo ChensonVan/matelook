@@ -1,3 +1,0 @@
-from=z5048360
-time=2016-05-11T12:10:09+0000
-message=all urs

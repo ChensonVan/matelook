@@ -1,3 +1,0 @@
-from=z5014861
-message=Was it? When I was in bed all day :3
-time=2016-05-06T08:41:04+0000

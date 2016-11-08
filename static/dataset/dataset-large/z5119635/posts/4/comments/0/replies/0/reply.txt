@@ -1,3 +1,0 @@
-from=z5006041
-message=The haramest, these people should go to jail
-time=2016-09-15T09:56:47+0000

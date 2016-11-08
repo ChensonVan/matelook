@@ -1,5 +1,0 @@
-message=Hot football dude @ the Village who stays in Tower 7. \nYou don't need no cigarette cuz you smokin' \n;)
-from=z5117623
-time=2016-06-08T15:56:41+0000
-longitude=151.2337
-latitude=-33.9175

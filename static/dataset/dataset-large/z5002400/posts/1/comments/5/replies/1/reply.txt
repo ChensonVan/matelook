@@ -1,3 +1,0 @@
-from=z5015526
-message=Great wingmen think alike
-time=2016-05-10T05:35:24+0000

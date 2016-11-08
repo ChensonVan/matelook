@@ -1,3 +1,0 @@
-from=z3294734
-time=2016-08-27T01:08:35+0000
-message=z3463809 pls confirm

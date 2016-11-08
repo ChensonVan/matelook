@@ -1,5 +1,0 @@
-message=shoutout the beautiful distraction that is Adrian from first year edst and English lectures, thanks for giving me something pretty to look at whilst the lecture drones on hope to see u next sem
-latitude=-33.9076
-time=2016-07-04T09:32:36+0000
-longitude=151.2277
-from=z3462582

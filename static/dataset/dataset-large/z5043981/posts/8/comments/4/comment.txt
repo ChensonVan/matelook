@@ -1,3 +1,0 @@
-time=2013-09-22T23:34:23+0000
-message=Ps pretty sure it was Cappy. 
-from=z5024963

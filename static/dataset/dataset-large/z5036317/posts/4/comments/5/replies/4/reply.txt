@@ -1,3 +1,0 @@
-from=z5013310
-message=z5059526 your eyes keep me awake at night
-time=2016-08-14T14:38:15+0000

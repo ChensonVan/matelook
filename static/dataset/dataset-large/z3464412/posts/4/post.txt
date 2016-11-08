@@ -1,5 +1,0 @@
-time=2013-08-19T11:28:32+0000
-message=I think your name is Susie, you're in my MDIA1003 lecture on Monday mornings, I think you're more beautiful than the sun. I'm half Korean half Lebanese, I was wearing a stripy shirt, I was sitting three seats next to you in the lecture on the 19th of August in Keith Burrows Theatre. I'll be out the front of your ARTS1091 tutorial tomorrow at 5pm waiting to devour you!!!
-latitude=-33.8552
-longitude=151.1241
-from=z3464412

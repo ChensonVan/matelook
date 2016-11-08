@@ -1,3 +1,0 @@
-message=I think the real question is what the hell is wrong with you?
-time=2016-08-19T10:39:33+0000
-from=z5116414

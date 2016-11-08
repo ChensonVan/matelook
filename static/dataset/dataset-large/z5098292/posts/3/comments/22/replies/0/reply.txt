@@ -1,3 +1,0 @@
-time=2016-09-13T03:00:20+0000
-message=Must have the wrong guy
-from=z5020328

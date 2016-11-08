@@ -1,5 +1,0 @@
-message=To the talented drummer representing a college in the inter-college band comp last year,\n\nYou may bring me home and kip me ;)\n\nXoxo\nYour not-so-secret admirer
-from=z3394912
-time=2016-08-16T16:05:18+0000
-latitude=-33.8013
-longitude=151.1786

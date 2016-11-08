@@ -1,3 +1,0 @@
-time=2016-09-10T12:17:48+0000
-from=z5059999
-message=Omg that's amazing

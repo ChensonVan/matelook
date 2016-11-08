@@ -1,3 +1,0 @@
-message=but ya know
-from=z5115903
-time=2016-08-18T11:59:07+0000

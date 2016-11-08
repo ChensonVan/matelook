@@ -1,3 +1,0 @@
-from=z5074933
-time=2016-05-06T00:14:37+0000
-message=z3456669 you've been fooling with the wrong hole this whole time

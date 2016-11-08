@@ -1,3 +1,0 @@
-message=Are you suuuuuuuure...?
-from=z5024602
-time=2016-05-12T05:46:21+0000

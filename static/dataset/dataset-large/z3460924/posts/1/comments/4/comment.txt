@@ -1,3 +1,0 @@
-from=z5089708
-time=2016-09-01T15:53:36+0000
-message=z5060454 & z5060416\nBoth taken...unfortunately ;)

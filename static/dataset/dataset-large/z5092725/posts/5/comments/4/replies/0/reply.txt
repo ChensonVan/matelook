@@ -1,3 +1,0 @@
-from=z5088545
-time=2016-09-29T02:51:01+0000
-message=MATH1041\nWhat kinda noob do you think I am

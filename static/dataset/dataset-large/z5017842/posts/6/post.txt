@@ -1,5 +1,0 @@
-from=z5017842
-message=To the korean girl with porcelain skin. I saw you in the chinese debating welcoming party and was wondering  what brand BB cream do you use?\nP.S. can we make kimchi together
-longitude=151.2338
-time=2016-08-09T04:47:12+0000
-latitude=-33.9762

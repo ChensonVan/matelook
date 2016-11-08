@@ -1,3 +1,0 @@
-from=z5062742
-message=z5061301 I love you
-time=2016-05-16T21:20:00+0000

@@ -1,3 +1,0 @@
-from=z3484231
-message=that's funny - I was planning my own wedding too ;)
-time=2016-08-11T02:46:04+0000

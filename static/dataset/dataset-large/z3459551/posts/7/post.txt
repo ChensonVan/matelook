@@ -1,5 +1,0 @@
-message=To Uday Soni,\n\nYou are my everything. You are the sambhar to my idly. The chole to my bhatoora.\n\nI would happily turn vegan for you, but only if I'm allowed to devour your intoxicating masala and enjoy your magnificent gulabjamuns.\n\nMain tumhe hamesha pyaar karoonga.
-from=z3459551
-latitude=-33.8528
-longitude=151.2117
-time=2016-08-21T12:07:38+0000

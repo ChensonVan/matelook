@@ -1,5 +1,0 @@
-from=z5051889
-longitude=151.0278
-time=2013-05-20T08:09:53+0000
-message=roses are red, your eyes are brown you are the guy on whom i'd go down.
-latitude=-33.7021

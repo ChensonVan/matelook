@@ -1,3 +1,0 @@
-from=z5019900
-message=z5102263 first it was your bday and then this was written yesterday. coincidence? I think not.
-time=2016-04-21T01:02:01+0000

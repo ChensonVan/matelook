@@ -1,3 +1,0 @@
-message=Freaaaaak
-from=z5015191
-time=2013-11-21T14:06:53+0000

@@ -1,3 +1,0 @@
-time=2016-05-11T12:10:31+0000
-message=wtf who's the genius that wrote this masterpiece
-from=z3459050

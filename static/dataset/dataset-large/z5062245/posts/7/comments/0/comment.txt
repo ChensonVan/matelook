@@ -1,3 +1,0 @@
-time=2016-08-23T01:16:43+0000
-message=z5075071 this is about you for sure
-from=z3413889

@@ -1,5 +1,0 @@
-time=2016-06-09T21:19:48+0000
-latitude=-33.9792
-message=i am a cop, please tag in your on campus drug dealers.
-from=z3459459
-longitude=151.0816

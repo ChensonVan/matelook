@@ -1,3 +1,0 @@
-time=2016-05-25T03:37:04+0000
-message=Was just about to say
-from=z3385911

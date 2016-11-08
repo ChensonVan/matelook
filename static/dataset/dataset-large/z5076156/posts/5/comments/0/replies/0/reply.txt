@@ -1,3 +1,0 @@
-time=2016-05-06T13:50:35+0000
-message=lol what ><
-from=z3459453

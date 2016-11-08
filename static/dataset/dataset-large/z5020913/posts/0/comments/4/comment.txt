@@ -1,3 +1,0 @@
-time=2016-09-01T15:50:33+0000
-message=z5062957 so tragic
-from=z5024963

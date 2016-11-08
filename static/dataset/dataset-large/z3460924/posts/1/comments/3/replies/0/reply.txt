@@ -1,3 +1,0 @@
-from=z5060454
-message=Well played guys. Expect retaliation
-time=2016-09-01T16:07:14+0000

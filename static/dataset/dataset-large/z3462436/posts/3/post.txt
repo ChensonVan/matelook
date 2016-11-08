@@ -1,5 +1,0 @@
-message=shout out to my sydney tech brothers
-time=2013-10-10T03:04:19+0000
-from=z3462436
-latitude=-33.9477
-longitude=151.2364

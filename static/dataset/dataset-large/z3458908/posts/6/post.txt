@@ -1,5 +1,0 @@
-time=2013-03-19T09:26:16+0000
-longitude=151.2323
-message=To the girl on the M10 bus from UNSW with the purple phone case and the white headphones. We awkwardly exchanged some glances as we were facing each other. You are cute, coffee? :)
-latitude=-33.9245
-from=z3458908

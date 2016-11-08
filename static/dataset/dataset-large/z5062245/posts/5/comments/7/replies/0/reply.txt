@@ -1,3 +1,0 @@
-message=I surrender HAHAHAHA
-from=z5060479
-time=2016-08-10T11:47:56+0000

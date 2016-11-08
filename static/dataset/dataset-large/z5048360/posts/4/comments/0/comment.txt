@@ -1,3 +1,0 @@
-from=z5061301
-time=2013-04-15T21:29:55+0000
-message=http://static.giantbomb.com/uploads/original/5/59236/2121991-4876696414_d3f62d18be_z.jpg

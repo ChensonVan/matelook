@@ -1,5 +1,0 @@
-from=z3439243
-longitude=151.2440
-latitude=-33.8258
-message=Bronte Tomlin, you are the most beautiful girl I've ever seen in my life! I wonder who's the lucky guy.
-time=2013-08-23T21:27:55+0000

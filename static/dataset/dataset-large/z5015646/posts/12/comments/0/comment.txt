@@ -1,3 +1,0 @@
-message=Harry Potter, is that you?
-from=z3388364
-time=2013-04-17T01:51:47+0000

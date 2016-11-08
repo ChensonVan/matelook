@@ -1,5 +1,0 @@
-message=to the hot greek from the quad, george\ndo you want to be my kangaroo, so we can hop all night??\nill be waiting for you next sem .....
-time=2013-07-29T09:00:54+0000
-latitude=-33.9241
-from=z5133976
-longitude=151.2324

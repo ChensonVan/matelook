@@ -1,5 +1,0 @@
-latitude=-33.9234
-time=2013-09-03T22:18:23+0000
-message=To the good looking African chick that walked into CLB just before 1pm on Wednesday.\n\nFufu sometime?
-longitude=151.2369
-from=z5130883

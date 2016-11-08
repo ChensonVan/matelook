@@ -1,5 +1,0 @@
-longitude=151.2319
-latitude=-33.9230
-time=2016-09-17T05:03:23+0000
-message=To C,\n\nYou looked great today, take the hint already ;)\n\n- M
-from=z3458687

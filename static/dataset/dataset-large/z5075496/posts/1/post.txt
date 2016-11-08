@@ -1,5 +1,0 @@
-message=To the girl with the red penny board in EDST. You're the only reason I go to the awful 2hr lectures. Please be gay, hopefully I'll master up the courage and actually have a proper conversation without awkwardly asking you where you got your pretty shirt from.
-time=2013-04-23T10:14:38+0000
-latitude=-33.9813
-longitude=151.0471
-from=z5075496

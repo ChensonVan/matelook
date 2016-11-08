@@ -1,3 +1,0 @@
-message=But he doesn't study physics so unlucks
-time=2016-06-19T13:56:06+0000
-from=z5075726

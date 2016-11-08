@@ -1,3 +1,0 @@
-from=z5060223
-time=2013-11-10T11:55:55+0000
-message=seems legit

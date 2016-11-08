@@ -1,5 +1,0 @@
-time=2016-10-01T13:59:45+0000
-message=Erica zhou:\nWhos the guy that kissed you outside the library the other day?\nAre you dating him\nWould you like to date me instead
-from=z5024602
-latitude=-33.8649
-longitude=151.2467

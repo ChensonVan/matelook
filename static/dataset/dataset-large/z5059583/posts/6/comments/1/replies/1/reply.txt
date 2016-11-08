@@ -1,3 +1,0 @@
-from=z5114240
-time=2016-09-05T10:49:29+0000
-message=But you love unsw so much! Xx

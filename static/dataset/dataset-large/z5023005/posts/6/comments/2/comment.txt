@@ -1,3 +1,0 @@
-from=z5017241
-message=^you, good sir, spend way too much time on this page.
-time=2013-04-26T03:49:42+0000

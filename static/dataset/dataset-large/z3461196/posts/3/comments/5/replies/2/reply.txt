@@ -1,3 +1,0 @@
-time=2016-09-13T11:55:56+0000
-message=Legit \nBig wallets
-from=z5116218

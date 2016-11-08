@@ -1,3 +1,0 @@
-from=z5116685
-message=spit roast!
-time=2013-03-21T11:48:18+0000

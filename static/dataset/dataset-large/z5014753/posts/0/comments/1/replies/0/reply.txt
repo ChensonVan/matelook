@@ -1,3 +1,0 @@
-from=z5012884
-message=christianophobia!
-time=2016-09-21T14:12:20+0000

@@ -1,3 +1,0 @@
-from=z5099216
-message=it's pronounced david!
-time=2016-09-12T07:38:46+0000

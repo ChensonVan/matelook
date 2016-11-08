@@ -1,5 +1,0 @@
-latitude=-34.0317
-message=To the Asian guy doing engineering. Your hot xx
-longitude=151.0893
-from=z5015071
-time=2013-07-03T07:09:39+0000

@@ -1,3 +1,0 @@
-from=z5113715
-message=LOL WTF
-time=2013-05-15T11:50:04+0000

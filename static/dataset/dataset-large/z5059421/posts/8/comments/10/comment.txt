@@ -1,3 +1,0 @@
-from=z5098341
-time=2013-04-15T16:02:51+0000
-message=Shawn Price

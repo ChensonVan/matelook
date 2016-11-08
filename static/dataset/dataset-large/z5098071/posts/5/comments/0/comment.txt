@@ -1,3 +1,0 @@
-from=z5120169
-time=2013-06-02T02:08:33+0000
-message=LMAO Mary Eve

@@ -1,5 +1,0 @@
-longitude=151.2094
-message=Blonde girl that was waiting for a class downstairs in the AGSM building shortly before 6pm tonight, Monday, what is your name? I was wearing a suit and picking up my backpack when you were coming out of the bathroom and I think you might have smiled at me when I quickly turned to check the noise. I wanted to come over and say hi but my friend wouldn't stop talking and then you went to your classroom in the back. :(
-from=z3459050
-latitude=-33.8681
-time=2013-10-02T06:02:39+0000

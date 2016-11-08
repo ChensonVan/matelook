@@ -1,3 +1,0 @@
-message=chokerz 4 daiz
-time=2016-08-16T06:18:19+0000
-from=z5017822

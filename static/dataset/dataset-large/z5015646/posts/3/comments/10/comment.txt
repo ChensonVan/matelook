@@ -1,3 +1,0 @@
-from=z5116082
-time=2016-06-17T16:02:02+0000
-message=z5059970  z5024986 you're not being subtle buddy

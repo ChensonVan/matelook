@@ -1,3 +1,0 @@
-from=z3418936
-message=You dont get a choice
-time=2016-08-13T23:24:59+0000

@@ -1,3 +1,0 @@
-message=z3442036 Never knew you came to UNSW
-time=2016-04-27T09:39:05+0000
-from=z5110851

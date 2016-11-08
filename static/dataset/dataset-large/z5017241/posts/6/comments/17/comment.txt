@@ -1,3 +1,0 @@
-from=z5040176
-message=z3289658 slaying
-time=2016-09-11T22:52:49+0000

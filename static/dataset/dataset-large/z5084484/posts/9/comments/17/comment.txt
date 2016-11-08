@@ -1,3 +1,0 @@
-message=z5127546 stop pretending you aren't in ELEC
-time=2016-09-06T09:14:02+0000
-from=z5076363

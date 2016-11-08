@@ -1,3 +1,0 @@
-time=2016-05-08T07:37:11+0000
-message=This has z5113245 written all over it
-from=z5061572

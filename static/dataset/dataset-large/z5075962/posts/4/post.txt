@@ -1,5 +1,0 @@
-from=z5075962
-longitude=151.2302
-time=2016-05-14T03:14:14+0000
-message=To Nikhil Nanganath in econ1102. Your inept social skills and clumsiness make my life worth all the HECS debt in the world. You have the body that befits a handsome commerce student of your mould and the smile of a Bollywood superstar. Forget about Priangel. I will make your days 3 times as memorable than what anyone else will ever. Coffee sometime? xoxo
-latitude=-33.9045

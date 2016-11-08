@@ -1,3 +1,0 @@
-time=2013-08-13T12:50:16+0000
-message=whoever u are, I second u!
-from=z5062608

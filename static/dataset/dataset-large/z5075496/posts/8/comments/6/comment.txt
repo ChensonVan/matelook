@@ -1,3 +1,0 @@
-from=z5036317
-time=2016-06-23T06:56:50+0000
-message=Jinny is this z5024438

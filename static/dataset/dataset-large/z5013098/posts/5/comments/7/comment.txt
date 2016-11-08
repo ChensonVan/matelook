@@ -1,3 +1,0 @@
-message=You wrote it yourself didnt you, z3461074
-from=z5013098
-time=2013-05-20T10:24:51+0000

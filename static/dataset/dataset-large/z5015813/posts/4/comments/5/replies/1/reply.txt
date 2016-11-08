@@ -1,3 +1,0 @@
-message=Havent seen you in ages <3
-from=z5024963
-time=2016-08-22T11:27:42+0000

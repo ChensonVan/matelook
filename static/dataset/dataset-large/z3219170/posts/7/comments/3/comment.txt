@@ -1,3 +1,0 @@
-message=You could do the same with a quadcopter.
-time=2016-08-22T20:15:23+0000
-from=z3462629

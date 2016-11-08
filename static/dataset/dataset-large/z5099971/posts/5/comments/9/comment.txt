@@ -1,3 +1,0 @@
-from=z5122559
-message=z3432214 who cares about chem when you've got kdramas
-time=2016-10-01T13:05:14+0000

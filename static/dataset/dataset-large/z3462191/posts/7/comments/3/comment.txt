@@ -1,3 +1,0 @@
-from=z5024963
-time=2013-05-01T11:33:08+0000
-message=You might have to wash that card for, you know...reasons.

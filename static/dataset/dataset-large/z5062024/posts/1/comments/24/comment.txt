@@ -1,3 +1,0 @@
-from=z5018549
-time=2016-09-08T08:01:41+0000
-message=z3459453 Bro look at the comments ahaha

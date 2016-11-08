@@ -1,3 +1,0 @@
-from=z3489344
-message=Maybe he wasn't chatting you up and be was just being friendly?
-time=2016-09-02T00:59:20+0000

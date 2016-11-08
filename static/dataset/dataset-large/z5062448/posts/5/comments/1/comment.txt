@@ -1,3 +1,0 @@
-message=It's me.
-from=z3374132
-time=2013-09-21T08:29:11+0000

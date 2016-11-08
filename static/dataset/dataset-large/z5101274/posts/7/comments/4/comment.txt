@@ -1,3 +1,0 @@
-message=z5013098 i heard you bench 60
-time=2016-09-11T13:16:26+0000
-from=z5013098

@@ -1,3 +1,0 @@
-time=2016-09-23T01:44:23+0000
-message=Mabrouk z3418936
-from=z3484437

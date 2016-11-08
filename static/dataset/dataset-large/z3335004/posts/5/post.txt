@@ -1,5 +1,0 @@
-message=To the indian (?)  photographer at the BSOC party on thursday night, who are you?? You are hella cute!
-time=2016-08-15T13:55:05+0000
-from=z3335004
-latitude=-33.9207
-longitude=151.1930

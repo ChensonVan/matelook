@@ -1,5 +1,0 @@
-latitude=-33.9234
-longitude=151.2273
-time=2016-04-21T01:01:22+0000
-message=The Norwegian girl doing Arts 1810 drop a comment I really want to have a coffee and chat with you!!!
-from=z5115666

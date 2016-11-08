@@ -1,5 +1,0 @@
-from=z5062732
-time=2016-05-26T11:03:45+0000
-message=Phoebe, can we just put aside our problems? You will be my Phoebae and it will be a better love story than twilight. <3 <3 <3
-longitude=151.2318
-latitude=-33.9233

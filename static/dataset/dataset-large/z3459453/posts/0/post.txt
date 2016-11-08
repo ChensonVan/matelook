@@ -1,5 +1,0 @@
-latitude=-33.9046
-longitude=151.1997
-message=Raymond Lau,\nI love it when your love letter comes up and everyone tags you
-from=z3459453
-time=2016-10-03T10:48:09+0000

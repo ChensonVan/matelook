@@ -1,5 +1,0 @@
-message=Loved talking to Debbie from VSA!  on wednesday. You're a lovely girl :) cafe sua da sometime?!
-from=z5115045
-longitude=151.2615
-latitude=-33.9165
-time=2016-05-18T01:49:22+0000

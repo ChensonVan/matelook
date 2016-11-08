@@ -1,3 +1,0 @@
-message=WHAT THAT'S YOU MAN #nevernoticeme
-from=z3470029
-time=2016-09-14T05:52:05+0000

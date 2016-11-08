@@ -1,3 +1,0 @@
-from=z5060573
-message=Hahaha definitely Sophia, you know how she is 😆
-time=2016-05-14T04:35:59+0000

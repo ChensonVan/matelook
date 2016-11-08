@@ -1,3 +1,0 @@
-time=2016-08-15T04:35:44+0000
-from=z5018248
-message=z3374132 I know you want this

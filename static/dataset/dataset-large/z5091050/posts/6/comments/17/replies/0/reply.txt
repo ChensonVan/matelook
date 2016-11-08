@@ -1,3 +1,0 @@
-time=2016-06-19T22:52:47+0000
-message=If only i could keep it up
-from=z5062245

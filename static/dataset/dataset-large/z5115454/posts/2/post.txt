@@ -1,5 +1,0 @@
-latitude=-33.7528
-from=z5115454
-message=Em dowsett makes my jaw drop
-time=2013-07-12T14:59:47+0000
-longitude=151.2735

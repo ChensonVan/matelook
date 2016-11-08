@@ -1,5 +1,0 @@
-from=z5062245
-latitude=-33.9119
-time=2016-08-01T17:10:41+0000
-longitude=151.2288
-message=How can a bicurious girl meet other girls at UNSWAD? I'm new to all of this and I have no idea where to start :(

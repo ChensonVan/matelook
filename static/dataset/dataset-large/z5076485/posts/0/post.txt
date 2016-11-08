@@ -1,5 +1,0 @@
-longitude=151.2246
-time=2016-09-17T03:24:57+0000
-latitude=-33.9134
-message=To Audrey the shortest girl in med\nWhat size are you? So I can buy you a dress
-from=z5076485

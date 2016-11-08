@@ -1,3 +1,0 @@
-from=z5113245
-message=she only drinks almond milk coffee \nz5043507
-time=2016-08-17T21:35:04+0000

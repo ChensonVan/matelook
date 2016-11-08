@@ -1,5 +1,0 @@
-message=nice place\n
-time=2013-03-19T09:27:45+0000
-longitude=151.2236
-from=z3464412
-latitude=-33.9129

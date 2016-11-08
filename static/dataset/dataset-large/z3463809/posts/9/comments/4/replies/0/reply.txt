@@ -1,3 +1,0 @@
-from=z3470029
-time=2016-06-09T14:58:21+0000
-message=same man

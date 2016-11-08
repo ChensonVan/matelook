@@ -1,5 +1,0 @@
-longitude=151.2397
-message=my life right now http://www.youtube.com/watch?v=IgDXYhsBSm4\n\nAlso why are all the first years so good looking, I feel like a pedo everytime
-time=2013-08-11T01:39:46+0000
-latitude=-33.9221
-from=z5098212

@@ -1,3 +1,0 @@
-from=z3493008
-time=2016-09-13T08:54:14+0000
-message=Nah top quality ping pong

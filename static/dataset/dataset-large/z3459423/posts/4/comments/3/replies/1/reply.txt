@@ -1,3 +1,0 @@
-message=Not convinced yet
-time=2016-08-08T23:25:42+0000
-from=z5048360

@@ -1,3 +1,0 @@
-from=z5020296
-message=jesus there are a lot of Dominic's at UNSW
-time=2016-09-11T05:18:11+0000

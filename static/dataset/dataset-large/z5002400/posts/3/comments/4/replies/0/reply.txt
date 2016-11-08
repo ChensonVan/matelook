@@ -1,3 +1,0 @@
-from=z5028693
-time=2016-09-19T07:26:27+0000
-message=My pick up lines are original

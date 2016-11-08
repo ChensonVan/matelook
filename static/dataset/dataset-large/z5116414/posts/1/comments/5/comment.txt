@@ -1,3 +1,0 @@
-message=It's levOHsa, not leviohsaaaaaa!
-from=z5024963
-time=2013-05-13T10:39:32+0000

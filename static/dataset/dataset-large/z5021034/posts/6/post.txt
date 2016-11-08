@@ -1,5 +1,0 @@
-message=Dear Shankara, \nThe only reason I miss physics lectures is coz I can't see your face anymore \n~ Secret Admirer
-latitude=-33.8179
-longitude=151.0432
-from=z5021034
-time=2016-06-20T09:13:08+0000

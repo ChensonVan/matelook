@@ -1,3 +1,0 @@
-message=I hope they're not afraid to be your superman
-from=z3459509
-time=2013-05-20T08:46:04+0000

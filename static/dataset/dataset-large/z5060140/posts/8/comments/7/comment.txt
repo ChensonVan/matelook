@@ -1,3 +1,0 @@
-message=z5075687 okay, now it's just getting desperate.
-time=2016-07-26T13:20:59+0000
-from=z5024975

@@ -1,5 +1,0 @@
-message=Andrew, please cheer up. Turn that frown upside-down 'cause when you smile, it's more beautiful than a thousand rains. I really do want you to be happy again. From the girl in your Anatomy Prac.
-from=z5019329
-longitude=151.2356
-latitude=-33.8738
-time=2013-06-20T03:27:49+0000

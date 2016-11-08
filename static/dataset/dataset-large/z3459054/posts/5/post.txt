@@ -1,5 +1,0 @@
-message=I have never seen someone as fine as you, Jon from bsoc. When god made you he was clearly showing off
-latitude=-33.7833
-time=2013-09-01T19:59:02+0000
-longitude=150.9680
-from=z3459054

@@ -1,3 +1,0 @@
-time=2013-04-09T06:10:49+0000
-message=MASSIVE!!!!!
-from=z5062608

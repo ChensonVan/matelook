@@ -1,3 +1,0 @@
-from=z5098088
-message=Should have stayed at unsw :'(
-time=2016-08-07T22:13:03+0000

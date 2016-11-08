@@ -1,5 +1,0 @@
-from=z3411568
-longitude=151.1906
-latitude=-33.7785
-time=2016-05-13T15:10:50+0000
-message=To a special Canadian living 3 floors below me... \n\nYou are sweeter than maple syrup,\nStronger than a mounty in stirrups ,\nI want to give you a Zamboni, \neat Tim Hortons off your body, \nand this evening we'll get really moose. \n\nxx you know who it is... <3

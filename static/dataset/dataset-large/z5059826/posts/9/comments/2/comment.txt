@@ -1,3 +1,0 @@
-from=z5012884
-time=2013-04-15T00:11:20+0000
-message=I am neither an elec eng student nor do i have double Ds. Got my hopes up for no reason!

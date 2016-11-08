@@ -1,3 +1,0 @@
-message=z5075030 dw - it's a steep learning curve
-from=z3406406
-time=2016-09-01T09:55:14+0000

@@ -1,3 +1,0 @@
-from=z3379830
-time=2016-08-18T15:13:07+0000
-message=I think he teaches Algebra now?

@@ -1,5 +1,0 @@
-from=z5075687
-longitude=151.2033
-message=Samantha Falon,\nI love you.
-time=2013-07-30T10:41:01+0000
-latitude=-33.9008

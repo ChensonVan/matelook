@@ -1,5 +1,0 @@
-longitude=151.2329
-message=dear unsw love letters, I enjoy reading your posts so much better then trying to read girls ...
-latitude=-33.9217
-from=z5006383
-time=2013-09-06T12:11:42+0000

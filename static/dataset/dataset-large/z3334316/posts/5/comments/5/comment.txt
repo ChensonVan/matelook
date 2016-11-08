@@ -1,3 +1,0 @@
-time=2016-08-28T07:23:54+0000
-from=z5059583
-message=Lol wtf

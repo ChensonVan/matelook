@@ -1,3 +1,0 @@
-from=z3418657
-message=z3459423 you're wasting your life away
-time=2016-08-19T09:39:28+0000

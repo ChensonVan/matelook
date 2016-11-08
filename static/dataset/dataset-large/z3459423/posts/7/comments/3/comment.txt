@@ -1,3 +1,0 @@
-from=z5012884
-time=2016-06-21T02:08:57+0000
-message=z5038337 replace "girl" with "guy" and it's you

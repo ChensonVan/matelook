@@ -1,3 +1,0 @@
-from=z3334316
-message=z5060416 low-key slayer
-time=2016-06-11T14:50:13+0000

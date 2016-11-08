@@ -1,5 +1,0 @@
-latitude=-33.8668
-from=z3413158
-longitude=151.2822
-message=Dear HC, the boy in 3rd year actuarial studies - I really wish to see you. xoxo
-time=2013-04-26T03:23:06+0000

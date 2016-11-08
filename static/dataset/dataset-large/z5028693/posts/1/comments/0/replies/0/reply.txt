@@ -1,3 +1,0 @@
-time=2016-06-04T14:02:06+0000
-message=z3452764 you're in bro
-from=z5059826

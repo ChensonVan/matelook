@@ -1,3 +1,0 @@
-message=Here I am ~ 😉
-from=z5037271
-time=2016-05-16T14:44:13+0000

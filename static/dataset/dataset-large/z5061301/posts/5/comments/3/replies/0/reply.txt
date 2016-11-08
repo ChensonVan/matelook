@@ -1,3 +1,0 @@
-time=2016-09-13T23:40:38+0000
-message=In my lecture
-from=z3458908

@@ -1,3 +1,0 @@
-message=Ok im not single then
-time=2016-07-07T13:30:03+0000
-from=z5015684

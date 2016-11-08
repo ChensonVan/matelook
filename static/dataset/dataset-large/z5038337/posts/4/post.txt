@@ -1,5 +1,0 @@
-latitude=-33.9280
-from=z5038337
-message=Pana K\nYou make me want to come to uni everyday but I don't know how to say hi to you amongst all your friends you're with every time I see you.\n\nI'll buy you lunch? \n\nLove, \nShy girl
-time=2016-09-02T14:24:45+0000
-longitude=151.1334

@@ -1,3 +1,0 @@
-message=But I was really hungry
-time=2016-09-13T10:04:26+0000
-from=z5110851

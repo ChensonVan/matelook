@@ -1,3 +1,0 @@
-message=i promise i wont look away this time
-from=z5060223
-time=2016-04-19T23:49:37+0000

@@ -1,3 +1,0 @@
-from=z5015243
-time=2016-09-01T10:59:45+0000
-message=Cheng plz don't use me as a scapegoat

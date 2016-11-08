@@ -1,3 +1,0 @@
-from=z5117301
-message=Yeah, myself ;)
-time=2016-09-05T23:14:03+0000

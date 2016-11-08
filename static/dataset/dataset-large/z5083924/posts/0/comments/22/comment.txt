@@ -1,3 +1,0 @@
-from=z5075071
-message=I would like to know why z5014160 was looking at the love letters ;)
-time=2013-06-10T13:31:54+0000

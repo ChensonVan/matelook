@@ -1,3 +1,0 @@
-from=z3465151
-message=Plot twist, I took the photo
-time=2016-08-23T23:23:20+0000

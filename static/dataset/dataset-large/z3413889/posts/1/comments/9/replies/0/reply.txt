@@ -1,3 +1,0 @@
-from=z5010380
-time=2016-08-15T22:03:07+0000
-message=Haahah me af

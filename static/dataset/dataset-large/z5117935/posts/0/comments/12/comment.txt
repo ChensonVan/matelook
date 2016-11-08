@@ -1,3 +1,0 @@
-time=2016-06-03T06:47:50+0000
-message=z5002210 is the man you are looking for
-from=z5014861

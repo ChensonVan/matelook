@@ -1,3 +1,0 @@
-message=z5015813 always atleast one person at UNSW talking about Job opportunities
-from=z5019353
-time=2016-06-27T07:51:02+0000

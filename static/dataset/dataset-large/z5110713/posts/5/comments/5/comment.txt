@@ -1,3 +1,0 @@
-message=z5061920 z5112578 z5113702 whenever z3494117 says her phone is too full
-from=z3275760
-time=2016-08-15T03:51:13+0000

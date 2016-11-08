@@ -1,3 +1,0 @@
-message=you're the one at lower campus 24/7
-from=z5055209
-time=2016-08-09T12:22:17+0000

@@ -1,3 +1,0 @@
-message=Regardless, this is very brave and anyone willing to own up to it has my respect.
-time=2013-05-11T07:07:39+0000
-from=z5083841

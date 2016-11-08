@@ -1,5 +1,0 @@
-message=International Studies Class of 2013.\nCongratulations! You made it! Thank you for all the memories, thank you for the endless debates and the shared understanding that if an essay is due on Friday, it really means Monday at 4pm. Good luck to all those who are going straight to work. Show them that an International Studies degree will get you places! And... for those of you who are going to study Masters (over 50% of us..) See you at uni again next year!
-time=2013-10-30T00:56:15+0000
-from=z3460724
-longitude=151.2088
-latitude=-33.8880

@@ -1,3 +1,0 @@
-time=2016-09-13T09:49:42+0000
-message=As long as I get a large enough allowance I can live with myself
-from=z3461651

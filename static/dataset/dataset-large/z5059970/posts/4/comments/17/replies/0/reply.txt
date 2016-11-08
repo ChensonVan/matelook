@@ -1,3 +1,0 @@
-time=2016-10-05T19:46:51+0000
-message=This is exactly how I felt on quad lawn yesterday
-from=z5059999

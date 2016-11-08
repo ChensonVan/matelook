@@ -1,3 +1,0 @@
-message=better become a psychiatrist!
-from=z5112650
-time=2013-04-22T03:21:50+0000

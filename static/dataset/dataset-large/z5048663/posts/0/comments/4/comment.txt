@@ -1,3 +1,0 @@
-time=2016-05-03T14:13:44+0000
-message=z5078886 I confess
-from=z5074933

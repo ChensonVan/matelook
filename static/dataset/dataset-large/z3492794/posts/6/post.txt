@@ -1,3 +1,0 @@
-time=2013-03-21T08:09:06+0000
-message=Dear biophysics professor, can I adopt you?
-from=z3492794

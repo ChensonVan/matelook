@@ -1,5 +1,0 @@
-message=Chris Petley, I love your asian smile and asian style\n\nKiss me pet pet
-longitude=151.2210
-latitude=-33.9123
-from=z3294734
-time=2013-11-15T19:01:40+0000

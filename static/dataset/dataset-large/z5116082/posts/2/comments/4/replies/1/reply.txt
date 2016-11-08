@@ -1,3 +1,0 @@
-time=2016-08-10T15:42:30+0000
-from=z5119613
-message=Samarth

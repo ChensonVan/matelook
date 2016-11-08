@@ -1,3 +1,0 @@
-from=z5059325
-time=2016-08-11T14:15:20+0000
-message=@veritasium

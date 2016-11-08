@@ -1,3 +1,0 @@
-message=Plz, the Wei puns are getting old...
-from=z5020410
-time=2016-06-12T06:58:30+0000

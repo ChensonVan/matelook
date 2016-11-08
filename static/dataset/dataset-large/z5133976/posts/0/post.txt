@@ -1,5 +1,0 @@
-message=To the asian girl in the library on level 4 who was scrolling through cat videos on her laptop. It was so cute how you'd squeal at almost every video.
-time=2016-05-11T23:03:26+0000
-latitude=-33.9210
-longitude=151.2233
-from=z5133976

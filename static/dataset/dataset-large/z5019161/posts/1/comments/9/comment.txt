@@ -1,3 +1,0 @@
-time=2016-07-17T01:16:30+0000
-from=z5015280
-message=z5015813 is a filthy small rodent

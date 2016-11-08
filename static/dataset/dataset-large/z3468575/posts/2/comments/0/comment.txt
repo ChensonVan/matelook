@@ -1,3 +1,0 @@
-from=z5006041
-time=2013-07-03T05:57:51+0000
-message=Freaking z5020410.

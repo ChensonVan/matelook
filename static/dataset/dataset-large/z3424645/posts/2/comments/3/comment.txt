@@ -1,3 +1,0 @@
-from=z5015700
-message=z5099971, you got tinder?
-time=2016-06-02T06:20:08+0000

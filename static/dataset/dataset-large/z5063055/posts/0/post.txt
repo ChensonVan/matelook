@@ -1,5 +1,0 @@
-from=z5063055
-longitude=151.2306
-message=Bring forth the girls who like girls please.
-time=2016-05-16T11:46:24+0000
-latitude=-33.9122

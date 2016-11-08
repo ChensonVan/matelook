@@ -1,3 +1,0 @@
-time=2016-04-18T08:18:12+0000
-message=get it Rassi
-from=z5109980

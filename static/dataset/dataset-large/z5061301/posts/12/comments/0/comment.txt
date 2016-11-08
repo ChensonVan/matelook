@@ -1,3 +1,0 @@
-from=z3406406
-message=punch on
-time=2013-08-14T11:08:10+0000

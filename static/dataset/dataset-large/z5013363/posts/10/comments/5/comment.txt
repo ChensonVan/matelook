@@ -1,3 +1,0 @@
-from=z5062448
-message=z5104907 be his/her bed
-time=2016-05-06T05:18:43+0000

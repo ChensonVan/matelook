@@ -1,3 +1,0 @@
-from=z5025014
-time=2013-05-03T05:36:24+0000
-message=This was you aye nat?

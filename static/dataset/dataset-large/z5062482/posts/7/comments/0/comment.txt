@@ -1,3 +1,0 @@
-from=z5037271
-time=2016-05-05T08:16:41+0000
-message=Thanks for calling me a model 😂

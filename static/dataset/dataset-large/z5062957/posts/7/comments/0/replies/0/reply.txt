@@ -1,3 +1,0 @@
-time=2016-09-17T02:16:12+0000
-from=z5017787
-message=Don't even go there...

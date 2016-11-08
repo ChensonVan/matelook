@@ -1,3 +1,0 @@
-message=that must be me aye
-from=z5113482
-time=2016-09-11T11:00:36+0000

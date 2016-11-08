@@ -1,3 +1,0 @@
-from=z5099216
-time=2013-06-20T03:55:09+0000
-message=LMAAAO Mary Eve

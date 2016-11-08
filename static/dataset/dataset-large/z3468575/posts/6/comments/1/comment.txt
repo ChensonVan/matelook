@@ -1,3 +1,0 @@
-time=2016-04-30T16:06:49+0000
-message=z5015085 stop cutting grass mate
-from=z3374132

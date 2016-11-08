@@ -1,3 +1,0 @@
-time=2016-06-24T21:59:34+0000
-message=TT stop
-from=z3417937

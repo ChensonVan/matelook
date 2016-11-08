@@ -1,3 +1,0 @@
-from=z5076363
-message=meet me at the uni gym tmr at 12. my body is ready.
-time=2013-05-14T01:30:34+0000

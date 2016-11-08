@@ -1,3 +1,0 @@
-from=z3415383
-time=2016-08-18T11:59:40+0000
-message=z5099187 your HD wam is so hot

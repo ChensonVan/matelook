@@ -1,3 +1,0 @@
-from=z5113077
-message=James, I want Yu.
-time=2013-08-29T00:18:22+0000

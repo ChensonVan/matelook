@@ -1,3 +1,0 @@
-from=z5019746
-message=This hurts my vegan feelings
-time=2016-08-28T06:32:52+0000

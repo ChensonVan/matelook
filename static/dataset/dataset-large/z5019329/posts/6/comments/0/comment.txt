@@ -1,3 +1,0 @@
-message=z5113236 too many friends
-from=z5062115
-time=2016-08-13T12:40:23+0000

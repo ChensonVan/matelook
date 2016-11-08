@@ -1,3 +1,0 @@
-from=z3418936
-message=Yeah my friends are being funny
-time=2016-09-23T10:41:21+0000

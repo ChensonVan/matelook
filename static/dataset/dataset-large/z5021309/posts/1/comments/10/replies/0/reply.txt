@@ -1,3 +1,0 @@
-message=blasphemy
-time=2016-08-17T02:44:01+0000
-from=z5059826

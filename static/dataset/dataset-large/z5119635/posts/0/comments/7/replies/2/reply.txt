@@ -1,3 +1,0 @@
-message=What does that even mean??
-from=z5020210
-time=2016-08-19T00:44:56+0000

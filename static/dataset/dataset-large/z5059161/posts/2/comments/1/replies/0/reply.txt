@@ -1,3 +1,0 @@
-message=Legend says there's over 20 cats in the household of z5113968
-time=2016-06-19T13:28:16+0000
-from=z5002210

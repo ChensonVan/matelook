@@ -1,5 +1,0 @@
-message=To the cute white dorky looking first year law kid Nick, I honestly think I could stare into your eyes all day long
-longitude=151.2209
-from=z5114240
-latitude=-33.9192
-time=2013-04-25T08:47:25+0000

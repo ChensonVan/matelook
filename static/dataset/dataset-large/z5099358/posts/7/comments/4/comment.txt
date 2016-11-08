@@ -1,3 +1,0 @@
-message=z5133976 the secret's out!!! :O
-from=z5077163
-time=2016-05-17T12:35:42+0000

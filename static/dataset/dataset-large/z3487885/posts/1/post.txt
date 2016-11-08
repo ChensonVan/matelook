@@ -1,5 +1,0 @@
-latitude=-33.9226
-message=Dear G.E,\nI always see you in all my Arts lectures but I never have the balls to start talking to you...\nYou're so cute and radiant, always laughing and making my day\nI hope one day I have the guts to start talking to you and possibly ask you out?\nYou're always surrounded by your friends or other BSOC people...\n\nYours Sincerely,\na boy that has always been in one of your lectures since last year
-from=z3487885
-time=2016-08-06T14:06:38+0000
-longitude=151.2372

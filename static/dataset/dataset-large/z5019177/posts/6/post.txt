@@ -1,5 +1,0 @@
-from=z5019177
-longitude=151.1427
-latitude=-33.9233
-time=2016-08-30T07:42:06+0000
-message=Julia Lin, you are my reason to get to uni everyday <3

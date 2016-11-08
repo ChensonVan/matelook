@@ -1,5 +1,0 @@
-message=Dear Andrew Vo (CSE Revue)\n\nI'm so glad you did Revue, but I'm also so glad that you're done! I miss the unicorns and happy talk of 3am conversations, that only revolved around us and no one else. Let's KFC now, and always.\n\n I love you,\n\n❤ Your girl
-latitude=-33.7920
-longitude=150.9456
-from=z5076554
-time=2016-09-22T15:36:53+0000

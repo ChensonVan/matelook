@@ -1,3 +1,0 @@
-from=z5016565
-message=This is too much
-time=2016-05-04T10:43:54+0000

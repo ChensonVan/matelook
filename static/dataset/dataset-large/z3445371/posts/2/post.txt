@@ -1,5 +1,0 @@
-from=z3445371
-latitude=-33.9196
-message=To the brunette sandwich artist at Subway with the magnificent green eyes, thank you for giving me that extra cookie because I was stressed.
-time=2013-06-05T12:48:26+0000
-longitude=151.2286

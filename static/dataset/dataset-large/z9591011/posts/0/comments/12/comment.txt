@@ -1,3 +1,0 @@
-time=2016-06-12T01:35:50+0000
-from=z5098088
-message=z5052081 must be us

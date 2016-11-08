@@ -1,3 +1,0 @@
-from=z5089708
-message=Gimme ur 170deadlift first
-time=2016-08-15T15:04:06+0000

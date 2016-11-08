@@ -1,3 +1,0 @@
-from=z5015646
-message=z5061920 you're a postgrad right?
-time=2016-10-06T01:01:02+0000

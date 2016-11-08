@@ -1,3 +1,0 @@
-message=i was just saying "gaurav loves you" in dinosaur xD
-from=z5015700
-time=2016-08-30T10:56:16+0000

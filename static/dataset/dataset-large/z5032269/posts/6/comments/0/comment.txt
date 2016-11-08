@@ -1,3 +1,0 @@
-message=Brotip for OP:\n\nSingapore's National Day Celebrations on the 9th of Aug.
-from=z5020683
-time=2013-08-07T06:40:38+0000

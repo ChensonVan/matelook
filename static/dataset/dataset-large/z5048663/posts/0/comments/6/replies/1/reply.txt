@@ -1,3 +1,0 @@
-message=mebbe wun dae u will
-time=2016-05-03T11:13:56+0000
-from=z3365499

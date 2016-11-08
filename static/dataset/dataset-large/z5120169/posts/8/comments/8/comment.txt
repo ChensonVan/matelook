@@ -1,3 +1,0 @@
-message=z3446230 look at z5101274 snaking
-from=z5020683
-time=2016-09-27T13:27:12+0000

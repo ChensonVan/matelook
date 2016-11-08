@@ -1,3 +1,0 @@
-from=z3459509
-time=2016-05-23T14:09:20+0000
-message=z5060359 said he wants to sign up.

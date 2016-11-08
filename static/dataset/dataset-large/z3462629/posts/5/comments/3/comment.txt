@@ -1,3 +1,0 @@
-from=z3466413
-message=z5060416 you're such a nice guy
-time=2016-07-26T12:48:29+0000

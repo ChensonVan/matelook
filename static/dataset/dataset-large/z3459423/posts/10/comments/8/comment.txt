@@ -1,3 +1,0 @@
-message=z5020683 valid question
-from=z5130883
-time=2016-09-22T17:48:32+0000

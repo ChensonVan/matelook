@@ -1,5 +1,0 @@
-message=I Love the Law student by the Name of Rema Hamdan !
-latitude=-34.0011
-longitude=151.2029
-from=z5057687
-time=2014-02-15T03:07:34+0000

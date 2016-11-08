@@ -1,3 +1,0 @@
-message=The feels are real 😥
-from=z3458908
-time=2016-07-27T20:54:04+0000

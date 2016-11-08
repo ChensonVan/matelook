@@ -1,3 +1,0 @@
-message=Change weeks to months
-from=z3459054
-time=2016-09-13T00:39:07+0000

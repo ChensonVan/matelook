@@ -1,3 +1,0 @@
-message=Will do!
-from=z5019886
-time=2016-10-01T11:09:35+0000

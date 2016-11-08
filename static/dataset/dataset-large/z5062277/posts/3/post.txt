@@ -1,5 +1,0 @@
-time=2016-06-30T01:40:42+0000
-message=I received a love letter which started with "We've never met but...". \nCan I assume he does engineering?
-latitude=-33.8656
-longitude=151.0881
-from=z5062277

@@ -1,5 +1,0 @@
-time=2013-05-13T22:54:27+0000
-from=z3463248
-latitude=-34.2379
-message=To the cute girl I met on Thursday - we were both drunk, but I meant it when I said you have my favourite name.
-longitude=150.6870

@@ -1,5 +1,0 @@
-message=to a guy named Phil. i saw you at yellow shirts camp and you were clearly one of the higher rated guys there. i tried dropping subtle hints but i guess it didnt work, so saying it now- meet at quad next week?
-longitude=151.2390
-from=z5048555
-latitude=-33.9103
-time=2013-04-30T09:36:10+0000

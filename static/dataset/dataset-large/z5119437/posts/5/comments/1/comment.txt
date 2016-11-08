@@ -1,3 +1,0 @@
-from=z5117790
-message=Ready, steady, cook
-time=2016-04-28T06:27:10+0000

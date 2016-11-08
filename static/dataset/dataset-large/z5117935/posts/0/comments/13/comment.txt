@@ -1,3 +1,0 @@
-time=2016-06-03T08:18:31+0000
-from=z5118764
-message=z5023773 doesn't know what HD is. He only knows full marks.

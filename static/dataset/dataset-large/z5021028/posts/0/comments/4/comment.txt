@@ -1,3 +1,0 @@
-message=eternal darkness
-time=2016-09-12T04:52:07+0000
-from=z5043981

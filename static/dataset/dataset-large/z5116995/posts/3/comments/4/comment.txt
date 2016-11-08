@@ -1,3 +1,0 @@
-message=z5056054 you have an admirer 😏
-from=z5060573
-time=2016-08-23T16:04:05+0000

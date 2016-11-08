@@ -1,3 +1,0 @@
-time=2016-08-01T16:41:34+0000
-message=z5015700 dog move mate
-from=z5017842

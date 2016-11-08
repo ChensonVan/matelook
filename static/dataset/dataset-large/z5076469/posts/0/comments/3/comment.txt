@@ -1,3 +1,0 @@
-message=z5019900 can you make gyros?
-from=z3406406
-time=2016-06-12T10:49:28+0000

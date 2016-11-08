@@ -1,3 +1,0 @@
-message=z5098341 omg aiiids
-time=2016-05-18T07:16:34+0000
-from=z5015243

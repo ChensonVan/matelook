@@ -1,3 +1,0 @@
-from=z5060416
-message=my friends wouldnt post stuff like this
-time=2016-06-07T09:42:57+0000

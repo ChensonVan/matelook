@@ -1,3 +1,0 @@
-time=2016-04-27T12:52:42+0000
-from=z5075827
-message=Classic BEME bants

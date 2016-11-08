@@ -1,3 +1,0 @@
-time=2016-06-04T14:26:14+0000
-from=z5075030
-message=Yeah did you lock yourself up yesterday

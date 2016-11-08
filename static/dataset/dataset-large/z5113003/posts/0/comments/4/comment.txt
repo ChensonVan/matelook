@@ -1,3 +1,0 @@
-message=Ngaw. This is so Indian.
-time=2013-11-24T02:08:55+0000
-from=z3275760

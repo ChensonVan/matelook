@@ -1,3 +1,0 @@
-message=Pls he already knew!
-time=2016-05-04T01:24:46+0000
-from=z5024986

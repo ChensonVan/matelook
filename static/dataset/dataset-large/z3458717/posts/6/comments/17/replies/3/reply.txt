@@ -1,3 +1,0 @@
-time=2016-09-17T03:50:05+0000
-from=z5048360
-message=Tfw there were multiple 1 hr lecture videos for that week

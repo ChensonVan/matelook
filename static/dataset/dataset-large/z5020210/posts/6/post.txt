@@ -1,5 +1,0 @@
-from=z5020210
-message=To the Asian guy who came in late to my Tabl1710 tut Wednesday morning wk2 10-11am. You're cute XD Who are you?\n\nFrom Another Asian chick
-time=2016-08-07T14:07:38+0000
-longitude=151.0459
-latitude=-33.7144

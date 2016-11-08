@@ -1,5 +1,0 @@
-message=So I know we are kind of in a grayish area right now but sometimes I sneak into your class and I feel kinda close to you even though you don't know I'm there. It's still a connection.
-longitude=151.2088
-latitude=-33.9258
-from=z3417937
-time=2016-08-25T23:15:13+0000

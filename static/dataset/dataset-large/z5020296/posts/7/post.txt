@@ -1,5 +1,0 @@
-longitude=151.2222
-time=2016-05-07T16:36:27+0000
-message=This one goes out to that cute Indian boy in my maths1151 tutorial on Mondays - I think your name is Rishab? I wish I could hear that giggly laugh of yours alone sometime 😊 Coffee someday? - Love your secret admirer
-latitude=-33.9239
-from=z5020296

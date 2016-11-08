@@ -1,3 +1,0 @@
-message=Haha its been a while since I have worked there.
-from=z5017077
-time=2013-04-19T15:25:01+0000

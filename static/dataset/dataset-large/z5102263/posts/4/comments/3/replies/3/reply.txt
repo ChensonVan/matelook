@@ -1,3 +1,0 @@
-from=z5060359
-message=I'll bash ur noggin in
-time=2016-09-27T14:20:45+0000

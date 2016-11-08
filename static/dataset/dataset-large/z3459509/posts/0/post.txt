@@ -1,5 +1,0 @@
-longitude=151.1843
-from=z3459509
-latitude=-33.7611
-message=To J. Qu from second year actuarial. \nI want to have your babies.
-time=2016-04-29T02:48:25+0000

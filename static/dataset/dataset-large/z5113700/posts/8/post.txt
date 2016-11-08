@@ -1,5 +1,0 @@
-time=2016-09-15T02:36:33+0000
-message=To whoever handed in the brown wallet to the library's lost and found, thank you so much. You really saved me from what was already a pretty messed up day, and I really think these small acts of kindness deserve to be recognised more. I haven't even met you in person, and yet I can already tell you're a decent person. Thank you.
-latitude=-33.9002
-longitude=151.1984
-from=z5113700

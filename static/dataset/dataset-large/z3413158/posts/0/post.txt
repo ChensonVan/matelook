@@ -1,5 +1,0 @@
-message=Mahla Kafami, you are hands down the most beautiful girl on campus and I'm so lucky to be doing Aero with you. Just thought I'd let you know ;)
-from=z3413158
-longitude=150.9006
-latitude=-33.7389
-time=2016-10-01T11:47:24+0000

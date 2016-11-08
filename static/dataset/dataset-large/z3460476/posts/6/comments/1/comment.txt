@@ -1,3 +1,0 @@
-message=z5119678 been around village recently??
-time=2016-09-05T05:27:20+0000
-from=z5060416

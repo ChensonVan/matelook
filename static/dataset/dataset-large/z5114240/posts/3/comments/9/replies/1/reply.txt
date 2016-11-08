@@ -1,3 +1,0 @@
-time=2016-05-25T08:50:28+0000
-from=z3489361
-message=count it with your fingers

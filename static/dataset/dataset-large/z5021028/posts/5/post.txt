@@ -1,5 +1,0 @@
-longitude=151.1947
-latitude=-33.9301
-time=2016-08-27T05:38:32+0000
-message=Roses are red, violets are blue\nleebabyp I think I'm falling for you\nI love your blog, your hair and your style\nPlease tell me you're not with Jordan, we all know he's vile\n\nTake a chance, have some coffee with me\nI'll take you across the world and back to your fave, NYC
-from=z5021028

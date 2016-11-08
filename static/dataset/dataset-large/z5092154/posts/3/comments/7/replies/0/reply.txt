@@ -1,3 +1,0 @@
-from=z3461196
-message=Don't make excuses Allen
-time=2016-09-01T00:39:51+0000

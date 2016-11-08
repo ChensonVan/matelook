@@ -1,3 +1,0 @@
-from=z5020476
-message=Sunday tagged me already...
-time=2016-09-28T15:20:34+0000

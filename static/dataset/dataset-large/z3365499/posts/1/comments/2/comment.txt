@@ -1,3 +1,0 @@
-message=Oh god it has begun
-from=z5036317
-time=2013-05-26T23:58:39+0000

@@ -1,5 +1,0 @@
-message=Eugenia (I think that's your name), I swear you look exactly like Natalie Portman!
-latitude=-33.8518
-time=2016-08-21T21:04:29+0000
-from=z5056324
-longitude=151.1837

@@ -1,3 +1,0 @@
-message=Too many Jonathan lams in unsw first yr pls
-time=2016-08-13T12:38:20+0000
-from=z5015243

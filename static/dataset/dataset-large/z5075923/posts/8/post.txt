@@ -1,5 +1,0 @@
-latitude=-33.8814
-longitude=151.2304
-time=2016-08-18T01:05:05+0000
-message=Dear Aaron, \nI love you, please be mine?\n--Secret Admirer
-from=z5075923

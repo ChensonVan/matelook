@@ -1,3 +1,0 @@
-from=z5024602
-message=Knows martial arts 👍
-time=2016-09-07T22:03:05+0000

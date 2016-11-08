@@ -1,3 +1,0 @@
-message=I told you I'm married didn't I?
-time=2016-05-17T11:42:23+0000
-from=z5117020

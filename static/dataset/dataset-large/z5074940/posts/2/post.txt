@@ -1,5 +1,0 @@
-from=z5074940
-time=2013-05-20T08:08:19+0000
-message=To Emma Gregory in first year Med Sci, if it weren't for the fact that you are taken, I will definitely date you, wife you, and make some good looking babies.
-latitude=-33.9064
-longitude=151.2493

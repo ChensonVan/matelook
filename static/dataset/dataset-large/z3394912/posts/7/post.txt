@@ -1,5 +1,0 @@
-from=z3394912
-message=To the vixen in the back left corner of COMP1911 on Wednesday afternoon, you took my breath away. We should get a drink sometime.
-longitude=151.2011
-latitude=-33.8344
-time=2013-04-15T11:09:20+0000

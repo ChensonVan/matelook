@@ -1,3 +1,0 @@
-from=z5112650
-message=yes but i only speak the truth
-time=2016-09-05T02:27:42+0000

@@ -1,3 +1,0 @@
-message=if shes hot
-from=z5092725
-time=2013-10-02T14:55:19+0000

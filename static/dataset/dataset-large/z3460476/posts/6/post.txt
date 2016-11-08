@@ -1,5 +1,0 @@
-longitude=151.2204
-message=Hottie alert\nI saw a sexy curry near Unsw village yesterday.\nHelp me identify him.\nHe had a beautiful afro and a little skinny\nKnow anyone that fits the description. Tag em.\nSo I can send them a message.
-from=z3460476
-latitude=-33.9241
-time=2016-09-10T08:33:44+0000

@@ -1,5 +1,0 @@
-from=z3487885
-latitude=-33.9085
-message=Zac W in journalism your latest tats are such a turn on
-time=2013-05-15T12:44:04+0000
-longitude=151.2373

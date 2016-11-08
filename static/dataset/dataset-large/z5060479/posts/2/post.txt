@@ -1,5 +1,0 @@
-latitude=-33.9242
-message=Nivaaz Kaur. You're so hot that every time I see you, my zipper is falling for you!
-longitude=151.2365
-from=z5060479
-time=2016-07-07T22:30:36+0000

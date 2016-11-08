@@ -1,5 +1,0 @@
-message=To the LG in my hesc lab rockin the midnight mafia shirt and doesn't know how to open doors: You left me in a state of FUUUUAAARRRRK.
-time=2016-06-15T22:38:22+0000
-longitude=151.2123
-from=z3415383
-latitude=-33.8423

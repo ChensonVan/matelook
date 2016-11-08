@@ -1,3 +1,0 @@
-time=2016-09-01T05:23:59+0000
-message=Vote for me here and you've got a date ;) \n\nhttps://iaro.online.unsw.edu.au/pls/non/election_al.login
-from=z5061301

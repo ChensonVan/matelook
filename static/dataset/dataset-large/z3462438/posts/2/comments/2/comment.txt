@@ -1,3 +1,0 @@
-from=z5015700
-message=story of my life.
-time=2013-08-20T03:39:09+0000

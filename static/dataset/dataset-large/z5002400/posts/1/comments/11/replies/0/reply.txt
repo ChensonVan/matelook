@@ -1,3 +1,0 @@
-message=Like I spend enough time at uni to do this
-time=2016-05-10T13:28:30+0000
-from=z3411568

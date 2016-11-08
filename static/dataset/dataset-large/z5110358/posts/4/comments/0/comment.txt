@@ -1,3 +1,0 @@
-from=z5015700
-message=When someone else's happiness becomes essential to your own, that is love....
-time=2016-07-03T13:16:44+0000

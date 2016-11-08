@@ -1,3 +1,0 @@
-message=Thank you for the huge response! We will get back to you shortly!
-from=z5024986
-time=2013-10-24T09:35:12+0000

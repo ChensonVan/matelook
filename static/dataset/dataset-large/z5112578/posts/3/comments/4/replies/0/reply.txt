@@ -1,3 +1,0 @@
-from=z3439243
-message=Shut up Queenie
-time=2016-09-01T11:15:20+0000

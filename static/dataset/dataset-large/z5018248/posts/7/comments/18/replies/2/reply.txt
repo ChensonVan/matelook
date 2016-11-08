@@ -1,3 +1,0 @@
-from=z5119655
-message=Yes, the joke is definitely on me.
-time=2016-08-03T22:16:05+0000

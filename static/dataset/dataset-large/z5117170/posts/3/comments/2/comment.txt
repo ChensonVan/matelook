@@ -1,3 +1,0 @@
-from=z5122559
-message=Nope! I'm not a med student.
-time=2013-05-01T10:07:50+0000

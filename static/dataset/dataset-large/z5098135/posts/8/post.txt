@@ -1,5 +1,0 @@
-time=2016-08-24T14:57:33+0000
-from=z5098135
-latitude=-33.9193
-longitude=151.2586
-message=To the one who went on exchange.. I love you and I miss you and I'd wait for you

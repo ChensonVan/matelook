@@ -1,3 +1,0 @@
-message=Hahaha no way! I've been waiting for a letter
-time=2016-08-11T09:08:52+0000
-from=z3485783

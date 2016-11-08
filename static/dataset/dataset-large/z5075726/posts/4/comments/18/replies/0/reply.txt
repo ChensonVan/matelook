@@ -1,3 +1,0 @@
-message=Wtf y am i tagged
-from=z5014972
-time=2016-06-16T05:22:02+0000

@@ -1,3 +1,0 @@
-message=seems like there are no single female bankers :'(
-from=z3489385
-time=2016-09-08T07:52:53+0000

@@ -1,3 +1,0 @@
-from=z5023123
-message=HAHAHAHAHAHAHAHAH awww stop I think ill pass
-time=2016-08-28T20:20:08+0000

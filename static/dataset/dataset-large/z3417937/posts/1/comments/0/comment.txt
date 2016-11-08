@@ -1,3 +1,0 @@
-time=2016-05-13T10:10:32+0000
-message=z5112650 is sleep debt the thing u told me about
-from=z5075071

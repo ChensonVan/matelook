@@ -1,3 +1,0 @@
-from=z5048611
-message=Nah, can't be. No fashion sense here :P
-time=2016-09-08T01:12:38+0000

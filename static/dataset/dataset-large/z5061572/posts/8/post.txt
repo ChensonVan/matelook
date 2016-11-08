@@ -1,5 +1,0 @@
-latitude=-33.9265
-message=Monica Gonzales, I was stunned by your wonderful voice when you were yelling out "$1 clothes" for the fundraising event. You always look fine, especially in French lectures <3 \nKFC sometime?\n-anon-
-longitude=151.2336
-from=z5061572
-time=2016-06-17T11:04:20+0000

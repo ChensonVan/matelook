@@ -1,3 +1,0 @@
-message=You sure?
-from=z3406406
-time=2016-06-21T03:35:05+0000

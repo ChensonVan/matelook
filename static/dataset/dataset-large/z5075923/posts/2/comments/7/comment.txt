@@ -1,3 +1,0 @@
-from=z3219170
-time=2016-09-18T15:26:13+0000
-message=z5020913 can you get off the internet please

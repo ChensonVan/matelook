@@ -1,3 +1,0 @@
-message=Im in 3 buddy
-time=2016-05-01T05:37:46+0000
-from=z5048663

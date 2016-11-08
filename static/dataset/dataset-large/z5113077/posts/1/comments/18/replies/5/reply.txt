@@ -1,3 +1,0 @@
-from=z5019353
-time=2016-05-24T13:24:38+0000
-message=Yaaaa u didn't know I always come

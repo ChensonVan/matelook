@@ -1,3 +1,0 @@
-time=2016-05-02T10:02:08+0000
-message=*moves to austria*
-from=z5098135

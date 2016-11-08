@@ -1,3 +1,0 @@
-message=Definitely not z5119678
-time=2016-06-12T01:39:13+0000
-from=z5098088

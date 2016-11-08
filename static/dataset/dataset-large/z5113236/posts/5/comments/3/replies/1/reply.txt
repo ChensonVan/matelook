@@ -1,3 +1,0 @@
-time=2016-09-24T00:28:30+0000
-message=Who did this? Haha
-from=z5084484

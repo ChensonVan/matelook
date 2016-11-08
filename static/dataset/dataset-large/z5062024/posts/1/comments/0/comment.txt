@@ -1,3 +1,0 @@
-from=z5117790
-time=2016-09-07T20:03:11+0000
-message=White privilege

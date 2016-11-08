@@ -1,3 +1,0 @@
-from=z5076554
-message=Don't worry I don't need you apparently watching the bachelor makes me a bachelor
-time=2016-08-14T05:44:09+0000

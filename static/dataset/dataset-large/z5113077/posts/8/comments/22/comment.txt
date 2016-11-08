@@ -1,3 +1,0 @@
-message=^ I thought of the same thing...
-from=z5118844
-time=2013-05-11T07:18:05+0000

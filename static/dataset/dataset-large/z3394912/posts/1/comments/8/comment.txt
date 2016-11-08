@@ -1,3 +1,0 @@
-from=z5113702
-time=2016-08-17T15:20:11+0000
-message=z3421457 gets knives with like every 5th box opened

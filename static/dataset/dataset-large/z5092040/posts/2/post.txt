@@ -1,5 +1,0 @@
-message=If some one asked me to choose between you and brad pitt...I would choose you! You really get me. And you look so good in jeans and joggers. Be mine
-from=z5092040
-latitude=-33.9024
-longitude=151.1923
-time=2013-05-14T03:03:15+0000

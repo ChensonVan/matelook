@@ -1,3 +1,0 @@
-from=z5115039
-time=2016-09-23T00:51:07+0000
-message=You guys looked very shifty yesterday

@@ -1,3 +1,0 @@
-time=2016-05-16T14:24:03+0000
-from=z5028693
-message=z5112578 close enuf <3

@@ -1,3 +1,0 @@
-from=z5114743
-time=2016-08-16T21:52:40+0000
-message=@whoever wrote this don't do it it's a trap

@@ -1,3 +1,0 @@
-from=z5113047
-message=Omg legit this is me hahaha
-time=2016-08-22T00:03:25+0000

@@ -1,5 +1,0 @@
-message=where are the hot physics guys at?
-time=2016-05-25T12:59:41+0000
-longitude=151.1966
-from=z5014229
-latitude=-33.8978

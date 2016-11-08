@@ -1,3 +1,0 @@
-from=z5013310
-message=I would have spelt ur name properly if I did
-time=2016-08-17T14:17:43+0000

@@ -1,3 +1,0 @@
-from=z5015646
-message=This is the most nonspecific love letter I've ever read
-time=2013-03-26T23:29:25+0000

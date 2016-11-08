@@ -1,3 +1,0 @@
-time=2013-07-03T13:55:33+0000
-message=Taken now? Who's the unlucky guy?
-from=z5060359

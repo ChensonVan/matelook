@@ -1,3 +1,0 @@
-time=2016-04-24T14:19:02+0000
-from=z3372872
-message=Tz5024986, your snort is adorable

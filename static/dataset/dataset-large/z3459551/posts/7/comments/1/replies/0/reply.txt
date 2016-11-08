@@ -1,3 +1,0 @@
-time=2016-08-20T23:23:33+0000
-message=PLOT TWIST it ends with "karoonga"
-from=z3494117

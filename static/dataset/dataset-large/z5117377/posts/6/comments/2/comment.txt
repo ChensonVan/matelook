@@ -1,3 +1,0 @@
-message=Do your squats in front of his bench.
-from=z5017241
-time=2016-09-12T10:07:12+0000

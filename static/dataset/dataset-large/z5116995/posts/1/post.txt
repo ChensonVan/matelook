@@ -1,5 +1,0 @@
-latitude=-33.7005
-from=z5116995
-time=2016-05-14T10:50:13+0000
-message=Doung Nguyen? Your doing some media degree... We should go blue restaurant sometime? 💕 Your smile is 10/10. #DTP
-longitude=150.8668

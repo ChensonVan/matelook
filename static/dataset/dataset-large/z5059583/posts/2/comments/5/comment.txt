@@ -1,3 +1,0 @@
-from=z5024425
-message=inb4 guy.
-time=2013-08-02T14:41:58+0000

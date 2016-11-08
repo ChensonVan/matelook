@@ -1,5 +1,0 @@
-message=To the person who only liked this page to see if anyone is interested in them... nope, not me either I'M KIDDING I DON'T KNOW WHO YOU ARE but hi
-latitude=-33.8969
-from=z5116218
-longitude=151.0980
-time=2013-04-04T04:17:31+0000

@@ -1,5 +1,0 @@
-message=Just realising there are no Built Environment peeps being mentioned here, ever. Notice them please. Yes, we are in labs and stuff, but we are around too
-longitude=151.2386
-from=z5113077
-time=2016-07-02T03:28:33+0000
-latitude=-33.9186

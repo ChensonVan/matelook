@@ -1,3 +1,0 @@
-time=2016-08-22T08:45:19+0000
-from=z3464149
-message=Who dis

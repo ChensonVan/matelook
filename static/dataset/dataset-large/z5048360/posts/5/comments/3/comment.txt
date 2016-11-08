@@ -1,3 +1,0 @@
-from=z5115666
-message=z5114240 z5076189 did we meet anyone
-time=2016-06-25T00:30:37+0000

@@ -1,5 +1,0 @@
-time=2013-04-23T10:10:00+0000
-message=To the Turkish girl with the exotic name in my Thursday Psycholgy lecture 12:00-1:00 in Clancy, I love you. You can have my CD any day. Take me, my body is ready.
-longitude=150.9903
-latitude=-33.9703
-from=z5117020

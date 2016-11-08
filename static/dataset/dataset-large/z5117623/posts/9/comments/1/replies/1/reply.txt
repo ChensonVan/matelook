@@ -1,3 +1,0 @@
-from=z5075726
-message=BACK OVAL BOY
-time=2016-08-16T13:01:58+0000

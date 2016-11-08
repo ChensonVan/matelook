@@ -1,5 +1,0 @@
-latitude=-33.9115
-time=2016-06-21T13:42:14+0000
-longitude=151.0074
-message=To Saira who does law, where have you gone. I don't see you around anywhere these days :(
-from=z3463420

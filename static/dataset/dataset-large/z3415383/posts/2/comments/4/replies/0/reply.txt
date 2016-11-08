@@ -1,3 +1,0 @@
-message=Not to me
-time=2016-09-05T00:07:59+0000
-from=z3493303

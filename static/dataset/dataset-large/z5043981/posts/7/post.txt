@@ -1,5 +1,0 @@
-longitude=150.8078
-latitude=-33.7366
-message=This guy has a really head and he was in my management class last semester but I don't remember his name but anyways he was really sweet and I remember him being really nice and everything during a really dry and boring lecture... anyways if I ever see this person again I know they'll be the one for me.... ily <3
-time=2016-10-03T14:41:07+0000
-from=z5043981

@@ -1,3 +1,0 @@
-time=2016-09-03T03:03:26+0000
-message=I am not going soz
-from=z5118627

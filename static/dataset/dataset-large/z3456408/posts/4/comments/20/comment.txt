@@ -1,3 +1,0 @@
-time=2016-09-02T13:39:36+0000
-message=z3219170 how have we made it work i wonder
-from=z5075496

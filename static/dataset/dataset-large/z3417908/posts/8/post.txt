@@ -1,5 +1,0 @@
-message=where are all the tall Indian boys? Indian girl looking to be the secret ingredient to someones curry.
-latitude=-33.9096
-time=2016-05-23T08:04:50+0000
-from=z3417908
-longitude=151.2371

@@ -1,5 +1,0 @@
-time=2016-08-09T13:09:09+0000
-longitude=151.0144
-message=as an engineering student nearing finals, my love for energy drinks have never been so strong. who needs a bf/gf
-latitude=-33.8884
-from=z5116082

@@ -1,3 +1,0 @@
-message=z5132843 here is your chance
-from=z5019177
-time=2016-05-04T13:10:33+0000

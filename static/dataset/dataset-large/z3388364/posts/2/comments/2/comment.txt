@@ -1,3 +1,0 @@
-time=2016-05-04T01:53:39+0000
-message=z5020913 jia jin close enough brah
-from=z3484231

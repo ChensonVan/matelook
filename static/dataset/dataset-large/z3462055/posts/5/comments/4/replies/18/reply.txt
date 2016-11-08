@@ -1,3 +1,0 @@
-message=It wasn't my fault Zac! I don't do anything they just come to me :'(
-from=z5110502
-time=2016-08-31T07:55:00+0000

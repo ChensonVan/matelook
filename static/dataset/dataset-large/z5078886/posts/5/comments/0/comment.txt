@@ -1,3 +1,0 @@
-message=z3299058 z3416144 which one of you wrote this
-from=z5013191
-time=2016-06-02T05:54:48+0000

@@ -1,3 +1,0 @@
-message=Hahaha Dani, I agree!
-time=2013-11-21T12:52:42+0000
-from=z5020200

@@ -1,3 +1,0 @@
-from=z5118764
-message=Because Bec is one of the least common names ever ;)
-time=2013-12-01T10:16:08+0000

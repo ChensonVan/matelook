@@ -1,5 +1,0 @@
-latitude=-33.9139
-longitude=151.2273
-message=Dear Rakesh Yoshino.\n We Love ur accent.or ur name.\nplz dont change\n<3 Mats 2008
-from=z5085507
-time=2016-05-03T08:02:24+0000

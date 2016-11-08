@@ -1,3 +1,0 @@
-message=What michael said
-time=2016-09-21T21:16:40+0000
-from=z5113003

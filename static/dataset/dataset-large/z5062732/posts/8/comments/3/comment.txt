@@ -1,3 +1,0 @@
-message=z5018549 you used to call me on my cellphone :(
-time=2016-06-17T11:11:53+0000
-from=z5024425

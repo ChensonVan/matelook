@@ -1,3 +1,0 @@
-from=z5113715
-message=me and you?
-time=2016-08-29T23:41:09+0000

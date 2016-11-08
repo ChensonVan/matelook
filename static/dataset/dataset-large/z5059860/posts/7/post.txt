@@ -1,5 +1,0 @@
-from=z5059860
-latitude=-33.9256
-message=Kelvin Liang, while I walk around uni, there's always one butt that sticks out to me\n\nCan I stick onto you the way your sweatpants stick onto your ass? <3
-time=2016-08-03T23:37:49+0000
-longitude=151.1437

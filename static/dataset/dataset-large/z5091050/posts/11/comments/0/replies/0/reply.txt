@@ -1,3 +1,0 @@
-from=z3462326
-message=It's either you or z5048360
-time=2016-08-09T12:46:57+0000

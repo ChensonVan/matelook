@@ -1,5 +1,0 @@
-from=z3462432
-longitude=151.1146
-latitude=-34.0153
-message=Someone has left this notebook in the main library Room 418 around 6pm
-time=2015-10-20T13:01:46+0000

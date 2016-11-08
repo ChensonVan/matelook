@@ -1,5 +1,0 @@
-time=2016-09-29T03:16:53+0000
-latitude=-33.8039
-message=Diana the piano tutor. Lets share my love for your coordinated fingers?
-from=z5023005
-longitude=151.1313

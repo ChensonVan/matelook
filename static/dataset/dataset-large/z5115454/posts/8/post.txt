@@ -1,5 +1,0 @@
-from=z5115454
-latitude=-33.8904
-message=You deserve someone who will love you. None of this open relationship bullshit.
-time=2013-11-15T15:49:23+0000
-longitude=151.1990

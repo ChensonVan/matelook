@@ -1,3 +1,0 @@
-from=z5075418
-message=HAHAHAHAH busted - I ALWAYS boop pomeranian's heads
-time=2016-09-21T10:20:11+0000

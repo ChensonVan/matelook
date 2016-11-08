@@ -1,3 +1,0 @@
-time=2013-03-24T23:28:14+0000
-message=Leave the top & size 0 on the sides?
-from=z5057704

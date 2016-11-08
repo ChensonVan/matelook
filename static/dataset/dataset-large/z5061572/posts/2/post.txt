@@ -1,5 +1,0 @@
-message=To that cute little Lankan girl in my INFS 1609 lecture.  \nWas your father a thief? 'Cause someone stole the stars from the sky and put them in your eyes. \nFrom the guy who usually sits behind you xx
-from=z5061572
-time=2016-06-07T03:58:36+0000
-longitude=150.8587
-latitude=-33.9916

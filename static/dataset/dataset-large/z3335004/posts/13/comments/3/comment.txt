@@ -1,3 +1,0 @@
-from=z5059526
-time=2016-05-05T00:25:45+0000
-message=z5115039 I think they meant green shirt* and obviously heard the name wrong

@@ -1,3 +1,0 @@
-message=hahaha soooo good
-from=z5048555
-time=2013-05-29T11:43:02+0000

@@ -1,3 +1,0 @@
-from=z3459551
-time=2016-08-31T05:46:54+0000
-message=z5127733 "I cant feel my legs man"

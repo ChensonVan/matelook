@@ -1,5 +1,0 @@
-time=2016-05-13T02:28:51+0000
-message=hello, I was wondering if any turkish speakers could please clarify to the best of their ability how to correctly pronounce the name of your wonderful food, the classic gozleme. I need to settle this debate once and for all. thank you
-latitude=-33.8233
-longitude=151.2040
-from=z5061308

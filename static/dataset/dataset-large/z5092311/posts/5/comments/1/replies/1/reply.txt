@@ -1,3 +1,0 @@
-message=Busted 😶
-from=z5018731
-time=2016-09-03T10:57:53+0000

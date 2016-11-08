@@ -1,3 +1,0 @@
-message=Omg sham.
-from=z3422324
-time=2016-05-24T13:43:51+0000

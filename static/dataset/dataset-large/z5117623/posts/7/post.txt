@@ -1,5 +1,0 @@
-from=z5117623
-longitude=151.2377
-latitude=-33.9199
-time=2013-07-12T10:29:08+0000
-message=To the ArtsSoc secretary,\nI just wanted to say, I think you're cute, and I like you.

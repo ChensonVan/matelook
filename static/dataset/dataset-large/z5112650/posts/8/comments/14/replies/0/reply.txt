@@ -1,3 +1,0 @@
-from=z3462326
-message=Harambe indeed didnt die for this to happen
-time=2016-08-26T00:32:23+0000

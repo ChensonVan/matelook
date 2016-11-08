@@ -1,3 +1,0 @@
-from=z5109980
-time=2016-06-15T01:21:08+0000
-message=Ye ok i dont go to finance

@@ -1,3 +1,0 @@
-from=z5020476
-message=Haha I think that would either be reception or z5098313 :)
-time=2016-07-10T23:32:48+0000

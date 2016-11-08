@@ -1,3 +1,0 @@
-from=z5015812
-message=z5004426 guuuurlllll
-time=2016-10-06T00:03:26+0000

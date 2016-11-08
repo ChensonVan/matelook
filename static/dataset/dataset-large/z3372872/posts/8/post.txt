@@ -1,5 +1,0 @@
-message=To: Alberto Motto Don't leave me. Otherwise I'll fail Econ1101 and then kill myself
-latitude=-33.9096
-time=2013-04-22T11:36:35+0000
-longitude=151.2208
-from=z3372872

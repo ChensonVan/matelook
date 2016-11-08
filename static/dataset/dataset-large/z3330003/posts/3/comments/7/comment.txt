@@ -1,3 +1,0 @@
-message=Hot commodity
-time=2013-04-15T14:58:01+0000
-from=z3458687

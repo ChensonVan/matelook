@@ -1,3 +1,0 @@
-message=Go Robbie!
-from=z5115780
-time=2013-08-03T10:40:30+0000

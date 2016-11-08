@@ -1,3 +1,0 @@
-from=z3462055
-time=2016-09-01T02:29:14+0000
-message=z5109880 actually u

@@ -1,5 +1,0 @@
-message=OMG Chris Liu! Is that Nirvan Gelda in your profile picture? OMG!!! god he's cute...
-latitude=-33.9120
-from=z5043226
-longitude=151.2284
-time=2015-09-12T04:59:40+0000

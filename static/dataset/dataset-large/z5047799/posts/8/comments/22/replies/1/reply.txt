@@ -1,3 +1,0 @@
-message=Sounds like you Griffen
-from=z5062957
-time=2016-09-02T08:54:58+0000

@@ -1,3 +1,0 @@
-from=z5063045
-time=2016-09-03T05:41:21+0000
-message=pun level over 9000

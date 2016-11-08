@@ -1,3 +1,0 @@
-from=z5033280
-message=nor do i have a green hoodie
-time=2016-09-29T11:17:23+0000

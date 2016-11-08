@@ -1,3 +1,0 @@
-message=z5074933 lmk how it goes
-from=z5059596
-time=2016-09-28T12:31:56+0000

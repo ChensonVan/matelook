@@ -1,5 +1,0 @@
-message=To the girl in the long blue dress sitting on the quad lawn on monday afternoon, just wanted to say that you really caught my eye ;)
-from=z5020913
-latitude=-33.9188
-longitude=151.2343
-time=2016-08-20T07:25:12+0000

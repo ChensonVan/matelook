@@ -1,3 +1,0 @@
-time=2013-07-03T09:08:06+0000
-message=lol, Fijian
-from=z3431766

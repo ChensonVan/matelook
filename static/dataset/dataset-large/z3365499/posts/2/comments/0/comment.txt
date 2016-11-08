@@ -1,3 +1,0 @@
-time=2016-05-13T06:23:02+0000
-message=z5016305 is always down for coffee
-from=z3365499

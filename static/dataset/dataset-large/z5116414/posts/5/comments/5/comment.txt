@@ -1,3 +1,0 @@
-time=2013-05-24T13:17:28+0000
-message=Mary Eve
-from=z5120169

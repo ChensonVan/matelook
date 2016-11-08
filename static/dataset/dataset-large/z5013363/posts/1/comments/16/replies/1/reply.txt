@@ -1,3 +1,0 @@
-message=not down
-time=2016-09-11T00:06:14+0000
-from=z5013310

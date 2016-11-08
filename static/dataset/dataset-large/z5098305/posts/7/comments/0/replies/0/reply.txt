@@ -1,3 +1,0 @@
-message=Ooi truee
-from=z5113496
-time=2016-08-30T22:15:11+0000

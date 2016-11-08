@@ -1,3 +1,0 @@
-from=z5057687
-time=2016-08-21T00:07:19+0000
-message=z5114743 hit those weights

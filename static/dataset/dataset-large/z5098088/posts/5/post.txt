@@ -1,5 +1,0 @@
-time=2013-07-24T05:02:03+0000
-longitude=150.8705
-from=z5098088
-latitude=-33.9781
-message=To the hot fijian/Indian guy who is doing petroleum engineering. You're 1/cos(c)

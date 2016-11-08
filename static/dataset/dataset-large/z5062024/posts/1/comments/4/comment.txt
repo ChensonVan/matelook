@@ -1,3 +1,0 @@
-message=z5074933 The suggestions in the comments are things you would actually talk about on a first date
-time=2016-09-08T02:39:58+0000
-from=z5057619

@@ -1,3 +1,0 @@
-from=z5076025
-time=2013-11-02T13:36:41+0000
-message=oh sunshine ahaha

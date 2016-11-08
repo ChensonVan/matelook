@@ -1,3 +1,0 @@
-from=z5017822
-message=z5062957 Wow i didnt know u went UNSW
-time=2016-10-05T11:20:55+0000

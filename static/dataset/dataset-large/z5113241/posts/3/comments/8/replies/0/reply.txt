@@ -1,3 +1,0 @@
-message=Damn how'd you know?
-from=z5075071
-time=2016-09-01T05:58:34+0000

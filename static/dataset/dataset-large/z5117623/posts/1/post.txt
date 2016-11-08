@@ -1,5 +1,0 @@
-from=z5117623
-latitude=-34.0887
-message=To the fair skinned, blue eyed, light brown haired goddess who got on at Rhodes going to unsw, I think you're maybe half middle-eastern? You are the most beautiful being I have ever seen and I've never wanted to meet someone more in my life. Wish I knew what your name was.
-time=2013-05-10T05:33:34+0000
-longitude=151.1281

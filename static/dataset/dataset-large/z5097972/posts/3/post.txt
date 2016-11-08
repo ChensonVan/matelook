@@ -1,5 +1,0 @@
-longitude=151.2375
-message=Is there a UNSW comic appreciation society where the focus is on western comics like Marvel and DC? Not looking for love, just friends.
-from=z5097972
-time=2016-09-05T10:51:41+0000
-latitude=-33.9212

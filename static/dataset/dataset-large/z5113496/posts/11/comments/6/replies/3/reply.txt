@@ -1,3 +1,0 @@
-message=It's a smile this time and not a wink. ? Good job! z5024425
-from=z5019330
-time=2016-08-08T12:41:51+0000

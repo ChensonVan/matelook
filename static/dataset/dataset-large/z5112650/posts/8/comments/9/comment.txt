@@ -1,3 +1,0 @@
-from=z5076642
-message=Insta like cos harambe was mentioned
-time=2016-08-25T09:23:37+0000

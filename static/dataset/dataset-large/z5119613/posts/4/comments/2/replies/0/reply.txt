@@ -1,3 +1,0 @@
-from=z5060359
-message=Usurping BakeSoc presidency
-time=2016-08-12T14:40:25+0000

@@ -1,3 +1,0 @@
-message=legend
-from=z3374132
-time=2016-07-27T14:05:40+0000

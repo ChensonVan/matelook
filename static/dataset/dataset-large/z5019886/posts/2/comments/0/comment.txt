@@ -1,3 +1,0 @@
-message=z5016565 when your past still hanging around
-time=2016-10-05T23:05:25+0000
-from=z5119613

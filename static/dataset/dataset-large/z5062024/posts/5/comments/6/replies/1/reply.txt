@@ -1,3 +1,0 @@
-message=And he cooks a mean dahl
-from=z3219170
-time=2016-05-26T06:40:28+0000

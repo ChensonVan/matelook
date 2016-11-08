@@ -1,3 +1,0 @@
-message=z5015700 you've changed bro
-from=z5117076
-time=2016-05-02T06:51:54+0000

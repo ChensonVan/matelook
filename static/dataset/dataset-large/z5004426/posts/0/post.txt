@@ -1,5 +1,0 @@
-message=To the person called Toby C stop talking in my ear I don't want you in my life.  I got other plans.  Ty
-latitude=-33.9159
-longitude=151.2465
-time=2014-08-11T22:22:25+0000
-from=z5004426

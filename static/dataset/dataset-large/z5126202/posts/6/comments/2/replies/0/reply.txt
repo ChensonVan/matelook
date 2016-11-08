@@ -1,3 +1,0 @@
-from=z5088545
-time=2016-05-19T02:24:18+0000
-message=z3459293 Oi Fuark hes in

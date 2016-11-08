@@ -1,3 +1,0 @@
-message=I offer you religion
-from=z5004669
-time=2016-08-14T13:45:33+0000

@@ -1,3 +1,0 @@
-from=z3462055
-time=2013-11-15T21:26:13+0000
-message=such ass

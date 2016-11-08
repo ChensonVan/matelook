@@ -1,3 +1,0 @@
-message=A 'boy'? Or do you mean a 'man'?\nThere's plenty at the CEUS common room. Talk to them.
-from=z5041714
-time=2016-09-04T06:33:42+0000

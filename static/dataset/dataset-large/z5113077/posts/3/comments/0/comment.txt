@@ -1,3 +1,0 @@
-message=Your MTRN tutors are impressed and I hope that your Digital Logic lab reports are equally good.
-time=2013-04-14T05:40:33+0000
-from=z5110851

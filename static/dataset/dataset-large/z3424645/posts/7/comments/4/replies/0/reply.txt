@@ -1,3 +1,0 @@
-from=z5059421
-message=lucy weng
-time=2016-06-09T12:40:26+0000

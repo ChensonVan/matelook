@@ -1,5 +1,0 @@
-latitude=-33.9241
-time=2013-04-21T02:03:45+0000
-message=To n, we used to see each other on the bus in high school, and then, one year, you were gone. I always wondered where you went, and then boom, we were in the same society. It's fate. Yessir.
-longitude=151.2366
-from=z5061572

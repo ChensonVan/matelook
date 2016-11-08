@@ -1,3 +1,0 @@
-from=z3377644
-time=2016-08-02T05:07:16+0000
-message=I don't get the joke AGAIN

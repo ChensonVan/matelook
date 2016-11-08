@@ -1,3 +1,0 @@
-message=LOL. are you sure you didn't mean yourself LMatt?
-time=2016-08-06T12:39:42+0000
-from=z5110851

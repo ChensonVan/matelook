@@ -1,3 +1,0 @@
-message=z5109880 applications always open
-from=z5024963
-time=2016-04-28T11:28:17+0000

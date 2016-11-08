@@ -1,3 +1,0 @@
-from=z5015813
-time=2016-08-19T11:07:18+0000
-message=I'm pretty sure I know what I look like guys

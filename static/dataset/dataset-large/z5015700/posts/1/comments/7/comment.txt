@@ -1,3 +1,0 @@
-from=z5075827
-message=z3463730 not again omg
-time=2016-09-25T09:17:09+0000

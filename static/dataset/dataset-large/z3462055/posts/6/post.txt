@@ -1,5 +1,0 @@
-from=z3462055
-message=To the girl in the red top and black skirt Thursday afternoon in the express bus line; I think you're name was Shevon? You are the cutest being on this campus :').
-time=2016-05-05T07:56:07+0000
-latitude=-33.9231
-longitude=151.2292

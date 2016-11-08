@@ -1,3 +1,0 @@
-message=z5017077 dem deltoids
-from=z5077163
-time=2016-09-17T05:08:53+0000

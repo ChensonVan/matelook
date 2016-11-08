@@ -1,3 +1,0 @@
-message=Thanks Brindy so touching
-from=z3459327
-time=2016-06-07T06:05:29+0000

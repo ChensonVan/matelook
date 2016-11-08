@@ -1,3 +1,0 @@
-message=http://sphotos-g.ak.fbcdn.net/hphotos-ak-ash3/538518_10150719231117772_798352526_n.jpg
-from=z5074940
-time=2013-06-26T04:00:23+0000

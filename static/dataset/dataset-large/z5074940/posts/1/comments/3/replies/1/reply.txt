@@ -1,3 +1,0 @@
-from=z5113241
-message=Ewwwewewwwewww
-time=2016-08-28T05:49:31+0000

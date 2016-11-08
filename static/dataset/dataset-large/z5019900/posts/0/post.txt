@@ -1,5 +1,0 @@
-time=2016-05-06T00:38:57+0000
-longitude=150.9958
-from=z5019900
-message=Quit playing games and messing with me, along with other guys. You know who you are. S
-latitude=-33.8624

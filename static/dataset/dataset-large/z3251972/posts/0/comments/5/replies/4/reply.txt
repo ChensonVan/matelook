@@ -1,3 +1,0 @@
-from=z3294734
-time=2016-08-09T13:33:36+0000
-message="Come to wedding"

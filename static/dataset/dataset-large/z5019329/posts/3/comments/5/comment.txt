@@ -1,3 +1,0 @@
-message=Im down, hit me up
-time=2016-05-04T22:35:00+0000
-from=z5019330

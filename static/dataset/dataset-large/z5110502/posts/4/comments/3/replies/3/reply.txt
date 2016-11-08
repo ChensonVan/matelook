@@ -1,3 +1,0 @@
-message=shux, i was wrong
-from=z3463739
-time=2016-05-26T02:40:59+0000

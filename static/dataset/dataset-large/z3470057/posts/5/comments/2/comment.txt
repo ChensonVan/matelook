@@ -1,3 +1,0 @@
-from=z5017842
-message=z3417908 green jumper has recognised your girth
-time=2016-09-25T05:16:06+0000

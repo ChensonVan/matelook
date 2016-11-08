@@ -1,3 +1,0 @@
-from=z5077131
-message=Hnnnnnnnnnnng so hard
-time=2013-05-23T00:04:39+0000

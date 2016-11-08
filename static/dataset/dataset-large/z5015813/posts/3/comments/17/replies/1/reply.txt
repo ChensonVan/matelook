@@ -1,3 +1,0 @@
-from=z5059526
-message=life would be so much easier if we came in male versions
-time=2016-09-05T10:11:43+0000

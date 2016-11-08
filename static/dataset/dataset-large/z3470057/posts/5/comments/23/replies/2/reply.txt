@@ -1,3 +1,0 @@
-from=z5015191
-message=Kappa
-time=2016-09-25T08:26:57+0000

@@ -1,5 +1,0 @@
-latitude=-33.9204
-from=z5019353
-longitude=151.2258
-time=2016-05-07T11:20:25+0000
-message=To the girl who kept coughing in MGMT2101 lecture, you're pretty cute! Hope you get well soon :)

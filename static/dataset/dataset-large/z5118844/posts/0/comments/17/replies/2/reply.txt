@@ -1,3 +1,0 @@
-from=z5074940
-message=m8 il rek u tomorrow
-time=2016-04-20T14:58:07+0000

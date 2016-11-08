@@ -1,3 +1,0 @@
-from=z5060223
-message=Nice meme, George
-time=2016-08-30T03:31:02+0000

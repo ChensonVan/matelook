@@ -1,3 +1,0 @@
-from=z5091950
-message=DB = david Beckham?!?!? :P
-time=2013-05-17T12:20:02+0000

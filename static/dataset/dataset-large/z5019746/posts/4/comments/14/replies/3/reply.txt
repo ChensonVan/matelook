@@ -1,3 +1,0 @@
-from=z5113245
-time=2016-05-19T03:35:15+0000
-message=z5059421 mate u the cutest

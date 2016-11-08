@@ -1,3 +1,0 @@
-time=2016-04-22T10:36:38+0000
-message=Is your internet so terrible that it repeated three times? D:
-from=z5019746

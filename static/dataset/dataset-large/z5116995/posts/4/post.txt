@@ -1,5 +1,0 @@
-latitude=-33.6053
-time=2016-04-22T09:55:33+0000
-message=CJ\nLet's play train. I can sit on your face and you can go "chew chew"
-from=z5116995
-longitude=151.0602

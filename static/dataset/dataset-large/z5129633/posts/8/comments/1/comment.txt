@@ -1,3 +1,0 @@
-from=z5115780
-time=2016-06-12T15:37:19+0000
-message=z5016305 is hotter

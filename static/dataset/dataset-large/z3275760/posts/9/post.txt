@@ -1,5 +1,0 @@
-from=z3275760
-time=2016-05-06T04:24:14+0000
-message=Dear Talia in my ARTS1090 tutorial, I think your so beautiful and I would like to take you on fantastic date \n\nPlease see this \nXoxo
-longitude=151.2384
-latitude=-33.8811

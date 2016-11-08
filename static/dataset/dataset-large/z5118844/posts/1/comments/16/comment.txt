@@ -1,3 +1,0 @@
-message=you know full well you dirty man
-from=z3415383
-time=2013-05-17T14:01:10+0000

@@ -1,3 +1,0 @@
-from=z5060446
-message=z3385911 king of memes
-time=2016-09-21T13:13:41+0000

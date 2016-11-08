@@ -1,3 +1,0 @@
-message=Youre welcome
-time=2016-08-15T14:06:51+0000
-from=z5059826

@@ -1,3 +1,0 @@
-time=2016-05-27T06:54:41+0000
-message=Wow doesnt believe me. Not cool
-from=z5062115

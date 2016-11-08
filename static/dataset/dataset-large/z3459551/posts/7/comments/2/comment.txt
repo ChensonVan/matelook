@@ -1,3 +1,0 @@
-from=z5061308
-message=z5023123 Uday more like U make my day
-time=2016-08-20T20:05:23+0000

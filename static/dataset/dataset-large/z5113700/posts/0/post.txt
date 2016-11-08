@@ -1,5 +1,0 @@
-from=z5113700
-message=This isn't a love letter but I'd like to thank the guy who gave me the burgers on Monday. You know who you are :)
-longitude=151.2372
-time=2016-03-21T06:42:58+0000
-latitude=-33.9189

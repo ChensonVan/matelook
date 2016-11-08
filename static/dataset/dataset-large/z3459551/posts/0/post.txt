@@ -1,5 +1,0 @@
-latitude=-33.9162
-longitude=151.2234
-time=2016-09-25T11:00:02+0000
-from=z3459551
-message=Nikhil Nanganath, please stop writing love letters about me. If you want to ask me out, do it in person and stop embarrassing yourself.

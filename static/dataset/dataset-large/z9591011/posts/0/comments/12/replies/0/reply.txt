@@ -1,3 +1,0 @@
-time=2016-06-12T01:37:35+0000
-from=z5052081
-message=Who else??

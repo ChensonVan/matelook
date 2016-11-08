@@ -1,3 +1,0 @@
-from=z3461651
-time=2016-04-17T04:03:51+0000
-message=z5020296 too good bro

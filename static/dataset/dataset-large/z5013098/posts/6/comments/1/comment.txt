@@ -1,3 +1,0 @@
-from=z5115755
-message=Shaved*
-time=2013-11-24T15:37:55+0000

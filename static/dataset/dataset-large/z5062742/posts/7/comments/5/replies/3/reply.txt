@@ -1,3 +1,0 @@
-message=z5062024 accurate
-time=2016-09-08T00:21:30+0000
-from=z5119635

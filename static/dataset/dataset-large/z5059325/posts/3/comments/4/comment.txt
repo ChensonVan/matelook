@@ -1,3 +1,0 @@
-message=Double cute!
-from=z3489344
-time=2013-04-08T06:34:46+0000

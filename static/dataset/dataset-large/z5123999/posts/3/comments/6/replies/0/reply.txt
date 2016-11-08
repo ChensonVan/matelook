@@ -1,3 +1,0 @@
-time=2016-08-24T09:06:48+0000
-message=Is this what you do
-from=z3470029

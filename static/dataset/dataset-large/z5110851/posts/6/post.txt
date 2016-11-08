@@ -1,5 +1,0 @@
-from=z5110851
-time=2013-05-17T12:13:30+0000
-message=My hot fundamental math classmate was wearing a red singlet. Again, in a cold, chilly Friday. My god... I can see your invisible steam and I want to bathe in it.
-latitude=-33.9195
-longitude=151.2206

@@ -1,3 +1,0 @@
-time=2016-08-10T15:09:01+0000
-message=z5048555 I think they must've misheard your name
-from=z5127733

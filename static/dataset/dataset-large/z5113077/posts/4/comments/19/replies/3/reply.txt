@@ -1,3 +1,0 @@
-message=mumjokes
-time=2016-08-04T22:19:28+0000
-from=z3418657

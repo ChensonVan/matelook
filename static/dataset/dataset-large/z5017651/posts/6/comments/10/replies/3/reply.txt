@@ -1,3 +1,0 @@
-time=2016-04-21T11:08:33+0000
-message=Omg wtf the other one
-from=z5020476

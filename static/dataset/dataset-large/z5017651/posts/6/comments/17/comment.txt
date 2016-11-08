@@ -1,3 +1,0 @@
-time=2016-04-21T10:04:54+0000
-message=Ayyye bebe
-from=z5098157

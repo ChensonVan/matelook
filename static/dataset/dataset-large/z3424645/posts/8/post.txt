@@ -1,5 +1,0 @@
-latitude=-33.7502
-message=To the lovely and gracious Daniel Wang.... PLEASE GIVE ME THE D WANG IF YOU KNOW WHAT I MEAN ;)
-from=z3424645
-time=2013-03-26T22:34:16+0000
-longitude=151.2800

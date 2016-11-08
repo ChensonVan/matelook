@@ -1,3 +1,0 @@
-time=2016-08-17T12:08:42+0000
-message=z3462436 I see, you're pulling all the lgs
-from=z5098071

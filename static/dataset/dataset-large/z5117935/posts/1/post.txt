@@ -1,5 +1,0 @@
-from=z5117935
-time=2016-08-26T08:08:22+0000
-message=I'd managed to convince myself I was over you... Months go by and I'd almost forgotten about you, and then I see you once and its like nothing has changed. You are both a stranger and the most familiar thing in the world to me. I don't want to want you back, but... I do.
-longitude=151.1798
-latitude=-33.8523

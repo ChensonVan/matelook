@@ -1,5 +1,0 @@
-message=:)
-from=z5118185
-longitude=151.2342
-time=2015-04-06T10:18:51+0000
-latitude=-33.9270

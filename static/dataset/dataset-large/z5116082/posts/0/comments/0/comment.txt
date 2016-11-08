@@ -1,3 +1,0 @@
-time=2016-06-03T10:37:02+0000
-message=z5061590 only reason I'm passing this sem
-from=z5059421

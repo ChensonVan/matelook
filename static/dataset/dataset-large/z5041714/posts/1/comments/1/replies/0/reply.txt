@@ -1,3 +1,0 @@
-from=z5039294
-time=2016-06-19T10:58:42+0000
-message=0 appreciation -_-

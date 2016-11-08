@@ -1,5 +1,0 @@
-latitude=-33.9528
-time=2013-05-25T22:33:58+0000
-message=To the guy on the ninth floor of the library on Wednesday morning. You didn't see me staring but you were so beautiful, I just wanted you to know that
-longitude=151.2340
-from=z5115454

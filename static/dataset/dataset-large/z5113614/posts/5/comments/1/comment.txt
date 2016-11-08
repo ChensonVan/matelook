@@ -1,3 +1,0 @@
-time=2016-08-27T08:33:32+0000
-message=z5015016 its been while aye?
-from=z3418936

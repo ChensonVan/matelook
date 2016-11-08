@@ -1,3 +1,0 @@
-message=Maybe
-from=z5063045
-time=2016-05-26T12:25:27+0000

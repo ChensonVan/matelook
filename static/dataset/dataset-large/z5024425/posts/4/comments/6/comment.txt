@@ -1,3 +1,0 @@
-time=2016-09-21T13:40:26+0000
-message=my impression of OP: z3484437
-from=z5013098

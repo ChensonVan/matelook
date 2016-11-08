@@ -1,5 +1,0 @@
-time=2013-08-28T01:24:58+0000
-latitude=-33.9151
-message=Does anyone here use moodle to chat?
-from=z5062443
-longitude=151.2285

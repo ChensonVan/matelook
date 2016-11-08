@@ -1,3 +1,0 @@
-time=2016-08-17T00:15:45+0000
-message=z5098341 waiting for the banana complaint here
-from=z5115903

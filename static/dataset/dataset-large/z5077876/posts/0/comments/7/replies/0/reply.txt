@@ -1,3 +1,0 @@
-from=z5015813
-time=2016-09-19T02:19:58+0000
-message=stop writing msgs for me

@@ -1,3 +1,0 @@
-from=z5048663
-time=2016-09-08T22:51:51+0000
-message=Eh I'm just doing this lad a favour, or lady... I'm not sure 😵

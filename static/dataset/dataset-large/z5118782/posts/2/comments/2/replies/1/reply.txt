@@ -1,3 +1,0 @@
-from=z5059413
-message=Was about to tag you too
-time=2016-04-29T09:50:59+0000

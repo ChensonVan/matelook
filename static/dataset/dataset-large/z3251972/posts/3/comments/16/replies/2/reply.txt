@@ -1,3 +1,0 @@
-from=z5014335
-message=Can u not
-time=2016-04-16T08:04:44+0000

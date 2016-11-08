@@ -1,5 +1,0 @@
-longitude=151.1352
-time=2016-07-28T16:19:57+0000
-message=Zaynab, you are the Gomez to my heart.
-from=z3459293
-latitude=-33.8383

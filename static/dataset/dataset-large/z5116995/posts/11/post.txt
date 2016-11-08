@@ -1,5 +1,0 @@
-latitude=-33.9227
-time=2016-08-10T14:16:46+0000
-longitude=151.2370
-from=z5116995
-message=For anyone in MATH1131 Pahor's class, can you count the number of "any questions?" he said in one hour?

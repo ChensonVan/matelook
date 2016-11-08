@@ -1,5 +1,0 @@
-message=Second semester and I'm still waiting for a cute girl to be interested in me... Anytime now would be lovely. Thanks, from a white guy doing engineering and com.
-latitude=-33.9163
-time=2016-08-03T22:10:59+0000
-from=z3219170
-longitude=151.2332

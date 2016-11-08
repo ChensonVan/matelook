@@ -1,5 +1,0 @@
-longitude=151.2378
-message=Dear Ed. I'm almost positive that you don't teach at UNSW anymore, seeing as you were my lecturer in 1st year in 2009 and then went overseas, but I had the biggest crush on you ever. You were so insightful, handsome, funny and entertaining. I mean, I did not have perfect attendance and get a distinction in your class in 1st semester of 1st year for no reason.
-from=z3461651
-latitude=-33.9272
-time=2013-03-21T09:07:55+0000

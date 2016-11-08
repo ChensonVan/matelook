@@ -1,3 +1,0 @@
-message=Found the future bf z5015071 z5020913
-from=z5019900
-time=2016-09-01T16:47:35+0000

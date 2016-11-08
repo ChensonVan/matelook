@@ -1,3 +1,0 @@
-message=I don't even understand what they're trying to say. Shittest syntax
-time=2016-04-21T08:43:58+0000
-from=z5075455

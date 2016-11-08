@@ -1,3 +1,0 @@
-message=It's so lonely being tasmania :(
-time=2016-06-19T14:09:42+0000
-from=z5115479

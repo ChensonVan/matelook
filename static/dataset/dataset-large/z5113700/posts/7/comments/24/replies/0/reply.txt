@@ -1,3 +1,0 @@
-time=2016-09-01T03:30:32+0000
-message=dis b mi
-from=z3462323

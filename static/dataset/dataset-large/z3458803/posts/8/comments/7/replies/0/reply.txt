@@ -1,3 +1,0 @@
-from=z5059421
-time=2016-08-31T07:30:02+0000
-message=HAHAHA time to get a unsw hood

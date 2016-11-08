@@ -1,3 +1,0 @@
-from=z5018731
-message=z3465151 cmon you would've said the same thing had I not said it first :(
-time=2013-10-30T22:00:49+0000

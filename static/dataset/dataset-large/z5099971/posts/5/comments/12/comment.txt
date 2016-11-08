@@ -1,3 +1,0 @@
-time=2016-10-01T10:53:39+0000
-message=z5041714 better start learning chem mate
-from=z3475276

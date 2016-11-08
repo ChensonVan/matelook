@@ -1,5 +1,0 @@
-latitude=-34.0863
-longitude=151.1570
-message=Vivian Liu. You. Are. So. Adorkable.\nThat is all. \n-0Ht9
-time=2013-11-24T01:45:14+0000
-from=z3459509

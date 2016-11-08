@@ -1,3 +1,0 @@
-message=Well that's awkward ...
-time=2013-10-10T01:13:27+0000
-from=z5077131

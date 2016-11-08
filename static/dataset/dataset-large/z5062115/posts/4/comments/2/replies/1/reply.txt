@@ -1,3 +1,0 @@
-message=HAHAHAH ffs guys
-from=z3469502
-time=2016-05-05T12:58:51+0000

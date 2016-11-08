@@ -1,3 +1,0 @@
-time=2016-08-24T07:00:08+0000
-message=z5015526 aye for you??
-from=z5014335

@@ -1,3 +1,0 @@
-message=Are you trying to neg? :/
-time=2013-11-05T01:46:22+0000
-from=z5077163

@@ -1,3 +1,0 @@
-from=z5025014
-message=I didn't know potatoes came in other colours pls enlighten
-time=2016-08-14T14:01:32+0000

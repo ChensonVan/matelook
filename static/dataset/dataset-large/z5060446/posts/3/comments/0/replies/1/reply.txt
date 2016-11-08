@@ -1,3 +1,0 @@
-from=z5075827
-message=oh you know what, I think my wam might still be higher. But idk I stopped counting a while ago
-time=2016-07-10T11:30:52+0000

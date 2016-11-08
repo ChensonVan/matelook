@@ -1,3 +1,0 @@
-from=z5059526
-message=z5019886 was this that Asian man you were talking to when I was on the bus with you back to central?
-time=2016-08-17T22:30:37+0000

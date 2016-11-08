@@ -1,5 +1,0 @@
-time=2016-08-01T07:55:47+0000
-longitude=151.2260
-message=Stylish duo walking through the quad... Shining bright like the beautiful day it was.\nShould join us for coffees.
-from=z5113482
-latitude=-33.9176

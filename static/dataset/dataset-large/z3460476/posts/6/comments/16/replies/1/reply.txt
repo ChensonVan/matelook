@@ -1,3 +1,0 @@
-from=z5077119
-message=Unfortunately I wasn't at the villages yesterday
-time=2016-09-05T08:15:42+0000

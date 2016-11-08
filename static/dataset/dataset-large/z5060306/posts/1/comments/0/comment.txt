@@ -1,3 +1,0 @@
-from=z5060223
-message=z5075827 you romantic you....
-time=2013-05-29T12:13:07+0000

@@ -1,3 +1,0 @@
-message=bit upfront z5077163
-from=z3335004
-time=2016-04-29T02:48:25+0000

@@ -1,5 +1,0 @@
-latitude=-33.9225
-longitude=151.2376
-from=z3462629
-message=Andrew Shim at Oxfam...you look like you're probably into guys. Hit me up ;)
-time=2013-08-28T13:11:02+0000

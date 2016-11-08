@@ -1,3 +1,0 @@
-time=2016-08-24T00:49:40+0000
-message=its not even me tho
-from=z3377644

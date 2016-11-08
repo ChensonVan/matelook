@@ -1,3 +1,0 @@
-from=z5019161
-time=2016-09-07T02:04:09+0000
-message=You're too ugly 😂😒

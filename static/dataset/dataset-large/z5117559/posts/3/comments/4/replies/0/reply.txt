@@ -1,3 +1,0 @@
-from=z5123999
-time=2016-05-14T12:30:45+0000
-message=Yeah you should write one about me babe ;)

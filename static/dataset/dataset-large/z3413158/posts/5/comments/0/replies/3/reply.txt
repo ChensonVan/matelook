@@ -1,3 +1,0 @@
-from=z5110851
-message=Found you a sponsor shazza, thank me later.
-time=2016-04-20T04:03:33+0000

@@ -1,3 +1,0 @@
-message=You should go to z5075030
-time=2016-07-27T20:16:41+0000
-from=z3413158

@@ -1,3 +1,0 @@
-from=z5020210
-message=these notifications frighten me
-time=2016-10-05T03:04:43+0000

@@ -1,3 +1,0 @@
-message=z5062742 I've found your man
-from=z5024986
-time=2016-09-14T03:20:22+0000

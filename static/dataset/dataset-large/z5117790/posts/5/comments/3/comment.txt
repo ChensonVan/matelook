@@ -1,3 +1,0 @@
-message=Vivian Wong~
-from=z3459293
-time=2013-05-05T06:59:19+0000

@@ -1,5 +1,0 @@
-from=z5051889
-message=To the guy who does psych (I think) with the really beautiful eyes, beard and man bun. You're really cool. Coffee sometime?
-latitude=-33.7021
-longitude=151.0278
-time=2016-05-24T12:54:16+0000

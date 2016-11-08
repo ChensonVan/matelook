@@ -1,3 +1,0 @@
-time=2016-08-09T12:11:02+0000
-message=Seedy z3470029 strikes again
-from=z5115780

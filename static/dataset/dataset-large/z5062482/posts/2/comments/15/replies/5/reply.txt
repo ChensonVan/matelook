@@ -1,3 +1,0 @@
-from=z5060454
-message=Omgg yep brownie points for the Pokémon reference
-time=2016-08-27T22:53:19+0000

@@ -1,3 +1,0 @@
-message=z5010380 z3484231 when your pawn skills can be considered "hardcore"
-from=z5112650
-time=2016-05-17T09:15:19+0000

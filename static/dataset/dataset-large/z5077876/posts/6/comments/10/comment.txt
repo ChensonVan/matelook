@@ -1,3 +1,0 @@
-time=2013-06-18T04:51:33+0000
-from=z5019361
-message=this is a song by leehom wang http://www.youtube.com/watch?v=VbPgHloaips

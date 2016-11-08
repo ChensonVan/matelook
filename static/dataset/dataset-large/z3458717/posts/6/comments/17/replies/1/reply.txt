@@ -1,3 +1,0 @@
-message=When lecture videos were somewhat bearable
-from=z5048360
-time=2016-09-17T03:40:56+0000

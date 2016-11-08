@@ -1,5 +1,0 @@
-message=Jeremy Bond I love you! And ill talk to you soon
-time=2016-09-18T14:50:25+0000
-latitude=-33.8499
-longitude=151.2034
-from=z5118613

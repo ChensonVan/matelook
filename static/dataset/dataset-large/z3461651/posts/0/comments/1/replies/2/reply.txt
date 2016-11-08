@@ -1,3 +1,0 @@
-message=AYYYYY go get 'em tiger!
-from=z5099216
-time=2016-04-29T23:03:12+0000

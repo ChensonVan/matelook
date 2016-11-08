@@ -1,3 +1,0 @@
-from=z5023123
-message=Why go for Sam when you can go for z3442036
-time=2016-04-28T12:43:54+0000

@@ -1,5 +1,0 @@
-from=z3493008
-time=2016-08-26T03:40:23+0000
-message=Arena from my FINS3616 tute,\nYou are sexy af with that coloured hair\nYou single?
-latitude=-33.9131
-longitude=151.2337

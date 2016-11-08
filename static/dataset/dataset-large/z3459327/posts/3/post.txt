@@ -1,5 +1,0 @@
-from=z3459327
-longitude=151.2229
-time=2016-06-23T10:03:22+0000
-latitude=-33.9188
-message=Brandon "fins god" tang, occasionally bumping into you at uni and smelling your scent is the only thing getting me through exams atm. Why are you with that negative NPV Lucy girl anyways? My WACC is so much lower and through DCF my vals are a lot higher ;) leave her and let's build models together ;)\n\nP.S suit & tie makes u irresistible

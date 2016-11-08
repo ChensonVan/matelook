@@ -1,3 +1,0 @@
-from=z3459509
-message=I am dadidas HAHAHA
-time=2016-09-08T00:58:09+0000

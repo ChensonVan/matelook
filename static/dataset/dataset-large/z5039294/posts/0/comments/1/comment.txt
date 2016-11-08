@@ -1,3 +1,0 @@
-message=Nick Holman the bearded hunk
-time=2016-07-11T14:33:02+0000
-from=z5020410

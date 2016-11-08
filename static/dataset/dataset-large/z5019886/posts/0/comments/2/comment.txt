@@ -1,3 +1,0 @@
-from=z5016565
-time=2013-05-22T23:41:29+0000
-message=Definitely written about himself...

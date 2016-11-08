@@ -1,3 +1,0 @@
-from=z5060223
-message=Umm pretty sure that's me
-time=2016-07-12T21:19:55+0000

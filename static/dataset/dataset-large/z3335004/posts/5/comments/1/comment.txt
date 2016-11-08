@@ -1,3 +1,0 @@
-from=z5116082
-time=2016-08-15T12:11:49+0000
-message=Get around him z5056324 z5059449

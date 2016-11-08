@@ -1,5 +1,0 @@
-time=2013-07-23T14:25:10+0000
-longitude=150.7669
-from=z5088545
-message=One week til semester starts!!!!\nLet's do some matchmakingggg
-latitude=-33.5408

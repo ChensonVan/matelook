@@ -1,5 +1,0 @@
-message=To my beautiful chocolate girl, Soni (I think your real name is Sonala). I can't wait for next Wednesday, I will be waiting. But to make things easier, is your exam in the morning or afternoon session? Regardless, I'll be your Prince Charming standing outside Keith Burrows.
-from=z3459405
-latitude=-33.9248
-longitude=151.2297
-time=2013-06-26T04:19:09+0000

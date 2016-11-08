@@ -1,3 +1,0 @@
-from=z5060416
-time=2016-08-12T10:15:03+0000
-message=I swear

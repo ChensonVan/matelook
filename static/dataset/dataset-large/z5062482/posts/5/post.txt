@@ -1,5 +1,0 @@
-from=z5062482
-message=Dear whoever employs the women from CVEN, \n\nWell played my man, well played. \n\nThank you\nEvery engineering student.
-longitude=151.1254
-latitude=-33.9210
-time=2016-07-11T14:17:31+0000

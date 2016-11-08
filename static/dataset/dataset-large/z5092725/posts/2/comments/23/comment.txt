@@ -1,3 +1,0 @@
-from=z3462856
-time=2013-06-29T10:40:06+0000
-message=I didn't know we still like to build forts

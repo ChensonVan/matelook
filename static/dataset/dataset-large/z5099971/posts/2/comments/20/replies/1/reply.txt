@@ -1,3 +1,0 @@
-message=Maybe they dont want to
-from=z3462055
-time=2016-06-16T07:14:08+0000

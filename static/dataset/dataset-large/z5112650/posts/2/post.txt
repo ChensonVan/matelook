@@ -1,5 +1,0 @@
-longitude=151.0942
-time=2013-04-03T08:37:16+0000
-latitude=-33.8479
-from=z5112650
-message=I just want to be loved :(

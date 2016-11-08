@@ -1,3 +1,0 @@
-message=Tempted to tag your back up plan, and mine
-from=z3379933
-time=2016-05-10T09:35:20+0000

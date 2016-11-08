@@ -1,3 +1,0 @@
-from=z3460724
-time=2016-10-01T12:34:04+0000
-message=CALVES. IT IS

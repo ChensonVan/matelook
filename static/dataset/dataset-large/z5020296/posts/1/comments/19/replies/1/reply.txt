@@ -1,3 +1,0 @@
-message=I don't have a violin
-from=z3463809
-time=2016-04-21T23:02:57+0000

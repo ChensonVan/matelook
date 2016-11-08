@@ -1,5 +1,0 @@
-latitude=-33.8250
-longitude=151.2178
-from=z5055209
-message=can someone start a "Babes of UNSW" fb page?
-time=2013-08-03T02:21:29+0000

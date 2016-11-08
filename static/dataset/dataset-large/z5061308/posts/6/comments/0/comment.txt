@@ -1,3 +1,0 @@
-from=z5059596
-time=2016-05-11T12:42:35+0000
-message=Not turkish but i'm pretty sure it's goh-zle-meh

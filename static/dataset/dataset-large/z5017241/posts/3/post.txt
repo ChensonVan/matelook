@@ -1,5 +1,0 @@
-from=z5017241
-latitude=-33.9152
-time=2016-09-05T16:20:58+0000
-longitude=151.2275
-message=that soul crushing feeling when you finally think you're getting somewhere with a guy, and he tells you he went on a date with someone else

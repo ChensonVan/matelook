@@ -1,3 +1,0 @@
-time=2013-05-10T07:37:38+0000
-message=z5014695 Ain't even me
-from=z5112650

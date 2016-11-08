@@ -1,3 +1,0 @@
-message=Won't be coming to the ACTL tute today anymore...
-from=z5015243
-time=2016-08-23T00:08:36+0000

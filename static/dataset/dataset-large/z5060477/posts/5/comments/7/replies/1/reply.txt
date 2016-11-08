@@ -1,3 +1,0 @@
-message="Being good at maths" <- that was all i could think of
-time=2016-04-16T05:57:45+0000
-from=z5084484

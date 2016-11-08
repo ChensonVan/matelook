@@ -1,3 +1,0 @@
-message=Get in there Chloe!!!
-time=2016-09-05T23:13:51+0000
-from=z5059826

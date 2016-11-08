@@ -1,3 +1,0 @@
-from=z3456408
-message=Gahahahahaha
-time=2013-08-19T01:32:34+0000

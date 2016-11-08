@@ -1,5 +1,0 @@
-latitude=-33.9224
-longitude=151.2271
-message=Riya Wadhwa: marry me?
-from=z5118764
-time=2016-08-11T09:36:20+0000

@@ -1,3 +1,0 @@
-message=z3462432 Wot, I can't see anything
-time=2015-03-19T13:57:37+0000
-from=z5130883

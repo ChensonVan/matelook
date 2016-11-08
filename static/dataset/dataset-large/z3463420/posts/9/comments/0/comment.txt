@@ -1,3 +1,0 @@
-message=z5018731 comp lecturer
-from=z5051889
-time=2016-08-18T15:51:18+0000

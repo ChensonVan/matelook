@@ -1,3 +1,0 @@
-time=2016-09-07T04:16:47+0000
-message=Classic z3475276
-from=z5048555

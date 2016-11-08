@@ -1,3 +1,0 @@
-from=z5059826
-message=stop stirring so hard
-time=2016-06-03T12:39:53+0000

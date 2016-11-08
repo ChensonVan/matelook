@@ -1,3 +1,0 @@
-message=z5025014 you have an extra K, like Special K cereal. You're better than him
-from=z5118627
-time=2016-08-15T08:35:17+0000

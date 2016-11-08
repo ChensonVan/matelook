@@ -1,3 +1,0 @@
-from=z5098341
-message=z5116082 go on son
-time=2016-09-19T01:41:55+0000

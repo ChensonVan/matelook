@@ -1,3 +1,0 @@
-time=2016-07-02T02:54:28+0000
-from=z5063055
-message=I think so

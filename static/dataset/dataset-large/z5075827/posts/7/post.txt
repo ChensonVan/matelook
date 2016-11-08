@@ -1,5 +1,0 @@
-longitude=151.1275
-message=To the guy who is always dressed in ties studying medicine. When you talk answering questions or being sarcastic, I find it adorable! If you could sing me a song with your guitar, I will be a happy girl
-time=2013-05-03T07:14:02+0000
-from=z5075827
-latitude=-33.8154

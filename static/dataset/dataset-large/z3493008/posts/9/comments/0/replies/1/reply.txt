@@ -1,3 +1,0 @@
-message=Ill try and not spell my name out next time!
-from=z3459509
-time=2016-08-18T00:56:14+0000

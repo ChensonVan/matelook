@@ -1,3 +1,0 @@
-from=z5059161
-message=z5020683 they're onto you m8
-time=2016-06-04T14:45:44+0000

@@ -1,5 +1,0 @@
-message=Trying to coincidentally bump into you at uni is really tiring. I know you're probs a complete f**k boy but why do I feel attracted to you?!?!
-from=z5075726
-longitude=151.2368
-time=2016-06-17T21:03:06+0000
-latitude=-33.9133

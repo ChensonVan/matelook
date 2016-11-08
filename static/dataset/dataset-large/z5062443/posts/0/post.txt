@@ -1,5 +1,0 @@
-latitude=-33.9100
-from=z5062443
-message=My semester one BABS1201 demonstrator, I miss you so badly :'(
-time=2013-08-11T02:47:49+0000
-longitude=151.2211

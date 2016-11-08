@@ -1,3 +1,0 @@
-time=2013-04-14T11:42:07+0000
-message=Haha howie what is this thing?
-from=z5062024

@@ -1,5 +1,0 @@
-latitude=-33.9125
-time=2016-05-18T01:49:06+0000
-message=Harrison Abbot and Jonathan also known as the cutest lab assistants ever. Send help xx
-from=z5077131
-longitude=151.2276

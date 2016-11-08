@@ -1,5 +1,0 @@
-time=2016-09-05T05:47:32+0000
-message=tfw you think a letter is addressed to you but theres 50 people with the exact same name being tagged in the comments. \n\nfrom asian male
-from=z5091050
-latitude=-33.8101
-longitude=151.2045

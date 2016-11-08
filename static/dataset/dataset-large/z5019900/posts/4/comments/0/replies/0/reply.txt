@@ -1,3 +1,0 @@
-from=z5015280
-message=Emotional diarrhoea then?
-time=2016-09-13T08:01:55+0000

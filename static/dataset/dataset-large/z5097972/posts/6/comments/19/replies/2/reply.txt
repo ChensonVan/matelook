@@ -1,3 +1,0 @@
-message=I am Egyptian. Lmao
-time=2016-04-20T14:18:04+0000
-from=z5116995

@@ -1,3 +1,0 @@
-from=z5062957
-message=i swear to god
-time=2016-09-17T07:49:28+0000

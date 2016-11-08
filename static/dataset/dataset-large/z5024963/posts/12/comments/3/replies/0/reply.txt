@@ -1,3 +1,0 @@
-message=z5075418 this kid
-from=z5113047
-time=2016-05-04T07:52:03+0000

@@ -1,3 +1,0 @@
-from=z3489361
-time=2016-05-06T02:01:37+0000
-message=z3219170 ur basically Bengali

@@ -1,3 +1,0 @@
-message=how u can get me
-from=z5113700
-time=2016-07-27T05:14:44+0000

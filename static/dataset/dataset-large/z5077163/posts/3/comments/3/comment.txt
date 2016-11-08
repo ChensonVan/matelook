@@ -1,3 +1,0 @@
-from=z3459459
-message=maybe they wanted to catch the bus as well
-time=2013-10-18T00:33:15+0000

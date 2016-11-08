@@ -1,3 +1,0 @@
-message=HAHAHA i wish i had thought of this
-from=z5059421
-time=2016-09-23T13:20:21+0000

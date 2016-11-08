@@ -1,3 +1,0 @@
-time=2016-06-17T13:13:56+0000
-message=Oh shit
-from=z5119678

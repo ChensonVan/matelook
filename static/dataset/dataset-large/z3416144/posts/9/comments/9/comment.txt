@@ -1,3 +1,0 @@
-message=z5061301 i kno you like engineers
-from=z5098202
-time=2016-05-24T12:52:38+0000

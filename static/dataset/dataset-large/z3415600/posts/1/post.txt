@@ -1,5 +1,0 @@
-latitude=-33.8812
-time=2013-05-31T15:38:40+0000
-message=Roses are red, Violets are red, Dennis Guo I want you in my bed.
-from=z3415600
-longitude=151.2583

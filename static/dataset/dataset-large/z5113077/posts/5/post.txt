@@ -1,3 +1,0 @@
-from=z5113077
-message=To Ali Amin, I would like to sincerely thank you and gift you my first born child for allowing us to choose our team members for the CVEN2101 group assignment. I did not enjoy being the solo carry for ENGG1000 and am glad this time around I might actually get some help from my team members.\n\nSincerely, all the non WeChat users.
-time=2016-08-31T14:16:06+0000

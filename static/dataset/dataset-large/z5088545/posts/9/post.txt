@@ -1,5 +1,0 @@
-message=To the village boy in the jeans and the new balance sneakers.\nI've seen you skating around campus with your new board.\nLithe and athletic, like a sunrise.\nIt was love at first speedo.\nOnly a real man can pull off a wig and suspenders.\n- from your new balance girl
-latitude=-33.9083
-longitude=151.2393
-time=2013-08-07T05:28:38+0000
-from=z5088545

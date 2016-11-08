@@ -1,3 +1,0 @@
-from=z5116685
-message=haha.... This is funny.
-time=2013-03-27T06:48:41+0000

@@ -1,5 +1,0 @@
-message=UNSW Speed Dating Day. It should happen.
-latitude=-33.7957
-time=2013-10-02T06:03:35+0000
-from=z3464149
-longitude=151.2679

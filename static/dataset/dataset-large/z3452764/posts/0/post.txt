@@ -1,5 +1,0 @@
-longitude=151.1581
-time=2015-04-09T01:30:16+0000
-message=To the girl in the background of the new UNSW Moodle login page, it had to be said. You are smokin'.\n\nCoffee?
-from=z3452764
-latitude=-33.8685

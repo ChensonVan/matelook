@@ -1,3 +1,0 @@
-message=HAHAHA sorry man I'm always late
-time=2016-10-03T15:36:46+0000
-from=z5020913

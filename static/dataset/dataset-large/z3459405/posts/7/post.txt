@@ -1,5 +1,0 @@
-longitude=151.2129
-latitude=-33.8882
-message=to the tall handsome indian guy with the rugged stubble, smouldering gaze, incredible jawline \nand a really distinctive laugh \nyou are cute as fuark \ni think your name is raghav
-from=z3459405
-time=2013-11-17T07:24:25+0000

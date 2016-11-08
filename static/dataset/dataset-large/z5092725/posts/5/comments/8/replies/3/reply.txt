@@ -1,3 +1,0 @@
-from=z5076554
-message=Wow some sister you are
-time=2016-09-29T05:51:14+0000

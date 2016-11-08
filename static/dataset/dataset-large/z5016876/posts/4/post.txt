@@ -1,5 +1,0 @@
-latitude=-33.8829
-from=z5016876
-message="Not even Goldman Sac can beat me in a Trade"  - Rx7driftking
-time=2016-09-12T16:14:57+0000
-longitude=151.2378

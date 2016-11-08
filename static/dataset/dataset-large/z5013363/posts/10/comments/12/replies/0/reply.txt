@@ -1,3 +1,0 @@
-time=2016-05-07T01:19:07+0000
-from=z5010380
-message=Haha yes, I still don't know how to tell my bed that I'm leaving it for another bed at the end of the semester... It'll be emotional!

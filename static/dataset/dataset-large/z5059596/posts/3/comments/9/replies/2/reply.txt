@@ -1,3 +1,0 @@
-message=Kevin is retired
-from=z5098157
-time=2016-09-03T03:32:45+0000

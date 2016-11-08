@@ -1,3 +1,0 @@
-from=z5089708
-message=I'm surprised she hasn't blocked us yet
-time=2016-06-21T12:30:29+0000

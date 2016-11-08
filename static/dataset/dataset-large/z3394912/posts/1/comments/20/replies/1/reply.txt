@@ -1,3 +1,0 @@
-from=z5060223
-time=2016-08-18T07:45:57+0000
-message=Didn't know it was a beginners tournament

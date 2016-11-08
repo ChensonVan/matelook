@@ -1,3 +1,0 @@
-from=z5119655
-message=It's about u
-time=2016-08-26T01:38:57+0000

@@ -1,3 +1,0 @@
-message=z5077131 well done
-from=z5075827
-time=2016-09-04T11:25:41+0000

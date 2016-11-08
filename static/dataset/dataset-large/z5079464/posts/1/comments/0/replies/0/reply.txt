@@ -1,3 +1,0 @@
-from=z5017822
-time=2016-08-13T14:48:51+0000
-message=I'm going to deck you

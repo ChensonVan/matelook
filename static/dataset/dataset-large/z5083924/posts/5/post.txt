@@ -1,5 +1,0 @@
-latitude=-33.8976
-from=z5083924
-longitude=151.2107
-time=2014-08-10T09:58:01+0000
-message=I have a crush on William Chan. Oh, but which one? There are so many, you'll never know ^.-

@@ -1,5 +1,0 @@
-longitude=151.2217
-time=2016-06-09T13:05:17+0000
-message=To the halfie-looking guy who always sits near the front in PHYS1121 lectures, and does solar for ENGG1000, you have the cutest smile, what's your name? xx
-from=z3424645
-latitude=-33.9226

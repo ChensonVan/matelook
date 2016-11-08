@@ -1,3 +1,0 @@
-time=2016-08-11T23:45:13+0000
-from=z5023005
-message=Pretty please?

@@ -1,3 +1,0 @@
-time=2013-05-05T06:34:16+0000
-from=z3484231
-message=thirsty

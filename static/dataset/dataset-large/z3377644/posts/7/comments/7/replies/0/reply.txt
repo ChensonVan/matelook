@@ -1,3 +1,0 @@
-message=Oh yes. I was totally at this thing
-time=2016-08-08T13:19:34+0000
-from=z5021190

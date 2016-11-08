@@ -1,3 +1,0 @@
-from=z5037271
-message=Abrar Ahmed
-time=2016-08-07T12:55:12+0000

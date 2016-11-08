@@ -1,3 +1,0 @@
-message=The person who wrote this is very triggered
-time=2016-08-26T00:00:02+0000
-from=z5017258

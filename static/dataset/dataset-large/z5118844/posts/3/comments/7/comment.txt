@@ -1,3 +1,0 @@
-from=z5059161
-message=z5048611 hey nice rap you wrote
-time=2016-06-24T10:35:42+0000

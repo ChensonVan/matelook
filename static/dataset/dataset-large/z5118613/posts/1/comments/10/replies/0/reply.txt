@@ -1,3 +1,0 @@
-message=Wow I've never heard of that before
-time=2016-09-05T01:26:13+0000
-from=z5113077

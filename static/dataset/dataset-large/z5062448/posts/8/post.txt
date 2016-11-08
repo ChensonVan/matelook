@@ -1,5 +1,0 @@
-from=z5062448
-time=2013-05-18T03:32:55+0000
-message=Just a cute, smart, athletic, Californian looking for a nice Aussie girl to take out to dinner and a movie.
-longitude=151.2246
-latitude=-33.9113

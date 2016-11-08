@@ -1,3 +1,0 @@
-from=z5075962
-time=2013-04-25T12:25:42+0000
-message=it's a trap!

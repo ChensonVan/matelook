@@ -1,3 +1,0 @@
-from=z5060140
-message=arent u at work
-time=2016-09-09T05:36:05+0000

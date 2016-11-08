@@ -1,3 +1,0 @@
-from=z3462432
-time=2016-09-02T02:37:02+0000
-message=o shiet. something severe has gone down here.

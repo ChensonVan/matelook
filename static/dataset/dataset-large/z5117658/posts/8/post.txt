@@ -1,5 +1,0 @@
-from=z5117658
-longitude=150.7274
-latitude=-33.7514
-message=To the second year physics lab demonstrator with ginger hair. Damn girl, you fine
-time=2016-05-13T06:20:00+0000

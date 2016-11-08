@@ -1,3 +1,0 @@
-from=z5059526
-time=2016-08-28T03:18:13+0000
-message=z5019746 I bet it was one of you guys....

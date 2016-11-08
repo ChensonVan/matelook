@@ -1,3 +1,0 @@
-time=2016-09-02T04:21:02+0000
-message=z5048663, you have 3 days.
-from=z5015085

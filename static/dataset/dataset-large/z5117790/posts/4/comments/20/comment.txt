@@ -1,3 +1,0 @@
-from=z5048555
-message=z3465151 is pretty hot
-time=2016-05-06T00:59:53+0000

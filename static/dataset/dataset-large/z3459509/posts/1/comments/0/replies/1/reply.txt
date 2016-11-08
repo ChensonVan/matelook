@@ -1,3 +1,0 @@
-from=z3468575
-message=If reliability is iffy, then the person doesn't really know the spring constant, do they?
-time=2016-06-03T13:02:29+0000

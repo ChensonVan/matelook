@@ -1,3 +1,0 @@
-message=z3422324 Get out of the Wei!
-time=2016-06-12T05:39:24+0000
-from=z5130883

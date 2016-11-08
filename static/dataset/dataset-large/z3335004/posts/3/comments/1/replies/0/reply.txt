@@ -1,3 +1,0 @@
-time=2014-01-02T09:56:32+0000
-from=z5024986
-message=I wish I could change your mind

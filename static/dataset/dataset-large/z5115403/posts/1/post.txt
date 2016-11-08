@@ -1,5 +1,0 @@
-longitude=151.2383
-time=2016-04-15T23:29:48+0000
-message=The number of posts about Asian people in this group are too damn high.
-latitude=-33.9128
-from=z5115403

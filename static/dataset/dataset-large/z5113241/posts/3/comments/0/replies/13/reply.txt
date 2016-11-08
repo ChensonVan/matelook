@@ -1,3 +1,0 @@
-time=2016-09-01T05:25:41+0000
-message=That's not what z5059719 said
-from=z5015071

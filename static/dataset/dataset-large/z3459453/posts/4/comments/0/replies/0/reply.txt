@@ -1,3 +1,0 @@
-from=z5014160
-time=2016-08-19T08:27:02+0000
-message=Dunno why I'm an anime prince :P

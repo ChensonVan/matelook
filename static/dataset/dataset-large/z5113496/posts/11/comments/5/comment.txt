@@ -1,3 +1,0 @@
-message=z5113003 someone's got an admirer
-from=z5020410
-time=2016-08-08T08:55:59+0000

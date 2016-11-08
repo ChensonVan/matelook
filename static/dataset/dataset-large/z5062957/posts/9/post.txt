@@ -1,5 +1,0 @@
-time=2016-09-21T01:04:26+0000
-longitude=151.0668
-message=Looking for a first year electrical engineering bengali student who can eat a mixed hsp and a schnitzel burger in one sitting :)
-from=z5062957
-latitude=-33.7428

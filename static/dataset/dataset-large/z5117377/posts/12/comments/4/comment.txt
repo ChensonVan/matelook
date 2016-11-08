@@ -1,3 +1,0 @@
-from=z5119667
-message=z5017077 so did you end up talking to him or nah
-time=2015-11-15T08:07:56+0000

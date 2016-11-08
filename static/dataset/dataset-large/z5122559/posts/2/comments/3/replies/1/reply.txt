@@ -1,3 +1,0 @@
-time=2016-09-04T11:45:20+0000
-from=z3330003
-message=You're not blonde.

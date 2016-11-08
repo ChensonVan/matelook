@@ -1,3 +1,0 @@
-message=Was it her ?
-from=z5076554
-time=2016-05-14T14:22:48+0000

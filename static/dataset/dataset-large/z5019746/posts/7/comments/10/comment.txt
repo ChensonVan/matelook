@@ -1,3 +1,0 @@
-from=z5016565
-time=2016-09-22T03:39:53+0000
-message=I'm over 25 and have never had a girlfriend, you'll survive

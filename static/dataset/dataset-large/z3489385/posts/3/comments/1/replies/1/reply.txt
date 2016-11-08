@@ -1,3 +1,0 @@
-from=z5075687
-message=*Cersei
-time=2016-06-05T04:29:05+0000

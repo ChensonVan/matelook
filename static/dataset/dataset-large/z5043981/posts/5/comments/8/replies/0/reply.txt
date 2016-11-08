@@ -1,3 +1,0 @@
-message=U can thank z3416238
-time=2016-04-27T10:01:31+0000
-from=z5018348

@@ -1,3 +1,0 @@
-message=GO STUDY YOU TWO
-from=z5117170
-time=2013-06-18T03:56:32+0000

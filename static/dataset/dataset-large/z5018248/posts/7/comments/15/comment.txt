@@ -1,3 +1,0 @@
-message=What if those pills he pops are actually what he requires to not die.
-time=2016-08-03T23:01:08+0000
-from=z3462629

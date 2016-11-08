@@ -1,3 +1,0 @@
-message=yeah thats Nathan Scarano
-from=z5113614
-time=2013-03-26T22:51:58+0000

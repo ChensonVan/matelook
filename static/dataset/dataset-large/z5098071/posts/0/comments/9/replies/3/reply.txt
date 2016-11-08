@@ -1,3 +1,0 @@
-message=We all know youre the admin of this page and writing 90% if the letters
-time=2016-09-19T02:19:52+0000
-from=z3372872

@@ -1,3 +1,0 @@
-message=HAHAHAHAHA i might aswell have written that
-from=z5033280
-time=2016-06-29T03:36:51+0000

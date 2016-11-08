@@ -1,3 +1,0 @@
-time=2016-06-29T05:42:41+0000
-from=z3462438
-message=It won't matter in the long run anyways, since we're gonna die

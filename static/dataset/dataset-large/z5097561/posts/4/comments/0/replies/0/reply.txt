@@ -1,3 +1,0 @@
-from=z5089708
-message=100% Florence
-time=2016-06-21T12:25:29+0000

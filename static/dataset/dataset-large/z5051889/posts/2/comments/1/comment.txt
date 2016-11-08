@@ -1,3 +1,0 @@
-message=z5020210 vincieboo!
-time=2016-06-07T04:51:48+0000
-from=z5099216

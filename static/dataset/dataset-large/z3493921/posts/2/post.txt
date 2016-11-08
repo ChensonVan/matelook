@@ -1,5 +1,0 @@
-longitude=151.2003
-from=z3493921
-message=to Mary Jane, you make my fridays so much better. You look good, smell good and make me feel good. I will always love you :)
-time=2013-08-04T13:39:24+0000
-latitude=-33.8062

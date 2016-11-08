@@ -1,5 +1,0 @@
-time=2016-05-12T09:58:56+0000
-latitude=-33.5408
-from=z5088545
-message=Cassandra Yuan\n\nIs she taken? If not, up for drinks with a tall Asian?
-longitude=150.7669

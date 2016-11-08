@@ -1,5 +1,0 @@
-message=To Mr.A\nLook at the stars, \nLook how they shine for you
-time=2016-04-28T05:45:13+0000
-latitude=-33.9229
-from=z3413158
-longitude=151.2303

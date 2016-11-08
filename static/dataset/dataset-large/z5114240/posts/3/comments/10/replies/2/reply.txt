@@ -1,3 +1,0 @@
-message=Jesus
-from=z5018248
-time=2016-05-17T08:10:55+0000

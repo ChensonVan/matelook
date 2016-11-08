@@ -1,3 +1,0 @@
-from=z5114743
-message=Mingle with J and her Pringles
-time=2016-10-01T12:08:03+0000

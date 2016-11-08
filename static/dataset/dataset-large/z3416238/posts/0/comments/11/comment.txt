@@ -1,3 +1,0 @@
-message=The Wong uni z5113003 z5115045
-time=2016-05-11T12:39:38+0000
-from=z5055646

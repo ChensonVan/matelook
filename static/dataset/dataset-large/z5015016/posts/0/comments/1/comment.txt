@@ -1,3 +1,0 @@
-from=z5099971
-message=Way too much PDA. =P Get a room ughh...
-time=2013-09-08T07:46:12+0000

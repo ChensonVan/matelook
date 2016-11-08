@@ -1,3 +1,0 @@
-message=Pola pola
-from=z3458908
-time=2016-05-13T02:28:51+0000

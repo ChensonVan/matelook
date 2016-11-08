@@ -1,5 +1,0 @@
-time=2016-06-12T10:55:41+0000
-latitude=-33.7767
-message=I really hope Robert Tan is still doing maths pass next term. He's he cutest mentor around.
-longitude=151.1800
-from=z3480991

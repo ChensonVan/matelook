@@ -1,5 +1,0 @@
-longitude=151.1544
-from=z5015812
-message=shoutout to my fav UNSW power couple James and Ian aka. Jamian <3 u guys are the cutest cc goals <3
-latitude=-33.8541
-time=2016-04-29T10:20:24+0000

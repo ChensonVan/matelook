@@ -1,3 +1,0 @@
-message=there is no bae but harambe
-from=z3415383
-time=2016-08-15T01:38:08+0000

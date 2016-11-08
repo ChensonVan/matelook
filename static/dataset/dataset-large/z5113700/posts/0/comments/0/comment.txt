@@ -1,3 +1,0 @@
-from=z5028693
-message=all good
-time=2016-03-21T06:42:58+0000

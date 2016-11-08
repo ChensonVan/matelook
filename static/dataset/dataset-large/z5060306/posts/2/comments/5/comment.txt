@@ -1,3 +1,0 @@
-from=z5017842
-time=2013-04-21T09:47:02+0000
-message=100 likes and she'll go on a date :)

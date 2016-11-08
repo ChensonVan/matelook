@@ -1,3 +1,0 @@
-from=z3484231
-message=wow. i am literally right here. wow.
-time=2016-04-20T11:55:19+0000

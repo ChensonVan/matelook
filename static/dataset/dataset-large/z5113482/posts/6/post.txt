@@ -1,5 +1,0 @@
-time=2013-05-09T10:55:03+0000
-message=To that stunning little munchkin in law, can you litigate me? You know who you are, Sylva.
-from=z5113482
-latitude=-33.9176
-longitude=151.2260

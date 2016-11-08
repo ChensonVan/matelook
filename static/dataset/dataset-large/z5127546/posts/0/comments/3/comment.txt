@@ -1,3 +1,0 @@
-message=z5098088 this entertains me
-from=z5017842
-time=2016-07-26T05:49:26+0000

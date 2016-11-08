@@ -1,3 +1,0 @@
-message=What's wrong about WeChat users
-time=2016-08-30T00:36:48+0000
-from=z3463730

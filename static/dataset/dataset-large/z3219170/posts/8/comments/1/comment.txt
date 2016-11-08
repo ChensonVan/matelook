@@ -1,3 +1,0 @@
-from=z5024602
-message=z3480991 thought you transferred into straight civeng ._.
-time=2016-08-02T06:41:57+0000

@@ -1,3 +1,0 @@
-from=z5113496
-message=Good luck z5102263
-time=2016-09-18T17:17:47+0000

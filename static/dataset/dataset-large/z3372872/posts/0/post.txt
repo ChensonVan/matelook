@@ -1,5 +1,0 @@
-message=Hey Sunny Ruan,\nHow do i get a date with you? you aesthetically pleasing man. \n\np.s you look so hot when you ride your bike
-latitude=-33.9244
-from=z3372872
-time=2016-05-26T01:37:50+0000
-longitude=151.2208

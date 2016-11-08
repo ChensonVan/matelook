@@ -1,3 +1,0 @@
-from=z5019900
-message=Lmao I don't even do that haha
-time=2016-08-09T06:55:01+0000

@@ -1,3 +1,0 @@
-message=This is what I have been waiting for!
-from=z5127546
-time=2016-10-05T06:33:23+0000

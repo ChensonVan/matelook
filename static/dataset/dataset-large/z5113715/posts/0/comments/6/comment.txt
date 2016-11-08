@@ -1,3 +1,0 @@
-from=z5063045
-message=z5061301 ;) you stud you!!
-time=2013-04-06T13:28:56+0000

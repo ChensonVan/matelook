@@ -1,3 +1,0 @@
-message=z3289658 did not see that coming...
-from=z5088545
-time=2016-08-25T01:31:05+0000

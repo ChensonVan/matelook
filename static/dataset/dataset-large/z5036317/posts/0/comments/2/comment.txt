@@ -1,3 +1,0 @@
-from=z5052081
-time=2013-03-27T04:57:19+0000
-message=Think we've heard enough from you z5059826

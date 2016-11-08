@@ -1,3 +1,0 @@
-message=nah, im not you mate
-from=z3385911
-time=2016-04-27T12:40:12+0000

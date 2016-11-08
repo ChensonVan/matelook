@@ -1,3 +1,0 @@
-message=z5060573 is your man.
-from=z5024425
-time=2013-09-25T23:07:03+0000

@@ -1,3 +1,0 @@
-from=z5014335
-message=He goes to macq nat LOL
-time=2016-09-21T10:26:19+0000

@@ -1,5 +1,0 @@
-from=z5039294
-message=To myself,\nYour hot, your amazing, your beautiful. And I should probably stop writing love letters to myself.\nLove Scott, 2nd year med sci
-time=2013-08-11T20:40:33+0000
-latitude=-33.9894
-longitude=151.1505

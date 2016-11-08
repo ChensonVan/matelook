@@ -1,3 +1,0 @@
-time=2016-09-10T11:59:23+0000
-message=z5087067 z5048555 I thought one of you two might have written this... But then I realised it must have been z5061920
-from=z5012884

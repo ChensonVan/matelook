@@ -1,3 +1,0 @@
-from=z5015085
-time=2016-05-12T04:08:02+0000
-message=thanks

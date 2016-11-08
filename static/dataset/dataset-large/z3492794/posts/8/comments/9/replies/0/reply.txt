@@ -1,3 +1,0 @@
-from=z3420952
-time=2016-10-06T02:23:44+0000
-message=Right I forgot you had yellow fever 😜

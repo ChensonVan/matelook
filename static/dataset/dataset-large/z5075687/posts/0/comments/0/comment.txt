@@ -1,3 +1,0 @@
-from=z5115780
-message=z5016305 another fan of yours
-time=2016-04-15T13:52:04+0000

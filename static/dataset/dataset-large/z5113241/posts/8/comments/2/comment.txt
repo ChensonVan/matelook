@@ -1,3 +1,0 @@
-message=*"Not so secret admirer"
-time=2013-05-10T05:39:21+0000
-from=z5061308

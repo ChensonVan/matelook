@@ -1,5 +1,0 @@
-latitude=-33.9094
-message=Being friends with you is really hard. Like really hard. I know it's stupid because if anything I'm disappointed in myself. I thought I was strong and could handle anything. But apparently not. I couldn't even say this all to you in person. Because more than anything, being friends with you hurts. I can't do it anymore and I'm sorry. Please take care of yourself and even if you think you won't or can't, I know you'll keep winning.
-longitude=151.2379
-time=2016-10-02T14:32:05+0000
-from=z5102263

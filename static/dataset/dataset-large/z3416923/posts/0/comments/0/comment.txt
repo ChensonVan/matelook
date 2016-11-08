@@ -1,3 +1,0 @@
-from=z5059421
-message=This was really the first time that I saw three "really"s in two really close sentences.
-time=2013-05-09T13:07:53+0000

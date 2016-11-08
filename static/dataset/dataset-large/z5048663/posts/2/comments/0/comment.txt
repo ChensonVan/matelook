@@ -1,3 +1,0 @@
-time=2013-05-07T10:50:01+0000
-message=For a third-world country, you're pretty well-developed
-from=z5014972

@@ -1,3 +1,0 @@
-message=z5113700 here's another nudge
-time=2016-05-13T00:06:10+0000
-from=z3489385

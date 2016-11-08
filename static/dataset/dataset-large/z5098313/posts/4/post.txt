@@ -1,5 +1,0 @@
-message=To neha, second year comm. we spoke briefly in macro last sem but I never had the courage to ask you out. Juice sometime?
-from=z5098313
-latitude=-33.9235
-longitude=151.2304
-time=2013-04-03T11:10:29+0000

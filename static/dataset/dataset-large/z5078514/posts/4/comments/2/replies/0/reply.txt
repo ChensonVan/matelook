@@ -1,3 +1,0 @@
-from=z5120169
-message=I have the best friends. :3
-time=2013-11-02T12:24:06+0000

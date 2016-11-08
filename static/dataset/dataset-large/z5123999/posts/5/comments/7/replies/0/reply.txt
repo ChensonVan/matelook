@@ -1,3 +1,0 @@
-from=z5060306
-time=2016-06-08T01:08:05+0000
-message=pls no more tags

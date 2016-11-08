@@ -1,3 +1,0 @@
-message=Wasis yu ni hahahaha
-from=z3411568
-time=2016-09-19T04:41:12+0000

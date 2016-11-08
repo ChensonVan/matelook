@@ -1,3 +1,0 @@
-message=z3422324 makes great coffee and great curry
-time=2016-09-13T01:41:10+0000
-from=z3489361

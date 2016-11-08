@@ -1,5 +1,0 @@
-from=z5117790
-message=A group of us crim students are crushing on tut Adrian from crim3000. Xoxoxox
-longitude=151.2262
-latitude=-33.9206
-time=2016-05-12T12:42:41+0000

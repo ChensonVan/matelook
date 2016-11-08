@@ -1,3 +1,0 @@
-message=OMG it's Jacob sartorius
-time=2016-06-07T10:50:32+0000
-from=z3485885

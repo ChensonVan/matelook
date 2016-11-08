@@ -1,3 +1,0 @@
-time=2016-09-29T02:33:04+0000
-message=that escalated quickly
-from=z3418003

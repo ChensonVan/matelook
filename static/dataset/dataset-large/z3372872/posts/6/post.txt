@@ -1,5 +1,0 @@
-latitude=-33.9244
-longitude=151.2225
-from=z3372872
-message=Maxine, from PSYC1001, i think im in love with you, i listen to you talk all the time and i just think that we are so alike and i see a real future for us, youre so beautiful it intimidates me, but i think youre the one for me
-time=2013-05-27T22:02:53+0000

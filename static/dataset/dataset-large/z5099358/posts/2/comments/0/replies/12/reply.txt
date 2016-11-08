@@ -1,3 +1,0 @@
-from=z5076025
-message=but he's our funny sunny
-time=2013-11-02T13:41:53+0000

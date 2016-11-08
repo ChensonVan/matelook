@@ -1,3 +1,0 @@
-time=2016-05-12T15:41:20+0000
-from=z5116082
-message=No Kevin no

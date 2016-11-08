@@ -1,3 +1,0 @@
-from=z3330003
-message=z5116179 please tell me you've been tagged in this many many times
-time=2016-09-05T09:04:03+0000

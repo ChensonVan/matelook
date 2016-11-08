@@ -1,3 +1,0 @@
-time=2013-04-29T23:50:47+0000
-message=z5063045 you dawg you
-from=z5062732

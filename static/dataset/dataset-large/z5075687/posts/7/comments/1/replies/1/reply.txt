@@ -1,3 +1,0 @@
-message=that's nasty
-from=z5119635
-time=2016-06-03T02:55:32+0000

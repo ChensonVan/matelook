@@ -1,3 +1,0 @@
-time=2013-07-01T19:00:20+0000
-from=z5077131
-message=You don't know us.

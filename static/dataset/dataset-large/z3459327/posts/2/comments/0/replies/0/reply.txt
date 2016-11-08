@@ -1,3 +1,0 @@
-time=2016-05-30T23:10:11+0000
-message=Good to see z5126202
-from=z3377644

@@ -1,3 +1,0 @@
-message=This is depressing
-time=2016-06-07T05:24:16+0000
-from=z5099358

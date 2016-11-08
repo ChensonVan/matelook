@@ -1,3 +1,0 @@
-time=2016-08-23T00:02:11+0000
-message=ur my hero
-from=z3330003

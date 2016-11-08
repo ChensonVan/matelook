@@ -1,3 +1,0 @@
-message=I wrote that btw
-time=2016-09-05T09:01:40+0000
-from=z3489361

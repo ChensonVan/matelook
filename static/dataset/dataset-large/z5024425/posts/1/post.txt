@@ -1,5 +1,0 @@
-longitude=151.1019
-latitude=-33.9362
-time=2016-09-01T11:02:00+0000
-from=z5024425
-message=When you want a girlfriend but you go to UNSW and don't speak Mandarin :(

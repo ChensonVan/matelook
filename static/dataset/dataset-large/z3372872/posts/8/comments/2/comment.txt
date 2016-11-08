@@ -1,3 +1,0 @@
-message=motta*
-from=z5099971
-time=2013-04-22T03:26:21+0000

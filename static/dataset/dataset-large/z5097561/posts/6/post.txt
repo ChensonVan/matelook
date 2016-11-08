@@ -1,5 +1,0 @@
-message=To the hot bogan that has the neck beard in eng1811, i think your mates call you Reggers. Ive seen you working at maccas, come around for a potato?
-longitude=151.2464
-from=z5097561
-time=2013-08-11T08:36:35+0000
-latitude=-33.9117

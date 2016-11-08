@@ -1,5 +1,0 @@
-message=Dear Elyse from my ILJ class,\n\nYou are so beautiful. \nI've had a wet dream about you 3.5 times.\nI loved it.\nWould you be down to make my dreams come true?\n\nFrom,\nA guy in your ILJ class
-latitude=-33.5412
-from=z5127546
-longitude=150.7975
-time=2016-05-13T09:19:08+0000

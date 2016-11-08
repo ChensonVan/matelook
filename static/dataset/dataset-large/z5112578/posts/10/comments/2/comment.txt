@@ -1,3 +1,0 @@
-from=z5059413
-message=Romantic love requires\nNot one, but two.\nIt will bring a tear,\nThis love is not a pair.\nSad it must be nay.
-time=2013-03-19T11:00:05+0000

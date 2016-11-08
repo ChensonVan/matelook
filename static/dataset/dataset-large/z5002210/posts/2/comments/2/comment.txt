@@ -1,3 +1,0 @@
-message=Just ask him to show you his wand already.
-from=z5076642
-time=2013-08-13T03:30:53+0000

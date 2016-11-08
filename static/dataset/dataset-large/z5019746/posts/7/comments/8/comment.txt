@@ -1,3 +1,0 @@
-from=z5115817
-message=z5016305 yo time to shine
-time=2016-09-22T07:21:38+0000

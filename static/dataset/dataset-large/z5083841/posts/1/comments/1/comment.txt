@@ -1,3 +1,0 @@
-message=>"come and say hi"\n>"secret admirer"\nwat
-time=2013-04-25T09:08:12+0000
-from=z5062732

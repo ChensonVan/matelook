@@ -1,3 +1,0 @@
-time=2013-04-10T11:49:56+0000
-from=z5062448
-message=PUA strikes again

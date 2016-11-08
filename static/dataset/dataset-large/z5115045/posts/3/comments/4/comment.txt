@@ -1,3 +1,0 @@
-from=z5059583
-time=2013-04-17T02:30:46+0000
-message=z3416144 found another one

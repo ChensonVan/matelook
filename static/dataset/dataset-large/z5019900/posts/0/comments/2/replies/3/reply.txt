@@ -1,3 +1,0 @@
-message=speak for yourself
-from=z3470029
-time=2016-05-05T11:43:32+0000

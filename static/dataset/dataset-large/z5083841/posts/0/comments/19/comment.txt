@@ -1,3 +1,0 @@
-from=z3489361
-message=z3422324 hot and vegan
-time=2016-08-09T07:39:27+0000

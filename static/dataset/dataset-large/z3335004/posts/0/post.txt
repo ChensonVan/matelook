@@ -1,5 +1,0 @@
-latitude=-33.9046
-message=Steph Lara, I love you :)
-longitude=151.2277
-from=z3335004
-time=2013-10-28T10:06:12+0000

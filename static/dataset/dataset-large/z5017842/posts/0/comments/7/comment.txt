@@ -1,3 +1,0 @@
-from=z5020683
-time=2016-06-07T06:41:39+0000
-message=z3463930 they posted z5099971 love letter.

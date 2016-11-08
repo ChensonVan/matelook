@@ -1,3 +1,0 @@
-from=z5110358
-time=2013-04-17T03:53:45+0000
-message=Too many...

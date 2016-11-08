@@ -1,3 +1,0 @@
-from=z5079464
-time=2016-08-26T03:40:23+0000
-message=z5076485 your mate?

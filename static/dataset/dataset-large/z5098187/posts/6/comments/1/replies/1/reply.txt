@@ -1,3 +1,0 @@
-from=z5119678
-message=z5116218 did 5 reps on 60
-time=2016-09-07T12:27:09+0000

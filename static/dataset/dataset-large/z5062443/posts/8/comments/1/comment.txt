@@ -1,3 +1,0 @@
-from=z5062732
-message=of course, who needs Facebook anymore?
-time=2013-08-28T01:24:58+0000

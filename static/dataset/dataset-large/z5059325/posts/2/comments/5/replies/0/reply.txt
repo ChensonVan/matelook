@@ -1,3 +1,0 @@
-from=z5024967
-message=Shakib Sai z5117559
-time=2016-08-09T07:37:51+0000

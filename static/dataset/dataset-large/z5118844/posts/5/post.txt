@@ -1,5 +1,0 @@
-message=To Michael T.\n\nI keep dropping hints but you keep getting it. Ask me out already\n\n- You know who I am
-longitude=151.2369
-from=z5118844
-latitude=-33.9212
-time=2016-08-25T09:29:58+0000

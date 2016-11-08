@@ -1,5 +1,0 @@
-from=z5021034
-latitude=-33.9248
-message=To that cute pale girl in my FINS1613 class on Tuesday morning.\n\nYou're really cute especially when you roll your eyes whenever you don't seem to understand anything. I'd love to see your eyes roll back when we're in bed. ;-)\n\nCouldn't quite catch your name but it sounded like a minion. Heard you going on about Krispy Kreme doughnuts last lecture, wanna grab one sometime? :-)
-longitude=151.2262
-time=2016-04-27T02:18:14+0000

@@ -1,3 +1,0 @@
-message=Yes i think it was the thing you think it is that i also think it is the thing
-time=2013-04-03T10:17:23+0000
-from=z5083924

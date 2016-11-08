@@ -1,3 +1,0 @@
-message=Pretty much a direct love letter
-time=2016-09-03T14:45:06+0000
-from=z5019361

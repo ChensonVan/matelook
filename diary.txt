@@ -11,6 +11,14 @@
 28/10/16    12:00   15:00   fix some small bugs
 28/10/16    20:00   22:00   deploy to CSE server
 
-docker run -p 2041:80 -v /Users/Chenson/Desktop/ass2:/var/www comp2041/cgi
+docker run -p 2041:8090 -v /Users/Chenson/Desktop/matelook:/var/www comp2041/cgi
 
 http://127.0.0.1:2041/
+
+
+https://cgi.cse.unsw.edu.au/~cs2041ass/a/5006334-542a0b8ca8e67cc6c70c225b4b567da8/matelook.cgi/
+https://cgi.cse.unsw.edu.au/~cs2041ass/a/5006334-96a415bd3df112c92d223de7e1f5e322/matelook.cgi/
+
+https://cgi.cse.unsw.edu.au/~cs2041ass/a/5006334-e6bc4f9b44b70fc53f2a1614faa351b8/matelook.cgi/
+
+129.94.242.49

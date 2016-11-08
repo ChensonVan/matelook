@@ -1,3 +1,0 @@
-time=2016-09-11T12:47:42+0000
-from=z5017842
-message=2fast2furious

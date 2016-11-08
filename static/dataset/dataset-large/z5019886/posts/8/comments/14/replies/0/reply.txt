@@ -1,3 +1,0 @@
-from=z3493008
-message=soz graduated
-time=2016-08-18T13:24:32+0000

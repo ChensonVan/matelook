@@ -1,3 +1,0 @@
-from=z3459509
-time=2016-04-29T11:31:39+0000
-message=as high as your wam

@@ -1,3 +1,0 @@
-from=z5037271
-message=Are u really bored....
-time=2016-05-11T02:37:45+0000

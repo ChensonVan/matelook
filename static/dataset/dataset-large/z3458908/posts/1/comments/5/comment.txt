@@ -1,3 +1,0 @@
-from=z5032269
-time=2013-04-18T01:41:56+0000
-message=Are you doing it too?! I'm in the 9am one wbu?

@@ -1,5 +1,0 @@
-message=To the girl I see every week at astronomy, you're a cutie - I hope that guy you're with isn't your bf ;)
-latitude=-33.9081
-longitude=151.2261
-from=z5098202
-time=2013-09-12T04:28:15+0000

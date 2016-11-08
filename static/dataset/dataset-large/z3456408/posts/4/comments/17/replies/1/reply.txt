@@ -1,3 +1,0 @@
-from=z5019886
-message=z5059526 sorry yaar
-time=2016-09-03T11:13:44+0000

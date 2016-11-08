@@ -1,3 +1,0 @@
-from=z5106767
-time=2016-08-13T23:31:31+0000
-message=One day I will teach you

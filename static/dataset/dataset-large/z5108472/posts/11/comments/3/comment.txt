@@ -1,3 +1,0 @@
-message=Just because there's a goalie there, doesn't mean you can't score
-time=2016-04-28T04:26:33+0000
-from=z5060359

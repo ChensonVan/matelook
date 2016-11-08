@@ -1,3 +1,0 @@
-from=z5048555
-message=http://stream1.gifsoup.com/webroot/animatedgifs7/2409916_o.gif
-time=2013-04-10T11:49:25+0000

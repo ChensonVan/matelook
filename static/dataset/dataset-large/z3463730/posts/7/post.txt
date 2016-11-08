@@ -1,5 +1,0 @@
-latitude=-33.8252
-message=Adrian Galanis,\n\nI've never spoken to you but you seem like a very nice person!
-time=2016-10-03T05:53:03+0000
-from=z3463730
-longitude=151.1270

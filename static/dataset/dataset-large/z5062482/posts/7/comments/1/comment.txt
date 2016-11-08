@@ -1,3 +1,0 @@
-from=z5076002
-message=z5028693 does she mean Brown Moccasins???
-time=2016-05-05T22:06:23+0000

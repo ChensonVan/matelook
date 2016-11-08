@@ -1,5 +1,0 @@
-time=2013-03-25T11:04:22+0000
-from=z5048639
-latitude=-33.8990
-message=Please, Roland D, read Fifty Shades of Grey with me... <3
-longitude=151.2614

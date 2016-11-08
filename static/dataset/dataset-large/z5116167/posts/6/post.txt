@@ -1,5 +1,0 @@
-latitude=-33.9107
-from=z5116167
-longitude=151.2292
-message=To M I know about Alex
-time=2016-10-04T14:18:10+0000

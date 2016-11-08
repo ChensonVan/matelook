@@ -1,3 +1,0 @@
-from=z3470057
-message=z3372872 tell me when you guys set a date
-time=2013-05-10T05:45:12+0000

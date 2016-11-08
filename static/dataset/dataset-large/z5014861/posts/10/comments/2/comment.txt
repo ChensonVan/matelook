@@ -1,3 +1,0 @@
-message=z5056054 I love it when you sing
-from=z5075455
-time=2016-09-03T01:06:49+0000

@@ -1,3 +1,0 @@
-message=z5113482 Emma and I are thinking this is troll
-time=2016-09-11T16:19:51+0000
-from=z3299058

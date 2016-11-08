@@ -1,3 +1,0 @@
-message=Sprung
-from=z5130883
-time=2016-08-19T08:32:52+0000

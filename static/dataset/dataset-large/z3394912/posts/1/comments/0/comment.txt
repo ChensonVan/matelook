@@ -1,3 +1,0 @@
-from=z5113003
-message=z5017077 has to see a chiropractor after every game because he's always carrying 4 other players on his shoulders
-time=2016-08-17T21:37:31+0000

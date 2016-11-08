@@ -1,3 +1,0 @@
-message=z3459050 benches 150 with one arm
-from=z5076363
-time=2016-08-14T13:38:50+0000

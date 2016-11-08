@@ -1,3 +1,0 @@
-message=Last name is "brah" mate
-time=2016-05-30T14:06:52+0000
-from=z5059421

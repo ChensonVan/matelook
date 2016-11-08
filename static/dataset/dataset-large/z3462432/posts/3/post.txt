@@ -1,5 +1,0 @@
-latitude=-33.9407
-longitude=151.2227
-from=z3462432
-time=2016-08-06T12:13:28+0000
-message=Is not knowing if you want to be in a relationship a cue that the relationship should be over?

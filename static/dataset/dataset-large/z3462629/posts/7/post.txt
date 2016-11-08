@@ -1,5 +1,0 @@
-longitude=151.0049
-latitude=-34.0198
-message=To the fine, short, asian wearing nike free runs and carrying cake to UNSW this Tuesday: Dayum boy you slaying it! \nI wish you would take me to eat cake by the ocean with you sometime ;) \nFrom the short, shy asian girl that was too scared to approach you..I'll wait for you at max brenner midday next Tuesday, spot me in all white ;)
-from=z3462629
-time=2016-08-22T22:08:13+0000

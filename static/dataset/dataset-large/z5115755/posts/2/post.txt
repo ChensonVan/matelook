@@ -1,5 +1,0 @@
-longitude=151.2303
-from=z5115755
-time=2015-04-30T10:27:51+0000
-latitude=-33.8904
-message=anyone selling their toga ticket?

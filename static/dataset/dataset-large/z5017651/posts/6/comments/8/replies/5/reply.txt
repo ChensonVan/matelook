@@ -1,3 +1,0 @@
-time=2016-04-21T10:57:30+0000
-message=snatch and transfer * ;)
-from=z5015646

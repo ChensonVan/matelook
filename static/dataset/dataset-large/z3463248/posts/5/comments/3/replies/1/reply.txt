@@ -1,3 +1,0 @@
-from=z5021028
-message=z5106767 denies it 😋
-time=2016-05-10T06:01:40+0000

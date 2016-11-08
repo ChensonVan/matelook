@@ -1,3 +1,0 @@
-from=z5016565
-message=which hair did you smell
-time=2016-07-28T23:50:21+0000

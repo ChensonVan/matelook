@@ -1,3 +1,0 @@
-time=2016-07-05T03:04:01+0000
-message=z5115039 z5113245 lol should I tag John too?
-from=z5010380

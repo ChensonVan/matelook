@@ -1,3 +1,0 @@
-from=z5019900
-message=Hahaha so deep & meaningful
-time=2016-07-12T00:25:51+0000

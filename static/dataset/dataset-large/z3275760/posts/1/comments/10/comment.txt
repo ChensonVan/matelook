@@ -1,3 +1,0 @@
-from=z5024963
-message=If ur paying...
-time=2016-09-15T03:29:50+0000

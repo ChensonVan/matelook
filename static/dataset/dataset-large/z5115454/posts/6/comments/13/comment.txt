@@ -1,3 +1,0 @@
-message=z5113236 humans of the west
-time=2016-06-24T10:41:13+0000
-from=z5019330

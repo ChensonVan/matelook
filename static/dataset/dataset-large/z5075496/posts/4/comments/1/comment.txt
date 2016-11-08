@@ -1,3 +1,0 @@
-from=z3289658
-message=z5006383 and Chris
-time=2016-04-25T10:55:29+0000

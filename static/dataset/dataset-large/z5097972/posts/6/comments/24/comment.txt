@@ -1,3 +1,0 @@
-from=z5113614
-time=2016-04-21T06:44:10+0000
-message=z3413158 rumours has it, hes one of the few spartans left after the battle of 300.

@@ -1,5 +1,0 @@
-longitude=151.2912
-latitude=-33.6594
-time=2013-05-07T13:18:23+0000
-message=To the guy with the blue Peugeot, i've left numerous letters on your car. Please call me.
-from=z3489344

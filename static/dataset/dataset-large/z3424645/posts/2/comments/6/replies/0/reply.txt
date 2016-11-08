@@ -1,3 +1,0 @@
-from=z5113968
-message=Oh but if only it was
-time=2016-06-03T19:41:17+0000

@@ -1,5 +1,0 @@
-latitude=-33.8772
-longitude=151.2256
-message=To Khan from VSA, please stop dressing like a fuccboi even tho you're cute. Please.
-time=2016-08-09T13:15:06+0000
-from=z3462323

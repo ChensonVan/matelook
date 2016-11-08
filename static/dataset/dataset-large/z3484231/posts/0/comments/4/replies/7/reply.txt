@@ -1,3 +1,0 @@
-message=I wish it was written by me, to prove my pro writing skills
-from=z5132843
-time=2016-05-18T07:11:37+0000

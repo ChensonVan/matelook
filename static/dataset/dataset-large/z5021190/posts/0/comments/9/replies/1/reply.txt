@@ -1,3 +1,0 @@
-message=Remember that modesty is for people who aren't this awesome
-from=z5019361
-time=2016-08-26T01:59:51+0000

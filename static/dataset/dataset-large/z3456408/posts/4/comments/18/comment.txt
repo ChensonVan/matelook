@@ -1,3 +1,0 @@
-time=2016-09-08T02:24:02+0000
-message=z5037271 bestiezoned
-from=z5059826

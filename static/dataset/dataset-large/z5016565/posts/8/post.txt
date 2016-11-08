@@ -1,5 +1,0 @@
-message=The semester is nearly (finally) over. Can someone give me tips on how to ask my tutor out? Are they allowed to date (ex-)students?
-from=z5016565
-latitude=-33.9884
-time=2016-06-13T12:51:59+0000
-longitude=151.2267

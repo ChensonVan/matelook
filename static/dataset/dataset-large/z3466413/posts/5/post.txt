@@ -1,5 +1,0 @@
-latitude=-33.9217
-message=Where are all them Asian guy and Indian girl couples?
-from=z3466413
-time=2013-11-07T14:28:44+0000
-longitude=151.2247

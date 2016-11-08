@@ -1,5 +1,0 @@
-time=2013-05-18T03:35:19+0000
-latitude=-33.9147
-message=Veggo/ vegan girls at UNSW, where are you? I've got the only meat you need!
-longitude=151.2287
-from=z5092154

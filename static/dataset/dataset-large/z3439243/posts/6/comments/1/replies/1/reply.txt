@@ -1,3 +1,0 @@
-time=2016-09-21T13:58:55+0000
-message=parents shouldve named you goldie
-from=z5075455

@@ -1,5 +1,0 @@
-from=z5047799
-message=I love you, Andrew!
-longitude=151.2394
-latitude=-33.9131
-time=2013-12-01T08:24:51+0000

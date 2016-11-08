@@ -1,3 +1,0 @@
-from=z3461074
-time=2013-05-10T06:22:45+0000
-message=So many shades of no :(

@@ -1,3 +1,0 @@
-from=z5019330
-message=z5109880 u thirsty hoe
-time=2016-04-28T09:57:59+0000

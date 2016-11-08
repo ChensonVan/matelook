@@ -1,3 +1,0 @@
-time=2016-08-14T13:59:06+0000
-message=White potato 😂
-from=z3416238

@@ -1,3 +1,0 @@
-time=2016-06-19T06:04:26+0000
-message=you and your soju
-from=z5110502

@@ -1,5 +1,0 @@
-from=z3462856
-latitude=-33.8404
-time=2013-08-18T09:39:57+0000
-message=To the really tall curry guy in 3rd year Aero, I think your friends call you PK. I watched in awe as you dominated your friends in handball outside the Mech Eng building. Your exceptional height was just no match for those regular sized humans. The mere sight of your super-sized figure is enough to make any girl (or guy) weak at the knees. Is everything in proportion? (because I'd love to play with that joystick)
-longitude=151.1629

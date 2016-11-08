@@ -1,3 +1,0 @@
-message=Oh gosh... Lol that does sound creepy
-from=z3475276
-time=2013-10-17T23:51:26+0000

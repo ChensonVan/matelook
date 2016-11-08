@@ -1,3 +1,0 @@
-time=2016-09-20T13:05:43+0000
-from=z5017077
-message=for you

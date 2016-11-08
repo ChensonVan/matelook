@@ -1,3 +1,0 @@
-message=don't be silly it's always assigned groups
-from=z5060446
-time=2016-08-29T12:08:03+0000

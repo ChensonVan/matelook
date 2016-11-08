@@ -1,3 +1,0 @@
-message=z5062732 mark ur territory
-time=2016-05-24T12:05:55+0000
-from=z3475276

@@ -1,3 +1,0 @@
-message=That's sweet. :D
-from=z5112578
-time=2013-03-23T12:21:18+0000

@@ -1,3 +1,0 @@
-message=Michael T. ,z5017241 same thing.
-time=2016-08-23T13:33:24+0000
-from=z5112650

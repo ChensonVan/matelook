@@ -1,3 +1,0 @@
-message=has ur phone exploded yet.?
-from=z3459054
-time=2016-09-30T04:57:12+0000

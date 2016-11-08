@@ -1,3 +1,0 @@
-from=z5112650
-message=z5113047 ur da man 4 dis.
-time=2016-08-17T15:22:53+0000

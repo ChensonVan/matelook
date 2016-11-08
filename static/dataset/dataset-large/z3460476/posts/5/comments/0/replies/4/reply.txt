@@ -1,3 +1,0 @@
-message=this is literally the first time I've seen this page
-from=z5113245
-time=2016-05-08T08:31:00+0000

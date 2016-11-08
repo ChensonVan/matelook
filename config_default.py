@@ -6,15 +6,15 @@ import os
 
 DIR_PATH = os.path.dirname(os.path.realpath(__file__))
 
-DB_SIZE = 'large'
+DB_SIZE = ['small', 'medium', 'large']
 
 
 configs = {
-    'DATA_PATH' : DIR_PATH + '/static/dataset/dataset-large',
+    'DATA_PATH' : DIR_PATH + '/static/dataset/dataset-' + DB_SIZE[1],
     'DATA_BASE' : DIR_PATH + '/matelook.db',
     'IMG_DST' : DIR_PATH  +'/static/profile',
-    'URL' : '127.0.0.1',
-    'PORT' : '8088',
+    'URL' : '0.0.0.0',
+    'PORT' : '3487',
     'LIMIT' : 5
 }
 

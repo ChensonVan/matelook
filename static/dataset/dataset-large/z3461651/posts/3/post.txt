@@ -1,5 +1,0 @@
-latitude=-33.9269
-longitude=151.1476
-message=To the absolute glammer who won the roundhouse comp the other night, you have sent me racing around, faster than you went just to find you :)
-from=z3461651
-time=2013-09-21T08:07:32+0000

@@ -1,5 +1,0 @@
-message=Who was the ridiculously good looking Indian girl in the white shirt, Ainsworth 203 lab today (Friday 1/4)? Shout out to you darling, you're fab! Hopefully I see more of you in the 2130 lectures!
-latitude=-33.9238
-longitude=151.2293
-from=z5113482
-time=2016-04-16T01:25:55+0000

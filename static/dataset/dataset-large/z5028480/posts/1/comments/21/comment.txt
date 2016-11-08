@@ -1,3 +1,0 @@
-from=z3463730
-time=2016-05-17T06:54:57+0000
-message=z3262692 sorry, you're not even cute.

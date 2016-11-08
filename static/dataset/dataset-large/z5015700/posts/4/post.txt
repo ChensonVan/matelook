@@ -1,5 +1,0 @@
-time=2013-10-05T01:48:42+0000
-message=To Ash Ketchum of UNSW\n\nI hope you haven't caught them all. I want to be your starter Pokemon
-latitude=-33.8648
-longitude=151.2347
-from=z5015700

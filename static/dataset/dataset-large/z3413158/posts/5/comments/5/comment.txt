@@ -1,3 +1,0 @@
-message=z5115780 is the master of strange
-from=z5117790
-time=2016-04-15T13:54:30+0000

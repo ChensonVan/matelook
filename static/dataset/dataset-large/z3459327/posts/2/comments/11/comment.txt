@@ -1,3 +1,0 @@
-from=z5016305
-time=2016-05-30T12:55:46+0000
-message=z5025014 you dont go unsw bro

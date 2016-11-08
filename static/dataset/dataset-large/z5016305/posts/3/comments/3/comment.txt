@@ -1,3 +1,0 @@
-time=2016-04-29T08:30:13+0000
-from=z3476529
-message=My nickname is DinDin

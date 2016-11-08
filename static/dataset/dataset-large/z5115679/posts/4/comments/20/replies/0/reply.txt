@@ -1,3 +1,0 @@
-message=Y u do this
-from=z3219170
-time=2016-09-23T01:28:36+0000

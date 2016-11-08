@@ -1,3 +1,0 @@
-message=The Quad
-from=z3422324
-time=2013-10-18T06:26:59+0000

@@ -1,3 +1,0 @@
-time=2016-06-10T01:33:25+0000
-from=z5062448
-message=This was definitely z5020210

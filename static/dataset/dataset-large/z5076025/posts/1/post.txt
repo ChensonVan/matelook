@@ -1,5 +1,0 @@
-from=z5076025
-message=To the girl with long hair who plays the four string guitar, your so cool. You look like something out of an anime, so youre kakkoi.\n\nFeel free to pull my strings desu.
-latitude=-33.7642
-longitude=150.8073
-time=2013-08-13T02:05:16+0000

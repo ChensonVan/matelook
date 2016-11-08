@@ -1,3 +1,0 @@
-from=z5113003
-message=Lol why tag me in your own post?  😂
-time=2016-04-25T21:03:30+0000

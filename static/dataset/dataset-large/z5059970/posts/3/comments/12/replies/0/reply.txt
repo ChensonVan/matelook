@@ -1,3 +1,0 @@
-message=Cmon mate
-from=z5033280
-time=2016-09-16T08:41:09+0000

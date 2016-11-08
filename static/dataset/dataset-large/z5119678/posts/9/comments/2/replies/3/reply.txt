@@ -1,3 +1,0 @@
-time=2016-05-24T12:16:05+0000
-message=It's an ellipsis inside an ellipsis #recursiveGrammar
-from=z5113702

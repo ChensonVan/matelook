@@ -1,3 +1,0 @@
-message=This is what my entire degree is for
-from=z5113047
-time=2016-08-22T06:01:34+0000

@@ -1,3 +1,0 @@
-message=Wow skuxx
-from=z5098157
-time=2013-10-26T09:53:13+0000

@@ -1,3 +1,0 @@
-from=z5112578
-message=z3462323 she wore blue singlet today! z3463248 likes blue!
-time=2016-08-23T10:23:57+0000

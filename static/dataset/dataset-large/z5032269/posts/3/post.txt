@@ -1,5 +1,0 @@
-longitude=151.1251
-from=z5032269
-latitude=-33.8269
-time=2016-08-16T15:56:45+0000
-message=Henry damn Powell, you make my head spin. We really should get that coffee sometime...

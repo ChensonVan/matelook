@@ -1,5 +1,0 @@
-latitude=-33.9350
-message=Matthew Falia, why are you so goddamn beautiful?
-time=2013-11-14T06:38:18+0000
-longitude=151.1515
-from=z3416144

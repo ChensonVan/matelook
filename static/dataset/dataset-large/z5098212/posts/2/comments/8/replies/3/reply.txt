@@ -1,3 +1,0 @@
-message=Haha no twas all Yu
-time=2016-05-14T03:58:07+0000
-from=z5059526

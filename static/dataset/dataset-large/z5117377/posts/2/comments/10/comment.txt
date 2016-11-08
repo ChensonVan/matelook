@@ -1,3 +1,0 @@
-message=ok baby.
-from=z5014972
-time=2013-05-20T08:37:06+0000

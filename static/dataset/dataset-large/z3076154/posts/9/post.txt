@@ -1,5 +1,0 @@
-message=M.W,\n\nHow could I possibly move on when you break my heart and tell me you love me all in one sentence?
-time=2016-08-04T09:16:31+0000
-longitude=151.2476
-from=z3076154
-latitude=-33.9013

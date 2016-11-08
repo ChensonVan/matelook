@@ -1,3 +1,0 @@
-time=2016-09-05T14:45:58+0000
-message=z5075726 you left too early, this pretty much describes you
-from=z5118627

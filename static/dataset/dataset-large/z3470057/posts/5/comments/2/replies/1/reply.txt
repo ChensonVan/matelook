@@ -1,3 +1,0 @@
-time=2016-09-25T05:21:27+0000
-message=I am thoroughly disappointed
-from=z3417908

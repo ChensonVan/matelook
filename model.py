@@ -13,20 +13,22 @@ from config_default import configs
 _LIMIT_ = configs['LIMIT']
 
 class User(Model):
+    """
+        User table to keep all property informatin of a user
+    """
     __table__ = 'user_info'
     zid = StringField(primary_key=True, default=next_id, ddl='varchar(50)')
-    full_name = StringField(ddl='varchar(50)')
+    full_name = StringField(default='Anonymous', ddl='varchar(50)')
     password = StringField(ddl='varchar(50)')
     email = StringField(ddl='varchar(50)')
-    mates = StringField(ddl='varchar(50)')
-    birthday = StringField(ddl='varchar(50)')
-    home_longitude = StringField(ddl='varchar(20)')
-    home_latitude = StringField(ddl='varchar(20)')
-    home_suburb = StringField(ddl='varchar(20)')
-    program = StringField(ddl='varchar(20)')
-    courses = StringField(ddl='varchar(200)')
-    mates = StringField(ddl='varchar(1000)')
-    image = StringField(ddl='varchar(50)')
+    mates = StringField(default=pickle.dumps([]), ddl='varchar(50)')
+    birthday = StringField(default='1900-00-00', ddl='varchar(50)')
+    home_longitude = StringField(default='0000', ddl='varchar(20)')
+    home_latitude = StringField(default='0000', ddl='varchar(20)')
+    home_suburb = StringField(default='', ddl='varchar(20)')
+    program = StringField(default='', ddl='varchar(20)')
+    courses = StringField(default=pickle.dumps([]), ddl='varchar(200)')
+    image = StringField(default='no_image.png', ddl='varchar(50)')
     public = BooleanField(default=1)
     suspending = BooleanField(default=0)
     notifications = StringField(default=pickle.dumps([0]), ddl='varchar(500)')
@@ -35,6 +37,9 @@ class User(Model):
 
     @classmethod
     def findByName(cls, name):
+        """
+            find a user by name
+        """
         sql = "select zid, full_name, image, mates from user_info where full_name like '%{}%'".format(name)
         results = select(sql, ())
         users = []
@@ -46,28 +51,43 @@ class User(Model):
 
     @classmethod
     def findPosts(cls, content):
+        """
+            find posts by content
+        """
         sql = "select `pid` from user_post where message like '%{}%'".format(content)
         results = select(sql, ())
         posts = [Post.findByKey(r[0]) for r in results]
         return sorted(posts, key=operator.itemgetter('time'), reverse=True)
 
     def getPosts(self):
+        """
+            get user's posts by self.zid
+        """
         sql = "select `pid` from `user_post` where `{}` like '%{}%'".format(self.__primary_key__, self.zid)
         results = select(sql, ())
         posts = [Post.findByKey(r[0]) for r in results]
         return sorted(posts, key=operator.itemgetter('time'), reverse=True)
 
     def getMates(self):
+        """
+            get user's mates list by self.zid
+        """
         mates = pickle.loads(self.mates)
         mates.sort(reverse=True)
         return [m for m in mates if self.findByKey(m)]
 
     def getMatesWithInfo(self):
+        """
+            get user's mates list and mate infomation by self.zid
+        """
         mates = pickle.loads(self.mates)
         mates.sort(reverse=True)
         return [self.findByKey(m) for m in mates if self.findByKey(m)]
 
     def mate(self, u_zid):
+        """
+            add a mate to mate list at bot sides
+        """
         mates = self.getMates()
         if u_zid not in mates:
             mates.append(u_zid)
@@ -83,6 +103,9 @@ class User(Model):
                 u_user.update()
 
     def unmate(self, u_zid):
+        """
+            delete a mate to mate list at bot sides
+        """
         mates = self.getMates()
         if u_zid in mates:
             mates.remove(u_zid)
@@ -125,11 +148,17 @@ class User(Model):
         return results[:10]
 
     def getCourses(self):
+        """
+            get user's courses list and mate infomation by self.zid
+        """
         courses = pickle.loads(self.courses)
         courses.sort(reverse=True)
         return courses
 
     def getRequests(self):
+        """
+            get all mate new friend requests which sender is user self
+        """
         sql = "select `to_zid` from requests where `from_zid`=?"
         results = select(sql, (self.zid,))
         requests = []
@@ -138,6 +167,9 @@ class User(Model):
         return requests
 
     def getRecentPosts(self):
+        """
+            get all friends recent posts
+        """
         mates = self.getMates()
         recentPosts = self.getPosts()
         for mate in mates:
@@ -145,13 +177,12 @@ class User(Model):
             if user:
                 posts = user.getPosts()
                 recentPosts.extend(posts)
-        # recentPostsOrderByTime = []
-        # for post in sorted(recentPosts, key=operator.itemgetter('time'), reverse=True):
-        #     recentPostsOrderByTime.append(post)
-        # return recentPostsOrderByTime
         return sorted(recentPosts, key=operator.itemgetter('time'), reverse=True)
 
     def getNotifications(self):
+        """
+            get all notifications by users'zid
+        """
         cur_notifications = pickle.loads(self.notifications)
         new_notifications = self.dumpNotifications()
         cur_notifications.extend(new_notifications)
@@ -164,6 +195,9 @@ class User(Model):
         return notifications
 
     def getNotificationById(self, nid):
+        """
+            get a notification by noti ID
+        """
         notifications = pickle.loads(self.notifications)
         notifications[0] = 0
         for n in notifications[1:]:
@@ -172,6 +206,9 @@ class User(Model):
         return {}
 
     def removeNotificationById(self, nid):
+        """
+            remove a notification by noti ID
+        """
         notifications = pickle.loads(self.notifications)
         notifications[0] = 0
         n = 0
@@ -184,12 +221,18 @@ class User(Model):
         self.update()
 
     def clearNotice(self):
+        """
+            clear all notifications
+        """
         notifications = pickle.loads(self.notifications)
         notifications[0] = 0
         self.notifications = pickle.dumps(notifications)
         self.update()
 
     def dumpNotifications(self):
+        """
+            dump all notification which receiver is user, and add to user notificaion list
+        """
         sql = 'select `nid` from notifications where `to_zid`=?'
         results = select(sql, (self.zid,))
         notifications = []
@@ -201,6 +244,9 @@ class User(Model):
 
 
 class Post(Model):
+    """
+        Post table to keep all property informatin of post
+    """
     __table__ = 'user_post'
     pid = StringField(primary_key=True, default=next_id, ddl='varchar(50)')
     zid = StringField(ddl='varchar(50)')
@@ -209,10 +255,16 @@ class Post(Model):
 
     @property
     def commentsSize(self):
+        """
+            get the size of all comments related to this post
+        """
         return len(self.getComments())
 
     @classmethod
     def findPosts(cls, col, value):
+        """
+            find post by columns and it's value
+        """
         sql = "select `pid` from `user_post` where `{}` like '%{}%'".format(col, value)
         results = select(sql, ())
         posts = []
@@ -223,11 +275,11 @@ class Post(Model):
         return sorted(posts, key=operator.itemgetter('time'), reverse=True)
 
     def getComments(self):
-        # # # # # # # # 
+        """
+            get all comments on this post
+        """
         sql = "select `cid`, `zid` from `user_comment` where `{}`=?".format(self.__primary_key__)
         results = select(sql, (self.pid,))
-        # return [Comment.findByKey(r[0]) for r in results]
-        # comments = [Comment.findByKey(r[0]) for r in results]
         comments = []
         for r in results:
             comment = Comment.findByKey(r[0])
@@ -235,10 +287,12 @@ class Post(Model):
             comment.image = poster.image
             comment.name = poster.full_name
             comments.append(comment)
-        # return comments
         return sorted(comments, key=operator.itemgetter('time'), reverse=True)
 
     def removeComments(self):
+        """
+            remove all comments related to this post
+        """
         sql = "select `cid` from `user_comment` where `{}`=?".format(self.__primary_key__)
         results = select(sql, (self.pid,))
         for r in results:
@@ -246,12 +300,18 @@ class Post(Model):
             comment.remove()
 
     def getPosterName(self):
+        """
+            get this poser's name
+        """
         sql = "select `full_name`, `image` from `user_info` where `zid`=?"
         results = select(sql, (self.zid,))
         return results[0]
 
 
 class Notifications(Model):
+    """
+        notification table
+    """
     __table__ = 'notifications'
     nid = StringField(primary_key=True, default=next_id, ddl='varchar(50)')
     from_zid = StringField(ddl='varchar(50)')
@@ -260,11 +320,13 @@ class Notifications(Model):
     time = StringField(default=time_stamp, ddl='varchar(10)')
     from_name = StringField(default='Anonymous', ddl='varchar(10)')
     from_img = StringField(default='no_image.png', ddl='varchar(10)')
-    # state = BooleanField(default=0)
     pid = StringField(default='', ddl='varchar(50)')
 
 
 class Requests(Model):
+    """
+        requests table 
+    """
     __table__ = 'requests'
     rid = StringField(primary_key=True, default=next_id, ddl='varchar(50)')
     from_zid = StringField(ddl='varchar(50)')
@@ -272,6 +334,9 @@ class Requests(Model):
 
     @classmethod
     def getRequest(cls, from_zid, to_zid):
+        """
+            get all request id by sender and receiver id
+        """
         sql = 'select rid from requests where from_zid=? and to_zid=?'
         results = select(sql, (from_zid, to_zid,))
         if results:
@@ -281,6 +346,9 @@ class Requests(Model):
 
 
 class Comment(Model):
+    """
+        commetn table
+    """
     __table__ = 'user_Comment'
     cid = StringField(primary_key=True, default=next_id, ddl='varchar(50)')
     pid = StringField(ddl='varchar(50)')
@@ -292,6 +360,9 @@ class Comment(Model):
 
 
 class Pagination(object):
+    """
+        pagination table
+    """
     def __init__(self, page, total_count, limit=_LIMIT_):
         self.page = page
         self.limit = limit

@@ -1,3 +1,0 @@
-time=2016-05-06T06:30:33+0000
-message=z3459405 knows how to cook a mean beef stroganoff
-from=z5118723

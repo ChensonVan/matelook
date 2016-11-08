@@ -1,5 +1,0 @@
-message=Dear Creston Girls,\n\nPlease stop being so desperate for our attention. We have standards.\n\nWarrane Boys
-longitude=151.0403
-from=z3462629
-latitude=-33.9793
-time=2016-09-28T08:05:56+0000

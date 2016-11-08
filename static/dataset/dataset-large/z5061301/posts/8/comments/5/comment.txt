@@ -1,3 +1,0 @@
-message=z5048360 take the bus to sydney for the slays
-from=z5119667
-time=2016-04-20T12:21:00+0000

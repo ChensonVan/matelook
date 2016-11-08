@@ -1,5 +1,0 @@
-latitude=-33.9233
-from=z5052081
-time=2016-07-08T10:31:13+0000
-message="Why did you pick software engineering?"\n"Because I don't have to do physics"
-longitude=151.2315

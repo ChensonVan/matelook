@@ -1,3 +1,0 @@
-from=z3459509
-time=2016-04-20T13:44:13+0000
-message=https://www.facebook.com/permalink.php?story_fbid=574932226008837&id=148144265354304&comment_id=574952956006764&notif_t=like&notif_id=1461159587597092

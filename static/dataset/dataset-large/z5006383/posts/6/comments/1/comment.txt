@@ -1,3 +1,0 @@
-from=z3422324
-message=You owe NUTS 70 cents.
-time=2013-06-10T15:43:53+0000

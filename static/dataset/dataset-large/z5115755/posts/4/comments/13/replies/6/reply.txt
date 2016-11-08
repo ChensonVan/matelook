@@ -1,3 +1,0 @@
-from=z5075071
-message=z3461196 is the bachelor
-time=2016-09-07T09:13:43+0000

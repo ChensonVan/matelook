@@ -1,3 +1,0 @@
-from=z5075071
-time=2013-08-11T10:22:08+0000
-message=footlong Wang

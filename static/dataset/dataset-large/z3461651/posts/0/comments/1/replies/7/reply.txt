@@ -1,3 +1,0 @@
-time=2016-05-01T09:33:00+0000
-message=ellen it says you go to MQ, looks they are more friendly there
-from=z3411568

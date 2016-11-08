@@ -1,3 +1,0 @@
-time=2013-04-04T10:26:03+0000
-message=HAHA HANSOO
-from=z5059526

@@ -1,3 +1,0 @@
-from=z5025090
-message=Haha, if I was taller maybe 🤔😂
-time=2016-05-05T11:11:21+0000

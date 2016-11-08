@@ -1,3 +1,0 @@
-message=I aint white doe
-time=2016-05-23T23:52:08+0000
-from=z5113496

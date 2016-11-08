@@ -1,3 +1,0 @@
-from=z5019161
-message=I reckon you may need them more than I do Andy
-time=2016-08-22T01:32:15+0000

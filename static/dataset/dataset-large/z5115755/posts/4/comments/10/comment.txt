@@ -1,3 +1,0 @@
-message=z5047516 this is a new low for you
-from=z5113614
-time=2016-09-07T02:56:05+0000

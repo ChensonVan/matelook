@@ -1,3 +1,0 @@
-message=z5015280 "You can call me Al"
-time=2016-09-14T11:17:12+0000
-from=z5015071

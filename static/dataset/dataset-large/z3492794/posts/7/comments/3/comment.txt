@@ -1,3 +1,0 @@
-from=z5115755
-message=tb to last week z3413889
-time=2016-05-11T00:49:27+0000

@@ -1,3 +1,0 @@
-from=z5077876
-time=2016-06-19T14:45:04+0000
-message=z5076363 z5117076 z5061920 looks like z3458717 is getting lonely

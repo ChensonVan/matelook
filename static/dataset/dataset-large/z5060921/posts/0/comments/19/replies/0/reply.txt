@@ -1,3 +1,0 @@
-from=z3275760
-message=Babahaha awkward
-time=2016-04-16T12:22:07+0000

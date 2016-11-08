@@ -1,3 +1,0 @@
-message=forgot you're not smoking rip
-from=z5109880
-time=2016-04-21T05:38:21+0000

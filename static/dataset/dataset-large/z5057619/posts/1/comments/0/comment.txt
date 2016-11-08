@@ -1,3 +1,0 @@
-from=z5089708
-time=2016-05-24T13:34:36+0000
-message=Sorry Saroop, you look a little too young for me

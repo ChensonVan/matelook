@@ -1,3 +1,0 @@
-message=Soz man
-time=2016-09-23T03:13:16+0000
-from=z3462055

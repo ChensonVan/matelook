@@ -1,3 +1,0 @@
-message=Go get em z5028693
-from=z5013491
-time=2016-09-07T02:57:19+0000

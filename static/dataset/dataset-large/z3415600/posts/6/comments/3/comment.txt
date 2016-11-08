@@ -1,3 +1,0 @@
-message=Ahaha this is so funny :')
-from=z5015280
-time=2016-08-13T20:57:51+0000

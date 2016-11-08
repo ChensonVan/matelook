@@ -1,5 +1,0 @@
-from=z5061927
-time=2016-07-17T01:58:21+0000
-longitude=151.2324
-latitude=-33.9162
-message=Dear Anna Cheng I heard you liked Indian boys. I'd love to take you out for tandoori chicken sometime, please comment if youre interested

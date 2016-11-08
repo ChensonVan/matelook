@@ -1,3 +1,0 @@
-from=z5020683
-message=z5060223 Can you study with me more
-time=2016-10-02T16:17:56+0000

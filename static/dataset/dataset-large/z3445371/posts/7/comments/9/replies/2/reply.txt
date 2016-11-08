@@ -1,3 +1,0 @@
-from=z5017842
-message=oi z5087067 no root pls
-time=2016-04-19T05:22:03+0000

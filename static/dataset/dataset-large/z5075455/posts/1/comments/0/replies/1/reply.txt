@@ -1,3 +1,0 @@
-message=I know 2 guys in the police academy ems
-time=2016-08-23T12:53:06+0000
-from=z3299058

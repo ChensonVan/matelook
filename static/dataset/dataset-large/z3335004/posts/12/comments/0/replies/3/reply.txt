@@ -1,3 +1,0 @@
-time=2016-09-22T05:42:06+0000
-from=z3462856
-message=Let's go just one on two

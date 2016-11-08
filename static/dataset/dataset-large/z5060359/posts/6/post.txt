@@ -1,5 +1,0 @@
-latitude=-33.9187
-message=Hey Shahan Bhuiyan.. A little bird told me that you're transfering to UNSW from UTS next semester... I know that you have a type, but I just want one date with you, to prove that I'm the curry girl you need ;)\n\nMeet me at the entrance of the Main Library on Friday of week 1 at 12pm. Looking forward to getting to know each other ;)
-longitude=151.2225
-from=z5060359
-time=2016-06-22T23:12:54+0000

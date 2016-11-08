@@ -1,3 +1,0 @@
-time=2016-06-21T02:25:32+0000
-message=I reckon its z5127733
-from=z5102263

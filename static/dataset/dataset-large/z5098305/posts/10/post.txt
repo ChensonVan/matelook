@@ -1,5 +1,0 @@
-longitude=151.2301
-time=2013-11-16T13:04:52+0000
-latitude=-33.9152
-from=z5098305
-message=Dear Monsieur,\nThese past few years have been wonderful and I thank you for being there for me when I needed help.\nThe degree has been enjoyable and it has been a pleasure sharing the same classes as you.\nI look forward to seeing you soon.\nLove,\nMeri

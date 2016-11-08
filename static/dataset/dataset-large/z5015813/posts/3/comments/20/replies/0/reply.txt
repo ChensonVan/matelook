@@ -1,3 +1,0 @@
-message=to yourself every morning
-from=z5016305
-time=2016-09-05T05:21:38+0000

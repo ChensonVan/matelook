@@ -1,3 +1,0 @@
-time=2016-09-05T22:25:03+0000
-from=z5014972
-message=Told u this is a thing z3416923

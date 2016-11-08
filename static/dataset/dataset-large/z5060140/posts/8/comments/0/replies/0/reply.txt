@@ -1,3 +1,0 @@
-from=z5017258
-message=Nah this isn't me, I'm not ashamed to admit the truth
-time=2016-07-26T05:49:51+0000

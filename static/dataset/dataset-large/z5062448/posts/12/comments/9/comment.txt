@@ -1,3 +1,0 @@
-message=z5098305 has awesome chess skills
-time=2016-05-18T11:31:28+0000
-from=z5113496

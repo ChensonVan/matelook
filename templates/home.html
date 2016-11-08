@@ -39,7 +39,7 @@
      <div class="container mtb">
         <div class="row">
             <div class="col-lg-8">
-                <form action="/post" method="POST" name="post">
+                <form action="{{  url_for('post') }}" method="POST" name="post">
                     <ul>
                         <textarea class="form-control" name="post" cols="104" rows="5"></textarea><br>
                         <button type="submit" class="btn btn-theme" style="float:right">Post</button>
@@ -48,7 +48,7 @@
                 <br><br><br>
 
                 {% if query %}
-                    <h4>Results</h4>
+                    <h4>Results for '{{ query }}'</h4>
                     <div class="hline"></div>
                     <div class="spacing"></div>
                     {% if posts %}
@@ -63,7 +63,7 @@
                     </ul>
                     <!-- pagination -->
                     {% import "pagination.html" as pagination %}
-                    {{ pagination.render_pagination('/search/post', query, pag)}}
+                    {{ pagination.pagination_search('post', query, pag)}}
                 {% elif print_myposts %}
                     <h4>My Rescent Results</h4>
                     <div class="hline"></div>
@@ -75,7 +75,7 @@
                         {{ ppost.render_myposts(myposts, pag.begin, pag.end)}}
                         <!-- pagination -->
                         {% import "pagination.html" as pagination %}
-                        {{ pagination.render_pagination('/home', '', pag)}}
+                        {{ pagination.pagination('home', pag)}}
                     {% else %}
                         <h3> Sorry, you didn't post anything. </h3>
                     {% endif %}
@@ -89,7 +89,7 @@
                     {{ ppost.render_posts(user.getRecentPosts(), pag.begin, pag.end)}}
                     <!-- pagination -->
                     {% import "pagination.html" as pagination %}
-                    {{ pagination.render_pagination('/home', '', pag)}}
+                    {{ pagination.pagination('home', pag)}}
                     </ul>
                 {% endif %}
             </div>

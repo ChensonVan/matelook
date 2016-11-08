@@ -1,3 +1,0 @@
-from=z5014335
-message=z5077119 pimping everywhere
-time=2013-10-04T08:00:20+0000

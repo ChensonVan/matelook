@@ -1,3 +1,0 @@
-message=z5024602 this is you
-from=z5118627
-time=2016-06-30T23:43:58+0000

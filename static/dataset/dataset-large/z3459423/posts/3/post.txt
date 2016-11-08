@@ -1,5 +1,0 @@
-latitude=-33.9345
-from=z3459423
-message=i'm down for a threesum, foursum, eightsum... george youssef
-longitude=151.2230
-time=2013-08-14T12:25:04+0000

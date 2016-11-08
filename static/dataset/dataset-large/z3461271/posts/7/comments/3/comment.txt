@@ -1,3 +1,0 @@
-from=z5019353
-message=z5037271 winter days at uni are coming
-time=2016-04-27T22:35:26+0000

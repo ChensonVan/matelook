@@ -1,5 +1,0 @@
-longitude=150.7475
-time=2013-08-11T11:29:46+0000
-message=To all the couples out here, how about you share with us, how your guy/girl proposed you? Share the experience! :D\n(just comment below)
-latitude=-34.1196
-from=z5059526

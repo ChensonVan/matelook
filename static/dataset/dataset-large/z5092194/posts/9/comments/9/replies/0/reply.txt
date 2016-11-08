@@ -1,3 +1,0 @@
-message=Go for it ;) woot woot
-time=2016-08-15T12:45:31+0000
-from=z5092154

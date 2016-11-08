@@ -1,3 +1,0 @@
-from=z5061590
-time=2016-08-17T14:10:20+0000
-message=z3463638 z5063045 #struggles

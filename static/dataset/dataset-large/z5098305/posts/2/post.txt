@@ -1,3 +1,0 @@
-message=Theres nothing quite like\nThat first bite\nOf breakfast after a long ass night\n<3
-from=z5098305
-time=2016-05-04T09:14:05+0000

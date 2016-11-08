@@ -1,3 +1,0 @@
-message=z3413954 your time to shine
-time=2016-08-22T21:47:37+0000
-from=z3432214

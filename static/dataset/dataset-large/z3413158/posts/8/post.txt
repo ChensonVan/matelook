@@ -1,5 +1,0 @@
-from=z3413158
-latitude=-33.9057
-message=To the boys at Coffee Cart near the library lawn: please cover me in your foam.
-time=2013-03-20T04:48:12+0000
-longitude=151.2076

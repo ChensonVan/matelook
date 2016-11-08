@@ -1,3 +1,0 @@
-time=2013-04-24T04:18:18+0000
-message=This is the third whitehouse love letter. We did good!
-from=z5006383

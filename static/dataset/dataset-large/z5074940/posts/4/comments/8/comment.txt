@@ -1,3 +1,0 @@
-from=z5119613
-time=2016-09-21T05:03:11+0000
-message=z5023773 my kind of guy

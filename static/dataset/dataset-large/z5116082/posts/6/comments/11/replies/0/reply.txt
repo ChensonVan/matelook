@@ -1,3 +1,0 @@
-from=z3422324
-message=fek off
-time=2016-05-25T11:01:41+0000

@@ -1,3 +1,0 @@
-time=2016-05-11T12:18:35+0000
-from=z5017258
-message=Don't trust jason

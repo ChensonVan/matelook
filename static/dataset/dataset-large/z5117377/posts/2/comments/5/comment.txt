@@ -1,3 +1,0 @@
-message=Swear it wasn't me lol
-time=2013-05-20T08:25:07+0000
-from=z3431766

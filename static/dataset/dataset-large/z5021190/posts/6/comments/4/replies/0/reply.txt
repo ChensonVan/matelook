@@ -1,3 +1,0 @@
-from=z3462856
-time=2016-07-12T09:50:01+0000
-message=They spelt Shannon wrong

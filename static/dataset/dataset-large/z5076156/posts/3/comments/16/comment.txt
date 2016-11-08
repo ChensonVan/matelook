@@ -1,3 +1,0 @@
-time=2016-09-23T05:10:52+0000
-from=z5092725
-message=z5019746 this is you right?

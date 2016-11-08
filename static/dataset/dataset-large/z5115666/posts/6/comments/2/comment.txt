@@ -1,3 +1,0 @@
-message=z5019900 Go for it bro!!
-from=z5011849
-time=2016-06-13T11:52:54+0000

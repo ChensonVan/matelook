@@ -1,5 +1,0 @@
-latitude=-33.7394
-time=2016-05-12T04:08:02+0000
-message=A.L from commerce\nYou are a cutie
-from=z5077163
-longitude=151.2978

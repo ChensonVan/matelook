@@ -1,3 +1,0 @@
-time=2016-09-06T06:24:56+0000
-message=Alive? Now that's a cruel joke :'(
-from=z5076642

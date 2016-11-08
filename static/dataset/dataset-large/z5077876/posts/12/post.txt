@@ -1,5 +1,0 @@
-message=to that tall dark and handsome greek boy, doing engineering commerce, i think his name is Peter or something. i luv you xx
-from=z5077876
-latitude=-33.8794
-time=2013-04-23T11:46:56+0000
-longitude=151.0094

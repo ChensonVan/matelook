@@ -1,3 +1,0 @@
-from=z5123999
-message=^^ how you know it's not me ;)
-time=2016-08-25T01:03:13+0000

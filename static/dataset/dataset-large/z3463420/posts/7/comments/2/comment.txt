@@ -1,3 +1,0 @@
-message=@denaysh
-time=2013-09-12T02:33:18+0000
-from=z5116414

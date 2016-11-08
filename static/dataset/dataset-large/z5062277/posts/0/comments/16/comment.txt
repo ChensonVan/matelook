@@ -1,3 +1,0 @@
-message=z5048639 you left too soon.. Now there's only z5117170 left
-from=z5014695
-time=2016-09-11T13:10:13+0000

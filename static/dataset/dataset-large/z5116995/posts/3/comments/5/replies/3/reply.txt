@@ -1,3 +1,0 @@
-message=who though
-time=2016-08-23T13:45:08+0000
-from=z3377644

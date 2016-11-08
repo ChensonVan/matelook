@@ -1,5 +1,0 @@
-longitude=151.2395
-time=2013-09-21T08:26:46+0000
-message=The girl at the ARC office reception; you're so HOT!
-from=z5006041
-latitude=-33.9212

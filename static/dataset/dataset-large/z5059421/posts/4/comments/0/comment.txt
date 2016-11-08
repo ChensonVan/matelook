@@ -1,3 +1,0 @@
-from=z5019177
-message=z5117170 I thought ur man was out of unsw alr
-time=2016-06-07T12:31:46+0000

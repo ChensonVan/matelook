@@ -1,3 +1,0 @@
-from=z3489385
-time=2013-04-12T05:01:54+0000
-message=Maybe the ego?

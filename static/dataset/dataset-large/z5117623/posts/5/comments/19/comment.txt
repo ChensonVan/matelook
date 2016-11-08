@@ -1,3 +1,0 @@
-time=2016-04-22T06:21:19+0000
-message=z5051889 it's Mark bæ
-from=z5014861

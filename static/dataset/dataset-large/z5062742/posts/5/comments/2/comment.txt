@@ -1,3 +1,0 @@
-from=z3415383
-message=So poetic.
-time=2013-05-10T06:01:50+0000

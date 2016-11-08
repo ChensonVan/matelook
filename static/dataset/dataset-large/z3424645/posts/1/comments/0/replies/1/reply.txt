@@ -1,3 +1,0 @@
-message=Hahahahaha "HARRY POTTER"
-from=z3413158
-time=2016-04-19T13:28:30+0000

@@ -1,3 +1,0 @@
-from=z5118844
-message=damn you got me fam
-time=2016-05-12T13:02:11+0000

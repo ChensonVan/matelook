@@ -1,3 +1,0 @@
-message=raking in da grils
-from=z5019330
-time=2016-08-13T12:44:07+0000

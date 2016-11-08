@@ -1,3 +1,0 @@
-from=z5076156
-time=2016-06-16T07:38:16+0000
-message=z5013098 z5075030 c'mon lads, lift your game.

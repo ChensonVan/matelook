@@ -1,3 +1,0 @@
-time=2016-08-20T02:33:32+0000
-from=z5117301
-message=Get out

@@ -1,3 +1,0 @@
-message=z5061572 whos your boyfriend?
-from=z5062024
-time=2016-08-30T01:52:01+0000

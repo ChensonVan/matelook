@@ -1,5 +1,0 @@
-from=z5059970
-message=Whats up with all these architects hating colours and finding faults in others? Live, love life man. Take a chill.
-latitude=-33.9083
-longitude=151.2284
-time=2016-09-25T13:14:50+0000

@@ -1,5 +1,0 @@
-from=z5116218
-longitude=151.2326
-message=To the European/Wog looking boy at the library Computer Labs on Thursday afternoon with a group doing group work I assume and wearing nikes.... lets do coffeee please :)
-time=2016-05-19T11:30:31+0000
-latitude=-33.9261

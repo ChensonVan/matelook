@@ -1,3 +1,0 @@
-from=z5062957
-message=She needs the Eric treatment ;)
-time=2016-05-24T00:58:14+0000

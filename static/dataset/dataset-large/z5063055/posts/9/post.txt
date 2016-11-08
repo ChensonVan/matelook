@@ -1,5 +1,0 @@
-time=2016-10-04T17:19:51+0000
-longitude=151.0019
-message=Dear Kristina,\n\nIt's hard to move knowing that you've found a better road. But, I know that letting you go is for the best. I'll cherish all the times we had and the memories we've made. \n\nFrom dangar st.
-from=z5063055
-latitude=-33.9156

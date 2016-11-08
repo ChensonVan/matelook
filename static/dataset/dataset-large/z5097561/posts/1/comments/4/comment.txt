@@ -1,3 +1,0 @@
-message=Kidding.
-from=z5017241
-time=2013-05-31T07:20:30+0000

@@ -1,3 +1,0 @@
-from=z5075455
-time=2016-05-16T13:08:45+0000
-message=z5061572 at least you're asian

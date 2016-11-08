@@ -1,3 +1,0 @@
-time=2016-06-14T14:16:41+0000
-message=z5127733 gotcha back
-from=z5075962

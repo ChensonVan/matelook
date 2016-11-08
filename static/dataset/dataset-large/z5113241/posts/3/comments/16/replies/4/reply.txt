@@ -1,3 +1,0 @@
-message=Like to the letter.
-from=z5097561
-time=2016-09-02T00:43:13+0000

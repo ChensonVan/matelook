@@ -1,5 +1,0 @@
-message=Whenever I hear the name Vanessa He I just want to walk in a field of daisies and sunflowers. Vanessa He if you're out there, you're the one for me. Please do me the favour of letting me take you out for some cheesecake because you are absolutely cheesy to me. \n\nSincerely, a dude that wants you on my crackers.
-latitude=-33.7533
-longitude=151.2687
-from=z9591011
-time=2016-06-19T15:23:40+0000

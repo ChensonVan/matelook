@@ -1,5 +1,0 @@
-longitude=151.2269
-message=So there is this rövhål in CSE, I mean he really doesn't suck but he does suck. You know what I mean? G, you need to stop being such a idiot when you talk to me because I sometimes want to strangle you and sometimes I want to hug you. Just stop being a jävla idiot.
-latitude=-33.9125
-from=z5085507
-time=2016-09-07T16:23:28+0000

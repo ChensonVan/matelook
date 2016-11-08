@@ -1,3 +1,0 @@
-from=z5115780
-message=3x repeat
-time=2013-04-26T14:09:43+0000

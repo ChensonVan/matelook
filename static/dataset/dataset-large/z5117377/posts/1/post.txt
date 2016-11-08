@@ -1,5 +1,0 @@
-message=To my ARTS1840 tutor, I love you.
-latitude=-33.7540
-time=2013-03-21T08:08:40+0000
-longitude=150.8933
-from=z5117377

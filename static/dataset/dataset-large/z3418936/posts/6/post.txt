@@ -1,5 +1,0 @@
-from=z3418936
-message=hello, who want to play tennis at city, i can book tennis court.
-longitude=151.2386
-time=2015-08-24T18:47:00+0000
-latitude=-33.9232

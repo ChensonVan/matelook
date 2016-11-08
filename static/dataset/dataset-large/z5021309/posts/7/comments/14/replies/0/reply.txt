@@ -1,3 +1,0 @@
-from=z5119635
-message=bruh dont even uni fridays
-time=2016-05-24T23:06:39+0000

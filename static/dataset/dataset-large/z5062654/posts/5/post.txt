@@ -1,5 +1,0 @@
-from=z5062654
-time=2013-04-18T22:22:36+0000
-longitude=151.2243
-message=So this is more of a confession but anyway.. my friends are always complaining about how there are so many Asians at UNSW. I personally feel like I'm in heaven. Yellow fever for the win. So to all you Asian guys.. You're hot. Love Goldilocks
-latitude=-33.9183

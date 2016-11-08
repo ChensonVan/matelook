@@ -1,3 +1,0 @@
-time=2016-09-08T05:29:19+0000
-from=z3422324
-message=Guilty

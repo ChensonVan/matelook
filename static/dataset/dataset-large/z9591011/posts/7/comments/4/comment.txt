@@ -1,3 +1,0 @@
-time=2013-07-30T11:31:58+0000
-message=Roger Leeroy Zhang
-from=z5017787

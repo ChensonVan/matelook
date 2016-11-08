@@ -1,5 +1,0 @@
-latitude=-33.8924
-from=z5019177
-longitude=151.1842
-message=To the beautiful girl with the long, flowing brown hair and cute red shirt in MATH2019 Wednesday morning,\n\nYou caught my eye with your confident stride. May I be granted the pleasure of chatting with you over coffee?\n\n"Are you Laplace? Because you transformed me" ;)
-time=2016-05-04T10:13:18+0000

@@ -1,3 +1,0 @@
-from=z5059421
-time=2016-08-28T02:58:35+0000
-message=ayeeee Shirley ;)

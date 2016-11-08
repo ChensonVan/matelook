@@ -1,3 +1,0 @@
-from=z5116414
-message=This was 100% written by a dude.
-time=2016-05-07T06:57:19+0000

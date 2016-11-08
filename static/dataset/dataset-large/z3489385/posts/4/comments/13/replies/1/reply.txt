@@ -1,3 +1,0 @@
-from=z5060479
-time=2016-09-27T16:02:11+0000
-message=See you on league hahaha

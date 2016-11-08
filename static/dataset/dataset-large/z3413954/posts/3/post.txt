@@ -1,5 +1,0 @@
-latitude=-33.9002
-message=Dear UNSW,\n\nWhen I asked you "How much?", you gave me a ridiculous answer. But you are not bad for 64, keep it up. You are expensive but totally worth it!\n\nWith Love,\nBinffflys <3
-from=z3413954
-longitude=151.2618
-time=2013-08-07T05:24:35+0000

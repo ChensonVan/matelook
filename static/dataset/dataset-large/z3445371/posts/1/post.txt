@@ -1,5 +1,0 @@
-message=Alma Pranoto!\nAre you single?
-longitude=151.2286
-latitude=-33.9196
-time=2016-07-30T13:01:41+0000
-from=z3445371

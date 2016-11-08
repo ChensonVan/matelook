@@ -1,3 +1,0 @@
-time=2016-05-03T10:55:10+0000
-from=z5098313
-message=Sorry not sorry :P

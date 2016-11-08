@@ -1,3 +1,0 @@
-from=z5048555
-message=alge-romance
-time=2013-05-29T11:43:21+0000

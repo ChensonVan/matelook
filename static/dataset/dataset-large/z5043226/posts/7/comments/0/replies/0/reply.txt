@@ -1,3 +1,0 @@
-message=Soz there's a line for me :))))
-time=2016-06-20T11:40:06+0000
-from=z3460924

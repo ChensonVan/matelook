@@ -1,3 +1,0 @@
-message=That was meant to be a private message. Must've accidentally sent it to love letters. My bad
-from=z5133976
-time=2016-09-06T13:52:28+0000

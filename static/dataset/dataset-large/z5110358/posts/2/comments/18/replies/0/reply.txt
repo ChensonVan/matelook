@@ -1,3 +1,0 @@
-message=Thank u
-time=2016-08-23T02:45:44+0000
-from=z5076363

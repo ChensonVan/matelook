@@ -1,3 +1,0 @@
-from=z5015191
-message=z5099971 he is taken hahaha
-time=2016-08-17T13:13:31+0000

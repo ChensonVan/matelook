@@ -1,5 +1,0 @@
-message=To Martin Tran handing out fliers for medrevue. You're so cute.\nFrom the girl drinking water that you stopped in front of the library
-from=z5062115
-longitude=151.2223
-time=2016-06-19T15:26:17+0000
-latitude=-33.9175

@@ -1,3 +1,0 @@
-from=z3417908
-message=Med sci is where all the hottest are at
-time=2016-09-11T03:42:38+0000

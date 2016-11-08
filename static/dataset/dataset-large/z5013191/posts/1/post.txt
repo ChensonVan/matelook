@@ -1,5 +1,0 @@
-longitude=151.2210
-from=z5013191
-time=2016-09-27T20:33:57+0000
-latitude=-33.9129
-message=Samin Hafiz, \n\ncoffee?

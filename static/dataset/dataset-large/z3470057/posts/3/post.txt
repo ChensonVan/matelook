@@ -1,5 +1,0 @@
-latitude=-33.9270
-from=z3470057
-time=2013-05-27T22:05:26+0000
-message=This one time, i took a dump in a urinal and didn't even wipe!
-longitude=151.2213

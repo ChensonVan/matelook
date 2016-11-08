@@ -1,5 +1,0 @@
-message=Naomi Dang. \nI don't even go to this uni and whenever I see you I think your last does you justice.
-longitude=151.1895
-from=z5018731
-time=2016-08-29T17:20:30+0000
-latitude=-33.8621

@@ -1,3 +1,0 @@
-from=z5110851
-time=2016-04-21T07:09:19+0000
-message=z5115479 CJ the DJ will also be willing to spin that record

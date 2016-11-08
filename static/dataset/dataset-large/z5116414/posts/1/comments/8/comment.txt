@@ -1,3 +1,0 @@
-message=Emma Watson doesn't have black hair
-time=2013-05-13T11:00:09+0000
-from=z3459459

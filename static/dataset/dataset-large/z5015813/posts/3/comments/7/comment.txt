@@ -1,3 +1,0 @@
-time=2016-09-05T13:46:23+0000
-message=z5062742 must be talking about me
-from=z5024986

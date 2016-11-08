@@ -1,5 +1,0 @@
-from=z5021190
-latitude=-33.8680
-longitude=151.2786
-time=2013-07-29T07:41:23+0000
-message=To the asian girl with a pink sportsbra at the unigym,\nYou're the reason I go to the gym. Keep it up ;)\nSincerely,\nCreepy admirer

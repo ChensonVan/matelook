@@ -1,3 +1,0 @@
-from=z5108472
-message=only half a crp
-time=2016-08-15T02:56:41+0000

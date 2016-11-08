@@ -1,3 +1,0 @@
-time=2016-09-22T23:02:46+0000
-from=z3418936
-message=Well who did this one

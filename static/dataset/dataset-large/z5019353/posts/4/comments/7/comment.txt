@@ -1,3 +1,0 @@
-from=z5061301
-time=2013-04-23T10:51:10+0000
-message=haha oops. im so derp atm

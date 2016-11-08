@@ -1,3 +1,0 @@
-from=z3330003
-time=2013-04-15T00:54:48+0000
-message=haha Faz!!

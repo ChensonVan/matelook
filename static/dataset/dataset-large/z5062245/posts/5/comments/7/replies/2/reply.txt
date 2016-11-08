@@ -1,3 +1,0 @@
-from=z5060479
-time=2016-08-10T11:56:52+0000
-message=No no CC hands down you the winner

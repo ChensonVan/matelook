@@ -1,3 +1,0 @@
-message=not sure if bankstown or unsw
-time=2013-10-04T08:20:37+0000
-from=z5061301

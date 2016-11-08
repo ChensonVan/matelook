@@ -1,3 +1,0 @@
-time=2016-05-04T10:38:07+0000
-message=yeah everything except that bit
-from=z5042720

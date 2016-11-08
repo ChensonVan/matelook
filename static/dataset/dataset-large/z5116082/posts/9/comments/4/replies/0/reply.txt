@@ -1,3 +1,0 @@
-message=That feel
-time=2016-07-01T02:52:05+0000
-from=z5024602

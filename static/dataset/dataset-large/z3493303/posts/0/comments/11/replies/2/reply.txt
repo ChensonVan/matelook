@@ -1,3 +1,0 @@
-message=This is totally about me
-time=2016-09-17T04:26:04+0000
-from=z3459327

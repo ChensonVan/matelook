@@ -1,3 +1,0 @@
-from=z5017822
-time=2016-06-04T16:46:28+0000
-message=z5076002 can i get 3 whole mdmas please

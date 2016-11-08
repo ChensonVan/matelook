@@ -1,5 +1,0 @@
-from=z5078886
-latitude=-33.9072
-longitude=151.1799
-message=To the girl i accidentally elbowed in the face, I know your face was full of blood therefore it wasn't a good time to ask for your number but when you have regained consciousness. Maybe we can have coffee, have babies and live happily ever after? Oh wait ignore this post, this was from a movie.......
-time=2013-06-10T15:02:25+0000

@@ -1,3 +1,0 @@
-from=z5074940
-message=M8 there's plenty of ppl who do that....
-time=2013-05-20T08:36:10+0000

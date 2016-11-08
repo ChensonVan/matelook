@@ -1,5 +1,0 @@
-from=z3462436
-message=Do girls like a guy who can wait while shes into another guy, or should I just go ahead and tell her how I feel?
-latitude=-33.3238
-time=2016-05-11T12:40:54+0000
-longitude=150.9796

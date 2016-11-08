@@ -1,3 +1,0 @@
-from=z5117935
-message=You can only wish.. but I doubt it :D
-time=2016-04-16T02:26:38+0000

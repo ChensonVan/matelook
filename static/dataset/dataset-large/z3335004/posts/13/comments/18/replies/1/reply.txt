@@ -1,3 +1,0 @@
-from=z5020683
-message=wow z5015646 you're the talk of the campus it seems
-time=2016-05-04T10:57:00+0000

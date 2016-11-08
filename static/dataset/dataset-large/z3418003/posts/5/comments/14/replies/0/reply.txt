@@ -1,3 +1,0 @@
-time=2016-06-27T07:48:07+0000
-message=Um wow
-from=z5017822

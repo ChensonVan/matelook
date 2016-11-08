@@ -1,3 +1,0 @@
-from=z5075827
-message=z3416923 Bon Jovi
-time=2013-07-30T12:26:46+0000

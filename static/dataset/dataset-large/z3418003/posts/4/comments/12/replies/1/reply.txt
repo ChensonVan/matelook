@@ -1,3 +1,0 @@
-from=z5118457
-message=Harambe > everyone else
-time=2016-08-17T06:38:39+0000

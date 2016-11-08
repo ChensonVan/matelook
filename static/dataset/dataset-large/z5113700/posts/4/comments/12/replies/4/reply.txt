@@ -1,3 +1,0 @@
-from=z3486844
-time=2016-05-10T11:29:11+0000
-message=Yup I'm actually a maths god

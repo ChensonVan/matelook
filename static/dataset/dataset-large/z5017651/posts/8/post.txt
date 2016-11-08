@@ -1,5 +1,0 @@
-message=To the drummer (Stuart) in Fundamentals of Improvisation, this isn't exactly a love letter but I love your solos! Rock on! :)
-from=z5017651
-latitude=-33.8865
-longitude=151.1077
-time=2013-05-09T23:00:27+0000

@@ -1,3 +1,0 @@
-from=z5017894
-time=2016-08-18T15:02:57+0000
-message=Or is he ;)

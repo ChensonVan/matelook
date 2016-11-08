@@ -1,5 +1,0 @@
-message=to the girl on the library lawn in the beautiful grey hijab. <3
-longitude=151.2272
-from=z5075071
-latitude=-33.9268
-time=2013-08-18T09:42:56+0000

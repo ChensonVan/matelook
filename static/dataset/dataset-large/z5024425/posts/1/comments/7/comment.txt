@@ -1,3 +1,0 @@
-from=z3219170
-time=2016-08-29T04:09:10+0000
-message=z5062448 when not speaking mando instantly cuts them off your list

@@ -1,3 +1,0 @@
-message=Maybe he's talking about his left and right hand.
-time=2013-09-12T04:28:15+0000
-from=z5059413

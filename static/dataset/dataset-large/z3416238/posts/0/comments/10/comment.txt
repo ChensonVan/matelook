@@ -1,3 +1,0 @@
-time=2016-05-11T12:07:45+0000
-message=LOL z5059860 this is you
-from=z5061308

@@ -1,3 +1,0 @@
-from=z3462191
-message=z5062245 fo realz
-time=2016-08-09T23:24:28+0000

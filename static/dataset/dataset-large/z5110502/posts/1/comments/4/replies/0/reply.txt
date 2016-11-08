@@ -1,3 +1,0 @@
-message=Y'all need to stop
-time=2016-09-25T09:00:23+0000
-from=z5024963

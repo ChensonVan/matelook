@@ -1,5 +1,0 @@
-from=z3335004
-time=2014-01-02T09:56:32+0000
-latitude=-33.9171
-longitude=151.2331
-message=Hey guys! Sorry about the delay, more love letters coming your way in the next few minutes. I hope you all had a great Christmas and New Year <3

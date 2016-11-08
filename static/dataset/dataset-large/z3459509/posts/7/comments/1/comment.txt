@@ -1,3 +1,0 @@
-from=z5002210
-message=Ainsworth lvl5 on the purple and orange couches 👌 quality sleep /10
-time=2016-06-21T04:03:48+0000

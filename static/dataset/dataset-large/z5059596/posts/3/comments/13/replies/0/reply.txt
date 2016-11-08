@@ -1,3 +1,0 @@
-time=2016-09-02T22:11:32+0000
-message=Single and ready to mingle
-from=z5015646

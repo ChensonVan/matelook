@@ -1,5 +1,0 @@
-latitude=-33.8178
-time=2016-08-17T22:09:46+0000
-longitude=151.1429
-message=To all you women who find guys who watch The Bachelor attractive, I'm sorry, I'm already taken
-from=z5108472

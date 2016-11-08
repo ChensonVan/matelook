@@ -1,3 +1,0 @@
-time=2016-08-15T04:36:14+0000
-message=Omg who is no. 3
-from=z3462856

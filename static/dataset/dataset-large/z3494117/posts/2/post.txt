@@ -1,5 +1,0 @@
-latitude=-33.8934
-longitude=151.1887
-message=A friend sent me this snap of this sleeping beauty, does anyone know if he goes to unsw??
-from=z3494117
-time=2016-08-27T10:53:44+0000

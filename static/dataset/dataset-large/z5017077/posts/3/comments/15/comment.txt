@@ -1,3 +1,0 @@
-from=z5120169
-message=Doesn't it look like we saw you in front of mech eng building?!
-time=2013-04-25T08:27:57+0000

@@ -1,3 +1,0 @@
-from=z5091050
-time=2016-08-09T12:34:54+0000
-message=yes and we are defs not talking about my wam

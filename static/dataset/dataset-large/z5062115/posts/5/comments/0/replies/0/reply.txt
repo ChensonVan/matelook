@@ -1,3 +1,0 @@
-from=z3469502
-time=2016-09-05T09:01:35+0000
-message=Takk dette er creepy

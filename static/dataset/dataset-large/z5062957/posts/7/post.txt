@@ -1,5 +1,0 @@
-message=Dear Peony, \nWhen you took my pulse in clinical skills I got palpitations, tachycardia and hyperthermia.\nI see all the guys hit on you at the club... why you never hit on me?
-from=z5062957
-longitude=150.9611
-latitude=-33.8052
-time=2016-09-17T03:24:39+0000

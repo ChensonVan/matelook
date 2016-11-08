@@ -1,3 +1,0 @@
-from=z5115454
-time=2016-09-04T12:49:36+0000
-message=z5115039 \nis keen to flick your bean\nAfter a night at the ball, \nhe gonna make you take it all

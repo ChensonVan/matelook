@@ -1,3 +1,0 @@
-from=z5118613
-message=OMG hahaha I wish! I betcha it's a first year or something!
-time=2013-08-04T11:26:43+0000

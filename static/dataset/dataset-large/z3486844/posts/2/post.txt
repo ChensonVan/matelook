@@ -1,5 +1,0 @@
-latitude=-33.6914
-longitude=151.2358
-time=2016-06-09T12:25:54+0000
-from=z3486844
-message=You allowed me to open up my heat. But I shoved it closed again...

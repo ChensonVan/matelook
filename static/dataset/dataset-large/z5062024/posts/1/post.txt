@@ -1,5 +1,0 @@
-latitude=-33.7396
-longitude=150.8306
-from=z5062024
-time=2016-09-09T03:29:28+0000
-message=I'm going on my first date ever in 2 weeks time. Any ideas on what to talk about OMG

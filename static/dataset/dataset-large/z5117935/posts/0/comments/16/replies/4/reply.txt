@@ -1,3 +1,0 @@
-from=z3418657
-message=Then I must be FL
-time=2016-06-03T09:10:51+0000

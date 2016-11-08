@@ -1,3 +1,0 @@
-time=2016-09-21T13:13:22+0000
-message=i i i oh
-from=z5015016

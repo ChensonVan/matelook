@@ -1,3 +1,0 @@
-message=Are you sure his name wasn't z5113702?
-from=z5115666
-time=2016-06-07T11:20:55+0000

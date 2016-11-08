@@ -1,5 +1,0 @@
-message=Anyone know where I can sleep on campus? 😂😂
-longitude=150.8161
-latitude=-34.0927
-from=z3459509
-time=2016-06-23T22:52:12+0000

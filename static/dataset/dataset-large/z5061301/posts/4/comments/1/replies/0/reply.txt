@@ -1,3 +1,0 @@
-message=I bet he wrote it for himself
-time=2016-08-07T11:40:03+0000
-from=z3275760

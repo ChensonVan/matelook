@@ -1,3 +1,0 @@
-time=2013-05-18T08:01:54+0000
-message=Wow. Did you just write that to yourself?
-from=z3418003

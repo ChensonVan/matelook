@@ -1,3 +1,0 @@
-message=like this ppl
-from=z5119635
-time=2013-08-14T11:03:43+0000

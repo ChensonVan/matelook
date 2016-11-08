@@ -1,3 +1,0 @@
-message="rugged hunk"
-from=z5041714
-time=2016-05-03T08:17:16+0000

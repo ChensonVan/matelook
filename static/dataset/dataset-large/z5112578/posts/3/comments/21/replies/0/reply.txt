@@ -1,3 +1,0 @@
-from=z5048360
-message=omg how exciting!!!
-time=2016-09-01T13:16:43+0000

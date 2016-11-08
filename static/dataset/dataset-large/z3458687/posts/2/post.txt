@@ -1,5 +1,0 @@
-time=2013-09-01T21:21:38+0000
-latitude=-33.9749
-longitude=151.2237
-message=I'm a first year guy from engineering and i went to a first year optometry lecture this week. my fungus was out of control.
-from=z3458687

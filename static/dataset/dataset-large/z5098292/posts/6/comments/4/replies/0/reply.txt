@@ -1,3 +1,0 @@
-time=2016-04-19T16:09:33+0000
-from=z5112650
-message=you know i've skipped all my 1001 lectures since week 2

@@ -1,3 +1,0 @@
-message=http://www.youtube.com/watch?v=lVmmYMwFj1I
-time=2013-06-12T00:43:29+0000
-from=z5063045

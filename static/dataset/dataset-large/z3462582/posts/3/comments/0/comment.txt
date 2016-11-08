@@ -1,3 +1,0 @@
-time=2016-05-02T22:02:36+0000
-message=Reffered to you as the "short stubby guy"
-from=z5017894

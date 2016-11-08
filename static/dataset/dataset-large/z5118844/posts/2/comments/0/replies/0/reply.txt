@@ -1,3 +1,0 @@
-from=z5098157
-message=nice meme
-time=2016-09-14T11:59:07+0000

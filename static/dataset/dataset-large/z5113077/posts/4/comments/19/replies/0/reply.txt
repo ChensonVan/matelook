@@ -1,3 +1,0 @@
-from=z3418657
-time=2016-08-04T22:18:22+0000
-message=My mum was right and UTS = u totally sleep

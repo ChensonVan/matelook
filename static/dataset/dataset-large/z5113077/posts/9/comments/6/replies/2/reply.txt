@@ -1,3 +1,0 @@
-message=still? after how many weeks/months?
-from=z5059999
-time=2016-09-13T10:01:28+0000

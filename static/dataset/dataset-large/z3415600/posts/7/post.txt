@@ -1,5 +1,0 @@
-longitude=151.2499
-message=To a girl who is wearing spectacles, with blue MCM backpack, with blue MK wallet, always drinking Mocha or iced coffee, with sweetest smile, cute and so lovely girl from Ainswoth building, \nCan I be your study partner? You always make my day and I think I love everything about you. \nI know that you don't have bf. \nPlease give me a chance to be study partner with you. I m studying Aero and I know you are studying mechanical. \n\nFrom secret admirer from Aero
-from=z3415600
-time=2016-04-30T08:12:43+0000
-latitude=-33.9740

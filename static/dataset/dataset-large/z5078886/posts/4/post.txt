@@ -1,5 +1,0 @@
-from=z5078886
-latitude=-33.9072
-message=Hannah Choi are you single and ready to mingle
-time=2016-10-01T12:18:37+0000
-longitude=151.1799

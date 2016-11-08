@@ -1,3 +1,0 @@
-time=2016-04-16T02:56:51+0000
-message=I'm going to remain optimistic about it
-from=z5015243

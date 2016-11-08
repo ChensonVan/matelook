@@ -1,3 +1,0 @@
-message=Honourary Curry, he is.
-time=2013-07-03T09:10:51+0000
-from=z3462629

@@ -1,3 +1,0 @@
-from=z5024963
-message=thanks for thinking about me\nbut im content with the current single life even tho u may think im thirsty af.
-time=2016-09-19T04:11:05+0000

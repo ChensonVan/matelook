@@ -1,3 +1,0 @@
-message=Tien tran that was me, do you root on first date
-from=z5061301
-time=2013-04-22T09:20:45+0000

@@ -1,3 +1,0 @@
-time=2016-05-12T00:17:04+0000
-message=You wrote this didn't you
-from=z5075827

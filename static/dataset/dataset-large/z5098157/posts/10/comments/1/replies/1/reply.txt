@@ -1,3 +1,0 @@
-from=z5109480
-time=2016-09-10T06:46:36+0000
-message=Im making a pun out of his name and thought you would appreciate it\nI guess i was wrong

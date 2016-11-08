@@ -1,3 +1,0 @@
-from=z3486844
-time=2016-04-28T07:41:32+0000
-message=z5016876 bro is this you?

@@ -1,3 +1,0 @@
-message=z5075827 amazing
-time=2016-07-30T09:54:07+0000
-from=z5061301

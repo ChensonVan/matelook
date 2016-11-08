@@ -1,3 +1,0 @@
-from=z5015526
-message=z5015526 i would law-ve to go with you
-time=2016-09-03T02:03:13+0000

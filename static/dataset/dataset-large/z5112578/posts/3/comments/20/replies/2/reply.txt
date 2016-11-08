@@ -1,3 +1,0 @@
-time=2016-09-01T13:57:13+0000
-message=z5092725 he knows what we all want
-from=z5020913

@@ -1,5 +1,0 @@
-message=Adrian V, come back to UNSW
-from=z3076154
-latitude=-33.9218
-longitude=151.2274
-time=2016-06-30T13:09:51+0000

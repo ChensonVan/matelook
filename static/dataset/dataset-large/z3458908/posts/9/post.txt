@@ -1,5 +1,0 @@
-latitude=-33.9166
-message=To the Singaporean girl studying finance,I think I've got my eyes on you. I hope to see you around again!
-from=z3458908
-longitude=151.2222
-time=2013-06-12T00:19:41+0000

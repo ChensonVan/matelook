@@ -1,3 +1,0 @@
-message=z5098088 They ain't talking about u
-time=2013-04-04T05:03:44+0000
-from=z5015813

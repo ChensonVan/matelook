@@ -1,3 +1,0 @@
-time=2016-10-01T10:29:55+0000
-message=z5062742 wow perfect
-from=z5037271

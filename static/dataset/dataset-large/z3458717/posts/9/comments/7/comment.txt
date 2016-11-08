@@ -1,3 +1,0 @@
-message=only if you can bench me
-from=z5076363
-time=2013-05-09T12:56:14+0000

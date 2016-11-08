@@ -1,3 +1,0 @@
-time=2016-09-11T13:06:35+0000
-message=z5092040 theres a 'z' in your name, still counts
-from=z5117790

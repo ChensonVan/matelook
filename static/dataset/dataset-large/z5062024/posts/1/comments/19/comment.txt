@@ -1,3 +1,0 @@
-message=CSE Revue
-from=z5063045
-time=2016-09-08T01:26:29+0000

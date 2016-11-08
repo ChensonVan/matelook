@@ -1,3 +1,0 @@
-from=z3468575
-message=They're all off in Queensland voting for Pauline Hanson. You should join them.
-time=2016-08-25T16:51:22+0000

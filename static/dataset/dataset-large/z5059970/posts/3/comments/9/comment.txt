@@ -1,3 +1,0 @@
-from=z5048639
-time=2016-09-15T02:50:06+0000
-message=z3461196 triggered

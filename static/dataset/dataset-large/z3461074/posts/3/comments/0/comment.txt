@@ -1,3 +1,0 @@
-message=Forget about them and go study
-from=z5113236
-time=2016-09-29T22:41:31+0000

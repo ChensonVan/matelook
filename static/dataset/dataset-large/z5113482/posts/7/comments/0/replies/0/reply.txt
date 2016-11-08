@@ -1,3 +1,0 @@
-message=this was a question someone asked me a few days ago, I still don't know how to respond.
-from=z3275760
-time=2016-08-18T16:58:10+0000

@@ -1,3 +1,0 @@
-from=z3289658
-time=2016-09-11T08:34:01+0000
-message=2nd yr med soz

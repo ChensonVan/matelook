@@ -1,3 +1,0 @@
-message=z5010380 if it's so great reserve me a parking spot so I don't have to drive around for half an hour every day
-from=z5104907
-time=2016-09-29T21:38:15+0000

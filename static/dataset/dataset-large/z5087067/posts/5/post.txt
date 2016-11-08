@@ -1,5 +1,0 @@
-latitude=-33.8973
-time=2016-09-06T14:29:16+0000
-from=z5087067
-message=To N.W. \n\nIf you tell me that you're done with me, or if you want me to change, that's ok, but I just HATE this feeling of not knowing anything about why you're ignoring me now, why you almost pretend like I don't exist.\n\nWe were super close and I just feel like I've done something incredibly wrong... but I still don't know what.
-longitude=151.2526

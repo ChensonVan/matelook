@@ -1,5 +1,0 @@
-latitude=-34.2460
-from=z5062245
-time=2016-06-11T14:45:57+0000
-longitude=150.5337
-message=To the girl who was giving out free hot chocolate outside law building on Friday: you're beautiful<3

@@ -1,3 +1,0 @@
-message=Aloy you know who this is
-from=z5024963
-time=2016-05-06T04:33:49+0000

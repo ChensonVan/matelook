@@ -1,3 +1,0 @@
-message=z5015071 slayin in unsw
-time=2016-08-19T22:49:23+0000
-from=z5077163

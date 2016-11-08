@@ -1,3 +1,0 @@
-time=2016-06-11T23:10:07+0000
-from=z5059970
-message=I wish

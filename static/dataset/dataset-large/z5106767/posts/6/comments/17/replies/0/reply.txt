@@ -1,3 +1,0 @@
-from=z3485783
-time=2016-09-06T23:44:36+0000
-message=We'll probably marry the guy for his dog

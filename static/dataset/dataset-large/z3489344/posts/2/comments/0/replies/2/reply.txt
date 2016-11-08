@@ -1,3 +1,0 @@
-from=z5020683
-time=2016-08-15T12:36:06+0000
-message=Naw z5119655 its ok we're here for you buddy

@@ -1,5 +1,0 @@
-longitude=151.1981
-message=To Cindy Wang, every time I see you smile with your chubby checks, all the problems in my life seem to go away and that makes my day.\n\nfrom secret admirer.
-latitude=-33.8326
-from=z5083924
-time=2013-08-01T12:42:26+0000

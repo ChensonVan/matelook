@@ -1,3 +1,0 @@
-from=z5075030
-message=Wallah it wasn't me
-time=2016-09-06T20:56:40+0000

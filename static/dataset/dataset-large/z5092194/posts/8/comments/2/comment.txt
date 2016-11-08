@@ -1,3 +1,0 @@
-time=2013-04-03T11:33:48+0000
-message=z5117559, killing it!
-from=z5006383

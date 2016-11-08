@@ -1,3 +1,0 @@
-time=2016-06-27T12:17:53+0000
-message=yea. yolo.
-from=z3462323

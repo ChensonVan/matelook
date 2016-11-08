@@ -1,3 +1,0 @@
-time=2016-09-29T02:46:09+0000
-from=z5109880
-message=I taste like one too

@@ -1,5 +1,0 @@
-from=z5061590
-longitude=151.2146
-time=2016-06-06T06:50:50+0000
-latitude=-33.8867
-message=First year Evon Lau can you f****n reply

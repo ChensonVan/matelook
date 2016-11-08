@@ -1,5 +1,0 @@
-message=I want someone to post a letter about me, but I don't go outside or do anything or see anybody. In fact, I barely go to class half the time.\n\nAnyway, girls luv me pls
-time=2016-04-26T03:49:58+0000
-latitude=-33.9037
-from=z5014753
-longitude=151.1851

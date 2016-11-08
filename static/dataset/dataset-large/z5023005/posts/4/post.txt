@@ -1,5 +1,0 @@
-latitude=-33.7452
-longitude=151.2473
-message=J, I thought we had something after all those late night conversations but it seems like you've become super distant after the break... not sure if I did something wrong but I'd like to be friends at least...
-time=2016-09-19T01:31:35+0000
-from=z5023005

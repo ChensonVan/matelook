@@ -1,3 +1,0 @@
-from=z5014335
-time=2016-08-13T02:24:33+0000
-message=z5106767 my life HAHA

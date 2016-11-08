@@ -1,3 +1,0 @@
-from=z5014972
-time=2013-05-01T10:42:34+0000
-message=What do you mean "park your horse in my stable"?\n\nDo you mean, park your car in your airport hanger?

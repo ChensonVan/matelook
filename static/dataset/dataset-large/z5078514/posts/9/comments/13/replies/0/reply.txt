@@ -1,3 +1,0 @@
-from=z5015191
-time=2016-06-12T13:54:27+0000
-message=You crack the pepper, I'll feed the chickens :))

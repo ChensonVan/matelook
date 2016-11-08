@@ -1,3 +1,0 @@
-from=z3493008
-message=z5024986 z5016565 us as a collective third wheel
-time=2016-10-06T00:05:27+0000

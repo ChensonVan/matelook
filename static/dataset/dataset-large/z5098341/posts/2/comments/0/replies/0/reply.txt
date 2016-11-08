@@ -1,3 +1,0 @@
-message=Yeah man, best
-from=z3418936
-time=2016-07-27T12:34:13+0000

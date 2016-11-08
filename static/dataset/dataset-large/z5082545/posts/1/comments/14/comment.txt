@@ -1,3 +1,0 @@
-time=2016-04-15T14:04:13+0000
-message=z5016305  is the hottest of them all
-from=z5115780

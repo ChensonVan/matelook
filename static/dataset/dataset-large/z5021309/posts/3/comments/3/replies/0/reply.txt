@@ -1,3 +1,0 @@
-message=my cousin
-time=2016-09-09T01:24:39+0000
-from=z5021190

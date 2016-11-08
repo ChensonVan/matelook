@@ -1,3 +1,0 @@
-message=Something we all want but no one is giving :P
-from=z3076154
-time=2016-08-24T07:27:07+0000

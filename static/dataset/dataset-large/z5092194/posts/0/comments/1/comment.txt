@@ -1,3 +1,0 @@
-from=z5015280
-message=z5133976 I didnt think you were taking physics this sem
-time=2016-04-21T07:48:57+0000

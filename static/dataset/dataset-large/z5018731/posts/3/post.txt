@@ -1,5 +1,0 @@
-latitude=-33.9154
-message=The only thing i remember about you, apart from your gorgeous looks and the cute lego on your black Adidas bag, is that you were going to El-jannah to eat after uni on Wednesday night. Maybe we can grab some this Wednesday? You know which bus to catch.
-longitude=151.2350
-time=2013-05-18T03:05:03+0000
-from=z5018731

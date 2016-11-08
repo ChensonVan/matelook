@@ -1,3 +1,0 @@
-from=z5119655
-message=z5018107 the one for you
-time=2016-08-12T15:21:25+0000

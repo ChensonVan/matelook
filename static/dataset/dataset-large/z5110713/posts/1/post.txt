@@ -1,5 +1,0 @@
-time=2016-06-23T02:03:49+0000
-latitude=-33.8352
-longitude=151.1612
-message=Ananya Sinha, just so you know, you're stunning :)
-from=z5110713

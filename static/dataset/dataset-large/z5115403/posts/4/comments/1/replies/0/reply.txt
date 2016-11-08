@@ -1,3 +1,0 @@
-time=2016-09-27T23:05:29+0000
-message=oh la la
-from=z3416144

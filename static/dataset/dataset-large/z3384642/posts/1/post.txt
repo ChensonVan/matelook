@@ -1,5 +1,0 @@
-time=2016-04-29T13:48:32+0000
-message=Dear Sally,\n\nWould Wang / 10\nCoffee anytime?\n\nT.L.
-from=z3384642
-latitude=-33.9162
-longitude=151.2511

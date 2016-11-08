@@ -1,3 +1,0 @@
-from=z5018731
-time=2016-08-28T08:36:40+0000
-message=@z5091050 your calling

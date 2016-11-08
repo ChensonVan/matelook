@@ -1,3 +1,0 @@
-message=z5098341 guess who
-from=z5060573
-time=2016-06-12T15:58:59+0000

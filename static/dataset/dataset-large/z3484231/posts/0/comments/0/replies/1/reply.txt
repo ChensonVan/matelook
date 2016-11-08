@@ -1,3 +1,0 @@
-from=z3459551
-message=One day man
-time=2016-05-16T12:53:04+0000

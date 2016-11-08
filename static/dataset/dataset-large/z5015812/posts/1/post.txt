@@ -1,5 +1,0 @@
-latitude=-33.9159
-longitude=151.2179
-message=To Monica from law ball,\n\nDamn I wish I met you earlier ;)
-time=2016-08-17T13:00:08+0000
-from=z5015812

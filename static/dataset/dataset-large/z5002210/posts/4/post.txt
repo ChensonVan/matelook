@@ -1,3 +1,0 @@
-message=To my lovely ELEC2133 lab demo Ian, coffee after the lab?
-time=2016-09-04T06:30:00+0000
-from=z5002210

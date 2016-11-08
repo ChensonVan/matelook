@@ -1,3 +1,0 @@
-message=funnyyyy
-from=z5006041
-time=2016-09-06T11:32:04+0000

@@ -1,3 +1,0 @@
-message=z5043507 we get it
-from=z5036317
-time=2016-09-01T11:49:32+0000

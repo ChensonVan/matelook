@@ -1,3 +1,0 @@
-from=z3458908
-message=Damn, when you tagged me here I was hoping someone had finally written me a letter after all these years.. Still waiting
-time=2016-09-08T03:29:48+0000

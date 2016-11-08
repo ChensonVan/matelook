@@ -1,5 +1,0 @@
-from=z3416238
-longitude=151.1546
-latitude=-33.8946
-time=2013-04-05T05:20:35+0000
-message=To the handsome Chilean guy I saw a couple of times last year at the Postgraduate Law Lab: Hola, soy María, un placer. 

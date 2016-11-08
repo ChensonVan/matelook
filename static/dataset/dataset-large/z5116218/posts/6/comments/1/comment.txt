@@ -1,3 +1,0 @@
-time=2013-04-06T09:37:23+0000
-from=z3461196
-message=Don't know how to take this one...

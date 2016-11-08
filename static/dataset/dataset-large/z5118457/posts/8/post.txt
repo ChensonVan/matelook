@@ -1,5 +1,0 @@
-message=To asian girl with silvery, pale magenta hair and checkered shirt who caught the bus at 2pm Thursday, you hella good looking.
-from=z5118457
-latitude=-33.7543
-time=2016-05-04T12:42:24+0000
-longitude=150.9346

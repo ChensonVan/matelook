@@ -1,3 +1,0 @@
-message=Well aren't you just the coolest kid on campus. You're so rebellious and underground. I wish I could be as cool as you.
-from=z5119678
-time=2013-06-12T00:42:06+0000

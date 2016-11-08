@@ -1,3 +1,0 @@
-from=z3456408
-time=2016-08-24T15:12:48+0000
-message=Well well z5075455

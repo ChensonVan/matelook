@@ -1,3 +1,0 @@
-message=Happily
-from=z5115903
-time=2016-08-28T04:29:15+0000

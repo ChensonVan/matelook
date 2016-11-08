@@ -1,5 +1,0 @@
-time=2016-09-20T01:30:16+0000
-longitude=151.2386
-message=What's with the fuss about looking for med/law partners, everybody knows CSE is where the money is at
-from=z5062957
-latitude=-33.9112

@@ -1,3 +1,0 @@
-from=z5017666
-message=^ truth
-time=2013-03-27T10:58:56+0000

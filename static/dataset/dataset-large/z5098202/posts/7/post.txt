@@ -1,5 +1,0 @@
-time=2015-09-16T21:08:43+0000
-longitude=151.2097
-from=z5098202
-latitude=-33.8582
-message=To the guy called Alan in that beautiful red hoodie, when you're with me, you won't be needing that Redbull can to keep me up all night. ;)

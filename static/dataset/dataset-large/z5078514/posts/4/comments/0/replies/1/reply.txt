@@ -1,3 +1,0 @@
-from=z5015526
-time=2013-11-05T12:14:02+0000
-message=Ahaha z5106767! It's a tad too obvious eh? Hahaha

@@ -1,3 +1,0 @@
-from=z5109880
-message=No his name was z5118627
-time=2016-07-27T17:16:12+0000

@@ -1,3 +1,0 @@
-from=z5098135
-message=Couldn't have been me, z5057704 matches his tie to my dress
-time=2016-08-22T06:49:27+0000

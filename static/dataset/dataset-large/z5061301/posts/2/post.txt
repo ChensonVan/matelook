@@ -1,5 +1,0 @@
-from=z5061301
-latitude=-33.9254
-longitude=151.2282
-time=2016-06-07T08:13:51+0000
-message=Dearest Pana, \n\nYou light up my day everytime I see your face, whether you're  right next to me or on the other side of the room studying, engineering just becomes so much more peaceful. And you do Aero as well which makes you unique from the rest of us engineers. \n\nCoffee or something? \n\nYour secret lover :)

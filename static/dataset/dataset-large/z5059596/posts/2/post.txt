@@ -1,5 +1,0 @@
-from=z5059596
-latitude=-33.7715
-time=2013-06-20T03:26:52+0000
-message=Jessica Hyunh and Chris Cao\n\nYOU GUYS MAKE THE CUTEST COUPLE <3
-longitude=151.1246

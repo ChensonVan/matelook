@@ -1,3 +1,0 @@
-time=2016-09-18T19:16:56+0000
-message=What's wrong with enthusiasm.
-from=z3462629

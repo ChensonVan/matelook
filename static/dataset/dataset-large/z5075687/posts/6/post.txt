@@ -1,5 +1,0 @@
-message=We met briefly during O-week in front of  the Bun Me restaurant.  You were wearing the prettiest dress and I regret not blowing off whereever I had to rush off too. I  believe your name was Meloni and I think you work at St Vincent hospital?  \n- the tall guy with the American accent.
-latitude=-33.7568
-from=z5075687
-time=2016-08-09T13:10:13+0000
-longitude=151.2373

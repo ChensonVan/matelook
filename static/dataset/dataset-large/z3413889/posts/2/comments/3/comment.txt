@@ -1,3 +1,0 @@
-time=2013-05-20T14:28:21+0000
-message=z3466413 you missed your coffee date!
-from=z3394912

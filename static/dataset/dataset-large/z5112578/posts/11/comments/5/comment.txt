@@ -1,3 +1,0 @@
-from=z5078886
-time=2013-06-06T09:08:58+0000
-message=yeh z5004426 you love it

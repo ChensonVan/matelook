@@ -1,5 +1,0 @@
-latitude=-33.9055
-longitude=151.2609
-from=z5133976
-time=2013-06-06T09:21:55+0000
-message=To the spunky Treasurer of MedSoc, you are a sexy love machine. How about we ditch this joint and go study some anatomy?

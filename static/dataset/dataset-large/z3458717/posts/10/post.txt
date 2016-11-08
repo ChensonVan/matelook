@@ -1,5 +1,0 @@
-latitude=-33.9073
-time=2016-09-09T01:14:38+0000
-message=Stephen Cai can you slither into my dms like you slither all over your friends
-from=z3458717
-longitude=151.2394

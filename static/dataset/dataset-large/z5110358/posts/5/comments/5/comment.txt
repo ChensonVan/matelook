@@ -1,3 +1,0 @@
-from=z5119437
-time=2016-08-23T13:36:24+0000
-message=z3470029 woah bro u famous

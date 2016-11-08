@@ -1,5 +1,0 @@
-message=I used to see you on the bus (391/392) in the afternoons, while you were a girl in school uniform about a year or two ago. Lately, I've been seeing you in the Quad and I just wanted to say, "Welcome to UNSW". :)
-longitude=151.2293
-time=2013-04-22T02:59:56+0000
-latitude=-33.9143
-from=z5091950

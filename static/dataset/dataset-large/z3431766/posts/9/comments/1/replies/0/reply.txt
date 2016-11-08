@@ -1,3 +1,0 @@
-from=z3452764
-message=Haha well they're thousands of years old and plagiarised
-time=2016-08-03T19:55:13+0000

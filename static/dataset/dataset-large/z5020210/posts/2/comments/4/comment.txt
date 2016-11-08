@@ -1,3 +1,0 @@
-time=2016-04-20T02:47:07+0000
-from=z5098071
-message=*intrigued

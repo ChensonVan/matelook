@@ -1,3 +1,0 @@
-from=z5060479
-message=But thanks for the flattery though! 😏
-time=2016-06-13T04:04:15+0000

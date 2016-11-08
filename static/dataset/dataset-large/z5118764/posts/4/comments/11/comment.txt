@@ -1,3 +1,0 @@
-from=z5076025
-message=Tamim Rabaa  would you?
-time=2013-10-02T12:12:44+0000

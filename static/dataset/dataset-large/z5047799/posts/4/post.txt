@@ -1,5 +1,0 @@
-longitude=151.2304
-time=2016-09-24T06:30:23+0000
-message=From a UNSW girl to a UWS boy, please don't transfer here. Stay away. (:
-from=z5047799
-latitude=-33.9484

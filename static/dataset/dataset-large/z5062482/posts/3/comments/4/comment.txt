@@ -1,3 +1,0 @@
-message=Is it love week at college?
-from=z3422324
-time=2013-05-30T15:05:36+0000

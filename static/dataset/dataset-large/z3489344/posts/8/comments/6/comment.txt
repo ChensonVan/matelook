@@ -1,3 +1,0 @@
-message=z5020410 for sure
-from=z5015071
-time=2016-06-19T16:12:28+0000

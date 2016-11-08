@@ -1,3 +1,0 @@
-time=2016-06-19T14:33:42+0000
-from=z5004426
-message=There you go z5015813

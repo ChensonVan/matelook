@@ -1,3 +1,0 @@
-from=z5126202
-message=LOL I don't even have a blue shirt
-time=2016-05-24T13:06:52+0000

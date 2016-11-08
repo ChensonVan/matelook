@@ -1,3 +1,0 @@
-message=Very haha ily
-time=2016-08-20T02:01:02+0000
-from=z5033280

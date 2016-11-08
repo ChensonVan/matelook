@@ -1,3 +1,0 @@
-time=2016-08-11T23:39:34+0000
-message=z3460924 caught you out
-from=z5059325

@@ -1,3 +1,0 @@
-message=Admin note: someone is looking for you. Inbox for details!
-from=z5024986
-time=2013-04-28T11:53:24+0000

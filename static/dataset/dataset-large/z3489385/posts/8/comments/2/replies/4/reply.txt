@@ -1,3 +1,0 @@
-from=z3219170
-time=2016-05-25T12:18:05+0000
-message=haha Aston Bae

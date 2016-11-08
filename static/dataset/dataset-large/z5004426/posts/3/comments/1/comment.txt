@@ -1,3 +1,0 @@
-from=z5017842
-message=z5047799 you have a bf
-time=2016-06-17T11:44:55+0000

@@ -1,5 +1,0 @@
-from=z3463809
-latitude=-33.8911
-time=2016-09-26T13:50:31+0000
-longitude=151.0003
-message=Bob, please top me like how you topped the state <3

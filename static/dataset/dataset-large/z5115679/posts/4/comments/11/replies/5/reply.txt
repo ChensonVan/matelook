@@ -1,3 +1,0 @@
-message=This is not what I want, this is not what I planned
-time=2016-09-23T01:07:46+0000
-from=z3417908

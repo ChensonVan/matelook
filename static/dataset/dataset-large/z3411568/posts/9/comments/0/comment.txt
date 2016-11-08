@@ -1,3 +1,0 @@
-message=Unsw Debsoc
-from=z5004426
-time=2013-11-14T02:20:10+0000

@@ -1,3 +1,0 @@
-from=z5024986
-message=by inbox: on top of scientia
-time=2013-08-11T22:31:46+0000

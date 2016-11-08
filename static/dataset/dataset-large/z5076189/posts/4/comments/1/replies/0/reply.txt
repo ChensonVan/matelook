@@ -1,3 +1,0 @@
-from=z5110851
-time=2016-09-05T02:09:45+0000
-message=HAHAHAH coz I totally come on Tuesday

@@ -1,3 +1,0 @@
-from=z3416238
-time=2016-04-20T13:49:07+0000
-message=There is literally a whole society dedicated to this

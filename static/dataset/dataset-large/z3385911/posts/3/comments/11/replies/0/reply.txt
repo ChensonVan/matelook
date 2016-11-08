@@ -1,3 +1,0 @@
-from=z5062443
-message=Don't judge...sometimes I need a bit of a boost to my self-esteem
-time=2016-06-13T01:39:20+0000

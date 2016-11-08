@@ -1,5 +1,0 @@
-from=z5129633
-time=2013-09-12T08:36:29+0000
-latitude=-33.8383
-message=To the really exotic looking girl working in the roundhouse with the burgers and hotdogs, you can eat my hotdog.
-longitude=151.2093

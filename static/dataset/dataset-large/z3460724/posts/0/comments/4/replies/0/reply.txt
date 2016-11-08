@@ -1,3 +1,0 @@
-from=z5101274
-message=omg hahaha too cute
-time=2016-04-25T11:03:00+0000

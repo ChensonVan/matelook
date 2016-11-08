@@ -1,5 +1,0 @@
-latitude=-33.9231
-message=I'm in love with a girl who lives across the sea. We've never met, but I know we're perfect for each other.
-from=z5013310
-longitude=151.2256
-time=2013-03-18T04:21:49+0000

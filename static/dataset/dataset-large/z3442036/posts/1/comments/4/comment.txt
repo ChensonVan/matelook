@@ -1,3 +1,0 @@
-from=z3493008
-message=This is legendary
-time=2016-08-25T05:35:49+0000

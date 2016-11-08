@@ -1,3 +1,0 @@
-from=z5020410
-message=Stop thinking your average and then you definitely will
-time=2016-05-06T05:21:31+0000

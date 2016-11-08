@@ -1,3 +1,0 @@
-from=z3275760
-message=For a guy who just started going to the gym, every girl looks pretty muscular to me
-time=2016-08-28T16:23:46+0000

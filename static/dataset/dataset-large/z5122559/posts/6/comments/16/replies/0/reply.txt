@@ -1,3 +1,0 @@
-message=Hahah I wish it was me
-time=2016-08-24T13:56:00+0000
-from=z3459423

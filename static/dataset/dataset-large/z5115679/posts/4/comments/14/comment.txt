@@ -1,3 +1,0 @@
-message=z5078886 @david tang
-time=2016-09-23T01:06:47+0000
-from=z5119613

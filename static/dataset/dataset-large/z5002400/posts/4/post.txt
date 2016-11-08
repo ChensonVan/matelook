@@ -1,5 +1,0 @@
-latitude=-33.9091
-message=To the beautiful man wearing a black UNSW hoodie walking up along Chalmers St towards the UTS tunnel alongside Central Station on Monday August 5 at 3:55pm with your mate.. you are quite possibly the most amazing human being I have ever laid eyes on. Where have you been hiding around campus, please, please, please tell me?!
-longitude=151.2361
-time=2013-08-11T01:41:13+0000
-from=z5002400

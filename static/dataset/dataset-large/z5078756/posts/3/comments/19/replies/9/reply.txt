@@ -1,3 +1,0 @@
-message=came in the way :3
-from=z5075071
-time=2016-08-08T13:21:23+0000

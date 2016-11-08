@@ -1,3 +1,0 @@
-from=z3489344
-time=2013-10-10T06:41:39+0000
-message=*spits out drink*

@@ -1,3 +1,0 @@
-from=z5061301
-message=Meanwhile at usyd z5043507
-time=2016-09-12T10:57:33+0000

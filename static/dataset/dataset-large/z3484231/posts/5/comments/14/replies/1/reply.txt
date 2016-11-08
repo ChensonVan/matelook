@@ -1,3 +1,0 @@
-message=Actually no, just realised it was the guy with me - z5048555
-time=2016-08-25T08:23:45+0000
-from=z5076156

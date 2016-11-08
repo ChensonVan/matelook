@@ -1,3 +1,0 @@
-from=z5019329
-message=90% sure a boy wrote this
-time=2016-07-12T04:27:42+0000

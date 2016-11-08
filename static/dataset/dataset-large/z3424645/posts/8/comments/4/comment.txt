@@ -1,3 +1,0 @@
-from=z5113968
-message=inb4 Daniel gets the D
-time=2013-03-25T11:05:16+0000

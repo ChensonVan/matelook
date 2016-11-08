@@ -1,3 +1,0 @@
-time=2016-09-06T12:54:40+0000
-message=z5024963 take some advice from senpai
-from=z3379830

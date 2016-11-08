@@ -1,3 +1,0 @@
-from=z5098088
-time=2013-10-02T06:50:30+0000
-message=Justin bieber

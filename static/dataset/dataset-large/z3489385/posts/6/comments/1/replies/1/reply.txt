@@ -1,3 +1,0 @@
-message=Close enough 😂
-from=z5098071
-time=2016-09-01T22:42:01+0000

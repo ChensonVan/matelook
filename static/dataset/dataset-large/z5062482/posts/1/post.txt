@@ -1,5 +1,0 @@
-time=2013-08-04T11:16:40+0000
-longitude=151.1254
-latitude=-33.9210
-message=Dear FD,\n\nI first laid my eyes on you as a shy first year. I vaguely remember losing to Kings Cup at pre-drinks and dancing like a fool at my first ever FD2011 party. Missing last years FD party was a shame however this year I have applied full throttle to take on all the FD2013 festivities and dance away at my last FD2013 party with my team.\n\nLove always,\n\nXOXO Blink 232
-from=z5062482

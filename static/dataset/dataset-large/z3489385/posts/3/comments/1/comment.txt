@@ -1,3 +1,0 @@
-from=z5075687
-message=z5076363 u never told me u looked like jaime?
-time=2016-06-05T04:25:50+0000

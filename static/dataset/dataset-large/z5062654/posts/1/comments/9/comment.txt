@@ -1,3 +1,0 @@
-message=I didnt ignore you. You are high-maintenance.
-from=z5113245
-time=2016-08-27T09:59:04+0000

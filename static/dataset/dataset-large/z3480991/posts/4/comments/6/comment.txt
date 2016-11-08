@@ -1,3 +1,0 @@
-from=z5075687
-time=2013-10-30T01:52:19+0000
-message=z5016565 you owe me booze

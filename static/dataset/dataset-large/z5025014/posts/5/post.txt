@@ -1,5 +1,0 @@
-latitude=-33.8684
-longitude=151.2043
-from=z5025014
-time=2016-04-16T08:15:41+0000
-message=When you're not in a relationship at all but your friend gets jealous when you see other friends of the other gender. Why.

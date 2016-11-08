@@ -1,3 +1,0 @@
-time=2016-08-23T04:55:13+0000
-message=*our lucky day
-from=z5127546

@@ -1,5 +1,0 @@
-longitude=151.2322
-time=2013-07-01T06:48:45+0000
-message=ethan lo, i hope your exams went well and that you have a good sem break! see you next sem! xo
-latitude=-33.9187
-from=z5002210

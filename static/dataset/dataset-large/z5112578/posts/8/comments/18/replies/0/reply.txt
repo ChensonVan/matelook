@@ -1,3 +1,0 @@
-from=z5017822
-message=You're pretty cute
-time=2016-05-30T13:51:41+0000

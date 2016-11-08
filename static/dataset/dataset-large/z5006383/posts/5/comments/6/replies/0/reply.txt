@@ -1,3 +1,0 @@
-time=2016-07-28T02:30:58+0000
-message=Fark don't even go and dey know
-from=z3289658

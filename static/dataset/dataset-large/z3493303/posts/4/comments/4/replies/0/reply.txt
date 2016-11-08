@@ -1,3 +1,0 @@
-message=Wtf is this
-time=2016-09-10T08:27:21+0000
-from=z5116995

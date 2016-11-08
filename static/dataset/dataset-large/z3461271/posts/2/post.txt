@@ -1,5 +1,0 @@
-latitude=-33.9034
-from=z3461271
-time=2016-09-19T06:17:45+0000
-message=Dear Ruban S,\n\nHow are you so cute, \nWhy am I too shy to tell you. \nWhen will you notice me? \n\nxx
-longitude=151.0488

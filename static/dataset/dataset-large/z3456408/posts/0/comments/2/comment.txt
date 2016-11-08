@@ -1,3 +1,0 @@
-from=z5109880
-message=z5059421 z5056054 strikes again
-time=2016-07-08T10:02:59+0000

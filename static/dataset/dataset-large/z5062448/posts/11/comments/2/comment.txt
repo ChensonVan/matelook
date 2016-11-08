@@ -1,3 +1,0 @@
-from=z5015016
-time=2013-09-09T02:30:25+0000
-message=Totally man.. z5098341

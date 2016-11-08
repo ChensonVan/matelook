@@ -1,5 +1,0 @@
-from=z5133976
-message=I secretly want a rats tail because I think that bus girl would think it's sexy... But my parents won't let me and I'm gay....
-longitude=151.2320
-time=2013-04-03T12:10:10+0000
-latitude=-33.9256

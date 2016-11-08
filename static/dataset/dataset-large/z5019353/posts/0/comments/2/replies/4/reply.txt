@@ -1,3 +1,0 @@
-from=z5017894
-message=Na na , another one
-time=2016-09-29T06:05:31+0000

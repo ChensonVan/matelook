@@ -1,5 +1,0 @@
-latitude=-33.9169
-time=2013-04-17T02:18:32+0000
-longitude=151.2395
-message=To the tall blonde girl (I think your name is Sarah) in the Monday 5-6 pm CHEM1031 tutorial, I'm sure that there needs no catalyst for a bit of chemistry to go on between us ;-)
-from=z5057704

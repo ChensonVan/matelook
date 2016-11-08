@@ -1,5 +1,0 @@
-longitude=151.2713
-from=z5016305
-message=I have to admit something. I've been cheating on you. You just don't do it for me anymore...you've become too rowdy and unkempt for my liking.\n\nI'm sorry, UNSW Library, but I've decided to leave you for UTS Library...he gives me everything and more than what you do!\n\n(Perhaps you can learn a few lessons)
-time=2013-09-09T14:32:14+0000
-latitude=-33.8728

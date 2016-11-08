@@ -1,5 +1,0 @@
-time=2013-09-22T06:58:48+0000
-longitude=151.0669
-latitude=-34.0337
-message=You're the chubby chick with the bad accent who does naval engineering, you're stuck up and annoying. Get over yourself.
-from=z5119635

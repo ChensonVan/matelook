@@ -1,3 +1,0 @@
-from=z3431766
-message=I volunteer as tribute
-time=2016-05-12T12:48:40+0000

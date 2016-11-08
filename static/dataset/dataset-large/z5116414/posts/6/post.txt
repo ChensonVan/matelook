@@ -1,5 +1,0 @@
-longitude=151.2701
-time=2016-08-15T09:31:32+0000
-message=Cameron from Fig\n\nI can't think straight around you\nProlly cuz I'm not straight to begin with ;)\nPS: I support Trump too\nCoffee sometime?
-latitude=-33.9018
-from=z5116414

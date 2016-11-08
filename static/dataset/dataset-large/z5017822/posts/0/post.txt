@@ -1,5 +1,0 @@
-message=Roses are red,\nViolets are blue,\nJason Khou,\nI love you!
-latitude=-33.8650
-longitude=151.1542
-from=z5017822
-time=2016-08-26T12:31:29+0000

@@ -1,3 +1,0 @@
-message=z5017077 teach me how to muzz
-from=z5129633
-time=2016-09-20T13:25:22+0000

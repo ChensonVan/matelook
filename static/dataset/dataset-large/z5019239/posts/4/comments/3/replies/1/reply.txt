@@ -1,3 +1,0 @@
-message=The plot thickens
-time=2016-09-21T21:30:43+0000
-from=z3459459

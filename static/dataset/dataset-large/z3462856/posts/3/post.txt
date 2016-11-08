@@ -1,5 +1,0 @@
-message=To the guy in the navy shirt with the blue laptop case sitting on his own in the Thursday arts1090 lecture, you're cute. From the girl who couldn't stop staring at you.
-latitude=-33.9203
-time=2016-04-28T02:20:15+0000
-longitude=151.2311
-from=z3462856

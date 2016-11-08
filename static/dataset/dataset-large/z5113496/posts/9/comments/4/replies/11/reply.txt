@@ -1,3 +1,0 @@
-message=This is gold
-time=2016-04-18T11:02:36+0000
-from=z5020476

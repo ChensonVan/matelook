@@ -1,5 +1,0 @@
-latitude=-33.9120
-message=Ctrl+c & Ctrl+v, you are the truest of bae
-longitude=151.2231
-time=2016-06-28T14:26:00+0000
-from=z3413889

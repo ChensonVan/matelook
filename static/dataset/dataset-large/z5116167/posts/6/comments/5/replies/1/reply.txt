@@ -1,3 +1,0 @@
-message=im so confused
-time=2016-10-04T04:57:45+0000
-from=z5015646

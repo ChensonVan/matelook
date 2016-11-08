@@ -1,3 +1,0 @@
-from=z5061301
-message=z3470057 you're a gimp mate
-time=2013-11-02T11:56:50+0000

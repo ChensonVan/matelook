@@ -1,3 +1,0 @@
-time=2016-08-07T01:40:55+0000
-message=z5006041, play soccer instead! :-p
-from=z5083841

@@ -1,5 +1,0 @@
-time=2016-08-13T01:52:07+0000
-message=I'm transferring from USYD to pursue the love of my life. Can't wait to spend the next 4 years hunting you down in the hallways. I love you, from JL <3
-longitude=151.2395
-latitude=-33.9222
-from=z3459327

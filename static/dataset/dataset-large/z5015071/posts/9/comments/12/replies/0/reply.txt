@@ -1,3 +1,0 @@
-time=2016-06-19T21:36:47+0000
-from=z5062277
-message=You got me

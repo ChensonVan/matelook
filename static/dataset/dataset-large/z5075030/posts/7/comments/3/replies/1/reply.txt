@@ -1,3 +1,0 @@
-message="Brown goddess"
-time=2016-05-06T14:58:24+0000
-from=z3459405

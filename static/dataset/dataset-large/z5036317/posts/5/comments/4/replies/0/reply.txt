@@ -1,3 +1,0 @@
-from=z5112578
-time=2016-10-05T10:42:49+0000
-message=THIS IS NOT ME

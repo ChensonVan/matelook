@@ -1,3 +1,0 @@
-message=😒 Leonard pls
-time=2016-08-31T22:26:00+0000
-from=z3461196

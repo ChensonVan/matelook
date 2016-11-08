@@ -1,3 +1,0 @@
-message=Yes i do
-time=2016-07-03T09:38:32+0000
-from=z5113700

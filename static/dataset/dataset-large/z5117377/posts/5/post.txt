@@ -1,5 +1,0 @@
-latitude=-34.0238
-message=Ray from the village. Will you be mine?
-time=2013-11-26T10:53:55+0000
-longitude=151.0546
-from=z5117377

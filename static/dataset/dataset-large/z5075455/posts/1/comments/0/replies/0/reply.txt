@@ -1,3 +1,0 @@
-message=wow are you worried claud
-from=z5023123
-time=2016-08-23T12:52:18+0000

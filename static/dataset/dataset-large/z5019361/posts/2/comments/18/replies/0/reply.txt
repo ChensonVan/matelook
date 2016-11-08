@@ -1,3 +1,0 @@
-from=z5075071
-message=yes boys
-time=2016-08-24T23:45:06+0000

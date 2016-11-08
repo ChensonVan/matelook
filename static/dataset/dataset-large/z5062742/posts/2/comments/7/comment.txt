@@ -1,3 +1,0 @@
-from=z5018107
-time=2016-08-20T03:01:34+0000
-message=The skinny ones I don't care about height.

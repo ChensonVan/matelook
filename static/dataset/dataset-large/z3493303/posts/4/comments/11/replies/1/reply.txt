@@ -1,3 +1,0 @@
-from=z3460724
-time=2016-09-11T03:53:21+0000
-message=^^ I'm really confused here @scat

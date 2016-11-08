@@ -1,3 +1,0 @@
-message=z5076156 "don't you speak mando" - z5061590
-from=z5109786
-time=2016-08-29T06:28:10+0000

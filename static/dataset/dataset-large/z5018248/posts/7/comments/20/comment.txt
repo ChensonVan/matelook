@@ -1,3 +1,0 @@
-from=z5061308
-message=Justin Truong m8 u fkboi
-time=2016-08-03T22:58:52+0000

@@ -1,3 +1,0 @@
-time=2016-06-04T01:38:18+0000
-message=I think they spelt z3442036 wrong
-from=z5117790

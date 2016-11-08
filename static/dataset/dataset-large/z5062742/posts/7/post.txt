@@ -1,5 +1,0 @@
-latitude=-33.9208
-longitude=151.2381
-time=2016-09-09T03:10:27+0000
-message=Dear ben from first year med. \nYou are the nicest guy I have met all year.  You dress nicely and are so tall! \nFrom your secret admirer
-from=z5062742

@@ -1,3 +1,0 @@
-message=You'd be happy to know I've been to all of my classes ;)
-time=2016-04-23T09:52:44+0000
-from=z3485783

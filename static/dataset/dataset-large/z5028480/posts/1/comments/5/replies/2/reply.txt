@@ -1,3 +1,0 @@
-from=z5061572
-message=That wasnt a joke?
-time=2016-05-17T11:43:17+0000

@@ -1,5 +1,0 @@
-latitude=-33.9124
-from=z3460476
-message=Dear Grace^4, \nTogether, we are the power of five. Earth, water, fire, air and ME! MUAHAHAHAHAH\n\nP.S. let's have a fivesome someday.\n\nSeb
-longitude=151.2367
-time=2016-04-27T10:47:20+0000

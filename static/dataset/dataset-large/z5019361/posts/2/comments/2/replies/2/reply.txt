@@ -1,3 +1,0 @@
-from=z5015526
-message=You're definitely mean
-time=2016-08-24T23:40:11+0000

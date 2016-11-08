@@ -1,5 +1,0 @@
-message=Please tag any guy who will cook me thai curries\nI need a man with wifely duties <3
-latitude=-33.8545
-from=z5061301
-longitude=151.2747
-time=2016-04-23T02:57:04+0000

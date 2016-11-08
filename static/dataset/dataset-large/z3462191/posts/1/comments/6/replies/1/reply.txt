@@ -1,3 +1,0 @@
-message=what the hell
-time=2016-08-15T23:24:56+0000
-from=z5113077

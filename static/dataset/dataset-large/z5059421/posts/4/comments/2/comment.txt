@@ -1,3 +1,0 @@
-from=z5113702
-message=z5018549 defend ur territory
-time=2016-06-07T04:12:34+0000

@@ -1,3 +1,0 @@
-from=z5109786
-time=2016-05-24T11:42:35+0000
-message=They mean the Asian guy z5098202

@@ -1,3 +1,0 @@
-from=z5051889
-message=Maybe you should place your number on blackboard
-time=2013-11-04T10:47:38+0000

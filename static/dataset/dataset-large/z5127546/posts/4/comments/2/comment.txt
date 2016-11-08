@@ -1,3 +1,0 @@
-from=z5109880
-message=what if he has dandruff?
-time=2013-04-23T12:31:36+0000

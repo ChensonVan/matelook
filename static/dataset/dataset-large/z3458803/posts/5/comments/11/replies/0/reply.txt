@@ -1,3 +1,0 @@
-message=This is one of your better tags chunga good job
-from=z5017842
-time=2016-08-30T11:22:23+0000

@@ -1,5 +1,0 @@
-latitude=-33.9484
-longitude=151.2304
-from=z5047799
-time=2016-06-19T10:25:46+0000
-message=To the guy with the ginger hair and beard on the express bus Friday morning - I'm super sick and feeling like shit but seeing you brightened my morning. Hope we run into each other sometime soon.

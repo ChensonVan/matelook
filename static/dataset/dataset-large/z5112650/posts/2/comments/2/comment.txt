@@ -1,3 +1,0 @@
-from=z5117020
-time=2013-04-03T08:37:16+0000
-message=same here

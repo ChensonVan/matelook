@@ -1,5 +1,0 @@
-time=2016-09-23T12:37:27+0000
-message=tfw all the hot chicks get off the train at Redfern to go to usyd :(
-latitude=-33.9238
-longitude=151.2340
-from=z5102263

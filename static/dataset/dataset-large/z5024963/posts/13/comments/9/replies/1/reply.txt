@@ -1,3 +1,0 @@
-message=True that XD
-time=2016-08-15T01:11:23+0000
-from=z5088545

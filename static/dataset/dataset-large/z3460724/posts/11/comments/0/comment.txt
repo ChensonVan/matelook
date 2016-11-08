@@ -1,3 +1,0 @@
-message=Ew Vegemite.
-from=z5014972
-time=2013-05-22T23:30:19+0000

@@ -1,3 +1,0 @@
-message=z5028311 get it while it's hot
-from=z3462856
-time=2016-05-17T04:34:57+0000

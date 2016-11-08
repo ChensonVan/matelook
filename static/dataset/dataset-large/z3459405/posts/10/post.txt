@@ -1,5 +1,0 @@
-from=z3459405
-longitude=151.2085
-message=An Tran. Your legs. 10/10.
-latitude=-33.8682
-time=2013-05-12T10:48:40+0000

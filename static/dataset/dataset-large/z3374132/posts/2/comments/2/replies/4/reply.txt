@@ -1,3 +1,0 @@
-from=z5015812
-message=You did that on purpose, trying not to make it too obvious
-time=2016-08-17T22:50:00+0000

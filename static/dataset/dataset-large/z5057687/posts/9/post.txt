@@ -1,5 +1,0 @@
-time=2016-09-09T22:46:53+0000
-message=Dear Kevin, \n\nWe'd make perfect peas & carrots. Survey me sometime.\n\n<3
-longitude=151.2329
-latitude=-33.9109
-from=z5057687

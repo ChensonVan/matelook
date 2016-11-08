@@ -1,3 +1,0 @@
-time=2016-08-14T03:23:16+0000
-from=z5060223
-message=Opps what's that?

@@ -1,3 +1,0 @@
-time=2016-08-13T11:00:31+0000
-message=z3415600 it's ok bro
-from=z5075030

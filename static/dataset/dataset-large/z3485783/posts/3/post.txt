@@ -1,5 +1,0 @@
-latitude=-33.8204
-time=2013-05-20T08:09:13+0000
-from=z3485783
-message=To my BABS demonstrator... you're beautiful. I think I might be developing a crush on you, which is kind of a stupid thing to do. When this semester ends I probably won't see you ever again. I'll miss seeing you every week. Just needed to get that off my chest.
-longitude=151.1566

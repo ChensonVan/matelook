@@ -1,5 +1,0 @@
-message=Do you have a poetic flair? Need to tell the one you love how you feel? Want to turn your crush into your partner? Want to write an actually witty love letter?\n\n\nWell the team at ULL have the answer for you Register now to attend an exclusive workshop program with Sydney Slam Master Miles Merrill to hone your performance poetry skills. For more info and to register, go to: https://www.research.net/s/PoetryProject
-longitude=151.2371
-time=2013-08-05T08:00:13+0000
-from=z3463638
-latitude=-33.9142

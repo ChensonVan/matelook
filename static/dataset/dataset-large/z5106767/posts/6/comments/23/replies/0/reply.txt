@@ -1,3 +1,0 @@
-message=I can't blame you, he's perfect.
-from=z5075418
-time=2016-09-07T07:24:11+0000

@@ -1,3 +1,0 @@
-time=2016-06-21T01:35:38+0000
-message=main walkway
-from=z3476529

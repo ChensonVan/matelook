@@ -1,3 +1,0 @@
-message=Smash dat like button papi
-from=z5059413
-time=2016-09-01T21:26:37+0000

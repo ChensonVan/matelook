@@ -1,3 +1,0 @@
-message=Zhi Yuan z5113482
-from=z5122559
-time=2016-09-12T08:24:24+0000

@@ -1,3 +1,0 @@
-message=The dark magician doesn't need no robe or wizard hat. #peasants
-from=z5098135
-time=2016-08-24T23:52:35+0000

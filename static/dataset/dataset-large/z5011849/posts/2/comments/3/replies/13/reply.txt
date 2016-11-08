@@ -1,3 +1,0 @@
-from=z5115479
-message=I legit miss Shakespeare
-time=2016-08-22T01:09:51+0000

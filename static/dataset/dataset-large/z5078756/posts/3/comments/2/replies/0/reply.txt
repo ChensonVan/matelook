@@ -1,3 +1,0 @@
-from=z5017258
-message=Wow you would
-time=2016-08-09T06:28:35+0000

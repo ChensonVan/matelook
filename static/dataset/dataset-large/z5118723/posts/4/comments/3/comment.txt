@@ -1,3 +1,0 @@
-message=Noot noot z5002210
-time=2016-06-20T04:05:31+0000
-from=z5024963

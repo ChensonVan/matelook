@@ -1,3 +1,0 @@
-from=z5118627
-message=Time worth wasting is never wasted time. Take a plunge and hope for the best. Live life with no regrets.
-time=2016-04-21T14:14:58+0000

@@ -1,3 +1,0 @@
-message=feeling blessed
-from=z3431766
-time=2016-08-14T14:32:42+0000

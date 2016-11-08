@@ -1,3 +1,0 @@
-from=z3462438
-message="Korean looking" = non racist way to say "Asian"
-time=2016-09-29T11:24:03+0000

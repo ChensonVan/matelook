@@ -1,3 +1,0 @@
-message=z5110851 z5052081\nUr ship name would be JOJO
-time=2016-08-30T08:48:52+0000
-from=z5113482

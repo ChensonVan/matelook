@@ -1,5 +1,0 @@
-latitude=-33.9112
-longitude=150.8906
-time=2013-04-12T10:06:48+0000
-message="hey how are you ? I might be the big guy from Electrical Engineering. Feel free to have a chat with me Cheers ! Big guy from Elec"
-from=z5113702

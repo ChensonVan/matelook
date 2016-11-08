@@ -1,3 +1,0 @@
-time=2016-09-08T02:29:57+0000
-message=z5019329 - z5075827 might be able to hook you up with ahelicopter
-from=z5059583

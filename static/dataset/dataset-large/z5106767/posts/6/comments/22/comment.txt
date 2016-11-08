@@ -1,3 +1,0 @@
-message=z5062448 us as hell
-from=z5113702
-time=2016-09-07T03:55:40+0000

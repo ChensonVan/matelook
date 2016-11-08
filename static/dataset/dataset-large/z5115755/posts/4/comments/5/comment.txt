@@ -1,3 +1,0 @@
-from=z3475276
-message=z5051889 fear not, we will find your princess
-time=2016-09-07T22:24:49+0000

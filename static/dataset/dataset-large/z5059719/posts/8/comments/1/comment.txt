@@ -1,3 +1,0 @@
-from=z5015016
-time=2013-06-12T00:33:53+0000
-message=Someone's gelatinous

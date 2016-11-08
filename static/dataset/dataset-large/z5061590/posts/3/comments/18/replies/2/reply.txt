@@ -1,3 +1,0 @@
-from=z5055646
-message=how do you do the course without mansfield?
-time=2016-08-18T15:13:55+0000

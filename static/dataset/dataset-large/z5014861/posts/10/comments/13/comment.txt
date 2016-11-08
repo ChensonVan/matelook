@@ -1,3 +1,0 @@
-time=2016-09-03T17:03:07+0000
-from=z5018248
-message=z5048663 top comment

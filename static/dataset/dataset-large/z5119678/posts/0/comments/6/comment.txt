@@ -1,3 +1,0 @@
-from=z3459459
-message=Obviously a gay love letter since everyone in engineering is male
-time=2013-09-21T10:33:24+0000

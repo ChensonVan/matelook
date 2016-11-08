@@ -1,3 +1,0 @@
-message="save me"
-time=2016-06-15T14:34:06+0000
-from=z5025090

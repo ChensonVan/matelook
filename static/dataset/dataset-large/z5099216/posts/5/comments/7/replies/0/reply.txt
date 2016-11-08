@@ -1,3 +1,0 @@
-from=z5076156
-message=too bad im in singapore
-time=2016-09-07T12:00:50+0000

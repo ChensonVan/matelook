@@ -1,3 +1,0 @@
-from=z3416238
-message=mickey mOUCH
-time=2016-09-22T04:08:10+0000

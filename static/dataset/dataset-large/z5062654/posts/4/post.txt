@@ -1,5 +1,0 @@
-message=Jo C you're the only fish in this sea for me
-from=z5062654
-time=2016-08-30T11:09:03+0000
-longitude=151.2023
-latitude=-33.9042

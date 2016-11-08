@@ -1,3 +1,0 @@
-message=Already with z5060573 for sure
-from=z5017666
-time=2013-10-30T07:16:12+0000

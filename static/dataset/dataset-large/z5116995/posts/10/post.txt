@@ -1,5 +1,0 @@
-longitude=151.0602
-from=z5116995
-latitude=-33.6053
-message=Convincing a girl that they are perfect is one fo the hardest things to do :/
-time=2016-08-26T13:25:06+0000

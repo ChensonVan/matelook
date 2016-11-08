@@ -1,3 +1,0 @@
-message=Oi go away u goldfish
-from=z3452764
-time=2016-08-21T16:01:19+0000

@@ -1,3 +1,0 @@
-time=2016-05-19T01:42:28+0000
-message=inbox me for some fun
-from=z5119667

@@ -1,3 +1,0 @@
-message=z3462055 has HD wam
-time=2016-09-12T09:54:41+0000
-from=z3493008

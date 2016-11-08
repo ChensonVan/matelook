@@ -1,5 +1,0 @@
-from=z5047516
-longitude=151.2456
-latitude=-33.8768
-time=2013-04-03T12:09:38+0000
-message=To the guy that randomly took a photo of me in the quad labs over the Easter weekend, you could've just come up and said hello the normal way...

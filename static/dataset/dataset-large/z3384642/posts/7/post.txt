@@ -1,5 +1,0 @@
-longitude=151.1541
-latitude=-33.9227
-from=z3384642
-time=2013-06-20T06:01:17+0000
-message=Johnson Fong you are the one who lights up my world like nobody else !

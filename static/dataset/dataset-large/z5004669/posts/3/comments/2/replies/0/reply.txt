@@ -1,3 +1,0 @@
-message=Good joke I've never eaten a banana on the grounds of UNSW
-from=z3459054
-time=2016-04-27T11:41:44+0000

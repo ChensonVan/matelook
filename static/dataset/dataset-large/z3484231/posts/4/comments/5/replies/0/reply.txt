@@ -1,3 +1,0 @@
-message=Yes he is, very much\nz5091950
-from=z5020296
-time=2016-09-11T20:57:11+0000

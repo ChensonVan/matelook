@@ -1,3 +1,0 @@
-message=I'm actually dying this was too much
-time=2016-09-13T23:40:54+0000
-from=z3458908

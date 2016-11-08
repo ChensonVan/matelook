@@ -1,3 +1,0 @@
-message=Can you stop skipping lectures!!!!!!
-time=2016-08-25T01:06:37+0000
-from=z5113700

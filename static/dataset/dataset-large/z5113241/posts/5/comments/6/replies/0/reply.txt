@@ -1,3 +1,0 @@
-time=2016-09-29T02:57:15+0000
-from=z5098313
-message=Is z5079464 the other friend?

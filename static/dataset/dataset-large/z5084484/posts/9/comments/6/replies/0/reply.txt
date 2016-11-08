@@ -1,3 +1,0 @@
-message=Teaching is not chill
-time=2016-09-06T06:24:18+0000
-from=z9591011

@@ -1,5 +1,0 @@
-time=2016-09-09T01:45:05+0000
-longitude=151.2398
-from=z5118723
-latitude=-33.9100
-message=Jonathan who works at Microsoft and does engineering -\nPls notice me

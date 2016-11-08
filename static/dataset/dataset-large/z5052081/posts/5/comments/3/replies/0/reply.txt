@@ -1,3 +1,0 @@
-from=z5075496
-message=this is why you take compsci :P
-time=2016-07-04T07:17:50+0000

@@ -1,3 +1,0 @@
-message=Beat me to it Aleco... I was just about to say the same thing
-from=z5059826
-time=2013-04-23T09:04:07+0000

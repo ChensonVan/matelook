@@ -1,3 +1,0 @@
-message=z5055209 help on ur way
-time=2016-10-01T11:48:39+0000
-from=z3076154

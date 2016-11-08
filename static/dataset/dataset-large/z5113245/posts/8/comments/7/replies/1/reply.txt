@@ -1,3 +1,0 @@
-message=Bet this was z5015071
-from=z3422324
-time=2016-09-14T05:59:36+0000

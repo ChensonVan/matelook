@@ -1,3 +1,0 @@
-time=2016-08-31T07:33:25+0000
-message=Alright kid if it makes you feel better
-from=z5113245

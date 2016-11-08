@@ -1,3 +1,0 @@
-from=z5024986
-time=2013-04-08T05:08:33+0000
-message=did you do a sneaky and submit this yourself gus ;)

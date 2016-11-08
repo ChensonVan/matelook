@@ -1,5 +1,0 @@
-latitude=-33.8592
-from=z5098292
-message=Hey, i see you walk into the engineering building most of the days, you are tall,white,green eyes(yum) and blondish hair. I have heard ur mate with blue eyes looks turkish call u Velad. P.S i love you heart emoticon"
-time=2016-05-12T12:42:44+0000
-longitude=151.1225

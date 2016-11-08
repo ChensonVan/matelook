@@ -1,5 +1,0 @@
-message=To the white guy from Midnight Mafia who saw my UNSW student card as I was ruffling through my bumbag to find myself a lollipop, told me to pause and pulled out your unsw student card, comment on this! totally forgot it happened and now curious to find out who you are
-longitude=151.1955
-from=z5084484
-time=2016-05-24T13:36:37+0000
-latitude=-33.9006

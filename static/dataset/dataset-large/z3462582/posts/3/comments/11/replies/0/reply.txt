@@ -1,3 +1,0 @@
-message=LOL, couldn't be less descriptive of me.
-from=z3470057
-time=2016-05-02T08:06:08+0000

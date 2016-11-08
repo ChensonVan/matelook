@@ -1,5 +1,0 @@
-from=z5019329
-message=To the short Asian girl that has long black hair with black glasses, always wearing a brown watch and a heart pendant, I think you're name is Cherrie. I've seen you numerous times in the library computer room studying and every time you look up and smile, baby you turn me from software to hardware. You must be hell of a thief, because you stole my heart from across the room. Single?
-time=2013-04-19T05:25:56+0000
-longitude=151.2353
-latitude=-33.9252

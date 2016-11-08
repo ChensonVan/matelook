@@ -1,5 +1,0 @@
-from=z3470057
-latitude=-33.9002
-message=To the girl who hit my face accidentally at the Basser steps today! You are pretty :) Take care.
-longitude=151.1128
-time=2013-04-09T06:00:28+0000

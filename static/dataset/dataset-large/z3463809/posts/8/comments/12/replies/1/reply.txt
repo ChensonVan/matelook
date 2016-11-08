@@ -1,3 +1,0 @@
-from=z5076554
-time=2016-06-09T08:16:54+0000
-message=I think you're adorable, therefore related

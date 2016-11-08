@@ -1,5 +1,0 @@
-longitude=151.2097
-time=2016-09-14T07:55:09+0000
-latitude=-33.8582
-message=Ahad in my Monday Stats tute, are u single?
-from=z5098202

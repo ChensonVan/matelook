@@ -1,3 +1,0 @@
-from=z3219170
-time=2016-08-12T09:18:21+0000
-message=z5017787  aw mate, what've you been doing

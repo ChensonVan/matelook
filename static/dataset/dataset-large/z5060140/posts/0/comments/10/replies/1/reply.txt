@@ -1,3 +1,0 @@
-from=z5098088
-message=nah.. the one who wrote this
-time=2016-08-09T14:06:01+0000

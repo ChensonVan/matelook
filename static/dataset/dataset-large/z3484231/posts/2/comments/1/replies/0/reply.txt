@@ -1,3 +1,0 @@
-from=z3413158
-time=2016-09-24T03:07:32+0000
-message=Hey look it's my confidence it's flying away :")

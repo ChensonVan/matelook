@@ -1,3 +1,0 @@
-time=2016-05-19T13:25:10+0000
-message=I heard he once beat Connor Mcgregor in a fight
-from=z5023773

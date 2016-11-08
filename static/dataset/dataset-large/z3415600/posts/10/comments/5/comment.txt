@@ -1,3 +1,0 @@
-message=You need to use Tantan instead
-from=z5061920
-time=2016-09-02T02:24:49+0000

@@ -1,5 +1,0 @@
-longitude=151.2312
-time=2013-08-11T01:56:51+0000
-message=Thile. You are the fresh prince from Asia.
-latitude=-33.9079
-from=z5019353

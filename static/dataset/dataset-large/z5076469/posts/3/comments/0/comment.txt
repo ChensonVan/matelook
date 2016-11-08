@@ -1,3 +1,0 @@
-from=z5037271
-message=z5024986 imagine what this person is like
-time=2016-05-18T06:36:14+0000

@@ -1,3 +1,0 @@
-message=Good one
-time=2016-08-14T13:14:14+0000
-from=z3459050

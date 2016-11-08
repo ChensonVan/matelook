@@ -1,3 +1,0 @@
-from=z5062482
-message=z3463420 u didn't tell me u finally transferred?
-time=2016-07-05T18:57:11+0000

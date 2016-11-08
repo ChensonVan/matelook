@@ -1,5 +1,0 @@
-message=My girlfriend is like an iPhone. I have a Samsung Galaxy S7 Edge
-time=2016-09-30T07:25:31+0000
-from=z5056324
-longitude=151.2269
-latitude=-33.9227

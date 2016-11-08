@@ -1,3 +1,0 @@
-message=Hahah how cute
-time=2013-06-03T09:56:54+0000
-from=z3462055

@@ -1,3 +1,0 @@
-message=oh no ive already done notes for everything, i mean revise
-from=z5061301
-time=2013-04-23T10:52:45+0000

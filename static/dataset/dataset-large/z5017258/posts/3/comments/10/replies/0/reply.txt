@@ -1,3 +1,0 @@
-time=2016-05-24T16:05:40+0000
-message=Can't fly away from this one
-from=z5063055

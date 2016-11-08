@@ -1,3 +1,0 @@
-message=Jae-gou Kim Li z3418003
-time=2016-08-11T09:19:40+0000
-from=z5076469

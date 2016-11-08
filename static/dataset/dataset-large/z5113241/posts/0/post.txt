@@ -1,5 +1,0 @@
-longitude=151.1740
-latitude=-33.8896
-from=z5113241
-message=Hot white men - where are you all?
-time=2013-09-25T07:35:46+0000

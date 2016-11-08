@@ -1,3 +1,0 @@
-time=2016-05-23T13:06:29+0000
-from=z5013491
-message=Ah yes.... Obviously

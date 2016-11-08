@@ -1,3 +1,0 @@
-from=z5024963
-message=z5099971 you're elec right? :P
-time=2016-04-21T13:52:07+0000

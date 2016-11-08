@@ -1,3 +1,0 @@
-message=Wasn't me but this is golden
-from=z5119655
-time=2016-06-16T03:43:35+0000

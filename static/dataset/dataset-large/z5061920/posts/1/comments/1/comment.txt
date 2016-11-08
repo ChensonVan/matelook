@@ -1,3 +1,0 @@
-from=z5019353
-message=*curry
-time=2016-05-11T13:03:10+0000

@@ -1,3 +1,0 @@
-message=cheers bud
-from=z5014335
-time=2016-08-22T04:35:32+0000

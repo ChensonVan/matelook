@@ -1,5 +1,0 @@
-longitude=151.2367
-time=2013-05-10T06:14:49+0000
-latitude=-33.9076
-from=z5077163
-message=To the girl I spoke to briefly in the library on level 6 about our criminology essays, you look cute when you sleep (:

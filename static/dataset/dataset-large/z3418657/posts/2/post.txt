@@ -1,5 +1,0 @@
-longitude=150.8481
-message=To the bombshell that approached me at moochi this afternoon asking if I wanted to attended her play tonight, fro yo sometime ?
-latitude=-33.7386
-from=z3418657
-time=2013-05-30T09:15:48+0000

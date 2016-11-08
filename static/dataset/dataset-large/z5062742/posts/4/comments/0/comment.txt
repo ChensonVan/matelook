@@ -1,3 +1,0 @@
-from=z5130883
-time=2016-07-07T17:08:51+0000
-message=z3485783 this can only be you 😘

@@ -1,3 +1,0 @@
-from=z5118457
-message=z5117935 is this the one you wrote and wanted me to like?
-time=2016-08-25T02:05:02+0000

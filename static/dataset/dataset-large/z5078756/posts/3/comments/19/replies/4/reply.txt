@@ -1,3 +1,0 @@
-message=Should I tag a certain someone Sid?
-from=z5116179
-time=2016-08-08T12:14:10+0000

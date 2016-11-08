@@ -1,3 +1,0 @@
-from=z5110502
-time=2016-09-08T00:31:04+0000
-message=You don't have to find me, I am here already.

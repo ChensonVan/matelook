@@ -1,3 +1,0 @@
-message=your half lad, must be you
-time=2016-05-16T12:33:16+0000
-from=z5017842

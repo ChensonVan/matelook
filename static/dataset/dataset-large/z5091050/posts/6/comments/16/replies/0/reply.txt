@@ -1,3 +1,0 @@
-message=nah i dont get hds
-from=z5028480
-time=2016-06-19T11:23:29+0000

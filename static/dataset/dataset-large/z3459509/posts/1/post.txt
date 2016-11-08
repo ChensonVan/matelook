@@ -1,5 +1,0 @@
-message=Dear Adam, \n\nI know the spring constant for my mattress. Wanna take some data?
-time=2016-06-05T03:43:24+0000
-from=z3459509
-longitude=151.2368
-latitude=-33.9271

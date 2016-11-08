@@ -1,5 +1,0 @@
-message=Hey Halfie guy in my ACCT1501 tute, you're really cute! Just wanted to let you know! <3\n\nYour secret admirer (i'm the shy girl in the corner)
-time=2016-05-07T16:19:43+0000
-longitude=151.2328
-from=z3374132
-latitude=-33.9192

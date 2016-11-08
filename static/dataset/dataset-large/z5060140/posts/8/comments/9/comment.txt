@@ -1,3 +1,0 @@
-from=z5060359
-message=z3466413 sounds like you
-time=2016-07-25T14:14:17+0000

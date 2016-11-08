@@ -1,3 +1,0 @@
-message=Damn u caught me 👀
-from=z5043507
-time=2016-06-08T23:02:48+0000

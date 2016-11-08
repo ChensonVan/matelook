@@ -1,3 +1,0 @@
-message=Get some crutches to prevent any potential debilitating injuries. You think a simple fall would not be so disastrous, but one should be prepared.
-from=z3462629
-time=2016-09-21T13:31:06+0000

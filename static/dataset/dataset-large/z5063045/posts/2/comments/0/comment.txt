@@ -1,3 +1,0 @@
-time=2016-05-16T19:03:23+0000
-from=z3464412
-message=^ was about to tag u z5098071

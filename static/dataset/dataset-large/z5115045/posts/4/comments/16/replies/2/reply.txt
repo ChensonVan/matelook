@@ -1,3 +1,0 @@
-time=2016-09-13T09:30:15+0000
-message=im only plat 1 :(
-from=z5117377

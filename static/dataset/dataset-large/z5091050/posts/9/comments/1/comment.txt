@@ -1,3 +1,0 @@
-message=thanks :) but who is this?
-from=z5115780
-time=2013-05-12T13:57:37+0000

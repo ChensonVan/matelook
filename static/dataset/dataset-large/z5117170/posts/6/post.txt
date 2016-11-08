@@ -1,5 +1,0 @@
-time=2013-06-13T21:04:44+0000
-from=z5117170
-latitude=-33.9153
-message=To the COFA ambassador working at SMH on Sunday from 10 to 12. Business ambassador says hello! We never got a chance to talk. Coffee?
-longitude=151.2289

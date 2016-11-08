@@ -1,5 +1,0 @@
-latitude=-33.9163
-longitude=151.2238
-from=z5078514
-time=2016-05-11T11:44:05+0000
-message=Dear Vivian Chau,\nI may be no organ donor, but I can give you my heart. <3

@@ -1,3 +1,0 @@
-message=Tick tock, Clarice...
-from=z5055646
-time=2013-10-10T02:11:58+0000

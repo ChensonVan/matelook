@@ -1,3 +1,0 @@
-from=z5016876
-message=z3462055 get in there.
-time=2013-05-10T05:59:20+0000

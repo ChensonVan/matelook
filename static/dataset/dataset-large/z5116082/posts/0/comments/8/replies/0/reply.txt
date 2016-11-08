@@ -1,3 +1,0 @@
-message=Is that you Lindy? AHAHA
-from=z5076002
-time=2016-06-05T10:20:47+0000

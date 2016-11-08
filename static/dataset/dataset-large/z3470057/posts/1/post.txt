@@ -1,5 +1,0 @@
-latitude=-33.9002
-message=Single male banker seeking single female banker to achieve goals of retiring at 30 to travel the world together\n\nPlease tag away
-from=z3470057
-time=2016-09-08T21:53:05+0000
-longitude=151.1128

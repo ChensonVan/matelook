@@ -1,9 +1,0 @@
-mates=[z5033280, z5109480, z3475276, z5092194, z3421457]
-zid=z5117559
-birthday=1995-05-11
-home_suburb=Greenfield Park
-password=jaguar
-courses=[2016 S1 COMP1911, 2016 S1 ENGG1000, 2016 S1 MATH1131, 2016 S1 PHYS1121, 2016 S2 FINS1613, 2016 S2 MATH1231, 2016 S2 MGMT1001, 2016 S2 MMAN1300]
-full_name=Laila Ali
-email=L.Ali@unsw.edu.au
-program=Engineering (Honours)

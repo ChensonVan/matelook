@@ -1,3 +1,0 @@
-from=z5113047
-time=2013-08-04T11:41:19+0000
-message=^And he lifts

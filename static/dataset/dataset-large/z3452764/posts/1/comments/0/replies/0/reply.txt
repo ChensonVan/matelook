@@ -1,3 +1,0 @@
-message=Haha was it you?
-time=2016-04-21T03:03:12+0000
-from=z3379830

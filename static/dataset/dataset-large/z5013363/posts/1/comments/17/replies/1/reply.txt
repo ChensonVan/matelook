@@ -1,3 +1,0 @@
-message=no bleeding knees...\nbut a bleeding heart
-from=z5109480
-time=2016-09-10T14:33:59+0000

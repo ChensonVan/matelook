@@ -1,5 +1,0 @@
-time=2016-06-13T01:43:44+0000
-longitude=151.2715
-message=To Phillip J in 2nd year electrical eng\nYou're cute. Hang out sometime?
-latitude=-33.8000
-from=z5020683

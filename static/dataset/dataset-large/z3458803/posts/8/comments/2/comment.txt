@@ -1,3 +1,0 @@
-message=z5015071 did this last year
-from=z5004669
-time=2016-08-31T03:39:36+0000

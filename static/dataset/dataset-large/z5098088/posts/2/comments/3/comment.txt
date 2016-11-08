@@ -1,3 +1,0 @@
-message=z5113241 that's how you do it
-from=z5075455
-time=2016-09-11T22:19:04+0000

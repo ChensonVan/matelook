@@ -1,3 +1,0 @@
-message=Makes sense , I'll follow suit soon
-time=2016-05-25T13:56:36+0000
-from=z5075827

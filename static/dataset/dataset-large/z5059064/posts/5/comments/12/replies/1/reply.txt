@@ -1,3 +1,0 @@
-from=z5015526
-message=She doesn't even know you're killer at Salsa ;)
-time=2016-08-13T13:54:51+0000

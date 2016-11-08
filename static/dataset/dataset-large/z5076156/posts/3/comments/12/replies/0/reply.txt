@@ -1,3 +1,0 @@
-message=Not everything's about you
-from=z3417908
-time=2016-09-22T12:15:03+0000

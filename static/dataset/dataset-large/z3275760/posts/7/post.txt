@@ -1,5 +1,0 @@
-from=z3275760
-message=Admin please help! This is Thomas and I met a spectacular girl last year down at unibar named Sanjana (now 2nd year commerce). She had an amazing laugh, but at the end of the night I left without her number. I returned back to England last June but I havent forgotten her. I'm back for 2 weeks, just for her. Help me find her!
-latitude=-33.9003
-longitude=151.1374
-time=2013-04-09T12:35:17+0000

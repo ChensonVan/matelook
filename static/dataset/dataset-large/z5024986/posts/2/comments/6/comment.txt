@@ -1,3 +1,0 @@
-from=z5061920
-message=z5015526 loves cricket and appreciates some grass on the wicket
-time=2016-09-08T12:17:54+0000

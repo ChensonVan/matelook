@@ -1,3 +1,0 @@
-message=Third floor corridor of which building lol
-from=z5010380
-time=2013-08-27T10:17:25+0000

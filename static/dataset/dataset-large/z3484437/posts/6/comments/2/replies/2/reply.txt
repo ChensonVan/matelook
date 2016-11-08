@@ -1,3 +1,0 @@
-from=z3462438
-time=2016-05-04T14:31:40+0000
-message=I don't go to the uni gym

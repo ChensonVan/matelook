@@ -1,3 +1,0 @@
-from=z5017842
-message=z5119678 must be you
-time=2016-04-19T04:32:31+0000

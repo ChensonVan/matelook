@@ -1,3 +1,0 @@
-from=z5119635
-message=z5074933\nremember how I walked into class with a cider in 1st year?
-time=2016-06-17T05:21:19+0000

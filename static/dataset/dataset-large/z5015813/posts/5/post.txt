@@ -1,5 +1,0 @@
-time=2016-08-25T12:37:28+0000
-latitude=-33.7207
-message=To the tall guy with dark hair that took the library stairs on Monday afternoon, emerged on level 6 and made eye contact with me but then continued to level 7 - let's share a table next time ;)
-from=z5015813
-longitude=150.5988

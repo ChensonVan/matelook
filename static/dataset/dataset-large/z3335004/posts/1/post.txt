@@ -1,5 +1,0 @@
-latitude=-33.9207
-message=Katie, please don't go :'(. This is the only way I can express the way I feel; Through the beautiful voice of Freddie Mercury. http://www.youtube.com/watch?v=sUJkCXE4sAA
-time=2013-04-07T02:59:41+0000
-longitude=151.1930
-from=z3335004

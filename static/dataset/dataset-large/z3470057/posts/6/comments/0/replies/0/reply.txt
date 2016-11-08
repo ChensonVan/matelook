@@ -1,3 +1,0 @@
-time=2016-08-23T01:43:10+0000
-message=Yeah now she knows
-from=z9591011

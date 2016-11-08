@@ -1,3 +1,0 @@
-message=895 doesnt go from high street
-time=2013-05-24T11:28:35+0000
-from=z5119437

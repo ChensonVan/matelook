@@ -1,3 +1,0 @@
-message=Rude xo
-time=2016-08-23T00:10:27+0000
-from=z5099216

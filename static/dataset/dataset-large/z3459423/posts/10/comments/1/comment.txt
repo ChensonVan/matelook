@@ -1,3 +1,0 @@
-message=This is 100‰ you in your jumper z5015243
-from=z5127546
-time=2016-09-22T16:34:16+0000

@@ -1,3 +1,0 @@
-from=z5055646
-message=RIP discrete students
-time=2016-08-18T15:13:47+0000

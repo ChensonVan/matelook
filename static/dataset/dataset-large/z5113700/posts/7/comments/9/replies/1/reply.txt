@@ -1,3 +1,0 @@
-message=And I'll feel like I'm breaking free
-from=z5016876
-time=2016-09-03T03:57:26+0000

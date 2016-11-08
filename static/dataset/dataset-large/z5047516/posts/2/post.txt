@@ -1,5 +1,0 @@
-latitude=-33.9099
-message=Roses are red,\nViolets are blue,\nMed girl with the snowman stethoscope,\nI love you ❤❤❤
-longitude=151.2255
-from=z5047516
-time=2016-04-21T21:23:14+0000

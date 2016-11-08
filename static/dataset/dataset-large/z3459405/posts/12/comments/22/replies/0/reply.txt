@@ -1,3 +1,0 @@
-from=z5006041
-time=2016-04-28T08:22:50+0000
-message=HAHAHAH maybe in 2020

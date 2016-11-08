@@ -1,5 +1,0 @@
-longitude=151.2282
-time=2016-09-08T22:05:19+0000
-latitude=-33.9241
-message=Dear Nathan Suen,\n\nHope we can talk someday. You always seem to be busy playing pokemon :'(
-from=z5040176

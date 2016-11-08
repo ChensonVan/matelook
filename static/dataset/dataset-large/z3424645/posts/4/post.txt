@@ -1,5 +1,0 @@
-from=z3424645
-message=I think I'm falling for a USYD law student. Help !!!!
-time=2016-08-04T02:24:31+0000
-latitude=-33.9226
-longitude=151.2217

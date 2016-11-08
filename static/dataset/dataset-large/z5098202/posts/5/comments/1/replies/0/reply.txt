@@ -1,3 +1,0 @@
-message=Wow thanks 😬
-from=z3411568
-time=2016-09-21T20:57:04+0000

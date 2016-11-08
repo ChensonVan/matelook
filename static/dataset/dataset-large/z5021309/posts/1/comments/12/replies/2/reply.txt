@@ -1,3 +1,0 @@
-from=z5017787
-message=z5018348 adding more sugar to my crunchy nut? I think not
-time=2016-08-17T04:47:19+0000

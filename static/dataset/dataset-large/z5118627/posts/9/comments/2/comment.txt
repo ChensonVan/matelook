@@ -1,3 +1,0 @@
-from=z5017842
-time=2016-06-20T00:10:16+0000
-message=You're late bro cause I'm going bd

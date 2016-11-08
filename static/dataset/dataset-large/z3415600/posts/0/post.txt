@@ -1,5 +1,0 @@
-longitude=151.1836
-time=2016-07-03T07:55:41+0000
-message=Dilan, are you single?
-from=z3415600
-latitude=-33.8636

@@ -1,3 +1,0 @@
-from=z3334316
-message=z5020913 this you?
-time=2016-09-11T20:53:10+0000

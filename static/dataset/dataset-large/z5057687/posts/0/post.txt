@@ -1,5 +1,0 @@
-time=2016-08-25T09:26:42+0000
-longitude=151.2381
-latitude=-33.8956
-from=z5057687
-message=To the Jimin lookalike standing near the library steps,\nplease be my dope <3

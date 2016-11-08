@@ -1,3 +1,0 @@
-from=z5019900
-message=Offt trying to bump into someone during exams is abit hard tho
-time=2016-06-15T22:06:32+0000

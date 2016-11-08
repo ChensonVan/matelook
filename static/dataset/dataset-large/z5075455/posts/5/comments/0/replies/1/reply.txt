@@ -1,3 +1,0 @@
-message=Does that make you a safety hazard then?
-from=z5024963
-time=2016-05-12T08:30:05+0000

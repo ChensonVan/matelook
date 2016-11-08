@@ -1,3 +1,0 @@
-from=z3299058
-message=Take a hike buddy. Not everything is an exaggeration
-time=2016-08-26T03:17:40+0000

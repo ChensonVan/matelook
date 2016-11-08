@@ -1,5 +1,0 @@
-longitude=151.1977
-from=z3262692
-time=2016-09-15T04:18:53+0000
-message=Dear Law Revue organisers,\n\nPlease do not ever include tech uniforms or any tech references (the tech thing on the whiteboard) ever again. Seriously just do not.\n\nSincerely,\n\neveryone from UNSW
-latitude=-33.9071

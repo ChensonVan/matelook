@@ -1,3 +1,0 @@
-message=oh my goodness, can you not....
-from=z5020296
-time=2016-04-17T03:24:28+0000

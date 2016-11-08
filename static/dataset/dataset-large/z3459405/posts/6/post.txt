@@ -1,5 +1,0 @@
-message=Why doesn't anyone write me a love letter? I'm easily the hottest guy on campus.
-longitude=150.6195
-latitude=-33.6796
-time=2013-04-18T13:31:42+0000
-from=z3459405

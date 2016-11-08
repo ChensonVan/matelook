@@ -1,3 +1,0 @@
-message=Annie Chen
-time=2013-10-04T07:55:07+0000
-from=z5059860

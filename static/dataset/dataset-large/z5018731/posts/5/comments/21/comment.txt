@@ -1,3 +1,0 @@
-time=2013-04-23T23:31:03+0000
-message=Shou cuz!
-from=z5092725

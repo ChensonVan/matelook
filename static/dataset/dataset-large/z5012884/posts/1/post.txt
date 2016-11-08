@@ -1,5 +1,0 @@
-message=#Attn\n\nLooking for the cute guy that accidentally walked into the Robert Webster Theatre A,  looking for his Math lecture but instead walked into Aviation.\n\nWould love to grab coffee sometime 😊
-longitude=151.1214
-latitude=-33.7511
-time=2016-05-05T07:56:06+0000
-from=z5012884

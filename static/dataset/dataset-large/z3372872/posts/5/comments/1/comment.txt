@@ -1,3 +1,0 @@
-time=2016-08-18T17:36:39+0000
-from=z5109880
-message=z5118627 #biggestguyinunsw

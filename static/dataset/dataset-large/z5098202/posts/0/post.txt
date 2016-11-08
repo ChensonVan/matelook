@@ -1,5 +1,0 @@
-latitude=-33.9189
-message=Am I the only one feeling bored during Summer or anyone else???\n
-time=2013-12-16T23:53:49+0000
-from=z5098202
-longitude=151.2205

@@ -1,3 +1,0 @@
-from=z5062957
-message=Our time together was short, our love may not be forever, but you know what is?
-time=2016-09-29T10:16:13+0000

@@ -1,3 +1,0 @@
-time=2016-09-05T10:51:41+0000
-from=z5075726
-message=N superman dies

@@ -1,3 +1,0 @@
-message=hahahahaha yes!
-from=z5060223
-time=2013-04-19T14:57:42+0000

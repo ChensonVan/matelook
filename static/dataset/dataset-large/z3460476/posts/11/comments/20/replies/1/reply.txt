@@ -1,3 +1,0 @@
-message=just helping you out
-from=z5060479
-time=2016-04-16T05:09:08+0000

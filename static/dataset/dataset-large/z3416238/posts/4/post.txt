@@ -1,5 +1,0 @@
-time=2013-05-27T21:58:37+0000
-message=To the guy who looks like Justin Bibber around ASB everyday looking at your laptop, I don't know what's your name is, but I know you really like Tezrock Music, Ice Cream sometimes?
-longitude=151.1546
-from=z3416238
-latitude=-33.8946

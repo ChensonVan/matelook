@@ -1,3 +1,0 @@
-from=z5059596
-message=Erica Balilo Don't look at Harvey again
-time=2016-08-31T13:03:15+0000

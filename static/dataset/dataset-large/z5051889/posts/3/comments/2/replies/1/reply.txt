@@ -1,3 +1,0 @@
-time=2016-10-05T20:51:49+0000
-message=Yea nah LBs only
-from=z5076363

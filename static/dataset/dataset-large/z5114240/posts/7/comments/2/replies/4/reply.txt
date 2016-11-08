@@ -1,3 +1,0 @@
-from=z5126202
-message=How would you escape english when english is what we use to communicate? HAHA
-time=2016-08-10T10:16:50+0000

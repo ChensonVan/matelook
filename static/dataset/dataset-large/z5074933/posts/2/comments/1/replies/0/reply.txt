@@ -1,3 +1,0 @@
-message=Nah man no space for usyd people. 'You missed the bus' - davies 2014-2015
-from=z3470029
-time=2016-05-06T04:07:31+0000

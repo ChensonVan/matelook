@@ -1,3 +1,0 @@
-message=z5112578 wow who's Bryan
-time=2016-04-29T08:43:11+0000
-from=z3463248

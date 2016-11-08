@@ -1,5 +1,0 @@
-latitude=-33.8953
-longitude=151.2593
-from=z3462326
-time=2016-07-30T09:49:24+0000
-message=That soul destroying moment when your crush turns out to be the opposite to who you imagined her to be.

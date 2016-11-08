@@ -1,3 +1,0 @@
-message=Your twin \n\nhttps://youtu.be/ldSdXTdoX8Q
-from=z5024963
-time=2016-09-02T10:56:30+0000

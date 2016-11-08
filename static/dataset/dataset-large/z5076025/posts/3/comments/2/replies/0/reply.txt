@@ -1,3 +1,0 @@
-from=z5119635
-time=2016-08-15T07:53:55+0000
-message=Already figured out the culprit in a split second lol

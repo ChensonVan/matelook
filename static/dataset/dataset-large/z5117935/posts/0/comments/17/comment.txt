@@ -1,3 +1,0 @@
-from=z5059413
-message=z5077131 this post is for you
-time=2016-06-03T13:23:23+0000

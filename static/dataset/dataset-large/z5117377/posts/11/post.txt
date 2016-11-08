@@ -1,5 +1,0 @@
-from=z5117377
-message=Dear Josh Gottlieb, I have no idea who you are and have never met you in person but I saw you in one of UNSW's LawSoc photos and just wanted to say you are gorgeous. Do you happen to be still available? :P
-time=2013-11-21T13:58:48+0000
-longitude=151.2325
-latitude=-33.9094

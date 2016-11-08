@@ -1,3 +1,0 @@
-message=Guys what does S2S mean?????
-time=2016-05-16T12:58:20+0000
-from=z5047516

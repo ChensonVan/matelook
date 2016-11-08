@@ -1,3 +1,0 @@
-message=Needs to pick up his game I reckon
-from=z5048639
-time=2016-08-12T08:11:44+0000

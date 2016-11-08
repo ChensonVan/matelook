@@ -1,3 +1,0 @@
-message=z5130883 if u were at uni
-time=2016-07-27T06:42:39+0000
-from=z5119613

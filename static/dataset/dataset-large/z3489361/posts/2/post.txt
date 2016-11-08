@@ -1,5 +1,0 @@
-latitude=-33.9612
-from=z3489361
-message=To the boy who caught the 393 bus from UNSW at around 11 today (7th of May)... you are the most beautiful person I've ever seen. You were wearing a white sweater and jeans, and carrying what looked like a small toolbox but what i'm assuming was a small instrument. We made eye contact for a second and I swear I fell in love. Stay beautiful.
-longitude=150.9855
-time=2013-05-07T10:47:07+0000

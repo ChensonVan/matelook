@@ -1,5 +1,0 @@
-from=z5117020
-time=2013-04-16T11:33:00+0000
-message=To the asian guy who's in Econ1101 and looks like Kim Jong Un. I'd love your missiles to penetrate my bases ;)
-latitude=-33.7942
-longitude=151.1193

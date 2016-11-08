@@ -1,3 +1,0 @@
-message=No ones hearing shit theres no sound
-from=z5127546
-time=2016-10-06T02:29:59+0000

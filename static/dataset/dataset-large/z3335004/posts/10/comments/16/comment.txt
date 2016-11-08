@@ -1,3 +1,0 @@
-time=2016-08-23T00:42:14+0000
-message=z5118782 is always down for a good time
-from=z5098088

@@ -1,3 +1,0 @@
-message=I think it's you z5062277
-from=z5115479
-time=2016-06-03T03:31:29+0000

@@ -1,3 +1,0 @@
-message=OFFFT MATE.
-from=z3461074
-time=2013-06-26T02:05:36+0000

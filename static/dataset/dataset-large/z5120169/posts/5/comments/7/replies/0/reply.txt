@@ -1,3 +1,0 @@
-time=2016-08-12T12:42:54+0000
-from=z5061590
-message=z5017651 who is it?

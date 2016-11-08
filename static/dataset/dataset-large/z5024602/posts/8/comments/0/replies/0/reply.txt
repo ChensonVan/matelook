@@ -1,3 +1,0 @@
-message=😅 someone's a prankster
-time=2016-05-27T15:10:06+0000
-from=z5116179

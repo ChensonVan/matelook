@@ -1,3 +1,0 @@
-from=z5060359
-message=Different bag bro HAHAHAHHAHA
-time=2016-05-13T07:11:25+0000

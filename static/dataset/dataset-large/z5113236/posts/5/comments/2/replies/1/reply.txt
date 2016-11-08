@@ -1,3 +1,0 @@
-from=z5060223
-message=Bahahaha
-time=2016-09-22T23:28:22+0000

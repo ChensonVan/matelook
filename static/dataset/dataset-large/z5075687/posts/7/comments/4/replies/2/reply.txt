@@ -1,3 +1,0 @@
-from=z5119667
-time=2016-06-02T05:16:54+0000
-message=we've never made out on the library lawn nor do we catch the same bus pls

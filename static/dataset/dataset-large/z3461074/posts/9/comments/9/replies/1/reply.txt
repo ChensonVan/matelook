@@ -1,3 +1,0 @@
-from=z5019330
-message=hahahaha i got nothing for that
-time=2016-09-04T14:25:02+0000

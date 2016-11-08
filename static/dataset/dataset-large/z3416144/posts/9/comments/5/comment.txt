@@ -1,3 +1,0 @@
-time=2016-05-17T11:00:52+0000
-message=z5089708 is interested
-from=z3379933

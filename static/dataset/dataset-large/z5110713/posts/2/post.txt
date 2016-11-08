@@ -1,5 +1,0 @@
-time=2016-09-09T22:54:23+0000
-longitude=151.2334
-message=oh grace, dear grace, \nwhat a beauty you are\nplease dont be too far!\nmy lovely lady,\nbe my baby
-from=z5110713
-latitude=-33.9225

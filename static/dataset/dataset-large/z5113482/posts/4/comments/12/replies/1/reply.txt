@@ -1,3 +1,0 @@
-time=2016-05-16T21:55:12+0000
-message=Confirmed.
-from=z5112650

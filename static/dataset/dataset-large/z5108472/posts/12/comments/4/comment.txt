@@ -1,3 +1,0 @@
-time=2016-07-03T06:16:19+0000
-from=z5017842
-message=z5014335 this must be me

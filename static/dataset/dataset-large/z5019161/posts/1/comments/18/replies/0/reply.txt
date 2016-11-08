@@ -1,3 +1,0 @@
-time=2016-07-17T06:26:58+0000
-message=HAHAH jesus
-from=z5113968

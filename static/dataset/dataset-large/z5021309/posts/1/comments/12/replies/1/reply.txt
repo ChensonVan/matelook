@@ -1,3 +1,0 @@
-message=Imagine if you added sugar to your cereal
-from=z5018348
-time=2016-08-17T04:44:00+0000

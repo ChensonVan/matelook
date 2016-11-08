@@ -1,3 +1,0 @@
-message=Can't parallel park soz
-from=z5025014
-time=2016-09-29T12:34:36+0000

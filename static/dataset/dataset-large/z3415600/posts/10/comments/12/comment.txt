@@ -1,3 +1,0 @@
-from=z5020410
-message=You'll find z5113241... he's a great guy btw
-time=2016-09-02T08:29:35+0000

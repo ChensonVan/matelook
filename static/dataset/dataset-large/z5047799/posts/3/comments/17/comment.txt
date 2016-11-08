@@ -1,3 +1,0 @@
-time=2016-10-02T20:01:56+0000
-from=z5117790
-message=So close z5015813

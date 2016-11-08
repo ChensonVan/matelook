@@ -1,5 +1,0 @@
-time=2016-06-25T15:57:36+0000
-longitude=151.2216
-message=To Kenneth Leung,\n\nI want to have "coffee" with you sometimes ;) <3. I'm in your accounting lecture and can't resist staring at you.\n\nFrom,\na secret admirer(1st year commerce student).
-from=z3384642
-latitude=-33.9251

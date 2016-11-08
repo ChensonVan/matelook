@@ -1,5 +1,0 @@
-message=To JR in Maths ... hurry up and ask RT out already. We know you are keen ;)
-time=2016-08-09T06:58:15+0000
-latitude=-33.8741
-longitude=151.1437
-from=z3417908

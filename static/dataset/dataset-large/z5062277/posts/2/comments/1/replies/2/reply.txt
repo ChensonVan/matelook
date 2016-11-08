@@ -1,3 +1,0 @@
-message=Do i look like a guy to you?
-time=2016-04-29T22:19:32+0000
-from=z5016876

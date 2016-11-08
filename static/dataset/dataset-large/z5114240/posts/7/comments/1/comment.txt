@@ -1,3 +1,0 @@
-time=2016-08-09T12:41:20+0000
-message=wow, that was truly brutal
-from=z5024986

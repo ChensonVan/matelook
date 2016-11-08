@@ -1,3 +1,0 @@
-message=Hnnnnnnnng
-from=z5077131
-time=2013-05-18T03:46:31+0000

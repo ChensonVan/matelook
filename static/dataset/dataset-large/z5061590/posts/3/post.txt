@@ -1,5 +1,0 @@
-from=z5061590
-message=Dear Daniel Mansfield, \nI love your rants about theorems and even more your bright red hair. \nYou are an absolute bae. \nLove \n- Admirers of your shirt choices
-latitude=-33.9144
-time=2016-08-30T11:18:49+0000
-longitude=151.2346

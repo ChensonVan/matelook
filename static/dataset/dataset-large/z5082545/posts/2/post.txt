@@ -1,5 +1,0 @@
-message=To the beautiful korean girl in my ceic2000 tute,are you single? if you are, coffee sometime?
-latitude=-33.8405
-time=2016-05-05T11:39:09+0000
-longitude=151.1767
-from=z5082545

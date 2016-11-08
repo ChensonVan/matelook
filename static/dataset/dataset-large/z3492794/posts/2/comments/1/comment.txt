@@ -1,3 +1,0 @@
-from=z3462856
-message=z5116218 you have an N in your name? You have 3!
-time=2016-05-10T07:12:14+0000

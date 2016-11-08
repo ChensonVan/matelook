@@ -1,3 +1,0 @@
-from=z5057619
-message=z5025090 is a really ugly guy from macquarie. Just saying.
-time=2016-09-11T12:08:27+0000

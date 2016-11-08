@@ -1,5 +1,0 @@
-message=Hello \nThis is dedicated to stinky socks.\nI was doing just fine before I met you now I drink too much and it's an issue but I'm okay. Gotta eat the booty like groceries
-latitude=-33.9230
-longitude=151.2330
-time=2016-10-01T22:05:03+0000
-from=z5099971

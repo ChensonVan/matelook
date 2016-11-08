@@ -1,5 +1,0 @@
-latitude=-33.8217
-from=z5015085
-message=To the guy named Alex Wu. Your clumsiness is so cute and I wish you were clumsy like that with me ;)
-longitude=151.1554
-time=2016-06-11T02:52:29+0000

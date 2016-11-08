@@ -1,3 +1,0 @@
-message=Aye mate thats two
-from=z5099971
-time=2016-04-21T07:34:46+0000

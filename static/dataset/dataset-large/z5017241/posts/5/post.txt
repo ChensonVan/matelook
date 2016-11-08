@@ -1,5 +1,0 @@
-latitude=-33.7147
-message=To the vintage femme fatale I've seen around campus: you are a sumptuous temptress in mortal form. Never since Lauren Bacall and Ava Gardner has there been such beauty as yours. You look like you've walked straight off a film noir set. I'd love to sit in a smoky bar drinking dirty martinis and discussing classic literature with you. Next time I see you on campus, I hope I have the courage to ask you out!!
-longitude=151.0474
-time=2013-05-10T05:48:10+0000
-from=z5017241

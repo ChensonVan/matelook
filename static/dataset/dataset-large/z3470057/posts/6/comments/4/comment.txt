@@ -1,3 +1,0 @@
-message=z5113245 you need to chill
-time=2016-08-22T22:04:27+0000
-from=z5059325

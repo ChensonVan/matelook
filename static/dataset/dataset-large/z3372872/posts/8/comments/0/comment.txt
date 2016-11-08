@@ -1,3 +1,0 @@
-from=z5059826
-time=2013-04-22T03:08:18+0000
-message=that escalated quickly

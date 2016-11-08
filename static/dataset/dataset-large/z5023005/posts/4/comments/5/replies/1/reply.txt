@@ -1,3 +1,0 @@
-message=Lol another j I didn't write this fyi
-from=z5017894
-time=2016-09-17T08:55:36+0000

@@ -22,7 +22,8 @@
                     {% if messages %}
                      <ul class="flashes">
                         {% for message in messages %}
-                            <div class="message_flash"><h2>{{ message }}</h2></div>
+                            <!-- <div class="message_flash"><h2>{{ message }}</h2></div> -->
+                            <div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert">&times;</button> {{ message }} </div>
                         {% endfor %}
                     </ul>
                     {% endif %}
@@ -40,7 +41,7 @@
                 <h4>Find New Friends</h4>
                 <div class="hline"></div>
                 <div class="spacing"></div>
-                <form action="{{ url_for('search', user=user) }}" method="GET">         
+                <form action="{{ url_for('search', action='user') }}" method="GET">         
                     <div  class="input-group">
                         <div class="input-group">
                             <input type="text" class="form-control" name="query" placeholder="Search something" style="width:680px;margin:0 auto">
@@ -55,13 +56,13 @@
                 <br>
                 <!-- print search query results -->
                 {% if query %}
-                    <h4>Results</h4>
+                    <h4>Results for '{{ query }}'</h4>
                     <div class="hline"></div>
                     <div class="spacing"></div>
                     {% if users %}
                         {% for mate in users[pag.begin : pag.end] %}
                         <div class="col-lg-2">
-                            <a href="{{ url_for('matelook', u_zid=mate.zid) }}"><img receiversrc="{{ url_for('static', filename='profile/' + mate['image']) }}"alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
+                            <a href="{{ url_for('matelook', u_zid=mate.zid) }}"><img src="{{ url_for('static', filename='profile/' + mate['image']) }}"alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
                         </div>
                         <div class="col-lg-10">
                             <p><a href="{{ url_for('matelook', u_zid=mate.zid) }}"> {{ mate.full_name }} </a></p>
@@ -89,8 +90,8 @@
                     {% endif %}
                     <!-- pagination -->
                     {% import "pagination.html" as pagination %}
-                    {{ pagination.render_pagination('/search/user', query, pag)}}
-                {% endif %} <!-- end if query --> 
+                    {{ pagination.pagination_search('user', query, pag)}}
+                {% else %} <!-- end if query --> 
 
                 <div class="spacing"></div>
 
@@ -104,7 +105,7 @@
                         <div class="col-lg-10">
                             <p><a href="{{ url_for('matelook', u_zid=mate['zid']) }}"> {{ mate['name'] }} </a>
                             <em> ({{ mate['common'] }} common friends)</em></p>
-                            <form action="{{  url_for('mateManager') }}" method="POST">
+                            <form action="{{ url_for('mateManager') }}" method="POST">
                                 <input type="hidden" name="m_zid", value={{ mate.zid }}>
                                 <input type="hidden" name="page", value={{ pag.page }}>
                                 <input type="hidden" name="suggestion", value="suggestion">
@@ -115,7 +116,8 @@
                     {% endfor %}
                     <!-- pagination -->
                     {% import "pagination.html" as pagination %}
-                    {{ pagination.render_pagination('/search', '', pag)}}
+                    {{ pagination.pagination('search', pag)}}
+                    {% endif %} <!-- end if query --> 
             </div>
 
         

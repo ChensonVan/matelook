@@ -1,3 +1,0 @@
-message=They're done for :')
-from=z5048360
-time=2016-09-17T02:44:05+0000

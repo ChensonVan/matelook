@@ -1,3 +1,0 @@
-message=Rumour has it that z5017842 drew the poster in her own image
-time=2016-08-30T23:53:23+0000
-from=z5016305

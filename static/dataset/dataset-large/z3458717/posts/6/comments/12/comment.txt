@@ -1,3 +1,0 @@
-from=z3459509
-message=z5020200 this would be perfect for the video
-time=2016-09-17T00:37:50+0000

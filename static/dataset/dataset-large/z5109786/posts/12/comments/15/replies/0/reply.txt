@@ -1,3 +1,0 @@
-from=z5047516
-message=Lol what is this haha
-time=2016-05-30T19:37:29+0000

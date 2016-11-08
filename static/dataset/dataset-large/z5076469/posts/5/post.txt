@@ -1,5 +1,0 @@
-from=z5076469
-message=Wayne Z\n\nI miss your big biceps at the the computer labs. Btw I dont do legs either but I can spread them.
-latitude=-33.9672
-time=2016-09-08T01:00:04+0000
-longitude=151.1251

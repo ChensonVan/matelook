@@ -1,3 +1,0 @@
-time=2016-07-26T13:52:12+0000
-message=Daddy
-from=z5040176

@@ -1,3 +1,0 @@
-from=z5109980
-time=2016-05-30T13:06:02+0000
-message=i offer z5062742 as tribute

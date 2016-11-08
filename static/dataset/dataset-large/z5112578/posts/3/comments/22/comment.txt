@@ -1,3 +1,0 @@
-from=z5113700
-message=z5060446 not u tho
-time=2016-09-02T03:17:56+0000

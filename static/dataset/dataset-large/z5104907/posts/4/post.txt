@@ -1,3 +1,0 @@
-from=z5104907
-message=Dear Vincent,\nYou're super lucky that you're cute, because you're the world's biggest idiot. My sister has had a massive crush on you for ages now and thinks you're apparently like the greatest guy. Take a bloody hint and ask her out.\n\nJeez, engineers I swear...
-time=2016-05-10T07:49:51+0000

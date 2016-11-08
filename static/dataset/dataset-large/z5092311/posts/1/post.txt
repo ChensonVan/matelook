@@ -1,5 +1,0 @@
-message=girl in the yin and yang shirt. ill be your yin if you be my yang.
-longitude=151.0943
-time=2013-09-08T20:28:06+0000
-from=z5092311
-latitude=-33.8731

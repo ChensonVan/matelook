@@ -1,5 +1,0 @@
-longitude=151.2230
-from=z5113077
-time=2013-12-05T11:43:35+0000
-latitude=-33.9140
-message=Hey Mayu, my friends bet me that I wouldn't be able to start a conversation with a hot guy. Wanna buy some drinks with their money?

@@ -1,3 +1,0 @@
-from=z3480991
-time=2016-09-08T03:48:55+0000
-message=z5075071 you have a couple helicopters lying around don't you?

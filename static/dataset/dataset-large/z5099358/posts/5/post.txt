@@ -1,5 +1,0 @@
-message=What can you do when your tutor is extremely cute and charming? I am dead.
-from=z5099358
-latitude=-33.8813
-longitude=151.2175
-time=2016-05-04T09:52:02+0000

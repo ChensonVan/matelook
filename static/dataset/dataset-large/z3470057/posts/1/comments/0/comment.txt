@@ -1,3 +1,0 @@
-message=z5119635 congrats you made it
-from=z5019361
-time=2016-09-08T01:24:51+0000

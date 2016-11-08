@@ -1,5 +1,0 @@
-latitude=-33.8918
-time=2016-09-05T12:45:50+0000
-from=z3485783
-message=Oh Holly holly holly, your laugh is so jolly. Falling in love with you is not a folly. <3
-longitude=151.1661

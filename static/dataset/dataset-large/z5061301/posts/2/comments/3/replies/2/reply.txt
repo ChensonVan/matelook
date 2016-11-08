@@ -1,3 +1,0 @@
-message=Wait do you actually find out tomorrow? Hahaha
-from=z5002210
-time=2016-06-07T08:12:22+0000

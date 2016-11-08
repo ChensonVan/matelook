@@ -1,5 +1,0 @@
-time=2016-04-25T12:12:11+0000
-latitude=-33.9186
-longitude=151.2562
-from=z5116167
-message=Jenny cho, youre hella good looking

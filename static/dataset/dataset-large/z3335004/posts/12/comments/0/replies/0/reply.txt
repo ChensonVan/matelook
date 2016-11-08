@@ -1,3 +1,0 @@
-from=z5099187
-message=the two of us ain't gonna follow your rules
-time=2016-09-22T05:40:22+0000

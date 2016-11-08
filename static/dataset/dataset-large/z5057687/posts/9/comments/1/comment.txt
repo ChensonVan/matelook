@@ -1,3 +1,0 @@
-from=z3411568
-message=Kevin Kim
-time=2016-09-08T21:08:57+0000

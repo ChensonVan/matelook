@@ -1,3 +1,0 @@
-from=z3452764
-message=I don't make eye contact
-time=2016-07-01T16:09:45+0000

@@ -1,3 +1,0 @@
-from=z5132843
-message=Such good writing skills
-time=2016-05-18T07:11:16+0000

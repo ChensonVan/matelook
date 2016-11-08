@@ -1,3 +1,0 @@
-from=z5018107
-message=Plus that's on Thursday. We go Friday you dud
-time=2016-04-28T01:58:49+0000

@@ -1,3 +1,0 @@
-from=z5082545
-time=2013-06-26T00:36:08+0000
-message=gaaayyyy tldr

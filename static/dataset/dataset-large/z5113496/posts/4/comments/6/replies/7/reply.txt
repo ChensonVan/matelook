@@ -1,3 +1,0 @@
-from=z5117301
-time=2016-04-29T13:44:45+0000
-message=Too many sausages getting to his head 😂

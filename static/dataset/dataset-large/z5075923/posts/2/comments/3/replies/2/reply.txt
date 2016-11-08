@@ -1,3 +1,0 @@
-message=Senpai
-from=z5098305
-time=2016-09-18T16:22:31+0000

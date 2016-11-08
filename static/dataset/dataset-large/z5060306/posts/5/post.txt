@@ -1,5 +1,0 @@
-latitude=-33.5362
-message=To the one who's graduating end of this sem, i wish we met earlier and I'm gonna miss you so much after you graduate.
-from=z5060306
-time=2013-08-02T12:20:59+0000
-longitude=151.2358

@@ -1,3 +1,0 @@
-time=2016-05-03T15:17:31+0000
-message=mustve seen me at mafia aye
-from=z3458687

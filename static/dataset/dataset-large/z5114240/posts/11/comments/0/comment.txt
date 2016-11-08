@@ -1,3 +1,0 @@
-from=z5126202
-message=Can you still hear the lambs Clarice ?
-time=2013-08-07T05:33:34+0000

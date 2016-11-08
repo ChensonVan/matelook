@@ -1,3 +1,0 @@
-from=z5017787
-message=Nobody is unique, up to homotopy
-time=2016-08-31T10:08:23+0000

@@ -1,5 +1,0 @@
-from=z5091050
-message=Dear H,\n\nI think you're a very charming person. I like the way you smile. It is very contagious :)\nI hope we get to meet and become friends soon!
-latitude=-33.9226
-longitude=151.2300
-time=2016-08-11T07:40:18+0000

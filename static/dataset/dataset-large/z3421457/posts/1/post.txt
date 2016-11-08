@@ -1,5 +1,0 @@
-longitude=151.2446
-from=z3421457
-message=To the girl who is always eating chocolate subway cookies in the library, can I buy you a cookie?
-time=2013-11-02T12:14:45+0000
-latitude=-33.9675

@@ -1,3 +1,0 @@
-time=2016-06-09T12:00:53+0000
-message=Wait, what? I'm not curry? I'm so confused.
-from=z5127546

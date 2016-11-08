@@ -1,5 +1,0 @@
-from=z3431766
-time=2013-04-25T08:01:29+0000
-longitude=150.8031
-message=Dear Rebecca of BSOC, I have nothing witty to say, there is no easy way of putting this. You are so talented that you beam with so much radiance. You are so energetic all the time and whenever you crack a seedy joke... it's not even seedy. Thank you for making us all laugh.
-latitude=-33.7751

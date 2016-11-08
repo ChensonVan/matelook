@@ -1,3 +1,0 @@
-message=About time you admitted I was blonde
-from=z5116179
-time=2016-09-04T11:16:39+0000

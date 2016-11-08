@@ -1,3 +1,0 @@
-time=2016-10-04T11:17:26+0000
-message=Wrong Daniel ???
-from=z5019177

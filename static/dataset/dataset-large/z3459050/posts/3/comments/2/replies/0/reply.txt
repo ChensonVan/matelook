@@ -1,3 +1,0 @@
-message=yeah buddy no, you wish
-time=2016-08-08T12:37:02+0000
-from=z5015191

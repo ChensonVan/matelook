@@ -1,3 +1,0 @@
-message=z5017077 thought you didnt come to uni m8
-from=z3462582
-time=2016-08-14T09:06:42+0000

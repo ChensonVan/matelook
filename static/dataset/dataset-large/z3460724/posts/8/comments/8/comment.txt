@@ -1,3 +1,0 @@
-message=play dota (Y)
-time=2013-10-04T10:30:23+0000
-from=z5113614

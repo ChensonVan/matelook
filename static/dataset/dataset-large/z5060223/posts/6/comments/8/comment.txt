@@ -1,3 +1,0 @@
-message=Haha i know was gonna say i walked past there other day
-time=2013-03-29T06:24:58+0000
-from=z3416144

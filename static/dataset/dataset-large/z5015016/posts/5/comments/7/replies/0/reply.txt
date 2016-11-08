@@ -1,3 +1,0 @@
-from=z3463248
-time=2016-04-20T11:54:01+0000
-message=i was just about to tag myself

@@ -1,3 +1,0 @@
-message=aMY right?
-time=2016-09-20T13:24:59+0000
-from=z5113236

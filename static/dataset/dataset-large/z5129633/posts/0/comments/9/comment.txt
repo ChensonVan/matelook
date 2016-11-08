@@ -1,3 +1,0 @@
-message=not being chinese
-from=z3459459
-time=2013-11-21T13:21:41+0000

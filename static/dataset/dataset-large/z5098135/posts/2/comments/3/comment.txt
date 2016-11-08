@@ -1,3 +1,0 @@
-from=z5016565
-message=z5117559 hope ur redi bb
-time=2016-10-01T14:43:55+0000

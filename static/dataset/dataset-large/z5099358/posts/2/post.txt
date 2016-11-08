@@ -1,5 +1,0 @@
-from=z5099358
-message=To sunny that studies civil engineering in 1st year , thank you for listening to me all day and sorry for the trouble I cause you ,youre so nice and kind, coffee maybe?
-longitude=151.1237
-latitude=-33.9049
-time=2013-11-03T14:30:49+0000

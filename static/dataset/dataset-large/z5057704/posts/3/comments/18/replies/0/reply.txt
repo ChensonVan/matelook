@@ -1,3 +1,0 @@
-message=heres your chance
-time=2016-09-01T23:35:55+0000
-from=z5059719

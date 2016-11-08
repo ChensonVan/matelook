@@ -1,5 +1,0 @@
-message=To that girl who fell down the stairs at uni today and had bleeding knees. U r cute ;)
-time=2016-09-12T11:38:19+0000
-latitude=-33.9243
-longitude=151.2237
-from=z5013363

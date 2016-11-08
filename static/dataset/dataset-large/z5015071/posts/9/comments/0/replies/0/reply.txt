@@ -1,3 +1,0 @@
-message=relo guru ronnie
-time=2016-06-19T12:46:00+0000
-from=z3463638

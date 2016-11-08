@@ -1,3 +1,0 @@
-message=So sad :( it's hard to be in the friendzone
-from=z3493008
-time=2016-08-25T08:14:57+0000

@@ -1,5 +1,0 @@
-latitude=-33.8343
-from=z5115403
-message=Dear Jess Friedman\n\nI love your smile,\nYour amazing talent for drawing, and your overwhelming kindness and compassion, as well as everything else.\n\nB.
-time=2016-05-14T12:27:05+0000
-longitude=151.1545

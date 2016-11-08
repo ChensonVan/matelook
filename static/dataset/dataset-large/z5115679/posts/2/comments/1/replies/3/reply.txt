@@ -1,3 +1,0 @@
-message=istg it's purple
-time=2016-05-13T10:14:29+0000
-from=z5078514

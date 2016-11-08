@@ -1,5 +1,0 @@
-from=z3416144
-message=To the Asian guy with the the beautiful curly moustache, I think I've fallen in love with you. That beautiful porcelain, hairless face in contrast with that jet black moustache of your's just brings so much joy to my life. your beautiful <3
-latitude=-33.9235
-longitude=151.2335
-time=2016-09-30T09:34:10+0000

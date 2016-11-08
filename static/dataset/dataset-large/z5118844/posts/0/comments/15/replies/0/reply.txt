@@ -1,3 +1,0 @@
-time=2016-04-20T23:58:02+0000
-from=z5130883
-message=Not about that life

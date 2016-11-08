@@ -1,5 +1,0 @@
-latitude=-33.9201
-message=To the cute curry girl wearing a grey top and a scarf at around 11 o'clock near Science theatre, you're gorgeous, i deeply regret not talking to you. Please comment on this post so i can fix my mistake and send you a message! <3
-time=2016-08-15T11:56:07+0000
-longitude=151.2342
-from=z5060477

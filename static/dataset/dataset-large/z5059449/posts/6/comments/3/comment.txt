@@ -1,3 +1,0 @@
-from=z5061572
-time=2013-04-24T03:58:51+0000
-message=I have been meaning to try Pilates.

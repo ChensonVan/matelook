@@ -1,3 +1,0 @@
-message=accurate
-time=2016-09-02T01:26:23+0000
-from=z5126202

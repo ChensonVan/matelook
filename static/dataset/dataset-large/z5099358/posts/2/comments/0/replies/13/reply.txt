@@ -1,3 +1,0 @@
-from=z5075687
-message=with his little tummy
-time=2013-11-02T13:42:26+0000

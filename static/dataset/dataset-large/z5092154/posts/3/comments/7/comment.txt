@@ -1,3 +1,0 @@
-from=z5060416
-time=2016-09-01T00:38:20+0000
-message=z3461196 im sorry they made me do it

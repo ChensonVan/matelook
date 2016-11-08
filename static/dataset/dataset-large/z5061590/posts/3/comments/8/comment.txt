@@ -1,3 +1,0 @@
-time=2016-08-30T11:17:05+0000
-message=z5057619 take notes.
-from=z5019329

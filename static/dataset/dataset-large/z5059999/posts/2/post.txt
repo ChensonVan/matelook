@@ -1,5 +1,0 @@
-from=z5059999
-message=hellsoc should be renamed as machinesoc ;)
-longitude=151.2358
-latitude=-33.9189
-time=2013-04-29T23:04:46+0000

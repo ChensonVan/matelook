@@ -1,3 +1,0 @@
-from=z5117790
-message=I said "get off this post" essa u snek
-time=2016-04-15T13:58:13+0000

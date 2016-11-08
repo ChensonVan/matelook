@@ -1,3 +1,0 @@
-message=z5024986 they spelt your name wrong
-from=z5015071
-time=2016-05-12T10:08:56+0000

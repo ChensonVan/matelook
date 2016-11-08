@@ -1,3 +1,0 @@
-from=z5018107
-message=Hahahaha I'm being serious
-time=2016-06-18T07:00:01+0000

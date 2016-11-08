@@ -1,3 +1,0 @@
-from=z5076554
-time=2016-08-14T05:53:09+0000
-message=not in canberra hahahha ;)

@@ -1,3 +1,0 @@
-message=z5036317 z5004426 z5119655 alright, which one of you did this
-from=z3458717
-time=2016-06-16T03:42:19+0000

@@ -1,3 +1,0 @@
-time=2016-09-05T05:32:53+0000
-message=z3464149 thoughts
-from=z5051889

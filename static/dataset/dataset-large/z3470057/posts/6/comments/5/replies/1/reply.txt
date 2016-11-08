@@ -1,3 +1,0 @@
-message=uhh wtf that's overboard
-from=z5115666
-time=2016-08-23T06:42:15+0000

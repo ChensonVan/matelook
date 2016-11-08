@@ -1,3 +1,0 @@
-from=z5074940
-message=Wtf srsly don't accuse me of doing this
-time=2013-05-20T08:32:13+0000

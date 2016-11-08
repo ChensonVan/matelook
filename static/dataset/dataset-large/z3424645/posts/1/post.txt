@@ -1,5 +1,0 @@
-time=2016-04-21T12:07:29+0000
-longitude=151.2217
-message=To the cutie at survive camp, I will always remember your quirky fact :)
-latitude=-33.9226
-from=z3424645

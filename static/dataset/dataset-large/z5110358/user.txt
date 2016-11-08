@@ -1,9 +1,0 @@
-program=Information Technology
-password=scooter
-courses=[2016 S2 COMP9021, 2016 S2 COMP9311, 2016 S2 GSOE9820]
-birthday=1996-03-04
-mates=[z5098313, z3459327, z5062277, z5059596, z5014335, z5025014, z5126202, z5021034, z5118723]
-zid=z5110358
-email=A.A.K.Madani@unsw.edu.au
-full_name=Ali Adbul Karim Madani
-home_suburb=University Of New South Wales

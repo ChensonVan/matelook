@@ -1,3 +1,0 @@
-message=How are you guys so good at this omg
-from=z5075827
-time=2016-04-27T12:57:44+0000

@@ -1,3 +1,0 @@
-from=z3493008
-time=2016-09-29T06:34:51+0000
-message=You cheated on me :'(

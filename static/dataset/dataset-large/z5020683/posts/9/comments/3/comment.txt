@@ -1,3 +1,0 @@
-message=FD has proven quite lucrative
-from=z3446230
-time=2013-08-11T13:37:25+0000

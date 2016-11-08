@@ -1,3 +1,0 @@
-message=z5019886, stop. Please.
-from=z5059526
-time=2016-08-17T22:23:55+0000

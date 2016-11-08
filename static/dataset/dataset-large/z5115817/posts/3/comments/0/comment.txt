@@ -1,3 +1,0 @@
-from=z5110851
-message=z5023773 they got your gender and your name wrong bro
-time=2016-06-17T12:14:45+0000

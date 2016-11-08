@@ -1,3 +1,0 @@
-message=Approach now, change classes later.\n(seriously though, do it)
-from=z5004426
-time=2013-08-22T14:54:04+0000

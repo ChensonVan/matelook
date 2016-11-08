@@ -1,3 +1,0 @@
-message=This is my fav class
-time=2016-09-23T01:21:09+0000
-from=z5077163

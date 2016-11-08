@@ -1,3 +1,0 @@
-from=z5088545
-time=2013-04-25T10:05:02+0000
-message=OMG!!!!HILARIOUS!!!!

@@ -1,3 +1,0 @@
-message=z5075071 settle down bro
-from=z3413889
-time=2016-08-30T23:53:02+0000

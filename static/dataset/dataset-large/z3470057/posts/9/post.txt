@@ -1,5 +1,0 @@
-latitude=-33.9140
-longitude=151.2256
-time=2016-07-01T01:24:01+0000
-from=z3470057
-message=Conrad Taing\nIf we made it a one time thing, would you consider it? ;)

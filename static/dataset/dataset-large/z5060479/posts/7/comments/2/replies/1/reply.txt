@@ -1,3 +1,0 @@
-from=z5016565
-time=2016-04-26T09:54:36+0000
-message=Rate this very highly

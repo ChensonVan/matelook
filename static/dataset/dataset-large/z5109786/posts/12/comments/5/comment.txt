@@ -1,3 +1,0 @@
-time=2016-05-30T23:34:24+0000
-from=z5059719
-message=z5015071 You do physics?

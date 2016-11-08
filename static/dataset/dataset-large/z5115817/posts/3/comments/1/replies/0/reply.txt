@@ -1,3 +1,0 @@
-time=2016-06-18T03:56:29+0000
-message=Yes it's me
-from=z5083924

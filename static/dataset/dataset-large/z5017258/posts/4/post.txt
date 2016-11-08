@@ -1,5 +1,0 @@
-latitude=-33.9134
-longitude=151.2261
-time=2013-04-25T08:02:41+0000
-message=We met because I couldn't park and you needed the space to get to your exam in the morning at 11 today. You should have left your number on the note you left on my car, because I'd really love to take you out to coffee.
-from=z5017258

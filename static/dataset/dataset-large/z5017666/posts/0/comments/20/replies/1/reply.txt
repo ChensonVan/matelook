@@ -1,3 +1,0 @@
-message=Can't drive well either
-time=2016-09-29T12:34:50+0000
-from=z5025014

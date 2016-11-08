@@ -1,3 +1,0 @@
-from=z5074933
-message=I know no Henry?
-time=2016-09-02T22:45:46+0000

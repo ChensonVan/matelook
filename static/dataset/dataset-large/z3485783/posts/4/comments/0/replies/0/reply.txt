@@ -1,3 +1,0 @@
-message=I do engineering. Neither of these will ever be true :(
-time=2016-09-06T02:34:30+0000
-from=z5024602

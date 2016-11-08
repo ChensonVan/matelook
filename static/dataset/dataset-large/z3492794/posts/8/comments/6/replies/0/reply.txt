@@ -1,3 +1,0 @@
-from=z5017787
-message=Must be fake
-time=2016-10-05T22:16:06+0000

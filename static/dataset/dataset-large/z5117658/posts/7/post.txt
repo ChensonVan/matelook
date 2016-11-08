@@ -1,5 +1,0 @@
-message=Daniel luu you sexy beast take me to church some day
-longitude=151.2333
-time=2016-08-23T10:57:43+0000
-latitude=-33.9245
-from=z5117658

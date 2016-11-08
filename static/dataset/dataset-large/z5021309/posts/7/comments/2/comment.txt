@@ -1,3 +1,0 @@
-from=z5020410
-time=2016-05-24T16:27:19+0000
-message=Another one about Nick Holman

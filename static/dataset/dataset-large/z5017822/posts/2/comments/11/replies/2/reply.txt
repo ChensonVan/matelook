@@ -1,3 +1,0 @@
-time=2016-04-15T14:09:22+0000
-message=no thanks
-from=z3462323

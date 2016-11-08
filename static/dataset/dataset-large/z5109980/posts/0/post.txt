@@ -1,5 +1,0 @@
-from=z5109980
-message=Richard Jiang who is in the FINS1612 tutorial on Tuesday, are you into guys? If not we can always have a 3some.
-latitude=-33.8861
-time=2016-08-12T14:22:35+0000
-longitude=151.2290

@@ -1,3 +1,0 @@
-time=2016-05-30T13:25:22+0000
-from=z5062448
-message=Nope haha

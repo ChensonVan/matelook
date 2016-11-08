@@ -1,3 +1,0 @@
-time=2016-08-11T02:05:24+0000
-message=z5075827, are you the friend?
-from=z5062443

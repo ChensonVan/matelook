@@ -1,3 +1,0 @@
-message=Zzzzz, honestly why does this keep happening?
-from=z5019353
-time=2016-04-16T00:23:56+0000

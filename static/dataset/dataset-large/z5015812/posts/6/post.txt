@@ -1,5 +1,0 @@
-time=2016-06-26T12:39:54+0000
-latitude=-33.9201
-from=z5015812
-longitude=151.2362
-message=<3 the lecturer of COMP3411

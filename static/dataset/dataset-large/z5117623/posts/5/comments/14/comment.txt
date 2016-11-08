@@ -1,3 +1,0 @@
-time=2016-04-22T06:20:49+0000
-message=z5112578 was this u
-from=z5119613

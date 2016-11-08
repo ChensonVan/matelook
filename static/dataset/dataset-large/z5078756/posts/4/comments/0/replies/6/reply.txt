@@ -1,3 +1,0 @@
-from=z5117301
-message=Mary - 'to all the cute guys at uni, be my friend plz so I can stop stalking u'
-time=2016-05-05T14:04:06+0000

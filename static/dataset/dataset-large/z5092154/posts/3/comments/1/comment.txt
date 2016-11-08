@@ -1,3 +1,0 @@
-message=z5015243 we get it, z5099216 likes you, stop being so arrogant
-from=z5016305
-time=2016-09-01T00:11:11+0000

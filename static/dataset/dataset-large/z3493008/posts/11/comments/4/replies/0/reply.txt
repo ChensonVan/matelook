@@ -1,3 +1,0 @@
-time=2016-06-15T01:20:48+0000
-from=z5020328
-message=It's okay I have you

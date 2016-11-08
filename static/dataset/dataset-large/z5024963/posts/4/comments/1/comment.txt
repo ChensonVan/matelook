@@ -1,3 +1,0 @@
-message=Cute, not pathetic.
-from=z5015700
-time=2013-04-16T08:21:35+0000

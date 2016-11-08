@@ -1,3 +1,0 @@
-message=souvlaki isn't lebanese... awkward...
-from=z5113245
-time=2013-05-07T10:59:22+0000

@@ -1,3 +1,0 @@
-from=z5013363
-message=she likes ice cream and cake and cake
-time=2016-09-21T14:53:03+0000

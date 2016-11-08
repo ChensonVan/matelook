@@ -1,3 +1,0 @@
-message=life is a guess
-from=z5023123
-time=2016-08-08T11:36:04+0000

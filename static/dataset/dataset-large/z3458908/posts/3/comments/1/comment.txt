@@ -1,3 +1,0 @@
-from=z5076554
-message=z3462856 Brings a tear to my eye 😢
-time=2016-05-04T14:07:26+0000

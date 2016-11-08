@@ -1,5 +1,0 @@
-from=z5113236
-message=To the guy in mechatronic engineering who lives in the terraces on level 4 (I followed you up in the lift once even though I'm on level 1 ! :P). used to watch you practice quidditch, thought you playd so rough it was hot. you are so cute now with your sexy new mohawk thing, it goes with your sunglasses. I've never had the courage to talk to you but I think you notice me sometimes, you picked up something from underneath me at unibar once, little did you know you picked up my heart too, I hoped you were looking up my dress, i even uncrossed my legs when you did :P. I cant be sure though. I'd really like to get to know you. maybe we can play LoL some time. lol!
-latitude=-33.9744
-time=2013-04-21T01:56:48+0000
-longitude=151.0390

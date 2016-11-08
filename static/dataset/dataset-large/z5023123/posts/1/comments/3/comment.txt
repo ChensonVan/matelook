@@ -1,3 +1,0 @@
-from=z3334316
-message=The question is whether this is a guy posting or a girl posting lol
-time=2013-04-18T00:12:41+0000

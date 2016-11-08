@@ -1,3 +1,0 @@
-from=z5130883
-time=2016-08-23T04:57:36+0000
-message=z5115479 heavy days

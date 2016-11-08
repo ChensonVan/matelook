@@ -1,3 +1,0 @@
-from=z5010380
-time=2016-05-30T13:06:07+0000
-message=z5061590 u cute :3 NOOOT

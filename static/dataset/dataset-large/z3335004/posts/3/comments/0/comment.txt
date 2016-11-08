@@ -1,3 +1,0 @@
-message=And no more extended absences - I promise!
-from=z5024986
-time=2014-01-02T09:33:42+0000

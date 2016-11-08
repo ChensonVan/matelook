@@ -1,3 +1,0 @@
-from=z5032269
-message=flant
-time=2016-08-15T22:26:40+0000

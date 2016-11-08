@@ -1,3 +1,0 @@
-from=z5063045
-message=Imperfectly perfect or perfectly imperfect?
-time=2016-09-19T04:50:08+0000

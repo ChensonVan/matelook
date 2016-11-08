@@ -1,3 +1,0 @@
-from=z5017077
-message=i live for the roasts
-time=2016-08-25T07:20:40+0000

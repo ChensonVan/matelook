@@ -1,3 +1,0 @@
-time=2016-08-18T22:00:10+0000
-from=z5020210
-message=You're soo funny

@@ -1,3 +1,0 @@
-message=Think you mean z5063045 YE
-from=z3480991
-time=2016-06-15T01:05:25+0000

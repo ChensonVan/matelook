@@ -1,3 +1,0 @@
-message=Thanks mentor !
-from=z3463930
-time=2016-06-17T06:43:00+0000

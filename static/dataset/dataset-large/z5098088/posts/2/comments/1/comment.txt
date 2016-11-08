@@ -1,3 +1,0 @@
-message=Classy
-time=2016-08-30T11:52:13+0000
-from=z3299058

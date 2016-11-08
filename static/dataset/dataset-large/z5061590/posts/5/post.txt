@@ -1,5 +1,0 @@
-from=z5061590
-latitude=-33.9225
-message=As a guy who's a big introvert, I'd much rather sit and have a nice conversation with a girl than just 'dancing' as an opportunity to get to know each other.\nJust at curiosity, do the ladies prefer this? Makes it difficult to meet new people unfortunately though...
-time=2016-06-04T14:22:57+0000
-longitude=151.2183

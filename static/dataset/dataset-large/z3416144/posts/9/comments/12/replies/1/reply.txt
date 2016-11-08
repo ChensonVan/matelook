@@ -1,3 +1,0 @@
-from=z5098135
-time=2016-05-17T09:33:41+0000
-message=Lel sure I'll come to syd asap

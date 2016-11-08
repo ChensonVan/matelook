@@ -1,3 +1,0 @@
-from=z5075071
-time=2016-04-26T07:14:45+0000
-message=z5017258 has a pretty small kebab

@@ -1,3 +1,0 @@
-from=z3493303
-message=Your lucky I talked to you haha
-time=2016-08-19T22:49:13+0000

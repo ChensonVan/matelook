@@ -1,5 +1,0 @@
-message=To the asian girl from PLC that studies commerce? in 2nd year. You have PYSC1001 as one of your classes. You have a wonderful smile. Keep smiling! :)
-latitude=-33.7510
-longitude=151.0725
-from=z5059161
-time=2013-06-12T02:28:01+0000

@@ -1,5 +1,0 @@
-message=To the Arc girl giving out free stationery on Monday in front of the library - when I saw your face, you made me stop and stand stationary.
-time=2013-05-06T03:07:07+0000
-latitude=-33.9269
-from=z3463739
-longitude=151.2265

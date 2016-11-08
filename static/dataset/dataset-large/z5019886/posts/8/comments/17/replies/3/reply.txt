@@ -1,3 +1,0 @@
-from=z5014972
-message=Bill stop
-time=2016-08-18T13:13:56+0000

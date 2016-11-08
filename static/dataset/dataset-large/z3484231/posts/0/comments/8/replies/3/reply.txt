@@ -1,3 +1,0 @@
-message=z5039294 I wouldn't take that. I think they've exposed you
-from=z5098157
-time=2016-05-22T14:49:43+0000

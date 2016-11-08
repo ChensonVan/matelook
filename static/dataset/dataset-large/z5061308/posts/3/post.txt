@@ -1,5 +1,0 @@
-latitude=-33.8233
-message=Dear only decent looking man working at UNSW. Had my eye on you...turns out you're engaged...to a man.
-longitude=151.2040
-time=2013-03-17T20:59:32+0000
-from=z5061308

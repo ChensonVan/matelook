@@ -1,3 +1,0 @@
-message=z5118782 means you don't have one
-from=z5118185
-time=2016-09-29T10:55:41+0000

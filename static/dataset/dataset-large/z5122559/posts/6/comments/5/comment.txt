@@ -1,3 +1,0 @@
-message=z5015071 z5020410 it was probably z3275760 ay
-time=2016-08-24T13:44:08+0000
-from=z5004669

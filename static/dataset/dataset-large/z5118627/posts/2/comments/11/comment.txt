@@ -1,3 +1,0 @@
-message=z5059719 He's got all that and more !
-from=z5015071
-time=2016-08-23T14:11:28+0000

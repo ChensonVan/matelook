@@ -1,3 +1,0 @@
-from=z5059325
-message=yes that's me
-time=2016-09-09T05:01:05+0000

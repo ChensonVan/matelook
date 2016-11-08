@@ -1,3 +1,0 @@
-message=Meme God is an understatement
-from=z5076554
-time=2016-09-08T11:25:22+0000

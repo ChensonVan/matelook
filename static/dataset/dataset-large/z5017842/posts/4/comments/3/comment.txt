@@ -1,3 +1,0 @@
-from=z5118764
-time=2013-09-21T09:27:30+0000
-message=z5109880... couldn't be anyone but you :P

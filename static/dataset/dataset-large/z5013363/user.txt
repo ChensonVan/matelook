@@ -1,9 +1,0 @@
-email=A.Baldwin@unsw.edu.au
-password=maggie
-program=Engineering (Hons) / Science
-courses=[2016 S1 CHEM1011, 2016 S1 ENGG1000, 2016 S1 MATH1131, 2016 S1 PHYS1121, 2016 S2 ENGG1811, 2016 S2 MATH1231, 2016 S2 MATS1192, 2016 S2 MMAN1300]
-birthday=1998-09-28
-full_name=Alec Baldwin
-zid=z5013363
-mates=[z5076025, z5117790, z3384642, z5015812, z5076189, z3462629, z5115666, z5010380]
-home_suburb=Matraville

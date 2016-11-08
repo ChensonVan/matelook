@@ -1,3 +1,0 @@
-from=z3330003
-message=z5110502 bruhhhh
-time=2016-08-25T08:37:49+0000

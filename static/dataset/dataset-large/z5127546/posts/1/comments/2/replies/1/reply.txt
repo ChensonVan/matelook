@@ -1,3 +1,0 @@
-from=z5015071
-time=2016-05-06T13:34:11+0000
-message=HAHA Shut up, which one of you was it?

@@ -1,3 +1,0 @@
-from=z3459327
-message=Only special education
-time=2016-08-23T00:35:03+0000

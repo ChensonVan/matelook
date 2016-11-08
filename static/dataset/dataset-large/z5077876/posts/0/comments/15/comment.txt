@@ -1,3 +1,0 @@
-message=z3462055 Pink n blue
-time=2016-09-18T23:16:51+0000
-from=z5024986

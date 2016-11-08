@@ -1,5 +1,0 @@
-latitude=-33.9788
-time=2013-10-30T06:53:05+0000
-message=To Rebecca Hatfielld you is smokin\n\nanon
-longitude=151.1274
-from=z5099971

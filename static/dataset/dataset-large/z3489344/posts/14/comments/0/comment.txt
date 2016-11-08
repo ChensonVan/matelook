@@ -1,3 +1,0 @@
-message=Thats scary Towheda Ahmed
-from=z5059526
-time=2013-05-05T06:32:31+0000

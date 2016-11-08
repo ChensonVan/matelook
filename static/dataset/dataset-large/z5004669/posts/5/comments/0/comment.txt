@@ -1,3 +1,0 @@
-from=z5092194
-message=z5082545 didn't realise you go to unsw
-time=2016-09-02T11:11:29+0000

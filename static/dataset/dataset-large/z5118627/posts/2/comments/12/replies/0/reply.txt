@@ -1,3 +1,0 @@
-from=z5061572
-message=hehe xd
-time=2016-08-23T14:04:51+0000

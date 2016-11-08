@@ -1,3 +1,0 @@
-time=2016-10-04T02:53:18+0000
-message=Bringing guns. Reported.
-from=z5020683

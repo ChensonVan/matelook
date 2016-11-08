@@ -1,5 +1,0 @@
-from=z5019886
-latitude=-33.9166
-time=2016-08-08T10:55:42+0000
-message=Andréa Tran coffee? ;)
-longitude=151.1567

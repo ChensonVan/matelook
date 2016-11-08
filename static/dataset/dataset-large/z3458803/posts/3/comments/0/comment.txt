@@ -1,3 +1,0 @@
-time=2016-06-17T13:58:39+0000
-message=z5037271 Don't you know this person
-from=z5062957

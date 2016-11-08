@@ -1,5 +1,0 @@
-longitude=151.2247
-message=To the fabled tharmarslayer, I have only heard of you and your magnificent abilities in old folklore such as the slay chronicles. I have yet to witness your true power and capability with my own very eyes. Slay me sometime?
-from=z5024602
-time=2013-04-25T07:58:42+0000
-latitude=-33.9113

@@ -1,3 +1,0 @@
-from=z5056054
-message=Wtf Wtf wtf
-time=2013-08-28T01:13:01+0000

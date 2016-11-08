@@ -1,5 +1,0 @@
-latitude=-33.9246
-from=z5115403
-longitude=151.2258
-time=2016-06-22T02:07:49+0000
-message=Dear Adam(the demo) from babs1201\n\nur hot af

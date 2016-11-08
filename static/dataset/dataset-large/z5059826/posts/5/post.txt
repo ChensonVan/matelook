@@ -1,5 +1,0 @@
-latitude=-33.9082
-from=z5059826
-longitude=151.2260
-message=Girl who let me 'borrow' paper for our maths quiz on Wednesday, you seem cool. Coffee?
-time=2016-08-31T03:11:29+0000

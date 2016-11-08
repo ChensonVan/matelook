@@ -1,3 +1,0 @@
-time=2013-10-06T07:14:32+0000
-message=this is obviously z3219170
-from=z5089708

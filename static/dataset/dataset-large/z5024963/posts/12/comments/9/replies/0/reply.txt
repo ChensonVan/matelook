@@ -1,3 +1,0 @@
-from=z5113241
-time=2016-05-03T10:27:57+0000
-message=Holy fk man don't even mention it

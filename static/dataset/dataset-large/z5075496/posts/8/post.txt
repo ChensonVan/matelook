@@ -1,5 +1,0 @@
-message=The guy doing comm/info systems? I think your name was yang yang? Your biceps are incredibly mesmerising and youre so handsome. Coffee sometime?
-latitude=-33.9813
-longitude=151.0471
-from=z5075496
-time=2016-07-29T00:22:52+0000

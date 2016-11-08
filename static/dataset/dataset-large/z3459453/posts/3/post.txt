@@ -1,5 +1,0 @@
-longitude=151.1044
-from=z3459453
-message=To the cute girl at McDonalds, you were walking away when you started smiling, I couldn't help but smile back. After a while your friends realised what was happening and then turned and giggled. I was the guy in the peach/pink shirt at the end. Would you like to grab some McDonalds some time?
-latitude=-33.8758
-time=2013-05-10T05:47:14+0000

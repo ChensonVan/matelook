@@ -1,3 +1,0 @@
-message=z5106767 catchs Pokemons not feelings amirite
-from=z5019746
-time=2016-10-05T15:04:40+0000

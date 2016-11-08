@@ -1,3 +1,0 @@
-message=Too bad z3394912 is taken by SJK
-from=z5083841
-time=2016-05-17T07:05:10+0000

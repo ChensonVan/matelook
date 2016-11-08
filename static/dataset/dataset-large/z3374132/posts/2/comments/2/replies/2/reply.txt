@@ -1,3 +1,0 @@
-time=2016-08-17T14:17:14+0000
-message=Please, we all know you were the one who sent it in!
-from=z5015812

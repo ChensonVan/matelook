@@ -1,3 +1,0 @@
-message=Lol this is a gee up
-from=z5075827
-time=2013-04-25T07:00:24+0000

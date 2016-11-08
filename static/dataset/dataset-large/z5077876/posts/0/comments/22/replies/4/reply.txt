@@ -1,3 +1,0 @@
-time=2016-09-19T09:49:37+0000
-message=When's your mixtape dropping?
-from=z3465151

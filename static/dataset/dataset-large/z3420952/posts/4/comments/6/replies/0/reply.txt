@@ -1,3 +1,0 @@
-message=i hate u
-from=z5076554
-time=2016-09-17T08:16:09+0000

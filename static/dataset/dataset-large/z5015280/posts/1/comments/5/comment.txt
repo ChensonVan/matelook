@@ -1,3 +1,0 @@
-from=z3456408
-message=im assyrian!
-time=2013-04-23T11:50:56+0000

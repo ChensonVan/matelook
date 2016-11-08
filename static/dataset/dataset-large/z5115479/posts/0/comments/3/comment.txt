@@ -1,3 +1,0 @@
-from=z5062732
-message=z5113077 did you write this about yourself?
-time=2016-04-27T10:29:46+0000

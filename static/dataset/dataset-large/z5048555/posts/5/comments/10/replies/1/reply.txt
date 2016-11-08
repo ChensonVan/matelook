@@ -1,3 +1,0 @@
-message=z5056054 send help
-time=2016-09-08T06:22:54+0000
-from=z5106767

@@ -1,3 +1,0 @@
-message=you are vegan
-time=2016-08-25T14:08:06+0000
-from=z5097972

@@ -1,3 +1,0 @@
-from=z5127733
-message=z5110502 ecks dee
-time=2016-09-19T01:51:03+0000

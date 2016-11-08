@@ -1,3 +1,0 @@
-message=z3335004? Did you write this?
-from=z5060306
-time=2016-09-02T10:33:09+0000

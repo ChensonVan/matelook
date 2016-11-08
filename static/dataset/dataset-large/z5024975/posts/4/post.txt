@@ -1,5 +1,0 @@
-time=2016-08-12T07:43:56+0000
-longitude=150.9556
-latitude=-33.6971
-message=To the hottest girl in first year med,\nI would turn for you.
-from=z5024975

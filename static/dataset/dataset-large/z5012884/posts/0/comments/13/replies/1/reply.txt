@@ -1,3 +1,0 @@
-message=On the prowl for impressionable first years
-time=2016-09-25T05:01:29+0000
-from=z5018549

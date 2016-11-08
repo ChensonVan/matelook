@@ -1,3 +1,0 @@
-message=z5115666 can confirm
-from=z5061920
-time=2016-09-13T14:15:31+0000

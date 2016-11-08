@@ -1,3 +1,0 @@
-time=2016-04-15T21:08:07+0000
-from=z5015243
-message=Pretty sure this was z5048639 up to his same old antics

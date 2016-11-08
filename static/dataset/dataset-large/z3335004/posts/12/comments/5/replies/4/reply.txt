@@ -1,3 +1,0 @@
-from=z5084484
-message=Fk off m8 i know it's u
-time=2016-09-21T21:58:37+0000

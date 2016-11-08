@@ -1,3 +1,0 @@
-message=huge improvement going from 40-51 in 2 weeks
-from=z5113614
-time=2016-09-02T01:27:39+0000

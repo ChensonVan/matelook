@@ -1,3 +1,0 @@
-message=sigh, just one of many
-from=z5113241
-time=2013-09-06T08:48:18+0000

@@ -1,3 +1,0 @@
-from=z3388364
-time=2016-09-18T23:59:23+0000
-message=You're dead to me.

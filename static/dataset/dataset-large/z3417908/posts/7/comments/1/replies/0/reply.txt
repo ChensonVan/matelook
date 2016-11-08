@@ -1,3 +1,0 @@
-message=Ummm no. You're mine.
-from=z5020683
-time=2016-05-24T22:51:23+0000

@@ -1,3 +1,0 @@
-from=z5020410
-message=Just go to the 'free cupcake for watching a movie' table and ask them to help set you up
-time=2016-08-08T11:14:12+0000

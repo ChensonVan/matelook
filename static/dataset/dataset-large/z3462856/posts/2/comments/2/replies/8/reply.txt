@@ -1,3 +1,0 @@
-message=Form a line ladiezzz
-from=z5019746
-time=2016-08-28T06:21:19+0000

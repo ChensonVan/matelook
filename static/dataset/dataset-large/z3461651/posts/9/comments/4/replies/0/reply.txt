@@ -1,3 +1,0 @@
-from=z5024963
-message=i dont have any tommy hilfiger shirts tho
-time=2016-05-27T06:20:47+0000

@@ -1,3 +1,0 @@
-message=nah all you for real
-time=2016-05-05T11:43:01+0000
-from=z3470029

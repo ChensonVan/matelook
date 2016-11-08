@@ -1,3 +1,0 @@
-from=z3492794
-message=z5123999 you're hella cute
-time=2016-06-11T15:09:01+0000

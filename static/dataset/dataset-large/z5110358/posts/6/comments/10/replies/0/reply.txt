@@ -1,3 +1,0 @@
-message=If you ask him to finish your HSP it will be gone in 5 seconds
-from=z5118723
-time=2016-07-27T23:59:25+0000

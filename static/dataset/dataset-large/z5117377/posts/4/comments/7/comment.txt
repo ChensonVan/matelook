@@ -1,3 +1,0 @@
-message=Well this escalated quickly.
-from=z5025090
-time=2013-05-22T09:43:26+0000

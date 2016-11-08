@@ -1,5 +1,0 @@
-message=ashika h, i havent seen u around in ages. lets meet up some time ;)
-time=2016-08-12T14:14:27+0000
-from=z5017894
-latitude=-33.9256
-longitude=151.2217

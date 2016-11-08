@@ -1,3 +1,0 @@
-from=z5115903
-message=Its gotta be that HD Wam i reckon
-time=2016-08-17T13:40:22+0000

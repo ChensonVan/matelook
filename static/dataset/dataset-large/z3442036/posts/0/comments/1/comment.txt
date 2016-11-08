@@ -1,3 +1,0 @@
-time=2016-10-04T07:58:28+0000
-message=z5062245 heard you good at mentoring
-from=z3462323

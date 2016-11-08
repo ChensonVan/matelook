@@ -1,3 +1,0 @@
-from=z5116218
-message=Yeah I am pretty nice tbh\nz5063055
-time=2016-05-02T07:42:22+0000

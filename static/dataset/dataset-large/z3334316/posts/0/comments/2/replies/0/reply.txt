@@ -1,3 +1,0 @@
-from=z5127733
-time=2016-05-26T03:28:59+0000
-message=haha omg

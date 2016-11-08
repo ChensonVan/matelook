@@ -1,3 +1,0 @@
-from=z3461651
-time=2016-09-02T15:21:09+0000
-message=z3439243  it helps that we re both so ugly and weird

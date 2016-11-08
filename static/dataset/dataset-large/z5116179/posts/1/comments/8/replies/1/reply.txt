@@ -1,3 +1,0 @@
-from=z5102263
-message=Mark your EGA as prepared and my man z5059421 will personally mark it as reviewed
-time=2016-05-11T11:46:35+0000

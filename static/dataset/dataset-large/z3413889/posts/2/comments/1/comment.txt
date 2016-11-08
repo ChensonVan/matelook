@@ -1,3 +1,0 @@
-message=Totes wasn't me :p
-time=2013-05-15T23:46:16+0000
-from=z3394912

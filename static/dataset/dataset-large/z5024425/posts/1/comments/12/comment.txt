@@ -1,3 +1,0 @@
-from=z3458687
-message=z5113496 I thought you did speak mandarin???
-time=2016-08-26T06:25:56+0000

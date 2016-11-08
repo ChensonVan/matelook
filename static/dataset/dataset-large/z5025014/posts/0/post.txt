@@ -1,5 +1,0 @@
-longitude=151.2466
-latitude=-33.9020
-from=z5025014
-message=Lionel liu i love the way you park those cars. Can you park yours into my garage?
-time=2016-09-18T23:47:07+0000

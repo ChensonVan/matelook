@@ -1,3 +1,0 @@
-from=z5059421
-message=Leggo
-time=2016-08-31T23:47:05+0000

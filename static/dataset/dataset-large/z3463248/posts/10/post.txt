@@ -1,5 +1,0 @@
-message=Dear Alex Amos,\n\nThe first time I ever saw you was in a med lecture a year ago. You where wearing a grey Ralph Lauren Polo shirt and chinos, your hair was short at the sides and your eyes where bright with focus. Ever since then  you have been my inspiration, my reason to keep learning the human body, in the hope that one day I will get to know yours. I heard you even got a distinction last semester. I know your name because, well, who doesn't?\n\nBut you could never love a girl like me. A quiet girl who sits at the front of every lecture and doesn't go to a college. But I won't give up hope.\n\nYours truly,\nAnon
-latitude=-33.6748
-longitude=151.0256
-from=z3463248
-time=2016-08-09T22:59:41+0000

@@ -1,3 +1,0 @@
-message=Dude I'm still struggling
-from=z5078514
-time=2016-07-12T04:13:08+0000

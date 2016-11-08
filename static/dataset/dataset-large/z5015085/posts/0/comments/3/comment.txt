@@ -1,3 +1,0 @@
-from=z3416238
-time=2013-10-10T04:16:17+0000
-message=nws love xx

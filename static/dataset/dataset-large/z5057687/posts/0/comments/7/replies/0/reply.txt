@@ -1,3 +1,0 @@
-from=z5015071
-message=ur a loser
-time=2016-06-14T14:19:29+0000

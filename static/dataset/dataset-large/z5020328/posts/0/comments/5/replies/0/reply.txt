@@ -1,3 +1,0 @@
-message=bro ur cooked
-from=z5025014
-time=2016-05-02T10:55:08+0000

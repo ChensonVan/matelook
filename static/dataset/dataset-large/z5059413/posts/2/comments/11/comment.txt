@@ -1,3 +1,0 @@
-from=z3330003
-message=z5018248 found ur soul mate..
-time=2016-09-20T13:42:40+0000

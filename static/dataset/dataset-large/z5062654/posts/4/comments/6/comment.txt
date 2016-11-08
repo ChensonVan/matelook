@@ -1,3 +1,0 @@
-from=z5025014
-message=z5076485 nah u mine
-time=2016-08-30T08:57:36+0000

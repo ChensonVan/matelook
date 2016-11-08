@@ -1,5 +1,0 @@
-message=To the cute boy in my Monday morning MATH1131 lecture. I've had my eyes on you all semester, I think i've heard someone call you 'Matt' or some people 'Haye'. Anyway, I love how a good looking guy like you is also smart enough to do engineering too. Please comment on the post if you'd like to meet up.
-latitude=-33.7673
-from=z5055646
-time=2016-06-12T12:30:13+0000
-longitude=151.0782

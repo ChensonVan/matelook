@@ -1,3 +1,0 @@
-from=z5024963
-message=You can have z3459453 and z5021028, they are our excess stock.
-time=2016-10-06T01:44:08+0000

@@ -1,5 +1,0 @@
-longitude=151.2357
-message=To the girl that's studying music. I've never heard you play, but i am sure your melody of keys will take my life away.\nAnd if i come back, i wish i could be a piano so you can play me all day. ;D
-latitude=-33.9251
-from=z5132843
-time=2013-07-01T06:52:52+0000

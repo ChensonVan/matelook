@@ -1,3 +1,0 @@
-from=z5120169
-message=nah, I like black men.
-time=2013-11-27T05:41:01+0000

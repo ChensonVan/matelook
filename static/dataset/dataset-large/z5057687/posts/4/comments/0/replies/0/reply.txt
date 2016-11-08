@@ -1,3 +1,0 @@
-message=HAHA actually me tho
-from=z3462856
-time=2016-07-05T08:41:39+0000

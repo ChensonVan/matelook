@@ -1,3 +1,0 @@
-time=2016-05-25T12:31:53+0000
-from=z5023773
-message=PShhhh

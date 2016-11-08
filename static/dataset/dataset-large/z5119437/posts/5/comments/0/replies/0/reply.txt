@@ -1,3 +1,0 @@
-message=who's that
-from=z3442036
-time=2016-04-28T06:29:45+0000

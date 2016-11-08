@@ -1,3 +1,0 @@
-from=z5127733
-message=Haha. Appreciate it bro, but we know it ain't me Haha.
-time=2016-09-17T10:47:54+0000

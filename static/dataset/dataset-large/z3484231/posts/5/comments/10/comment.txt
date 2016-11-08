@@ -1,3 +1,0 @@
-from=z5059526
-time=2016-08-27T14:00:51+0000
-message=You may have mistaken that man for z5019886

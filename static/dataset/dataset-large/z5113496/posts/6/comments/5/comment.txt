@@ -1,3 +1,0 @@
-time=2016-09-25T05:00:21+0000
-message=Hello, it is me, Tom
-from=z5056054

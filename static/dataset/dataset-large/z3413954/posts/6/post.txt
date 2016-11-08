@@ -1,5 +1,0 @@
-from=z3413954
-message=Any girls keen on coming to Eastern University Games this July 6-10 for Mixed AFL 9s, requirements: drink, run and catch
-latitude=-33.8467
-longitude=151.1451
-time=2014-06-18T05:22:27+0000

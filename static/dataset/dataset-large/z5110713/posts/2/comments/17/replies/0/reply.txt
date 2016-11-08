@@ -1,3 +1,0 @@
-message=I actually don't know
-time=2016-09-08T02:53:12+0000
-from=z5063045

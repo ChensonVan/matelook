@@ -1,5 +1,0 @@
-latitude=-33.9304
-message=Dear CLB7,\n\nYou are officially as cold as my ex's cheating heart.
-longitude=151.1320
-time=2016-04-28T01:14:43+0000
-from=z3461271

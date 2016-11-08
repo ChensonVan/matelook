@@ -1,3 +1,0 @@
-from=z3394912
-message=Best of luck Doug
-time=2016-06-13T09:58:06+0000

@@ -1,5 +1,0 @@
-longitude=150.7951
-latitude=-33.6401
-time=2016-08-10T12:29:52+0000
-message=To Cindy,\nEverytime I see you cross the quad it makes my heart stop. I've met you once when we were with mutuals and I've always been too scared to ask you out for coffee. I think you're beautifully short and cute because you're so feisty. Notice me kohai.
-from=z5062245

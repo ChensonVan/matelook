@@ -1,3 +1,0 @@
-time=2016-06-15T12:35:24+0000
-from=z5014972
-message=true love

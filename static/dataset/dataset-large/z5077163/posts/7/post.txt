@@ -1,5 +1,0 @@
-time=2016-09-11T13:23:37+0000
-message=Dear James in 1st year Medscience\n\nYou are cute.\n\nJust letting you know in case you don't know it. :)
-from=z5077163
-latitude=-33.9340
-longitude=151.0558

@@ -1,3 +1,0 @@
-message=Lol cheers, I appreciate the compliment
-time=2016-09-18T21:02:32+0000
-from=z5015526

@@ -1,3 +1,0 @@
-from=z5043981
-message=nice guy syndrome
-time=2016-09-21T13:16:54+0000

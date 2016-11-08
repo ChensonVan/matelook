@@ -1,3 +1,0 @@
-message=z3492794 has got you covered
-time=2016-05-06T00:46:26+0000
-from=z3459551

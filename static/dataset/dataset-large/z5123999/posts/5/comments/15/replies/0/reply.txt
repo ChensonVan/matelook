@@ -1,3 +1,0 @@
-time=2016-06-07T15:22:22+0000
-message=Dom, I love you.
-from=z5118613

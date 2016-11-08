@@ -1,3 +1,0 @@
-message=cannot confirm
-time=2016-09-10T10:08:40+0000
-from=z5040176

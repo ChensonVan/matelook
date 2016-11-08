@@ -1,5 +1,0 @@
-longitude=151.2223
-time=2013-06-12T07:01:37+0000
-latitude=-33.9162
-message=Vlad the Impaler, you impale my heart with those beautiful sorrowful eyes. I would love for you to impale me with your sword though :-)
-from=z5056324

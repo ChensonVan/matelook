@@ -1,3 +1,0 @@
-time=2016-08-29T00:31:47+0000
-message=z5015243 please stop following me
-from=z5099216

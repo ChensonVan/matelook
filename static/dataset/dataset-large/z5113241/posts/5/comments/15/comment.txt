@@ -1,3 +1,0 @@
-message=Clingy af
-from=z5019361
-time=2016-09-29T04:32:30+0000

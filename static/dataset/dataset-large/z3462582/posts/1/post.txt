@@ -1,5 +1,0 @@
-longitude=151.2354
-message=Panaaaaaaa Kap(uccino),\n\nSo glad semester has started so I can see your face again through the barrage of hoodies you own :)))\nNotice me!\n\n- Girl
-from=z3462582
-latitude=-33.9075
-time=2016-07-26T21:43:56+0000

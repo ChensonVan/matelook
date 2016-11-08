@@ -1,3 +1,0 @@
-from=z5089708
-time=2016-08-28T10:41:05+0000
-message=z5078886 smash and dash

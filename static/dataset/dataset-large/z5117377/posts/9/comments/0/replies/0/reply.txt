@@ -1,3 +1,0 @@
-from=z5061572
-message=Can't chill, it's already week 9
-time=2016-05-02T13:59:53+0000

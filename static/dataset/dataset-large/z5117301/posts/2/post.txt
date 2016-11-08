@@ -1,5 +1,0 @@
-message=Ada Ching, I can satisfy your equation any day. Marry me? \nThe cute asian who sits behind you in maths ;) ;)
-from=z5117301
-latitude=-34.1399
-time=2016-08-22T08:24:24+0000
-longitude=150.9981

@@ -1,3 +1,0 @@
-from=z3462323
-message='going on about Krispy Kreme'
-time=2016-04-26T07:16:46+0000

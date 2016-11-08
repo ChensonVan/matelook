@@ -1,3 +1,0 @@
-from=z5119437
-message=Would smash
-time=2016-08-18T14:07:04+0000

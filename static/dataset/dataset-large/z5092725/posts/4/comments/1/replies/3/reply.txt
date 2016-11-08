@@ -1,3 +1,0 @@
-message=z5059526 100% accuracy guaranteed
-from=z5019886
-time=2016-08-17T22:39:53+0000

@@ -1,5 +1,0 @@
-from=z5062277
-message=Dear Kevin Ouyang,\n\nI want to bite your squishy flabs. \n\nSincerely,\nA guy who wants you <3
-latitude=-33.9251
-longitude=151.2267
-time=2016-05-02T15:35:42+0000

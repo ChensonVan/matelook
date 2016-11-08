@@ -1,3 +1,0 @@
-from=z5115666
-message=z3462326 Luther, Uniqlo's finest
-time=2016-05-19T04:46:25+0000

@@ -1,5 +1,0 @@
-message=to the guy who i thought i would get over after a month off from uni.... i was wrong
-longitude=150.7331
-time=2013-07-30T10:33:10+0000
-from=z5117658
-latitude=-33.8795

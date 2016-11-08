@@ -1,3 +1,0 @@
-from=z5078886
-message=Reveal yourself secret admirer!
-time=2013-06-20T03:48:05+0000

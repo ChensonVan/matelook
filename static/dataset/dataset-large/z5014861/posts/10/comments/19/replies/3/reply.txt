@@ -1,3 +1,0 @@
-from=z5113482
-message=Lol whut. It ain't me 😂
-time=2016-09-04T04:11:21+0000

@@ -1,5 +1,0 @@
-longitude=151.0970
-from=z5014695
-latitude=-33.8350
-time=2013-05-10T05:34:45+0000
-message=Take me out on a coffee date, my sweet peter pan and if you want to ask me out, remember you can!

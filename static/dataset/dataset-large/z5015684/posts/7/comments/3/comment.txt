@@ -1,3 +1,0 @@
-message=Maybe I posted it ;)
-from=z5115479
-time=2013-03-21T08:57:44+0000

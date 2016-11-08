@@ -1,3 +1,0 @@
-from=z5113700
-message=z5116179 u so stylish
-time=2016-09-13T06:17:35+0000

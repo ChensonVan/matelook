@@ -1,3 +1,0 @@
-from=z5036317
-time=2016-09-07T02:03:06+0000
-message=no durries, no wurriez

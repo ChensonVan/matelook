@@ -1,3 +1,0 @@
-from=z5056324
-time=2016-05-31T14:30:21+0000
-message=sometimes i ask myself the same question

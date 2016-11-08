@@ -1,3 +1,0 @@
-time=2016-05-25T10:10:29+0000
-from=z5097561
-message=Roses are red,\nViolets are blue,\nJeff Jiang loves Dong,\nThat's why he loves you

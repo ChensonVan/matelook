@@ -1,3 +1,0 @@
-from=z5028693
-message=z5017894 tell jer
-time=2016-09-28T10:08:58+0000

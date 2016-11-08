@@ -1,5 +1,0 @@
-from=z3489344
-message=To Roger, the first year med guy who sings and plays guitar like ed sheeran. When you sang at medcamp my heart actually melted. I've seen you around since then but with other girls. I am gonna stop being a wuss and actually talk to you this week after a lecture!
-longitude=151.2912
-latitude=-33.6594
-time=2013-04-22T03:02:38+0000

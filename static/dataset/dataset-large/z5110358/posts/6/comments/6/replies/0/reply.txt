@@ -1,3 +1,0 @@
-time=2016-07-29T07:13:26+0000
-message=U tick all the boxes
-from=z5025014

@@ -1,3 +1,0 @@
-from=z5062608
-time=2016-09-03T06:27:08+0000
-message=yeah I'll take that

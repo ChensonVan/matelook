@@ -1,3 +1,0 @@
-from=z5002210
-message=z5075827 back at it again 😂
-time=2016-09-22T15:46:30+0000

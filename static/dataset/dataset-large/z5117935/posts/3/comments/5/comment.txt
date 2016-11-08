@@ -1,3 +1,0 @@
-time=2013-08-11T08:21:32+0000
-from=z3388364
-message=HAHAHA

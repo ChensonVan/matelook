@@ -1,3 +1,0 @@
-time=2016-09-10T11:06:37+0000
-from=z3475276
-message=z3461271 lock the door next time!

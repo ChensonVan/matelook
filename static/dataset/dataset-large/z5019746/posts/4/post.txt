@@ -1,5 +1,0 @@
-message=Can people please tag every asian guy you know that works at Uniqlo in miranda? Saw a cute guy working on Sunday :D
-longitude=150.9961
-from=z5019746
-time=2016-07-31T00:48:55+0000
-latitude=-33.9442

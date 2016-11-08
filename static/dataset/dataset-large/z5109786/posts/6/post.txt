@@ -1,5 +1,0 @@
-message=To my handsome best friend B.D.,\nI have caught a bad case of the feels for you and the worst part is that you're taken, but I know you feel something for me too...\nI love you and I don't know how to let you go...
-from=z5109786
-latitude=-33.9256
-time=2016-04-21T09:26:18+0000
-longitude=151.2253

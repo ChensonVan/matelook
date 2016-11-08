@@ -1,3 +1,0 @@
-message=hahahhahaha coming from you!
-from=z5017258
-time=2016-04-20T12:46:05+0000

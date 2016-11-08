@@ -1,3 +1,0 @@
-time=2016-09-23T01:28:53+0000
-from=z5115039
-message=You know you want to

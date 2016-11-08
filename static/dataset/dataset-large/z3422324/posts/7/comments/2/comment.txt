@@ -1,3 +1,0 @@
-message=z5098341 is taken sorry
-time=2016-09-14T02:14:35+0000
-from=z5113245

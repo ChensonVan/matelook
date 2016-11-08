@@ -1,3 +1,0 @@
-time=2016-06-08T01:08:47+0000
-message=you started this all
-from=z5060306

@@ -1,3 +1,0 @@
-time=2016-05-12T13:16:19+0000
-from=z5116685
-message=^harley would like an intro ;)

@@ -1,3 +1,0 @@
-message=big dog
-from=z5040176
-time=2013-05-27T11:13:05+0000

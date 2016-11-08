@@ -1,5 +1,0 @@
-time=2016-06-13T22:44:39+0000
-longitude=151.1428
-from=z5115666
-message=When you wanna hang out with someone one on one but are too awkward to ask first and you dont wanna sound desperate
-latitude=-33.9843

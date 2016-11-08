@@ -1,3 +1,0 @@
-from=z5075071
-message=z5023123 you carry me
-time=2013-09-02T08:02:58+0000

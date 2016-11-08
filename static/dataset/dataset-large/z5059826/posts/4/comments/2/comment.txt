@@ -1,3 +1,0 @@
-from=z5004426
-time=2013-09-12T04:44:43+0000
-message=z5052081, watch out for homing beacon missile ;)

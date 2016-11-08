@@ -1,5 +1,0 @@
-from=z5017894
-time=2013-11-03T05:54:30+0000
-latitude=-33.9138
-message=To the shy boy in electrical engineering, Adrian, I've had a crush on you for years. You're everything that I didn't think I wanted in a man. Please complete my circuit, amplify my current and exceed my wattage. You know who I am by the way - DB, your friend and lover.
-longitude=151.2400

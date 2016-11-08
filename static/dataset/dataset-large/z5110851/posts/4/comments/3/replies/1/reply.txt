@@ -1,3 +1,0 @@
-from=z5017258
-message=It's not every day that Putin bestows upon us a goddess from the motherland
-time=2016-04-29T06:49:47+0000

@@ -1,5 +1,0 @@
-time=2016-09-16T00:59:54+0000
-message=leanne weng, damn girl your smile is infectious...
-longitude=151.2275
-latitude=-33.8348
-from=z5099358

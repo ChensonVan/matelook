@@ -1,3 +1,0 @@
-time=2016-05-12T00:21:07+0000
-from=z5061301
-message=Lol was bound to happen

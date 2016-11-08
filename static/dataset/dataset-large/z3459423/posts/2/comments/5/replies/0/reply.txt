@@ -1,3 +1,0 @@
-time=2016-08-28T22:32:43+0000
-from=z5025014
-message=Hahaha

@@ -1,3 +1,0 @@
-message=yeah not according to midsem mark...
-from=z5015646
-time=2016-09-13T12:03:00+0000

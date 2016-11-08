@@ -1,3 +1,0 @@
-time=2016-05-24T12:19:09+0000
-from=z5059826
-message=@jade Chen

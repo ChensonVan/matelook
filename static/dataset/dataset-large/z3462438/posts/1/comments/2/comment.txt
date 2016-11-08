@@ -1,3 +1,0 @@
-from=z5014972
-message=Were u at unsw on wednesday? z5075455
-time=2016-06-04T14:28:19+0000

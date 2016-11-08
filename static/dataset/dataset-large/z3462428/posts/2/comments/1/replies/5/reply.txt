@@ -1,3 +1,0 @@
-from=z3469502
-time=2016-08-31T07:40:26+0000
-message=Well who is this RL?? I don't know any RL's...

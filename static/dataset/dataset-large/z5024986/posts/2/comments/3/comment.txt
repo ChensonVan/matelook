@@ -1,3 +1,0 @@
-message=z5015526 swings both ways on the pitch and off the pitch
-from=z5122559
-time=2016-09-08T09:54:17+0000

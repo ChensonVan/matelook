@@ -1,3 +1,0 @@
-message=KFC date?
-from=z5060573
-time=2016-09-07T08:51:29+0000

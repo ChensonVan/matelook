@@ -1,5 +1,0 @@
-message=To the cute short hair girl with pure white Jansport backpack who asked the question after MGMT1001 workshop this afternoon (Thursday),\nYour black hair, your glasses, your voice...are all amazingly attractive!\nI can't even take my eyes off of you.\nMay I know your name?\nI'll give you a big smile if I see you next time:)\nThe one who's in black and white stripes.
-longitude=151.2362
-from=z5017241
-latitude=-33.9239
-time=2016-05-16T11:46:17+0000

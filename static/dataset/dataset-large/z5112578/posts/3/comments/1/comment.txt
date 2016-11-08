@@ -1,3 +1,0 @@
-message=Just pretend to be black instead. They sure love their bbcs
-from=z5013098
-time=2016-09-01T02:57:37+0000

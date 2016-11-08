@@ -1,3 +1,0 @@
-from=z3413158
-time=2016-06-19T22:50:24+0000
-message=i tip to you my good sir

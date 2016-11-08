@@ -1,3 +1,0 @@
-from=z5099187
-message=Dont know any pick ups lines rip
-time=2016-09-02T05:13:58+0000

@@ -1,3 +1,0 @@
-message=z5056054 hey settle down there will you
-from=z3462856
-time=2016-04-19T09:20:56+0000

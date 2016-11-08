@@ -1,3 +1,0 @@
-from=z5112650
-time=2016-06-24T10:47:13+0000
-message=Pslams are sweaty.

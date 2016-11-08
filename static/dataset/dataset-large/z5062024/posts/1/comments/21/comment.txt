@@ -1,3 +1,0 @@
-message=Your katana collection
-time=2016-09-08T10:37:23+0000
-from=z5084484

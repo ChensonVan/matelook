@@ -1,3 +1,0 @@
-message=HAHAH wasn't me I swear
-from=z5113968
-time=2016-08-26T12:07:58+0000

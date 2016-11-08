@@ -1,3 +1,0 @@
-message=z5087067, is this you after last night?
-from=z3463248
-time=2016-04-16T06:48:21+0000

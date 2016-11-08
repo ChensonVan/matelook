@@ -1,3 +1,0 @@
-time=2016-08-17T12:17:56+0000
-message=I admit I wrote this z5098157 z5083841
-from=z5017842

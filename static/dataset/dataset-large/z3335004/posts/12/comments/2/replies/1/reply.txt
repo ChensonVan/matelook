@@ -1,3 +1,0 @@
-from=z5056054
-time=2016-09-22T11:56:29+0000
-message=Waifu 4 Laifu for dayz

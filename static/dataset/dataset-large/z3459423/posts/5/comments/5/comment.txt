@@ -1,3 +1,0 @@
-from=z5020328
-message=z5117377 Is he part of our society
-time=2016-06-19T11:58:37+0000

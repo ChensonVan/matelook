@@ -1,3 +1,0 @@
-message=HAHA fark off
-from=z3219170
-time=2016-09-04T07:40:56+0000

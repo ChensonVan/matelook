@@ -1,5 +1,0 @@
-from=z5018107
-message=dinu, you are the sunshine of my life...I get tingly every time I see you on campus :P\n\ncoffee sometime?
-longitude=151.2364
-latitude=-33.9206
-time=2016-06-10T16:21:31+0000

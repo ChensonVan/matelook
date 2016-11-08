@@ -1,3 +1,0 @@
-from=z5116685
-message=from Denaysh to Denaysh.
-time=2013-09-02T03:35:40+0000

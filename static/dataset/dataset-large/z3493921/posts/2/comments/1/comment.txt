@@ -1,3 +1,0 @@
-message=http://www.urbandictionary.com/define.php?term=mary%20jane
-time=2013-08-04T13:39:24+0000
-from=z5020683

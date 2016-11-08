@@ -1,3 +1,0 @@
-message=Rofl good one bruh
-time=2016-09-10T14:20:07+0000
-from=z5004426

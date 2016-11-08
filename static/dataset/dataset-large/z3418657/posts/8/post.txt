@@ -1,5 +1,0 @@
-time=2016-09-22T21:07:39+0000
-latitude=-33.8958
-message=Nivaaz Kaur. You know how some men buy really expensive cars to make up for certain shortages? Well, I don’t even own a car.\n\nLove \nL F
-longitude=151.1875
-from=z3418657

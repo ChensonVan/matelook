@@ -1,3 +1,0 @@
-message=there there sure he's always open for suggestions
-from=z5113614
-time=2016-08-23T13:37:55+0000

@@ -1,3 +1,0 @@
-from=z5062448
-message=👌 thats the game plan
-time=2016-05-17T07:01:45+0000

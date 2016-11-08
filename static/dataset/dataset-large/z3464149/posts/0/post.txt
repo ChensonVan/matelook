@@ -1,5 +1,0 @@
-longitude=151.2314
-latitude=-33.9220
-time=2013-04-09T06:34:27+0000
-message=To the child-like Chinese international student who lent me their spare toilet paper. I would kill my own mother for a chance to scissor you.
-from=z3464149

@@ -1,5 +1,0 @@
-from=z5075030
-longitude=150.8801
-time=2013-05-28T04:45:28+0000
-message=This is dedicated to Thomas Wijaya, from your bestest friend in whole wide worlds. pls respond to fb friend request. http://www.youtube.com/watch?v=W5FfJ89rGPc
-latitude=-33.9279

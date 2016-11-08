@@ -1,3 +1,0 @@
-message=z5120169  Eduardo already has a GF
-from=z3456669
-time=2016-05-11T12:34:02+0000

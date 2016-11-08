@@ -1,3 +1,0 @@
-message=z5104907 vegetarian vegan same same
-time=2016-08-08T10:59:48+0000
-from=z5113245

@@ -1,3 +1,0 @@
-message=Hmmmm....who must that be
-from=z3494117
-time=2016-08-02T09:37:33+0000

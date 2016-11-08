@@ -1,3 +1,0 @@
-from=z5098157
-message=z5013098 stop selling drugs mate
-time=2016-06-24T22:55:45+0000

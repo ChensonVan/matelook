@@ -1,3 +1,0 @@
-from=z5056324
-message=Beat me to it
-time=2016-09-28T10:27:57+0000

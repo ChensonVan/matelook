@@ -1,3 +1,0 @@
-from=z3462629
-time=2016-08-28T23:20:53+0000
-message=Adds a +8 to your party's overall STR stat. Wouldn't be a bad choice in party members.

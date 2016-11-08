@@ -1,3 +1,0 @@
-message=I'll draw in some biceps if need be :)
-from=z5019886
-time=2016-09-04T10:45:52+0000

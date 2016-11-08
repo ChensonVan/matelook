@@ -1,3 +1,0 @@
-time=2016-07-07T06:34:10+0000
-message=Not me. But this person must be an incredible person!
-from=z5062732

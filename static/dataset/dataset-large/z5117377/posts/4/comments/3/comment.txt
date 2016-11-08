@@ -1,3 +1,0 @@
-from=z5020476
-time=2013-05-22T08:06:23+0000
-message=Haha Simon. You're in. 

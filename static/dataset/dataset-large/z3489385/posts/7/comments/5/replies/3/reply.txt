@@ -1,3 +1,0 @@
-time=2016-08-13T12:31:02+0000
-message=u trippin
-from=z5019330

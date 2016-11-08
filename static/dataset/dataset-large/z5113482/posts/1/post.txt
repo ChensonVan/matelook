@@ -1,5 +1,0 @@
-message=Not a love letter but more of an appreciation post to the Admin(s). Thank you for the consistent posting.
-latitude=-33.7504
-longitude=151.3015
-time=2016-08-25T16:31:22+0000
-from=z5113482

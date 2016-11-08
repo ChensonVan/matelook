@@ -1,3 +1,0 @@
-from=z3418003
-message=THAT'S NOT ME!
-time=2013-05-06T12:28:00+0000

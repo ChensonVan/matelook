@@ -1,3 +1,0 @@
-time=2016-09-05T23:23:05+0000
-message=im saying you wrote this
-from=z3418936

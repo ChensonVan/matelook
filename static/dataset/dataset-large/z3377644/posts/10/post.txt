@@ -1,5 +1,0 @@
-from=z3377644
-longitude=151.2607
-time=2013-04-26T03:20:31+0000
-message=To the girl with dark glasses that does architecture. Your name starts with K and ends with Z. You are the most beautiful girl that I've ever seen; your smile brightens my day and makes my heart skip a beat. :)
-latitude=-33.7640

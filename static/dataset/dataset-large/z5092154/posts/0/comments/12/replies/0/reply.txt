@@ -1,3 +1,0 @@
-from=z5113496
-message=stop being weird ant
-time=2016-08-18T08:27:53+0000

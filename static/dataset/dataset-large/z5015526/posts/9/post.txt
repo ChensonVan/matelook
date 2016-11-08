@@ -1,5 +1,0 @@
-from=z5015526
-time=2016-09-05T13:39:04+0000
-longitude=151.2809
-message=Jason? (Johnson? JER-SON?) Are you a law student, coz boy your fashion is on point.
-latitude=-33.7200

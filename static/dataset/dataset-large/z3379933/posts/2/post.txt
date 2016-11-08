@@ -1,5 +1,0 @@
-latitude=-33.9169
-time=2016-05-06T13:17:06+0000
-from=z3379933
-message=Dear Wayne Kwok,\n\nPhysically you may be small,\nBut down there you are quite tall.\n\nYour witty humour amuses me,\nLet's go live and be free\n\nIf you're looking for a lady,\nThen I'm your slim shady.\n\nLuv,\nJL
-longitude=151.2393

@@ -1,5 +1,0 @@
-latitude=-33.7611
-time=2016-09-22T11:08:42+0000
-message=Why does Linguistics never get any love letters? Affix yourself to my root morpheme xoxo
-from=z3459509
-longitude=151.1843

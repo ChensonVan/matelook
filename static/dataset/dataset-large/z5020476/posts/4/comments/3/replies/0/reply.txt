@@ -1,3 +1,0 @@
-message=This could be anyone
-from=z5079464
-time=2016-05-17T10:50:16+0000

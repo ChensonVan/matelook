@@ -1,3 +1,0 @@
-from=z5130883
-message=z5020683 you're on fire #takenlife
-time=2016-09-05T07:51:47+0000

@@ -1,3 +1,0 @@
-message=Interesting...
-time=2016-08-29T00:32:49+0000
-from=z5020476

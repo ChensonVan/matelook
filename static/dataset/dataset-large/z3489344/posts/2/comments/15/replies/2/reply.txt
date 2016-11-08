@@ -1,3 +1,0 @@
-from=z5059860
-time=2016-08-16T06:51:40+0000
-message=Smooth

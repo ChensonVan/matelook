@@ -1,3 +1,0 @@
-from=z3289658
-time=2016-08-25T01:42:18+0000
-message=That was beautiful

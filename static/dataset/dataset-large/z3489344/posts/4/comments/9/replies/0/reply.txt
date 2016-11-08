@@ -1,3 +1,0 @@
-time=2016-08-26T23:47:07+0000
-message=Haven't touched it since
-from=z3415600

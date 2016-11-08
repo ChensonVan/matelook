@@ -1,3 +1,0 @@
-from=z5060359
-message=z5112578 I wish I was like them
-time=2016-09-13T05:12:10+0000

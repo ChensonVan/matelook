@@ -1,3 +1,0 @@
-from=z3431766
-time=2016-08-31T05:55:15+0000
-message=Shanter

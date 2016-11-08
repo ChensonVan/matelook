@@ -1,3 +1,0 @@
-time=2013-11-02T14:55:32+0000
-message=They're all in India
-from=z5019177

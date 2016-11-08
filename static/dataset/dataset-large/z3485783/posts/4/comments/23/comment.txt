@@ -1,3 +1,0 @@
-time=2016-09-06T09:13:51+0000
-message=z5117623 teach me
-from=z5060921

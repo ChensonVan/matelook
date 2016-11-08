@@ -1,3 +1,0 @@
-from=z5115780
-message=HAHAHAHA I reckon. Shouldn't you be saving your phone batts for emergencies
-time=2016-06-05T09:46:38+0000

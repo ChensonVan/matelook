@@ -1,3 +1,0 @@
-message=But this is directed at Lewis not poois
-from=z5088545
-time=2016-05-02T10:47:08+0000

@@ -1,3 +1,0 @@
-from=z3417908
-message=u wish nyia
-time=2016-04-23T02:57:04+0000

@@ -1,3 +1,0 @@
-message=No wonder z5028693 is always bumming around
-from=z3446230
-time=2016-08-04T13:31:17+0000

@@ -1,5 +1,0 @@
-latitude=-33.8664
-time=2013-08-07T07:05:32+0000
-message=I think there's only one Scott in 2nd year med sci.\n\nLove you <3
-from=z5075455
-longitude=151.0945

@@ -1,5 +1,0 @@
-from=z3458803
-time=2013-05-06T09:06:16+0000
-longitude=151.2215
-message=To the girl with long fluoro yellow hair: you are my sunshine.
-latitude=-33.9210

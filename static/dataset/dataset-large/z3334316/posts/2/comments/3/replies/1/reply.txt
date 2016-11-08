@@ -1,3 +1,0 @@
-time=2016-05-16T12:51:23+0000
-from=z5059719
-message=it is right

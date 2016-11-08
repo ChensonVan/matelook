@@ -1,5 +1,0 @@
-time=2016-09-18T06:42:03+0000
-longitude=151.2205
-latitude=-33.9231
-message=My Dearest Wong Ting Fung from ACTL,\nWhen will you notice me and decide to finally rebound onto me? :(
-from=z5020210

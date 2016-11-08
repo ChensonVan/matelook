@@ -1,3 +1,0 @@
-message=z5075496 calm down
-from=z3219170
-time=2016-08-20T22:17:23+0000

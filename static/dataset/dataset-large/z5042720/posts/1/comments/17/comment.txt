@@ -1,3 +1,0 @@
-from=z5015071
-message=z5059719 care to share the news 2 weeks ago? z5020410 z3275760
-time=2016-04-19T08:34:27+0000

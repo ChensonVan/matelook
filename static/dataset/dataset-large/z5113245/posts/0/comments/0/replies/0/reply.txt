@@ -1,3 +1,0 @@
-time=2016-08-29T07:18:42+0000
-message=She's just a friend I swear
-from=z3374132

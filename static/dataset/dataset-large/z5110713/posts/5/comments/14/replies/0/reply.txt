@@ -1,3 +1,0 @@
-from=z5017842
-message=z5059413 this is getting out of hand
-time=2016-08-15T00:37:28+0000

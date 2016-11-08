@@ -1,5 +1,0 @@
-longitude=150.9811
-message=Dear 王雷 of Med,\n\nYou have mesmerised me with your charm.\n\nCoffee some time?
-from=z3463420
-latitude=-33.4107
-time=2016-07-06T06:00:54+0000

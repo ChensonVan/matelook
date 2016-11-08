@@ -1,3 +1,0 @@
-from=z5104907
-time=2016-06-29T00:05:25+0000
-message=Gotta keep tabs

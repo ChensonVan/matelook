@@ -1,3 +1,0 @@
-from=z5114240
-message=that is the height of narcissism
-time=2016-04-17T03:32:15+0000

@@ -1,3 +1,0 @@
-message=I give out chuppa chups...errybady loves meh
-time=2016-08-16T23:02:53+0000
-from=z3461074

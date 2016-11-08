@@ -1,3 +1,0 @@
-from=z5021028
-message="Secret admirer"
-time=2016-09-08T07:40:42+0000

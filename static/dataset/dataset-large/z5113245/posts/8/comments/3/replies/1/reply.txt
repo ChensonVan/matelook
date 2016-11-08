@@ -1,3 +1,0 @@
-time=2016-09-14T10:43:38+0000
-message=impossible, the grammar is on point.
-from=z5075455

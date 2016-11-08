@@ -1,3 +1,0 @@
-from=z5017651
-message=wtf there are two different types
-time=2016-07-26T14:17:03+0000

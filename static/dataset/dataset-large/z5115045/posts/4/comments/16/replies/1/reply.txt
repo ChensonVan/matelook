@@ -1,3 +1,0 @@
-from=z5018731
-message=I was more suggesting you as a candidate ^_^
-time=2016-09-13T09:24:37+0000

@@ -1,3 +1,0 @@
-time=2016-09-13T02:19:09+0000
-message=My z5061920 is a level 23 Pokemon trainer
-from=z3275760

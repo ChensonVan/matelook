@@ -1,3 +1,0 @@
-from=z3442036
-time=2013-06-26T04:15:59+0000
-message=z3468575. No doubt. It's you

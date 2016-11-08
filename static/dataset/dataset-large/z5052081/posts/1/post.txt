@@ -1,5 +1,0 @@
-message=To the hot, stylish, sensitive and non socailly awkward, engineering boy - Oh wait, nvm. You don't exist.
-time=2013-03-25T11:19:17+0000
-longitude=151.1465
-from=z5052081
-latitude=-33.9763

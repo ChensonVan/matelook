@@ -1,3 +1,0 @@
-message=lol that's not me. It's z3459509
-from=z3251972
-time=2013-04-10T06:16:06+0000

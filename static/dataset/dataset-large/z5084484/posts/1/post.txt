@@ -1,5 +1,0 @@
-latitude=-33.8512
-longitude=151.2124
-time=2013-04-25T08:25:24+0000
-message=Ruth Yelam Kim your always leaving uni or going to a class man i wanna root you
-from=z5084484

@@ -1,3 +1,0 @@
-message=People miss u
-from=z5113700
-time=2016-08-25T01:06:54+0000

@@ -1,3 +1,0 @@
-message=Pinga z5062732 pls respond
-time=2016-05-24T12:07:33+0000
-from=z5117076

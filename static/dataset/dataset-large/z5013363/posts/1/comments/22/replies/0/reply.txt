@@ -1,3 +1,0 @@
-message=HAHA omg my life
-time=2016-09-10T12:40:16+0000
-from=z3275760

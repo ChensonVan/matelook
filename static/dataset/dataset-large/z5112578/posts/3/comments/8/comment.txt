@@ -1,3 +1,0 @@
-message=z5076002 still loves you
-time=2016-09-01T00:51:47+0000
-from=z3460924

@@ -1,3 +1,0 @@
-message=--------bcs I dont wanna see u
-from=z3461074
-time=2016-10-05T12:57:32+0000

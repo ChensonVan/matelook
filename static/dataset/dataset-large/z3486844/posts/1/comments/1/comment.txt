@@ -1,3 +1,0 @@
-message=When's its AGM? Past Hellsoc President at your service
-time=2013-04-07T00:47:21+0000
-from=z3416238

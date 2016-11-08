@@ -1,3 +1,0 @@
-from=z5117790
-message=z5076363 close enough
-time=2016-08-18T13:01:14+0000

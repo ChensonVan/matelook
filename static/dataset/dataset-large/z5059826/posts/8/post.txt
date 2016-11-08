@@ -1,5 +1,0 @@
-message=Antoni remember when you destroyed my innocence in arts week? I do ;)\nCoffee some time?
-from=z5059826
-longitude=151.2335
-time=2016-10-03T00:08:32+0000
-latitude=-33.9089

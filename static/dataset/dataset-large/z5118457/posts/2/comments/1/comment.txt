@@ -1,3 +1,0 @@
-message=z5109480 my life in a nutshell :')
-time=2016-08-27T16:25:12+0000
-from=z5048611

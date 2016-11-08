@@ -1,3 +1,0 @@
-message=Oh yea
-from=z5116995
-time=2016-09-16T01:57:14+0000

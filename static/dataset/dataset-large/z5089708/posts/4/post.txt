@@ -1,5 +1,0 @@
-message=eh, where are all the gay, bearded hipsters on campus?
-longitude=151.2532
-from=z5089708
-time=2016-05-26T16:00:38+0000
-latitude=-33.9161

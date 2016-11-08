@@ -1,3 +1,0 @@
-message=I think they met z3452764
-from=z3458687
-time=2016-05-03T15:18:33+0000

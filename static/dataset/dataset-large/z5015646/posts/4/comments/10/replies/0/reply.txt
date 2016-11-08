@@ -1,3 +1,0 @@
-from=z5097972
-time=2016-07-09T00:18:47+0000
-message=Akbar always and forever

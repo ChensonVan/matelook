@@ -1,3 +1,0 @@
-from=z5115403
-time=2016-06-15T06:21:30+0000
-message=z5019900 this guy

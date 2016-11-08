@@ -1,5 +1,0 @@
-latitude=-33.9112
-message=To the Taylor Swift look-alike at Level 10 today in the library with the black and white striped cardigan, I just want to point out that you're absolutely gorgeous! Coffee sometime? -datFiloGuy
-time=2013-06-10T14:57:38+0000
-from=z5092040
-longitude=151.2366

@@ -1,3 +1,0 @@
-message=Selipar kau tu z5113077
-from=z5122559
-time=2016-09-19T09:26:17+0000

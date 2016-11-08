@@ -1,3 +1,0 @@
-time=2016-05-19T03:31:25+0000
-message=wtf did i do
-from=z5113245

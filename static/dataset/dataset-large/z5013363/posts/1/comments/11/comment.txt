@@ -1,3 +1,0 @@
-message=z3480991 something that'd happen to us
-time=2016-09-10T13:11:44+0000
-from=z3489385

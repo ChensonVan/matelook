@@ -1,3 +1,0 @@
-time=2016-08-31T22:45:45+0000
-from=z3461196
-message=Why you do dis

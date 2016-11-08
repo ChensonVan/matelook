@@ -1,3 +1,0 @@
-from=z5015646
-message=LOL wow you're too bored
-time=2016-08-17T12:08:31+0000

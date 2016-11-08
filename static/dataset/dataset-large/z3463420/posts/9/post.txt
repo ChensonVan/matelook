@@ -1,5 +1,0 @@
-time=2016-08-22T04:28:01+0000
-message=Jas N - are you single and ready to mingle?
-latitude=-34.0252
-longitude=151.0891
-from=z3463420

@@ -1,5 +1,0 @@
-message=Dear Jenny,\nWill you go to CEUS Ball with me? And many more events to come? \nM.
-from=z5113968
-longitude=151.2214
-time=2016-09-29T13:47:33+0000
-latitude=-33.9211

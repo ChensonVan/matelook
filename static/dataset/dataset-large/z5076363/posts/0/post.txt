@@ -1,5 +1,0 @@
-latitude=-33.9632
-time=2016-09-09T04:26:29+0000
-from=z5076363
-longitude=151.1088
-message=PC\nBumping into you on the main walkway made my Monday 10x better.\nCoffee sometime?

@@ -1,3 +1,0 @@
-from=z5004669
-time=2016-05-02T10:15:33+0000
-message=Then what's the derivative of newton's law of phyics if i were to throw an apple at an angle of 50 degrees?

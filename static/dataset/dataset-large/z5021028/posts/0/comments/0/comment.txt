@@ -1,3 +1,0 @@
-from=z5059826
-message=z3458717 it's what you've been waiting for all your life xx
-time=2016-09-11T12:20:13+0000

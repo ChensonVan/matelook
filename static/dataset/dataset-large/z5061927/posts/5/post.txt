@@ -1,5 +1,0 @@
-longitude=151.0849
-time=2013-05-03T06:13:35+0000
-latitude=-33.9787
-from=z5061927
-message=Aeroplane Elly I love you? Or is that not how this works..

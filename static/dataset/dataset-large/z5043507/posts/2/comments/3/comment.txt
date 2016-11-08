@@ -1,3 +1,0 @@
-from=z3462055
-message=Who would join a Pokémon society?
-time=2013-05-20T11:24:57+0000

@@ -1,3 +1,0 @@
-from=z5028693
-message=I don't have a beard :(
-time=2016-07-12T01:46:34+0000

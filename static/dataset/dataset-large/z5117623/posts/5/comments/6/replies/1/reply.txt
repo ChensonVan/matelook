@@ -1,3 +1,0 @@
-time=2016-04-22T08:38:24+0000
-message="I prefer whites" - Hong Chen, 2016
-from=z5118627

@@ -1,3 +1,0 @@
-from=z5018248
-message=Hahah who wrote this?!
-time=2016-06-03T21:50:00+0000

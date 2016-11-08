@@ -1,3 +1,0 @@
-from=z5019886
-time=2013-09-25T22:07:27+0000
-message=I am DIEING

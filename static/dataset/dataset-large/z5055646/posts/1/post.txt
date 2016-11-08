@@ -1,5 +1,0 @@
-from=z5055646
-time=2016-10-05T21:47:08+0000
-latitude=-33.7673
-longitude=151.0782
-message=Trang Luu in Pet Eng,\n\nYOU ARE SO GODDAMN CUTE!\n\nPlease be single :3

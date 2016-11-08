@@ -1,3 +1,0 @@
-time=2013-06-20T04:01:47+0000
-message=so lame
-from=z5028311

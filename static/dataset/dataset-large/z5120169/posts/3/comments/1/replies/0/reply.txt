@@ -1,3 +1,0 @@
-from=z5018731
-message=I don't believe you haha
-time=2016-05-13T02:11:49+0000

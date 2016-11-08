@@ -1,3 +1,0 @@
-from=z3462629
-time=2016-09-18T19:56:01+0000
-message=What's wrong with lies.

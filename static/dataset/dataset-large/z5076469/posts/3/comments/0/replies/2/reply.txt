@@ -1,3 +1,0 @@
-time=2016-05-18T09:01:47+0000
-from=z5075827
-message=They'd be a bin, trust me.

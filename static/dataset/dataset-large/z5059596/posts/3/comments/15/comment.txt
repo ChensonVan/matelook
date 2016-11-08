@@ -1,3 +1,0 @@
-from=z5056324
-message=z5115039 can tag you now
-time=2016-09-04T07:10:06+0000

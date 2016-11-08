@@ -1,3 +1,0 @@
-message=Clearly you need some love Jeff ;)
-from=z3463248
-time=2013-04-07T01:11:15+0000

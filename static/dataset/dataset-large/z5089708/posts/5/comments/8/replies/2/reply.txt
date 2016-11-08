@@ -1,3 +1,0 @@
-from=z5116414
-time=2016-05-30T13:45:56+0000
-message=Meet me in the Salonica maccas carpark to decide this once and for all.

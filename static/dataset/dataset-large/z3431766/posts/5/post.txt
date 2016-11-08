@@ -1,5 +1,0 @@
-latitude=-33.9205
-message=To the shy guy taking medicine with a senpai tshirt at the mid session party, you're cute. \n\nxoxo\nAn also shy girl
-time=2016-10-04T07:49:38+0000
-from=z3431766
-longitude=151.2260

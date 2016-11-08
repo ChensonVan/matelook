@@ -1,3 +1,0 @@
-message=It may as well have been, the timetable lied :'(
-from=z5020683
-time=2016-08-01T17:16:03+0000

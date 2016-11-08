@@ -1,3 +1,0 @@
-from=z5060416
-time=2016-06-11T15:17:34+0000
-message=z5059161 yeah nah good one

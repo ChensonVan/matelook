@@ -1,3 +1,0 @@
-time=2016-08-22T21:33:56+0000
-message=@pegasus
-from=z3418657

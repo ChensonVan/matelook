@@ -1,3 +1,0 @@
-from=z3406406
-time=2016-04-18T05:42:21+0000
-message=z3459509 i never knew you could write so elegantly!

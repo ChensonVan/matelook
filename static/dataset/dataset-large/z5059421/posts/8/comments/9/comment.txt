@@ -1,3 +1,0 @@
-message=Every single word of this letter is addressed to z5002400.
-time=2013-04-15T15:13:27+0000
-from=z3374132

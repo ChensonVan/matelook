@@ -1,3 +1,0 @@
-from=z3485783
-message=There's probably like 58291 William chan's in unsw
-time=2013-06-20T04:22:33+0000

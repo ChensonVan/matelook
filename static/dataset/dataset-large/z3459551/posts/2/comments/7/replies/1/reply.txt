@@ -1,3 +1,0 @@
-time=2016-09-21T07:04:07+0000
-message=Drop subtle hints
-from=z5059826

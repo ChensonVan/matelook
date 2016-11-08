@@ -1,5 +1,0 @@
-from=z5118764
-time=2016-08-22T14:25:51+0000
-latitude=-33.9197
-message=Nathan Powers\nI see your future \nTokyo 2020
-longitude=151.2386

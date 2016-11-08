@@ -1,3 +1,0 @@
-message=nvm just realised your mates already roasted you
-from=z5123999
-time=2016-09-04T21:23:22+0000

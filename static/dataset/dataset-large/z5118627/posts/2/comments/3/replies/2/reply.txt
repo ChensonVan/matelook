@@ -1,3 +1,0 @@
-time=2016-08-24T06:47:00+0000
-message=Not with that spelling z5061308
-from=z5024986

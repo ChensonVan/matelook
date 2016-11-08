@@ -1,3 +1,0 @@
-from=z5117790
-time=2016-09-13T04:44:20+0000
-message=Thanks

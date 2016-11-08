@@ -1,3 +1,0 @@
-from=z5025014
-message=HAHAHA
-time=2016-05-05T04:53:38+0000

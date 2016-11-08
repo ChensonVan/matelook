@@ -1,3 +1,0 @@
-from=z5060140
-message=lol see ya in. couple hrs lol
-time=2016-09-09T05:36:32+0000

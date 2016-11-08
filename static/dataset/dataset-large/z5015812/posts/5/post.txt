@@ -1,5 +1,0 @@
-message=Is Aaron Tong single?
-time=2016-07-12T04:27:42+0000
-from=z5015812
-longitude=151.2390
-latitude=-33.9222

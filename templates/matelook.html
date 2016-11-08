@@ -39,40 +39,47 @@
             <div class="col-lg-8">
                 <h4>Personal Information</h4>
                 <div class="hline"></div>
-                {% if mate.zid in user.getMates() %}
-                    <p><b>Date:</b> April 18, 2014</p>
-                    <p><b>Author:</b> Marcel Newman</p>
-                    <p><b>Categories:</b> Illustration, Web Design, Wordpress</p>
-                    <p><b>Tagged:</b> Flat, UI, Development</p>
-                    <p><b>Client:</b> Wonder Corp.</p>
-                    <p><b>Website:</b> <a href="http://blacktie.co">http://blacktie.co</a></p>
+                {% if mate.zid in user.getMates() or mate.zid == user.zid %}
+                    <p><b>Date:</b> {{ mate.birthday }} </p>
+                    <p><b>Email:</b> {{ mate.email }} </p>
+                    <p><b>Program:</b> {{ mate.program }} </p>
+                    {% if mate.home_suburb %}
+                        <p><b>Suburb:</b> {{ mate.home_suburb }}</p>
+                    {% endif%}
                 {% else %}
-                    <p><b>Date:</b> Visible for friends. </p>
-                    <p><b>Author:</b>  Visible for friends. </p>
-                    <p><b>Categories:</b> Visible for friends. </p>
-                    <p><b>Tagged:</b> Visible for friends. </p>
-                    <p><b>Client:</b> Visible for friends. </p>
+                  <p><b>Date:</b> Only visible for friends </p>
+                    <p><b>Email:</b> Visible for froends </p>
+                    <p><b>Program:</b> Only visible for friends </p>
+                    {% if mate.home_suburb %}
+                        <p><b>Suburb:</b> Only visible for friends</p>
+                    {% endif%}
                 {% endif %}
+                <form action="{{  url_for('mateManager') }}" method="POST">
+                    {% if mate.zid in user.getMates() %}
+                        <input type="hidden" name="m_zid", value={{ mate.zid }}>
+                        <input type="hidden" name="page", value={{ pag.page }}>
+                        <input type="hidden" name="matelook", value="matelook">
+                        <input type="submit" name="action" value="delete" class="btn btn-theme btn-xs"/>
+                    {% elif mate.zid in user.getRequests() %}
+                        <input type="submit" name="action" value="Pendding" disabled="disabled" class="btn btn-theme btn-xs"/>
+                    <!-- {% elif mate.zid == user.zid %} -->
+                    {% else %}
+                        <input type="hidden" name="m_zid", value={{ mate.zid }}>
+                        <input type="hidden" name="page", value={{ pag.page }}>
+                        <input type="hidden" name="matelook", value="matelook">
+                        <input type="submit" name="action" value="add" class="btn btn-theme btn-xs"/>
+                    {% endif %}
+                </form>
 
                 <div class="spacing"></div>
                 <h4>Recent Posts</h4>
                 <div class="hline"></div>
                 <br>
                 <ul class="popular-posts">
-                    {% for post in mate.getPosts() %}
-                        <li>
-                        <div class="col-lg-2">
-                            <!-- <a href="#"><img src={{ "/static/profile/" + post.getPosterName()[1]}} alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a> -->
-                            <a href="#"><img src="{{ url_for('static', filename='profile/' + post.getPosterName()[1]) }}" alt="Popular Post" style="width:70px;height:70px;" class="img-circle"></a>
-                        </div>
-                        <div class="col-lg-10">
-                            <em>Posted by {{ post.getPosterName()[0] }} on {{ post.time[:-5] }}</em><br>
-                            <p><a href="#"> {{ post.message }} </a></p>
-                        </div>
-                        </li>
-                        <br>
-                        <br>
-                    {% endfor %}
+                    {% import "print_post.html" as ppost %}
+                    {{ ppost.render_posts(mate.getPosts(), pag.begin, pag.end)}}
+                    {% import "pagination.html" as pagination %}
+                    {{ pagination.pagination_mate_post('matelook', pag, mate.zid)}}
                 </ul>
             </div>
 
@@ -80,15 +87,26 @@
             RIGHT SIDE
             ***************************************************************************************************************** -->
             <div class="col-lg-4" style="float:right">
-                {% import "right.html" as right %}
-                {{ right.mate_list(mate.getMatesWithInfo()) }}
-
+                {% if mate.zid in user.getMates() or mate.zid == user.zid %}
+                    {% import "right.html" as right %}
+                    {{ right.mate_list(mate.getMatesWithInfo()) }}
+                {% else %}
+                    <h4>Mate Lists</h4>
+                    <div class="hline"></div>
+                    <br/> 
+                    <p><b> Only visible for friends </b></p>
+                    <div class="spacing"></div>
+                {% endif %}
                 <h4>Course Lists</h4>
                 <div class="hline"></div>
-                    <!-- <span class="badge badge-theme pull-right"></span> -->
-                    {% for course in mate.getCourses() %}
-                        <p><a href="#"><i class="fa fa-angle-right"></i>{{ course }}</a> </p>
-                    {% endfor %}
+                    {% if mate.zid in user.getMates() or mate.zid == user.zid %}
+                        {% for course in mate.getCourses() %}
+                            <p><a href="#"><i class="fa fa-angle-right"></i>{{ course }}</a> </p>
+                        {% endfor %}
+                    {% else %}
+                        <br/> 
+                        <p><b> Only visible for friends </b></p>
+                    {% endif %}
         </div>
     </div>
 {% endblock %}

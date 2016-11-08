@@ -1,3 +1,0 @@
-message=They're talking to me z5083924 not you.........
-from=z5021028
-time=2016-06-30T11:34:37+0000

@@ -1,3 +1,0 @@
-from=z5059161
-time=2016-07-12T02:56:01+0000
-message=z5098157 who'd u save bro?

@@ -1,3 +1,0 @@
-from=z3463739
-message=I guess that's pretty much life finished for me now then. I'll be off
-time=2013-05-24T22:55:34+0000

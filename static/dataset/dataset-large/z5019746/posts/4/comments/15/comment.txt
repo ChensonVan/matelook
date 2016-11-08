@@ -1,3 +1,0 @@
-from=z5075071
-message=z5021034 maybe they confused midcity for miranda
-time=2016-07-29T16:49:34+0000

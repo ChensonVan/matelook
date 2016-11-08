@@ -1,3 +1,0 @@
-from=z5015684
-message=z3462629 hate colours cos im colourblind
-time=2016-09-15T07:55:20+0000

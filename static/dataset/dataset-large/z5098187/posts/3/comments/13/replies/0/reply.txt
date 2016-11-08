@@ -1,3 +1,0 @@
-from=z5017842
-time=2016-04-27T02:48:59+0000
-message=Hahahaa bringing sxc back since '94

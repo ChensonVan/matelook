@@ -1,5 +1,0 @@
-time=2016-08-31T13:30:54+0000
-message=To the secret cc in actuarial, just get together already. What are you waiting for?
-latitude=-34.0030
-from=z3462055
-longitude=151.0699

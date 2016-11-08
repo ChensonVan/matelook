@@ -1,3 +1,0 @@
-time=2016-06-27T12:13:17+0000
-message=Come. We must return to our horse, it is pretty high up.
-from=z5119655

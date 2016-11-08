@@ -1,3 +1,0 @@
-from=z5017666
-time=2016-04-19T10:30:43+0000
-message=HAHAHA that's definitely not me !!!

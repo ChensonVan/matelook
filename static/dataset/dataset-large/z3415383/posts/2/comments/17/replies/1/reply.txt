@@ -1,3 +1,0 @@
-from=z5015280
-message=z3439243 pls respond
-time=2016-09-04T08:32:45+0000

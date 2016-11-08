@@ -1,3 +1,0 @@
-message=z5048555 did u transfer to UNSW or something
-from=z3459551
-time=2016-05-16T12:47:31+0000

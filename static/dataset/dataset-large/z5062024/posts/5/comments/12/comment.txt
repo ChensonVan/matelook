@@ -1,3 +1,0 @@
-message=Nick Holman makes the best curry
-time=2016-05-25T11:20:17+0000
-from=z5020410

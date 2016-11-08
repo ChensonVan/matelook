@@ -1,3 +1,0 @@
-message=You're a man magnet Soph
-time=2016-05-03T14:00:45+0000
-from=z5059449

@@ -1,3 +1,0 @@
-message=Brb transferring to engo and changing my name
-from=z5015813
-time=2016-10-02T23:27:04+0000

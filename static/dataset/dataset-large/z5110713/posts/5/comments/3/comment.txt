@@ -1,3 +1,0 @@
-message=Even my background is the lord himself
-from=z5075030
-time=2016-08-15T13:20:10+0000

@@ -1,3 +1,0 @@
-message=z5023123 arent you glad you came to that lecture
-time=2016-04-27T09:50:09+0000
-from=z5113715

@@ -1,3 +1,0 @@
-message=GIve us a pick up line (Y)
-time=2016-09-02T01:06:20+0000
-from=z5113614

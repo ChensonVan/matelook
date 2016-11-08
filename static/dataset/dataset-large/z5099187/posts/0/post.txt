@@ -1,5 +1,0 @@
-message=To that Indian guy that always wears his law hoodie, do only own one jumper or something? Also, you are cute.
-from=z5099187
-latitude=-33.9838
-time=2016-09-04T14:59:16+0000
-longitude=151.2374

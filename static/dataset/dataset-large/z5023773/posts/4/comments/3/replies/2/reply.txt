@@ -1,3 +1,0 @@
-time=2016-08-12T03:14:35+0000
-message=Ki me ketut
-from=z5059970

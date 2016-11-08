@@ -1,3 +1,0 @@
-from=z5014972
-message=Forgotten as usual
-time=2016-09-18T15:05:36+0000

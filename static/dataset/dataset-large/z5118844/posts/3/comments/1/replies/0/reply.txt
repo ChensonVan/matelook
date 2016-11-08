@@ -1,3 +1,0 @@
-from=z3475276
-time=2016-06-25T04:50:11+0000
-message=I wish I wrote this it's so good

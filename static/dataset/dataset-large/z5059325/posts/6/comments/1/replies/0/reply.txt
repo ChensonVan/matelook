@@ -1,3 +1,0 @@
-time=2016-05-30T13:17:57+0000
-message=I wish i had game
-from=z5113245

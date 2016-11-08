@@ -1,3 +1,0 @@
-from=z5078886
-message=z5048360 just wants a good smash.
-time=2016-09-21T13:45:45+0000

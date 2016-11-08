@@ -1,3 +1,0 @@
-from=z5098313
-time=2016-09-06T06:27:50+0000
-message=I got memes for days

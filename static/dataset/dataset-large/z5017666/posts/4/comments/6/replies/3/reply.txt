@@ -1,3 +1,0 @@
-message=Mate I'm transferring right now
-from=z3461196
-time=2016-05-04T10:39:53+0000

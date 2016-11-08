@@ -1,5 +1,0 @@
-message=To the beautiful who usually sits herself on the library lawn and studies Physio, I think your name is Helen. You have the most gorgeous eyes. Every time I see you around, you always have a smile on your face, it makes me feel happy inside. You are the prettiest person to me. Meet me outside the library at 3pm? Ill be waiting :)
-time=2013-04-21T05:07:05+0000
-from=z5025090
-longitude=151.1226
-latitude=-34.0612

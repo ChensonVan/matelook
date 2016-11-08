@@ -1,3 +1,0 @@
-message=z5024986 except criteria number 2,3 and 4
-from=z5076025
-time=2016-08-24T06:44:35+0000

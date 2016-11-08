@@ -1,5 +1,0 @@
-latitude=-33.8931
-longitude=151.2567
-message=To the only white guy that works at BOOST with 'Benji' on his name tag, I really hope you were flirting with me at the register because damnnn you were cute!
-from=z5116414
-time=2013-03-20T12:23:25+0000

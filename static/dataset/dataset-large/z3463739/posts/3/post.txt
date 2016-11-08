@@ -1,5 +1,0 @@
-time=2013-05-13T00:25:37+0000
-latitude=-33.9124
-message=Around a few years ago I met a guy name Leif. Such a gorgeous creature to look at. We first met at orientation.. but not at UNSW... Hope everything turned out for you well ;)
-longitude=151.2348
-from=z3463739

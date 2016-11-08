@@ -1,3 +1,0 @@
-time=2016-05-16T12:13:13+0000
-from=z5041714
-message=I do science!\nSeriously, they're everywhere. The Biosciences and Dalton Buildings are good starts.

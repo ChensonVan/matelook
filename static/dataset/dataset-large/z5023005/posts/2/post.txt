@@ -1,5 +1,0 @@
-from=z5023005
-latitude=-33.9195
-message=I think your name is Zubair or Subair \nAfter I watched that MSA video I think you are really cute \n(dont worry I can be your third wife 😉)
-longitude=151.2223
-time=2016-09-23T16:17:34+0000

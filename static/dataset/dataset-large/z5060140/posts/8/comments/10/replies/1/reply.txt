@@ -1,3 +1,0 @@
-time=2016-07-26T08:51:02+0000
-from=z5019900
-message=Half way across the world, twice the burn

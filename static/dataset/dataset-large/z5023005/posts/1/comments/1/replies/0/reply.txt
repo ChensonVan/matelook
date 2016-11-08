@@ -1,3 +1,0 @@
-from=z5059449
-message=pretty sure i wrote this
-time=2016-08-21T14:08:10+0000

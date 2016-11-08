@@ -1,3 +1,0 @@
-message=HAH grindr is best part
-from=z3485885
-time=2016-05-17T08:01:38+0000

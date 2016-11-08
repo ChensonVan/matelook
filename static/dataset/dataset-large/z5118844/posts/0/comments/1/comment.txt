@@ -1,3 +1,0 @@
-from=z5075455
-time=2016-04-22T01:34:43+0000
-message=z5056054 I'll swipe right for you any time

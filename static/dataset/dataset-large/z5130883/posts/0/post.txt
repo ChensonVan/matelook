@@ -1,5 +1,0 @@
-longitude=151.2236
-message=To Jennifer the asian with the NZ accent you're so choice, and you're not embarrassment .
-from=z5130883
-latitude=-33.9255
-time=2013-08-31T12:55:30+0000

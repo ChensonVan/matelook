@@ -1,3 +1,0 @@
-from=z5119635
-time=2016-08-23T03:53:35+0000
-message=I think you got the wrong person

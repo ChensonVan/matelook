@@ -1,3 +1,0 @@
-message=Hahahahah I knew it!
-time=2013-03-25T11:40:41+0000
-from=z5059970

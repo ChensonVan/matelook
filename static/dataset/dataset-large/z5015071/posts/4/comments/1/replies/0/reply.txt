@@ -1,3 +1,0 @@
-message=Someone just wants to steal Wing Ki from you :P
-from=z5062277
-time=2016-06-03T01:37:24+0000

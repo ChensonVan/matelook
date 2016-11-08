@@ -1,3 +1,0 @@
-from=z3379830
-time=2016-08-17T15:11:33+0000
-message=z5062448 can execute a flawless rush B cyka

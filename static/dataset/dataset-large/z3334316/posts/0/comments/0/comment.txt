@@ -1,3 +1,0 @@
-from=z5127733
-time=2016-05-26T03:29:24+0000
-message=It...it's purple now...and short...\nI have failed you

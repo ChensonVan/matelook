@@ -1,5 +1,0 @@
-message=It's even more complicated when it's your ex...
-time=2016-08-25T02:48:39+0000
-latitude=-33.8477
-from=z5113496
-longitude=151.2032

@@ -1,5 +1,0 @@
-from=z3422324
-message=Ashesh you are cute. Please BMLshow me your BMLmoves ;)
-latitude=-34.0185
-longitude=151.0459
-time=2016-07-16T22:12:02+0000

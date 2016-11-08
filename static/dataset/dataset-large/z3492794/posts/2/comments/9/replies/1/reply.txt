@@ -1,3 +1,0 @@
-from=z5119667
-message=more like "your dedication to showing up to micro lectures"
-time=2016-05-10T13:20:01+0000

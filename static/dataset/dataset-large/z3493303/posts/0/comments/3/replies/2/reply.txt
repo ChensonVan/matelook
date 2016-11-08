@@ -1,3 +1,0 @@
-from=z5113496
-time=2016-09-18T11:57:45+0000
-message=Fight me Leo at seddon like the old times

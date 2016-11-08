@@ -1,3 +1,0 @@
-message=Was the holocaust real
-from=z5113614
-time=2016-09-07T22:35:33+0000

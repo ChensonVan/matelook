@@ -1,3 +1,0 @@
-time=2016-08-29T01:49:46+0000
-message=z5040176 ok this one def you
-from=z5062024

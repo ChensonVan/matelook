@@ -1,3 +1,0 @@
-time=2016-06-27T10:52:26+0000
-from=z5117623
-message=Ok #byefelicia

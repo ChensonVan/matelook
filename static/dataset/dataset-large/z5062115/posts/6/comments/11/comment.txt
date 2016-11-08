@@ -1,3 +1,0 @@
-from=z5115817
-time=2016-08-09T14:21:40+0000
-message=z5060416 this was witty

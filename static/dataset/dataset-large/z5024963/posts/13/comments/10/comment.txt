@@ -1,3 +1,0 @@
-message=z5113702 time to take the stage munchkin
-time=2016-08-14T13:28:05+0000
-from=z5013310

@@ -1,5 +1,0 @@
-longitude=151.1040
-message=Dominic, if you like me just say it already.
-time=2016-10-01T10:49:12+0000
-latitude=-34.0031
-from=z3493303

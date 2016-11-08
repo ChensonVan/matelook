@@ -1,3 +1,0 @@
-from=z5020476
-message=Wait Sophie didn't you blow Harsh 10mins ago
-time=2016-09-01T00:29:45+0000

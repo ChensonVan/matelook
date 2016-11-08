@@ -1,3 +1,0 @@
-time=2016-05-12T12:20:31+0000
-message=dali znajs sto znaci zborot 'maski' :D
-from=z5110502

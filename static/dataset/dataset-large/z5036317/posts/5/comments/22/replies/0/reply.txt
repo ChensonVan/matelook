@@ -1,3 +1,0 @@
-message=from C... nice
-from=z5062277
-time=2016-10-05T07:43:04+0000

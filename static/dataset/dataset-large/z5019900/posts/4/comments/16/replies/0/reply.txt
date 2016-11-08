@@ -1,3 +1,0 @@
-from=z5015700
-time=2016-09-12T23:41:40+0000
-message=Its k. if you don't eat you dont shit.

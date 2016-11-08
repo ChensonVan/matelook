@@ -1,3 +1,0 @@
-message=spam them in a jokeful way? thats not annoying
-from=z3299058
-time=2016-09-28T07:56:59+0000

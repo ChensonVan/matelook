@@ -1,3 +1,0 @@
-from=z5123999
-message=Plz you say this like I have a heart 😎
-time=2016-08-25T01:05:03+0000

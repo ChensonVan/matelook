@@ -1,3 +1,0 @@
-from=z3463248
-message=Jagat, these are just typed up by me and Julhas at the UTS library
-time=2016-05-11T12:27:23+0000

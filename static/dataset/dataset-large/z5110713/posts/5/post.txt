@@ -1,5 +1,0 @@
-time=2016-08-16T04:01:31+0000
-latitude=-33.9094
-message=When bae wants to take a pic but your phone is too full because of all the Harambe pics. :(
-longitude=151.2208
-from=z5110713

@@ -1,5 +1,0 @@
-time=2016-08-20T13:39:12+0000
-latitude=-33.8751
-longitude=151.2270
-message=Thank goodness I got over my ex-crush.\nShe thought Singapore is a part of China. =_='
-from=z5017077

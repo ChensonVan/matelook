@@ -3,7 +3,7 @@
 
 __author__ = 'Changxun Fan'
 
-from wsgiref import CGIHandler
+from wsgiref.handlers import CGIHandler
 from matelook import app
 
 CGIHandler().run(app)

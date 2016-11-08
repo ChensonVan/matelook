@@ -1,3 +1,0 @@
-message=Absolutely noot
-from=z5015813
-time=2016-05-30T13:04:56+0000

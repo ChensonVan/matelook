@@ -1,3 +1,0 @@
-message=So u can root?
-time=2016-05-16T13:27:23+0000
-from=z3462438

@@ -1,3 +1,0 @@
-from=z5017787
-message=u sure its not Annie Chen??
-time=2013-09-09T02:08:45+0000

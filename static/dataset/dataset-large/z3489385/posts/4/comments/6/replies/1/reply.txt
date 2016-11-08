@@ -1,3 +1,0 @@
-from=z5017894
-message=OK Marco
-time=2016-09-28T00:34:14+0000

@@ -1,5 +1,0 @@
-message=To the Indian guy in MATH1041 lecture ,\ncoffee sometime\n\nFrom\n Secret Admirer
-latitude=-33.9219
-from=z5092725
-longitude=151.2296
-time=2016-09-29T15:18:51+0000

@@ -1,5 +1,0 @@
-time=2013-08-11T15:23:08+0000
-message=To my COMP1927 tutor who goes by the name of Damon. Your voice is so dreamy and your eyes are piercing like a dragon's tail. While I fail at the art of linked lists, I would love nothing more than for us to link lips.\n\n(I so hope that you're gay...)
-from=z5112578
-longitude=150.3788
-latitude=-33.7130

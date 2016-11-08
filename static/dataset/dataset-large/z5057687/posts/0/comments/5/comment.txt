@@ -1,3 +1,0 @@
-time=2016-06-15T04:08:29+0000
-message=z5059161 time to move to unsw
-from=z5117623

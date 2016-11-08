@@ -1,5 +1,0 @@
-time=2013-09-21T08:09:45+0000
-longitude=151.2427
-message=jon, will you be my French affair bby?\n\nHNNG
-from=z5112578
-latitude=-33.8812

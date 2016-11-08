@@ -1,3 +1,0 @@
-time=2016-08-16T22:47:39+0000
-message=I don't understand can anyone help to explain?
-from=z5109786

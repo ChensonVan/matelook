@@ -1,3 +1,0 @@
-message=There are 2 types of lures??
-time=2016-07-26T14:17:24+0000
-from=z5059596

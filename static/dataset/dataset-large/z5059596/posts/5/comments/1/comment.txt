@@ -1,3 +1,0 @@
-from=z5018549
-message=But... I love her
-time=2015-05-24T07:53:19+0000

@@ -1,3 +1,0 @@
-message=LOL not sure if srs
-from=z5028693
-time=2013-05-15T02:34:01+0000

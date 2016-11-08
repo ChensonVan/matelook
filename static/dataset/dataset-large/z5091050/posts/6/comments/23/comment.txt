@@ -1,3 +1,0 @@
-message=z5076485 z5127546 TFW you have neither
-time=2016-06-19T14:55:05+0000
-from=z5055646

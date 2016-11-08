@@ -1,3 +1,0 @@
-from=z3463739
-time=2013-11-02T14:31:21+0000
-message=Oh yeah I remember you! Inbox me your number

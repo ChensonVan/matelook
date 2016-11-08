@@ -1,5 +1,0 @@
-from=z5108472
-latitude=-33.6115
-message=Tall blonde guy wearing new balances at the FINS1613 test, I think your mate called you Andrew. You look a bit like a horse but that's fine, I've got the perfect thing for horses..
-longitude=151.1169
-time=2016-07-07T02:57:54+0000

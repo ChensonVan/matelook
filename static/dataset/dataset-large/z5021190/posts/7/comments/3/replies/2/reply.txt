@@ -1,3 +1,0 @@
-from=z5048639
-message=LISTEN
-time=2016-08-28T03:39:48+0000

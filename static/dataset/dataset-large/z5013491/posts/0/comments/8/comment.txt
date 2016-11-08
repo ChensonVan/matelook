@@ -1,3 +1,0 @@
-from=z5110358
-message=i might of
-time=2013-05-30T10:00:59+0000

@@ -1,5 +1,0 @@
-from=z5115666
-message=To the guy who kept watching kdrama in Thurday's macro lecture 12pm, you have good taste.  I got hooked on Doctors after watching you see it but I'm finished with it now. I've been coming to the lectures hoping you'd be there to show me another kdrama but you haven't showed.  I wanted to talk to you but after a little fb stalking, I found out you're my friend's ex...We should grab a coffee if it's not too weird.
-time=2016-09-18T02:08:50+0000
-longitude=151.1112
-latitude=-33.9996

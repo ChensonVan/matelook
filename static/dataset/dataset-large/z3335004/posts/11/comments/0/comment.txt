@@ -1,3 +1,0 @@
-message=z5061301, hopping your way into hearts
-time=2013-03-27T04:46:30+0000
-from=z3461074

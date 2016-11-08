@@ -1,3 +1,0 @@
-from=z3413158
-time=2016-05-24T01:01:41+0000
-message=z5015684 will give it his all

@@ -27,7 +27,7 @@
         {% if user %}
             <h1>Password Reset</h1>
             <div class="col-lg-4 col-lg-offset-4 centered"> 
-                <form action="/account/resetSave" name="recovery" method=POST>
+                <form action="{{ url_for('account', action='resetSave')}}" name="resetSave" method=POST>
                     <div class="form-group">
                         <label>New Password</label> <br>
                         <input type="password" name="password" class="form-control"><br>
@@ -45,7 +45,7 @@
         {% else %}
             <h1>Password Recovery</h1>
             <div class="col-lg-4 col-lg-offset-4 centered"> 
-                <form action="/account/recovery" name="recovery" method=POST>
+                <form action="{{ url_for('account', action='recovery')}}" name="recovery" method=POST>
                     <div class="form-group">
                         <label>Zid</label> <br>
                         <input type="text" name="zid" placeholder="zid"  class="form-control"><br>

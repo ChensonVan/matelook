@@ -1,3 +1,0 @@
-time=2016-08-17T00:32:09+0000
-from=z9591011
-message=I put sugar in Milo too sometimes

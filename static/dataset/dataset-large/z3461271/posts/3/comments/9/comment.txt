@@ -1,3 +1,0 @@
-from=z5060223
-message=Maybe it brightens everyones day because after they look at him, they realise that compared to him, life isn't that bad
-time=2016-05-16T13:05:21+0000

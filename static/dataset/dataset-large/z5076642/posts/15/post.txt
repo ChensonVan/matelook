@@ -1,5 +1,0 @@
-longitude=150.9491
-message=To the girl with the initials Y.G.B, \n\nOne day I'll add my last name to yours. I love you mrs Y.G.B.S \n\n-Daddy
-latitude=-33.6987
-time=2016-09-28T08:03:43+0000
-from=z5076642

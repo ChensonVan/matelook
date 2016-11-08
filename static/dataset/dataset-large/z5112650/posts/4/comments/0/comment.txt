@@ -1,3 +1,0 @@
-message=Arthur Chan
-from=z5117623
-time=2013-04-18T12:39:38+0000

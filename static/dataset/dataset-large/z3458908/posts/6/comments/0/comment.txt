@@ -1,3 +1,0 @@
-from=z5115817
-time=2013-03-19T08:55:27+0000
-message=I was properly on this bus, was this the swedish one or the taller one?

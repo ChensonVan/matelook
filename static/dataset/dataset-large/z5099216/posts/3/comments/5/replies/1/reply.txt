@@ -1,3 +1,0 @@
-from=z5062732
-time=2016-08-12T02:28:37+0000
-message=Follow your heart

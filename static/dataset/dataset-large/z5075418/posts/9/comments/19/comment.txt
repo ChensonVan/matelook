@@ -1,3 +1,0 @@
-time=2016-05-06T01:40:50+0000
-message=z5076156 comp sci for ya
-from=z5015085

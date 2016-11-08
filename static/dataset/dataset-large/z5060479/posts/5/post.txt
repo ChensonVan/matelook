@@ -1,5 +1,0 @@
-from=z5060479
-latitude=-33.9361
-message=To the burly bloke with the Chopper Ried mustache in ASB Computer Labs 4 at 10PM. I want to be inside of you...now.
-longitude=151.2304
-time=2013-05-05T06:27:20+0000

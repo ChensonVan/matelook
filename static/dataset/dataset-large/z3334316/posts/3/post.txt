@@ -1,5 +1,0 @@
-message=To the asian girl from this uni who works at JB Hifi in The Galleries, you're the reason I come to the store. I'm not buying anything there but I can buy you a coffee c:
-latitude=-33.9178
-longitude=151.2292
-from=z3334316
-time=2016-10-02T14:49:08+0000

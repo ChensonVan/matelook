@@ -1,3 +1,0 @@
-message=it was actually me in the red dress :/
-time=2016-08-22T07:31:11+0000
-from=z5117076

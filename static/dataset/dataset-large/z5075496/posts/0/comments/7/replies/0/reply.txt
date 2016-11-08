@@ -1,3 +1,0 @@
-message=damnit so close when will it be my turn
-from=z5013191
-time=2016-08-26T13:10:25+0000

@@ -1,3 +1,0 @@
-from=z3462428
-message=z3493008 coffee sometime?
-time=2016-09-13T04:46:13+0000

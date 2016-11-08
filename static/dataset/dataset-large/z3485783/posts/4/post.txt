@@ -1,5 +1,0 @@
-from=z3485783
-longitude=151.2259
-message=How to get HD WAM and be in a relationship at the same time???
-latitude=-33.9199
-time=2016-09-08T11:37:02+0000

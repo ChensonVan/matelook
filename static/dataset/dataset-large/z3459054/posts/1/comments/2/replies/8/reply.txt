@@ -1,3 +1,0 @@
-message=We all know how to use Paint/Photoshop dude
-from=z5115679
-time=2016-06-16T14:31:51+0000

@@ -1,3 +1,0 @@
-time=2016-05-26T05:59:49+0000
-message=disclaimer: taken out of context 😥
-from=z3463739

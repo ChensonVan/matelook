@@ -1,3 +1,0 @@
-time=2016-08-22T22:16:56+0000
-from=z5113003
-message=This. This is what it's about.

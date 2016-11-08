@@ -1,3 +1,0 @@
-from=z5015813
-time=2016-08-21T15:20:12+0000
-message=z5015280 you work at zara dont you??

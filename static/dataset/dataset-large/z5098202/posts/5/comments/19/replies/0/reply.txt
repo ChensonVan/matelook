@@ -1,3 +1,0 @@
-time=2016-09-20T13:39:03+0000
-from=z5110502
-message=I actually am

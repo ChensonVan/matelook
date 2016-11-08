@@ -1,3 +1,0 @@
-from=z5060454
-time=2016-05-19T01:08:10+0000
-message=Lol I came from where I came from and chose to come forth and comment

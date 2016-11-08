@@ -1,5 +1,0 @@
-time=2016-08-29T14:49:36+0000
-message=I got my EYE on you Nadine Harithupan ;)
-from=z5018348
-longitude=151.2666
-latitude=-33.9058

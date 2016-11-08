@@ -1,3 +1,0 @@
-from=z5018107
-message=This hasn't worked before (in person)...it isn't gonna work now. Please stop ahah
-time=2016-06-18T08:05:33+0000

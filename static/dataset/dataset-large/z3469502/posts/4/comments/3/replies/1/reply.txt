@@ -1,3 +1,0 @@
-from=z5098212
-message=hurry up and be online
-time=2016-07-07T11:39:44+0000

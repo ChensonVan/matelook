@@ -1,3 +1,0 @@
-message=Did you get drunk again?
-time=2016-08-22T22:27:55+0000
-from=z5015684

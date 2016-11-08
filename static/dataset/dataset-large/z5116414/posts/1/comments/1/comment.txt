@@ -1,3 +1,0 @@
-message=died at first glance z5099187
-time=2013-05-13T10:30:21+0000
-from=z5115403

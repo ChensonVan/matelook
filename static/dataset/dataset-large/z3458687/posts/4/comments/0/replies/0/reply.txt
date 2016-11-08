@@ -1,3 +1,0 @@
-message=Ain't gonna deny.\nCandy is sweet
-from=z3463730
-time=2016-09-09T03:22:21+0000

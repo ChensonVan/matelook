@@ -1,3 +1,0 @@
-from=z5110502
-time=2016-09-21T13:20:41+0000
-message=Standards Raising (optional)\n\n/my standards/ -> [+raise] / you

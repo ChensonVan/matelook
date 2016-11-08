@@ -1,3 +1,0 @@
-from=z5109480
-message=That's the spirit LOL
-time=2016-08-27T16:26:19+0000

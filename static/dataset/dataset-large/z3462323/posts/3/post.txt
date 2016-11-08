@@ -1,5 +1,0 @@
-latitude=-33.9423
-message=The girl with brown and green hair at the eddy ave bus stop on most Wednesday's before 9:00am. Coffee before that lecture?
-longitude=151.2255
-from=z3462323
-time=2016-06-08T03:28:30+0000

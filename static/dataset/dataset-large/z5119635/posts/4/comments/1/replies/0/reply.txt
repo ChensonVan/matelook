@@ -1,3 +1,0 @@
-from=z5115903
-message=Only if they own their own construction management company ;)
-time=2016-09-16T03:44:46+0000

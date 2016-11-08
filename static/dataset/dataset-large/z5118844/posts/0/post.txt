@@ -1,5 +1,0 @@
-time=2016-04-22T04:45:21+0000
-message=The dude who sat next to me on the bus who was on Tinder\nI saw you swipe right on my profile\nI'll swipe right if I find you.\n\nI love you.
-from=z5118844
-latitude=-33.9154
-longitude=151.2099

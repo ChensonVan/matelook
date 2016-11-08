@@ -1,5 +1,0 @@
-latitude=-33.9077
-message=If jeffrey was a subject in uni i would smoke his pipe every day
-time=2013-04-25T06:39:30+0000
-longitude=151.2350
-from=z3492794

@@ -1,3 +1,0 @@
-time=2016-08-11T12:35:27+0000
-from=z5013098
-message=z3330003 watch out for z5013098

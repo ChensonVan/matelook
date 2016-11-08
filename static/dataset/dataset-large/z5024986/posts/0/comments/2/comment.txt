@@ -1,3 +1,0 @@
-message=LOL this is a gem
-from=z5122559
-time=2013-06-13T22:53:45+0000

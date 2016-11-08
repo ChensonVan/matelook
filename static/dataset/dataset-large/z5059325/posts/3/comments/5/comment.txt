@@ -1,3 +1,0 @@
-message=yay warm fuzzy happy carefree youthful love woot.
-time=2013-04-08T07:43:38+0000
-from=z5074940

@@ -1,3 +1,0 @@
-from=z3219170
-time=2016-05-06T03:30:20+0000
-message=Nepali > Bengali tho.

@@ -1,3 +1,0 @@
-time=2016-09-07T03:12:07+0000
-message=No durries, only curries
-from=z5014335

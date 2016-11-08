@@ -1,5 +1,0 @@
-message=Looking for a guy who can teach me chem and watch kdramas with me. Applicants all welcome.
-longitude=151.2330
-latitude=-33.9230
-time=2016-10-04T22:41:21+0000
-from=z5099971

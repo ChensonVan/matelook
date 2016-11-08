@@ -1,3 +1,0 @@
-message=I know, I discovered this yesterday
-time=2013-09-27T08:52:10+0000
-from=z5018549

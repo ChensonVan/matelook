@@ -1,5 +1,0 @@
-message="To the girl who goes to the Kensington Colleges and works at Village Cafe, you're smoking hot and your smile is infectious. You can froth my milk anyday "
-time=2013-04-27T08:25:25+0000
-from=z3463638
-longitude=151.2338
-latitude=-33.9082

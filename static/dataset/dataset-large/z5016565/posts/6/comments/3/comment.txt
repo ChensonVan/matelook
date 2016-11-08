@@ -1,3 +1,0 @@
-from=z3275760
-time=2013-06-26T00:41:36+0000
-message=don't have to lie ;)

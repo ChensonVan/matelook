@@ -1,5 +1,0 @@
-message=To the ARTS1811 Lecturer Will, you remind me of JD from Scrubs in Season 9! <3\n\nhttp://scrubs.wikia.com/wiki/Our_Mysteries?file=9x5_JD_lying_on_desk.jpg
-from=z3299058
-latitude=-33.9495
-time=2013-08-02T12:18:04+0000
-longitude=151.1411

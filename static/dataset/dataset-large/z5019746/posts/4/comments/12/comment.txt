@@ -1,3 +1,0 @@
-time=2016-07-29T00:56:38+0000
-from=z3463420
-message=z5015684 actually works there

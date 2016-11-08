@@ -1,3 +1,0 @@
-message=z5020683, cld be u but we always hang on floor 2
-from=z5024963
-time=2016-05-11T11:53:15+0000

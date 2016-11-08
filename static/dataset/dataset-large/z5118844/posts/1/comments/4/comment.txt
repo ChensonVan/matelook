@@ -1,3 +1,0 @@
-from=z3415383
-message=Maybe its z5043507
-time=2013-05-17T12:24:03+0000

@@ -1,3 +1,0 @@
-time=2016-09-04T10:14:24+0000
-message=can't deny that
-from=z5061920

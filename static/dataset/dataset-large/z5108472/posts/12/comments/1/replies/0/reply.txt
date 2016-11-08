@@ -1,3 +1,0 @@
-message=phys is life
-from=z3442036
-time=2016-07-03T08:24:16+0000

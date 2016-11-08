@@ -1,3 +1,0 @@
-message=Just to bold, u got nothing to lose.
-time=2016-10-04T01:05:38+0000
-from=z5020476

@@ -1,3 +1,0 @@
-time=2016-08-27T15:03:56+0000
-from=z5013491
-message=z5015700 who is dat

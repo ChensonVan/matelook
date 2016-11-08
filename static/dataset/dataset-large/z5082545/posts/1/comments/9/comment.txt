@@ -1,3 +1,0 @@
-time=2016-04-15T14:05:46+0000
-from=z5077163
-message=z5077163 is the one you are looking for

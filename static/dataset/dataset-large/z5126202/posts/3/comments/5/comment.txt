@@ -1,3 +1,0 @@
-message=z5047516 wants the D hard
-from=z5052081
-time=2013-04-03T12:09:54+0000

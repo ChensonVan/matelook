@@ -1,3 +1,0 @@
-time=2016-06-07T13:20:06+0000
-message=z5017077 do you like coffee
-from=z5114240

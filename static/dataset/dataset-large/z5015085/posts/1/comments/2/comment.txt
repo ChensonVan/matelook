@@ -1,3 +1,0 @@
-time=2016-06-07T08:36:11+0000
-message=Probably not this z5020410
-from=z3416238

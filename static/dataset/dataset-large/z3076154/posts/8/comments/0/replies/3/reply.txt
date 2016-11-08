@@ -1,3 +1,0 @@
-message=Well I have, doing med at usyd
-from=z3377644
-time=2016-06-30T13:03:34+0000

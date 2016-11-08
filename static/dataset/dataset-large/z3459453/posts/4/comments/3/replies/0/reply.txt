@@ -1,3 +1,0 @@
-message=Yeah because I'm in second year
-from=z5113702
-time=2016-08-19T03:22:53+0000

@@ -1,3 +1,0 @@
-time=2016-08-15T14:48:03+0000
-message=z3459050 this is awkies
-from=z5020200

@@ -1,3 +1,0 @@
-from=z5076002
-time=2016-04-18T05:08:43+0000
-message=Oh god

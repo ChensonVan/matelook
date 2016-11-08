@@ -1,3 +1,0 @@
-time=2016-05-12T14:45:40+0000
-message=bc youre korean
-from=z5017666

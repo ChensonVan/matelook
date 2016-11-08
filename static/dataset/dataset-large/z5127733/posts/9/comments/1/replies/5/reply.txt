@@ -1,3 +1,0 @@
-message=The more u say that, the more concerned i get....
-from=z5024963
-time=2016-05-25T13:41:26+0000

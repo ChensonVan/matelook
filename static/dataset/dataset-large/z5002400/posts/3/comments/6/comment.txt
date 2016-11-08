@@ -1,3 +1,0 @@
-from=z3219170
-time=2016-09-19T08:26:06+0000
-message=z5055209 what have you done

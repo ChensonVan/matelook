@@ -1,3 +1,0 @@
-from=z3468575
-message=Try men, they have lower standards.
-time=2016-05-12T12:51:26+0000

@@ -1,3 +1,0 @@
-message=i dont even know what course is SCIF...
-from=z5078886
-time=2016-04-20T11:31:11+0000

@@ -1,3 +1,0 @@
-from=z5113245
-message=If ur willing to deal with stuttering and general indecipherability I hear z5015526 is keen
-time=2016-05-18T06:09:03+0000

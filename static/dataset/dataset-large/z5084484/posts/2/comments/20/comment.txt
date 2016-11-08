@@ -1,3 +1,0 @@
-message=Cherbul pls
-time=2013-08-18T12:49:19+0000
-from=z3442036

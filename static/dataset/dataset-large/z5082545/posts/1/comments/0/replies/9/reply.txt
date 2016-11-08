@@ -1,3 +1,0 @@
-message=OH MY VISHNU
-time=2016-04-15T14:00:30+0000
-from=z5098135

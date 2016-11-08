@@ -1,5 +1,0 @@
-time=2016-05-03T15:18:11+0000
-message=Cindy Sun I think you're pretty nice. Coffee sometime?\n-C
-from=z3461196
-latitude=-33.7969
-longitude=151.1668

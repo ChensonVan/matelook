@@ -1,3 +1,0 @@
-from=z5056054
-message=This is cute of you z3459327
-time=2016-09-14T00:53:48+0000

@@ -1,3 +1,0 @@
-from=z5062448
-message=z5119678 don't leave MQ, lol where am I going to get my surprise hugs when I randomly see you round?
-time=2016-09-11T12:13:13+0000

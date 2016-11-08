@@ -1,3 +1,0 @@
-message=im keen
-from=z5041714
-time=2016-09-02T00:50:51+0000

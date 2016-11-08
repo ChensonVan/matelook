@@ -1,3 +1,0 @@
-from=z3289658
-time=2016-08-08T13:29:35+0000
-message=z5061308 i think they meant john tran

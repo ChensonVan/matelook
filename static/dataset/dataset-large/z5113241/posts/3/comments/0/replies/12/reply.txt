@@ -1,3 +1,0 @@
-from=z5004669
-time=2016-09-01T05:25:05+0000
-message=z5015071 z5020410 steins gate is amazing

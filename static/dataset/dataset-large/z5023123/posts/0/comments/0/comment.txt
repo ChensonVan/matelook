@@ -1,3 +1,0 @@
-from=z5102263
-message=z3459054 should be able to answer this
-time=2016-04-21T11:48:16+0000

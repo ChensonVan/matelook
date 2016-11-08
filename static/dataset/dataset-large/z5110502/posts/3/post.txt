@@ -1,5 +1,0 @@
-message=To all the Asian women at UNSW, you're all absolutely gorgeous. Keep doing what you're doing.\n\nFrom a guy with serious yellow fever.
-longitude=151.0248
-time=2016-06-30T07:54:59+0000
-from=z5110502
-latitude=-33.8938

@@ -1,3 +1,0 @@
-from=z5015071
-time=2016-05-02T12:42:56+0000
-message=z5079464 ahem.. stop cheating on me

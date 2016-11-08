@@ -1,3 +1,0 @@
-message=z5048639 u fkn slayer
-from=z5119613
-time=2016-04-28T00:31:28+0000

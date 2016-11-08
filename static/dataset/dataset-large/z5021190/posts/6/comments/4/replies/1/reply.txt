@@ -1,3 +1,0 @@
-time=2016-07-12T11:04:42+0000
-from=z5028311
-message=These lines are shannon quality tbh

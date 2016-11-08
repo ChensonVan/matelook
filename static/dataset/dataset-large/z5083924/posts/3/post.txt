@@ -1,5 +1,0 @@
-time=2016-04-23T09:00:00+0000
-message=Jason S,\n\nYou're cute, please tell me you're single! Coffee sometime?
-from=z5083924
-latitude=-33.8976
-longitude=151.2107

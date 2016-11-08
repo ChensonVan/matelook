@@ -1,3 +1,0 @@
-from=z5014972
-time=2013-05-30T09:28:42+0000
-message=Inb4 Mina Kang.

@@ -1,5 +1,0 @@
-longitude=151.0830
-from=z5048611
-time=2016-04-29T09:59:47+0000
-message=You're a year above me, we met at a roundhouse party months ago and I thought you were super cute, but I can't ask you out because I am scared lol I know we haven't talked since but pop up to me I know that everyone here would love to have a netflix n chill
-latitude=-33.9241

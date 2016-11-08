@@ -1,3 +1,0 @@
-message=oh wait
-time=2016-09-27T14:54:56+0000
-from=z5017822

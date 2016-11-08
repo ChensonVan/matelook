@@ -1,3 +1,0 @@
-message=z5076363 ur too thirsty man
-time=2016-08-09T01:19:35+0000
-from=z5075687

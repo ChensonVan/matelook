@@ -1,3 +1,0 @@
-time=2016-08-17T02:36:55+0000
-from=z5077131
-message=z5019329 you legend

@@ -1,3 +1,0 @@
-message=Hahahahaha scandal
-time=2016-09-06T05:02:05+0000
-from=z3459293

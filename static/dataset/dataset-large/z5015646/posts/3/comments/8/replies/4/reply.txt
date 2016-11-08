@@ -1,3 +1,0 @@
-message=Disaster
-from=z5098071
-time=2016-06-14T19:27:31+0000

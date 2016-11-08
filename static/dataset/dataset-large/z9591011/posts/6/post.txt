@@ -1,5 +1,0 @@
-message=To the really tall white guy who wears glasses, does CRIM2020 and oozes copious amounts of raw manliness, you are indeed the reason I continue to wake up for that Monday 9am lecture. Say hi next time so we can exchange views on prohibition over a beer or two?
-latitude=-33.9265
-longitude=151.2343
-time=2013-04-15T09:23:18+0000
-from=z9591011

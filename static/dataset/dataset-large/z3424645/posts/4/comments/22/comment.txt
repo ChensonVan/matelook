@@ -1,3 +1,0 @@
-message=z5116414 the bants
-from=z3463248
-time=2016-07-29T07:48:53+0000

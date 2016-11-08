@@ -1,3 +1,0 @@
-message=But I like cigarettes
-from=z5075923
-time=2013-05-03T05:59:12+0000

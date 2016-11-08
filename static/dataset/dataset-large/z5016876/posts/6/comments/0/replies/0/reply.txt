@@ -1,3 +1,0 @@
-message=I can't, I must express my feelings!
-from=z3416144
-time=2016-06-03T09:17:18+0000

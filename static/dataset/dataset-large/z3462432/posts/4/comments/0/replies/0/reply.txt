@@ -1,3 +1,0 @@
-from=z3394912
-time=2016-08-21T23:14:15+0000
-message=z5061920 you probably submitted this one

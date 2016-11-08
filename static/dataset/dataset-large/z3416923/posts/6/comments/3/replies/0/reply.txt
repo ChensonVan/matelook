@@ -1,3 +1,0 @@
-from=z5019361
-time=2016-09-15T03:04:20+0000
-message=are you asking to get rekt?

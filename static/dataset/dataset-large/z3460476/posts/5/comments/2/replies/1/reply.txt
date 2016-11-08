@@ -1,3 +1,0 @@
-message=Totally a guy 😂
-from=z5047799
-time=2016-05-05T11:39:25+0000

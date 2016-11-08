@@ -1,3 +1,0 @@
-message=Ayeeee 😉
-from=z5062443
-time=2016-08-18T07:15:24+0000

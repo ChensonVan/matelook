@@ -1,3 +1,0 @@
-from=z5116167
-time=2013-09-06T11:24:38+0000
-message=Bullshit Towheda Ahmed

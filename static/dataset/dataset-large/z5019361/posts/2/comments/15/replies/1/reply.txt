@@ -1,3 +1,0 @@
-from=z3459327
-message=What can i say im talented
-time=2016-08-25T03:02:35+0000

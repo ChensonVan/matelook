@@ -1,3 +1,0 @@
-from=z5117301
-message=Hey no problem babe
-time=2016-07-12T08:54:33+0000

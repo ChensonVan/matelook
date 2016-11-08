@@ -1,3 +1,0 @@
-time=2016-08-24T07:55:56+0000
-message=No chance haha
-from=z5015526

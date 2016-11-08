@@ -1,3 +1,0 @@
-from=z5062448
-message=z5061920 it's ur calling !!!!1
-time=2016-10-01T10:24:48+0000

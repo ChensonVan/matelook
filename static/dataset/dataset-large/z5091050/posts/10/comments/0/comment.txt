@@ -1,3 +1,0 @@
-time=2013-08-13T03:27:19+0000
-from=z5037271
-message=z5075827 z5059860 z3487885 isn't this our one?

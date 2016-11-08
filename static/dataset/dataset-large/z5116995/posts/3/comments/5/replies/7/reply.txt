@@ -1,3 +1,0 @@
-message=EYYYYYY IN
-from=z3417908
-time=2016-08-24T00:48:44+0000

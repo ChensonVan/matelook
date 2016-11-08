@@ -1,5 +1,0 @@
-time=2013-10-09T23:29:22+0000
-latitude=-33.9112
-message=the new exec for bsoc are all so attractive LOL
-from=z5019900
-longitude=151.2246

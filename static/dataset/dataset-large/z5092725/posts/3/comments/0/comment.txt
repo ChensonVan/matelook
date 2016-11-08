@@ -1,3 +1,0 @@
-message=Easy, you just go to see them everyday... They just dont need to know about it
-from=z5024963
-time=2016-05-13T06:54:42+0000

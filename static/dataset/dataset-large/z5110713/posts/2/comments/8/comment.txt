@@ -1,3 +1,0 @@
-from=z3463730
-time=2016-09-08T00:44:21+0000
-message=z5012884 z5088545 whatcha gonna do about this

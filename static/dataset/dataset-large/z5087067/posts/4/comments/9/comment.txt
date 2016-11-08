@@ -1,3 +1,0 @@
-from=z3388364
-message=They only want you for your body
-time=2013-05-01T00:32:25+0000

@@ -1,3 +1,0 @@
-from=z3459509
-message=Waddup
-time=2016-08-26T04:45:35+0000

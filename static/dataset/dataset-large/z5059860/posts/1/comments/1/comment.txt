@@ -1,3 +1,0 @@
-message=Spit roast is the obvious answer
-time=2013-04-25T08:07:55+0000
-from=z5004426

@@ -1,3 +1,0 @@
-from=z5109786
-message=z5085507 is keeen to meet some nonlocals
-time=2016-04-20T13:52:30+0000

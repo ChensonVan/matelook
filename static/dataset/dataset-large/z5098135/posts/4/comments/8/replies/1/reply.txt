@@ -1,3 +1,0 @@
-time=2016-04-20T13:07:14+0000
-message=you're in CSE gordon?
-from=z3463739

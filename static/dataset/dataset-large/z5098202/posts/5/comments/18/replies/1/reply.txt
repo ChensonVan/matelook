@@ -1,3 +1,0 @@
-message=LOL hahahaahahahah
-time=2016-09-20T13:52:23+0000
-from=z5062245

@@ -1,3 +1,0 @@
-message=Who is James
-from=z5117377
-time=2016-09-10T09:02:01+0000

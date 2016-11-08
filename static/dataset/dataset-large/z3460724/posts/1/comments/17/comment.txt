@@ -1,3 +1,0 @@
-from=z5019239
-message=the awkward moment when it's a guy...
-time=2013-08-12T05:17:50+0000

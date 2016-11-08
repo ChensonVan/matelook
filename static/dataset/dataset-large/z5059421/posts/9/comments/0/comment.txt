@@ -1,3 +1,0 @@
-from=z5118764
-message=That's a fkn long train ride bro... man up.
-time=2013-04-17T02:05:07+0000

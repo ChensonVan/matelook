@@ -1,3 +1,0 @@
-message=Perfect for you man
-from=z5024425
-time=2016-05-04T09:33:47+0000

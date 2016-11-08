@@ -1,3 +1,0 @@
-from=z5015813
-time=2016-06-27T08:59:57+0000
-message="love letter"

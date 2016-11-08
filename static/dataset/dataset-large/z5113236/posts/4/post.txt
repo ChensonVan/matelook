@@ -1,5 +1,0 @@
-latitude=-33.9214
-message=I have a huge crush on Charlie McLeod. There. Said it. phewwwwww!
-time=2016-09-11T11:41:25+0000
-from=z5113236
-longitude=151.2381

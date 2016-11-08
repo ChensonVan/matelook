@@ -1,3 +1,0 @@
-from=z5059970
-message=z5020410,  .  \nHahahaha
-time=2015-09-12T04:59:40+0000

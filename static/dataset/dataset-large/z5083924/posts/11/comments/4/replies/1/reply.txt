@@ -1,3 +1,0 @@
-message=hahahaha omg i am dead
-from=z3458908
-time=2016-06-09T11:27:41+0000

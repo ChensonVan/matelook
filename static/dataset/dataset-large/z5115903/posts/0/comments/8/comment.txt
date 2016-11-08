@@ -1,3 +1,0 @@
-from=z5132843
-message=z5020913 z3377644, you're welcome.
-time=2016-05-16T14:36:14+0000

@@ -1,3 +1,0 @@
-message=@mulga
-from=z5126202
-time=2016-10-01T12:38:23+0000

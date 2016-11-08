@@ -1,3 +1,0 @@
-message=This is so cute <3
-from=z5020476
-time=2013-05-18T02:49:44+0000

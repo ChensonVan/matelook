@@ -1,3 +1,0 @@
-message=You're allergic
-from=z5059719
-time=2016-06-25T00:24:13+0000

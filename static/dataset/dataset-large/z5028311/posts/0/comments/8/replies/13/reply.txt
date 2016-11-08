@@ -1,3 +1,0 @@
-message=Haha. Hen hao.
-from=z3415383
-time=2016-08-26T14:25:29+0000

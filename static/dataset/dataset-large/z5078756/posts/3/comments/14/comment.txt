@@ -1,3 +1,0 @@
-message=z9591011 Neil Sarkar quit wasting time m8
-from=z3459509
-time=2016-08-08T14:42:46+0000

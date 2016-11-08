@@ -1,3 +1,0 @@
-from=z5014695
-message=Aye I know a guy named that
-time=2016-05-05T13:27:30+0000

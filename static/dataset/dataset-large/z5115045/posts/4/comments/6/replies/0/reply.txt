@@ -1,3 +1,0 @@
-message=YEA BRO !!!!
-time=2016-09-13T10:25:33+0000
-from=z5020410

@@ -1,3 +1,0 @@
-message=Elegiggle
-time=2016-05-17T13:17:21+0000
-from=z5113700

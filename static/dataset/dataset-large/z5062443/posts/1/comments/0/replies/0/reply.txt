@@ -1,3 +1,0 @@
-from=z5113236
-message=Holy shot
-time=2016-06-10T04:58:13+0000

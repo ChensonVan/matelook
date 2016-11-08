@@ -1,5 +1,0 @@
-from=z5021034
-message=To the asian guy in first year med, the number of likes u get on your fb comments makes me so wet.
-longitude=151.0432
-time=2013-04-19T22:50:21+0000
-latitude=-33.8179

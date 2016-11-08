@@ -1,3 +1,0 @@
-message=z5059970 your generosity is working
-from=z3251972
-time=2016-08-30T02:12:42+0000

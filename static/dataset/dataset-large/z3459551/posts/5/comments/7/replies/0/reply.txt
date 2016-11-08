@@ -1,3 +1,0 @@
-message=i heard his wam is only 83
-time=2016-09-10T06:31:26+0000
-from=z3413889

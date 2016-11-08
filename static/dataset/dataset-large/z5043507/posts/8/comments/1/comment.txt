@@ -1,3 +1,0 @@
-time=2013-04-03T07:21:55+0000
-message=best song
-from=z5060921

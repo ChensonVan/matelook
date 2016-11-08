@@ -1,3 +1,0 @@
-message=WSU here we come
-time=2016-05-19T00:39:42+0000
-from=z5089708

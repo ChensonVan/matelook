@@ -1,3 +1,0 @@
-time=2016-08-08T11:12:51+0000
-message=@ z5077119 is vegan
-from=z5014753

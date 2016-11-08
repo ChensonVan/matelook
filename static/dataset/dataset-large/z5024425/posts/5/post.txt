@@ -1,5 +1,0 @@
-longitude=151.2233
-message=To the asian guy in the FINS1613 5-6pm tutorial on monday with the cowlick, you're really cute. I was thinking maybe coffee sometime?
-latitude=-33.9247
-from=z5024425
-time=2016-04-18T07:36:58+0000

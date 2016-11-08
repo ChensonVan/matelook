@@ -1,3 +1,0 @@
-message=z3461651 z5098202 when their thirst can't be quenched
-from=z5076025
-time=2016-08-17T13:48:07+0000

@@ -1,3 +1,0 @@
-from=z5059860
-time=2016-08-09T11:37:43+0000
-message=Which one the short pink dress or the black dress one

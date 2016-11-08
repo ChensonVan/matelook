@@ -1,3 +1,0 @@
-message=caught me
-from=z5119635
-time=2016-05-17T04:22:40+0000

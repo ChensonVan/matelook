@@ -1,3 +1,0 @@
-from=z5117790
-time=2016-09-07T08:53:07+0000
-message=Let's do it

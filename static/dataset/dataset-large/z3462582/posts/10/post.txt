@@ -1,5 +1,0 @@
-time=2016-06-12T15:25:46+0000
-latitude=-33.9824
-from=z3462582
-longitude=151.2367
-message=Dear someone.\nI'd like to ask you out for a coffee but I'm too poor to even buy myself an espresso.

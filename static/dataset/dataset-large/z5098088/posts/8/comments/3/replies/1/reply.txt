@@ -1,3 +1,0 @@
-from=z5113241
-message=Lol, maybe there's another person with the same name with the same issue...?
-time=2016-09-04T12:53:46+0000

@@ -1,5 +1,0 @@
-longitude=151.2237
-from=z5015526
-time=2016-06-18T04:10:49+0000
-message=To the asian girl in the wednesday physiology lab with short black hair. Why are you so cute??? Coffee sometime?
-latitude=-33.9096

@@ -1,3 +1,0 @@
-from=z5060921
-message=If only we could fill the hole that the zookeepers left in Harambe's heart
-time=2016-09-07T10:19:55+0000

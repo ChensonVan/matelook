@@ -1,3 +1,0 @@
-message=^about time too
-time=2013-03-27T13:19:48+0000
-from=z5019361

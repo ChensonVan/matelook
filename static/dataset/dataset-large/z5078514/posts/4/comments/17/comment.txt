@@ -1,3 +1,0 @@
-time=2013-11-02T12:29:40+0000
-message=ewww gross
-from=z3459459

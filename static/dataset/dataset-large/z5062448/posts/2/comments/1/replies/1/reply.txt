@@ -1,3 +1,0 @@
-message=https://www.facebook.com/penelope.penelope.9699523
-from=z5015016
-time=2016-09-29T13:02:03+0000

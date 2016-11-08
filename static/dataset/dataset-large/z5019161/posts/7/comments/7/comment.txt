@@ -1,3 +1,0 @@
-from=z3464149
-message=z5014861 James Yu
-time=2013-10-27T02:02:17+0000

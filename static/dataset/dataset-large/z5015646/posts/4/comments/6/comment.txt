@@ -1,3 +1,0 @@
-from=z5013098
-message=z5047799 is a perpetrator
-time=2016-07-07T22:46:47+0000

@@ -1,5 +1,0 @@
-time=2013-12-11T11:55:53+0000
-latitude=-33.9325
-from=z5060573
-message=Dear Bec, \n\nYou introduced yourself to me on the internet earlier this year as a secret admirer. You intrigued and excited me, more than I cared to admit. I was in a relationship then, but no longer. Do you wish to try again? I'll be more receptive this time, that's a promise.
-longitude=151.1352

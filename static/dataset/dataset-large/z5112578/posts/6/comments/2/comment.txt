@@ -1,3 +1,0 @@
-from=z5117790
-message=z3365499 z5014695 oh shit whaddup
-time=2016-06-15T13:58:33+0000

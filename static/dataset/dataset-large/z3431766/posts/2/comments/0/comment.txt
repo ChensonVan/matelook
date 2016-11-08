@@ -1,3 +1,0 @@
-time=2013-03-27T11:02:13+0000
-message=z5113047 you do chem?
-from=z3452764

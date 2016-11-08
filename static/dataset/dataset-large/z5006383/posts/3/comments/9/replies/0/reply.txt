@@ -1,3 +1,0 @@
-time=2016-04-25T14:03:09+0000
-from=z3459405
-message=I only learn from the best

@@ -1,3 +1,0 @@
-from=z5108472
-message=damn gurl
-time=2016-09-14T06:51:32+0000

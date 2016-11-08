@@ -1,3 +1,0 @@
-from=z5098157
-time=2016-05-05T11:48:30+0000
-message=hope z5104907 is ok with this.

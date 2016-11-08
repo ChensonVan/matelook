@@ -1,3 +1,0 @@
-time=2016-08-30T10:04:53+0000
-from=z5016305
-message=I'm always staring at you

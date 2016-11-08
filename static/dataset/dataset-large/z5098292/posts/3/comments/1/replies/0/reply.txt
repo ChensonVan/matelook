@@ -1,3 +1,0 @@
-message=Actl/Law is a pretty easy degree tbh
-from=z5061920
-time=2016-09-13T14:15:24+0000

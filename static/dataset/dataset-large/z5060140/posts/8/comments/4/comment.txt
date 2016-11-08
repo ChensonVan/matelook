@@ -1,3 +1,0 @@
-from=z5123999
-message=z5085507 is single and ready to mingle
-time=2016-07-26T23:17:40+0000

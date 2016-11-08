@@ -1,3 +1,0 @@
-from=z5055209
-message=No points for guessing who this was z3458687
-time=2016-09-17T04:17:25+0000

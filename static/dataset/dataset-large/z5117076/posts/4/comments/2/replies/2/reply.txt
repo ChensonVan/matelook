@@ -1,3 +1,0 @@
-from=z5108472
-message=HAHAHA I wish I looked like Jessica Alba!!
-time=2016-05-10T09:00:54+0000

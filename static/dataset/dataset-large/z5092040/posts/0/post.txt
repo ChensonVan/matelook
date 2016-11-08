@@ -1,5 +1,0 @@
-message=I like Aeroplane Jelly.\nAeroplane Jelly for me.\nI like it for dinner.\nI like it for tea.\nA little each day is a good recipe.\nThe quality is high as the name will imply.\nAnd it's made from pure fruit, one more good reason why.\nI like Aeroplane Jelly. Aeroplane Jelly for me.
-longitude=151.2799
-from=z5092040
-time=2013-07-04T01:32:06+0000
-latitude=-33.8969

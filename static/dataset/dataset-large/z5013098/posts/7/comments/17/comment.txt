@@ -1,3 +1,0 @@
-from=z3489361
-message=z3416144 ur in buddy
-time=2016-09-19T01:47:37+0000

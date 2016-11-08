@@ -1,3 +1,0 @@
-message=z5098313 found ur future
-from=z5115817
-time=2016-08-06T13:31:26+0000

@@ -1,3 +1,0 @@
-from=z5075455
-message=z5076363 i think he has good morales
-time=2016-09-02T14:50:54+0000

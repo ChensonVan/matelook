@@ -1,5 +1,0 @@
-latitude=-33.8206
-longitude=150.9417
-time=2013-08-13T06:35:49+0000
-message=Too many sexually frustrated/repressed Curries on here.
-from=z5015526

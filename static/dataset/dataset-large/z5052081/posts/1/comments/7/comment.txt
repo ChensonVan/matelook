@@ -1,3 +1,0 @@
-from=z5098305
-message=Oh we exist.
-time=2013-03-25T08:03:41+0000

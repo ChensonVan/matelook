@@ -1,3 +1,0 @@
-from=z5118627
-time=2016-08-23T15:30:34+0000
-message=were you guys the ones having lectures in the mech eng building yday?

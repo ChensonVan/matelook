@@ -1,5 +1,0 @@
-message=Disha Mistry, can you please be mine?
-from=z5113496
-time=2016-06-15T02:30:38+0000
-longitude=151.1489
-latitude=-33.8636

@@ -1,3 +1,0 @@
-from=z3459327
-message=Yeah tru, statement retracted
-time=2016-08-26T02:20:50+0000

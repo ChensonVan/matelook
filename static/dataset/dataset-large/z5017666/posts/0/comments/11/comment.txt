@@ -1,3 +1,0 @@
-from=z3431766
-time=2016-09-29T05:20:28+0000
-message=z3275760 bro I've never read something that describes you with such accuracy

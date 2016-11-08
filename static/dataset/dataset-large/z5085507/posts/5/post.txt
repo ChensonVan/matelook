@@ -1,5 +1,0 @@
-message=Erica Zhou's food baby, let me turn it into a human baby
-longitude=151.2269
-time=2016-09-04T15:59:03+0000
-from=z5085507
-latitude=-33.9125

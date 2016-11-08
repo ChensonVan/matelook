@@ -1,3 +1,0 @@
-time=2013-06-20T12:15:49+0000
-from=z5076642
-message=No trung.

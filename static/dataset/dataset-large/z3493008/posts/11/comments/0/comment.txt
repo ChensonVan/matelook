@@ -1,3 +1,0 @@
-time=2016-06-14T20:21:12+0000
-message=Too soon
-from=z5117790

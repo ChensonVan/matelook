@@ -1,3 +1,0 @@
-message=As long as you're female of course
-time=2016-06-21T04:05:09+0000
-from=z3462428

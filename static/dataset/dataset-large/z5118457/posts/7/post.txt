@@ -1,5 +1,0 @@
-time=2016-10-05T04:33:50+0000
-longitude=151.2341
-latitude=-33.9255
-message=D.L\nI heard you saying to a friend that you would be at mid session party in a Monday tute, I couldn't find you! Please come next time!\n\n-The girl in your tute
-from=z5118457

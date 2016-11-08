@@ -1,3 +1,0 @@
-message=actually tried to calculate how many exams that would be 😩
-time=2016-08-09T14:23:37+0000
-from=z5060416

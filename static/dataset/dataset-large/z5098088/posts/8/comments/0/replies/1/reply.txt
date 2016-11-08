@@ -1,3 +1,0 @@
-message=Lol, 'fess up guys
-from=z5113241
-time=2016-09-04T12:51:09+0000

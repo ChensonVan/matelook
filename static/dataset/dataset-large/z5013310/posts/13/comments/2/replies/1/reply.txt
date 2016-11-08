@@ -1,3 +1,0 @@
-from=z5059421
-message=i wrote this to boost ur street cred
-time=2016-05-06T07:54:39+0000

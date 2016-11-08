@@ -1,5 +1,0 @@
-longitude=151.1360
-latitude=-33.7863
-time=2016-07-08T06:50:59+0000
-message=To Eamon Yu\nI'm gay for you\nJ.Z
-from=z3492794

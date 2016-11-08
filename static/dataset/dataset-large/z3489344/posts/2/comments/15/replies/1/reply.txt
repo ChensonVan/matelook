@@ -1,3 +1,0 @@
-message=Yeah this wasnt me but id still like an answer
-time=2016-08-16T06:34:44+0000
-from=z5020476

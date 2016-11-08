@@ -1,3 +1,0 @@
-time=2016-08-09T12:37:30+0000
-message=deleting short would make this a perfect love letter
-from=z5060479

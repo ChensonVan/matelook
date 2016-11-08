@@ -1,3 +1,0 @@
-message=shotty being bridesmaid
-from=z5116995
-time=2016-05-05T11:27:58+0000

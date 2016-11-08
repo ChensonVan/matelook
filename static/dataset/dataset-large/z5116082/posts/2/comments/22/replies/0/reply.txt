@@ -1,3 +1,0 @@
-time=2016-08-11T00:11:07+0000
-message=Not tall and don't drink coffee ☺
-from=z3462428

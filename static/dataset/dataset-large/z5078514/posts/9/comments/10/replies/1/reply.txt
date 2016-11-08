@@ -1,3 +1,0 @@
-from=z5075071
-message=standing still is an art form ;)
-time=2016-06-11T15:21:24+0000

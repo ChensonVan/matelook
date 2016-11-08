@@ -1,3 +1,0 @@
-message=who said we were talking about you
-from=z3456669
-time=2016-08-14T05:35:46+0000

@@ -1,3 +1,0 @@
-from=z5076363
-time=2016-05-24T10:29:55+0000
-message=z3413889 didn't know you did infosys :)

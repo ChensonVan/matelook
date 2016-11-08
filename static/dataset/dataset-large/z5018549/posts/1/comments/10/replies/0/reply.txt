@@ -1,3 +1,0 @@
-message=Nightmare
-from=z5060479
-time=2016-07-28T06:26:32+0000

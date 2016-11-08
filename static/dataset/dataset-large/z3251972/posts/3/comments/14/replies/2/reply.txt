@@ -1,3 +1,0 @@
-from=z5075455
-message=M8 thats rude
-time=2016-04-15T14:09:28+0000

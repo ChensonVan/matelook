@@ -1,3 +1,0 @@
-message=OMG ^^^^^ BLESS
-from=z5127733
-time=2016-08-27T12:22:23+0000

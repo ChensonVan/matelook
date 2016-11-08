@@ -1,5 +1,0 @@
-latitude=-33.8242
-message=To the little laos girl with glasses. I think you're cute
-longitude=150.9839
-time=2013-05-08T06:42:57+0000
-from=z5060921

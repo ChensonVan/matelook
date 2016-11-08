@@ -1,3 +1,0 @@
-time=2016-08-31T11:27:23+0000
-message=z5017666 always say no
-from=z5075827

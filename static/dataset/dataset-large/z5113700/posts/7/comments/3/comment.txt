@@ -1,3 +1,0 @@
-from=z5015684
-message=z5048663 will watch high school musical with you
-time=2016-09-01T00:15:17+0000

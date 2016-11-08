@@ -1,3 +1,0 @@
-from=z5020210
-message=And does solar
-time=2016-05-16T12:35:38+0000

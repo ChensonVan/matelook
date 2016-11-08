@@ -1,5 +1,0 @@
-message=hey dazza,\n\nyou smell. but i like it\n\ncoffee sometime?
-time=2016-05-12T09:30:48+0000
-from=z5059325
-latitude=-33.9251
-longitude=151.2222

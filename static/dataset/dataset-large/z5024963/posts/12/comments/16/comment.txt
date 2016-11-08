@@ -1,3 +1,0 @@
-from=z5059421
-time=2016-05-03T08:40:12+0000
-message=z3463930 does this struggle seem familiar?

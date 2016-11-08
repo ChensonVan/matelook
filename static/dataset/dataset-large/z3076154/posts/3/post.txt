@@ -1,5 +1,0 @@
-longitude=151.2476
-message=To Sabrina chong, you are really cute!!!
-latitude=-33.9013
-time=2016-08-22T06:42:34+0000
-from=z3076154

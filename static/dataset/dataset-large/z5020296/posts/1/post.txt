@@ -1,5 +1,0 @@
-longitude=151.2488
-time=2016-04-23T10:46:19+0000
-message=To the first year engineering boy who carries around what seems to be a violin:\n\nYou are actually the cutest with your chubby cheeks and the way your eyes go ^_^ when you laugh or smile makes me die a little inside.\n\nCoffee sometime?\n\nSincerely, another first year.
-from=z5020296
-latitude=-33.7945

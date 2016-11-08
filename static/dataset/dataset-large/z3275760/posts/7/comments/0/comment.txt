@@ -1,3 +1,0 @@
-from=z5076642
-time=2013-04-09T06:09:13+0000
-message=Would it be... z5076025? ;)

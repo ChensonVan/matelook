@@ -1,3 +1,0 @@
-message=can confirm
-from=z3418657
-time=2016-06-03T12:58:39+0000

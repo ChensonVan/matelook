@@ -1,3 +1,0 @@
-time=2013-08-13T02:22:24+0000
-message=Desmond on fireee
-from=z5043507

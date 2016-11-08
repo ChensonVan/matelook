@@ -1,3 +1,0 @@
-from=z5113236
-message=Princess Toad?
-time=2013-08-13T05:47:09+0000

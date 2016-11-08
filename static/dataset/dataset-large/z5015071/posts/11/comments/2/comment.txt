@@ -1,3 +1,0 @@
-from=z3365499
-message=z5016305 is a cute brown boy
-time=2016-05-02T06:52:10+0000

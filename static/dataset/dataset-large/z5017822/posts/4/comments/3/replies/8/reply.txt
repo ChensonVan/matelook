@@ -1,3 +1,0 @@
-from=z5023773
-time=2016-05-14T04:10:08+0000
-message=Oven?! 😲 bhahaha

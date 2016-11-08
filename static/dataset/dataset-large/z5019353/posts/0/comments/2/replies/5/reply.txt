@@ -1,3 +1,0 @@
-from=z5014861
-message=^watta huge head
-time=2016-09-29T06:05:51+0000

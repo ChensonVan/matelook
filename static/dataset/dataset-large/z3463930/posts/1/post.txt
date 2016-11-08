@@ -1,5 +1,0 @@
-longitude=151.0992
-message=After all those times you let me into your pants, I can't believe you turned me down. Still can't get over you, stupid dog.
-time=2016-07-10T10:05:04+0000
-from=z3463930
-latitude=-33.8999

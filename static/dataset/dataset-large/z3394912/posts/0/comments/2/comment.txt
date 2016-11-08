@@ -1,3 +1,0 @@
-time=2016-10-01T10:35:30+0000
-from=z3439243
-message=z3468575 could be you

@@ -1,3 +1,0 @@
-from=z5077163
-time=2016-08-09T10:53:22+0000
-message=Too controversial having two partners with similar names?

@@ -1,3 +1,0 @@
-from=z5116685
-message=Maybe she likes the attention and it was her
-time=2013-04-09T06:35:02+0000

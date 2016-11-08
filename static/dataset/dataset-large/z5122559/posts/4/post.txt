@@ -1,5 +1,0 @@
-time=2013-05-09T21:49:07+0000
-message=Jason, I would like to Teh your clothes off.
-latitude=-33.9161
-longitude=151.2231
-from=z5122559

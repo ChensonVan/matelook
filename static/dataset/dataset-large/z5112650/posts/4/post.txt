@@ -1,5 +1,0 @@
-time=2013-04-18T23:09:17+0000
-latitude=-33.9073
-message=Arthur Chan, you are just the cutest thing on earth! Please notice me one day.
-from=z5112650
-longitude=151.2325

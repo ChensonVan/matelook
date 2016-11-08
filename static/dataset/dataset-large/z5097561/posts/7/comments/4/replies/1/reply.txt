@@ -1,3 +1,0 @@
-time=2016-08-14T13:40:35+0000
-message=gimme a taste
-from=z5063045

@@ -1,3 +1,0 @@
-message=I'm just inviting them over so they can catch the Blastoise on my bed
-from=z5078756
-time=2016-07-27T12:24:16+0000

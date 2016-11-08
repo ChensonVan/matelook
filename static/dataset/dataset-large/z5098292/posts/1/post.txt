@@ -1,5 +1,0 @@
-from=z5098292
-message=To the delicious Argentinian lass i danced with at the back to the future party house party on doncaster. Later that night you punched me in the chest and kicked me in the nose "by accident". Its cool, i know you just really wanted those hash browns. Atleast you came back to mine after.
-time=2013-07-12T10:09:42+0000
-longitude=151.1432
-latitude=-33.9929

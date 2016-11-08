@@ -1,5 +1,0 @@
-message=I'm in love with that girl on the CSE Revue poster. Tag girls who look like her pls.\nNeed a date to the show, must be available week 8.
-time=2016-08-31T13:35:09+0000
-longitude=151.2402
-from=z3445371
-latitude=-33.9550

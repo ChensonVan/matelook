@@ -1,3 +1,0 @@
-from=z5076156
-message=z5118764 unsw love letters > usyd
-time=2016-05-13T13:19:29+0000

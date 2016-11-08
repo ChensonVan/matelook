@@ -1,5 +1,0 @@
-message=Sarah Bolger you are so Newtown... I love it
-time=2016-10-05T14:44:57+0000
-longitude=151.2226
-from=z5014861
-latitude=-33.9082

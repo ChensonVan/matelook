@@ -1,5 +1,0 @@
-time=2016-05-25T12:07:41+0000
-from=z5119667
-message=To Alan Chen the Comm/Law student,\nYou are cute! \n\nSecret admirer
-latitude=-33.9119
-longitude=151.2282

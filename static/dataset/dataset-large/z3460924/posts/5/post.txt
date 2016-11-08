@@ -1,5 +1,0 @@
-longitude=151.2348
-message=To Simba from Sunswift, \nCan you feel the love tonight? ;) \nxx
-latitude=-33.9102
-from=z3460924
-time=2016-05-04T05:00:23+0000

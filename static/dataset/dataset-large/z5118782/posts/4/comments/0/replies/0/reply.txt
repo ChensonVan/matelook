@@ -1,3 +1,0 @@
-time=2016-05-23T13:56:09+0000
-from=z5109880
-message=Craig round 3

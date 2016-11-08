@@ -1,5 +1,0 @@
-message=To K.Z. in first year psychology: you might not have the physique of Arnie, but you've got a cute smile and this incredible sense of humour... I might not be able to help you study the human mind, but I'll help you study the human body if you like ;)
-latitude=-33.7814
-longitude=151.1307
-from=z5048639
-time=2016-09-07T14:23:38+0000

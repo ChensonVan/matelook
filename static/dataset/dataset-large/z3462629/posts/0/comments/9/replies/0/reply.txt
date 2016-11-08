@@ -1,3 +1,0 @@
-time=2016-08-15T01:26:25+0000
-message=Don't remind me of this nightmare
-from=z5019329

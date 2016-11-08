@@ -1,3 +1,0 @@
-time=2016-05-03T12:16:42+0000
-message=I was the girl in the white top yes
-from=z3418657

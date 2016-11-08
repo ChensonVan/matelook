@@ -1,3 +1,0 @@
-message=And also z5087067
-time=2013-12-11T12:01:33+0000
-from=z5113241

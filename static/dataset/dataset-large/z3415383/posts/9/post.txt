@@ -1,5 +1,0 @@
-from=z3415383
-message=Roses are red and violets are blue....\n\nSorry my English not too good but the guy who travels a lot in my German class, you are amazing and a creation of the lord. I wish I could show you round Leipzig next time you come to Germany. \nI will cook you Apple Strudel :)\nLove the shy girl who's in your class
-time=2016-10-02T14:33:06+0000
-latitude=-33.9052
-longitude=151.2695

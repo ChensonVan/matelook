@@ -1,3 +1,0 @@
-from=z5045262
-message=z5115403 what are you doing on the unsw love letters page?
-time=2016-06-07T06:11:22+0000

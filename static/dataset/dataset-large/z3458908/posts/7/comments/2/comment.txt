@@ -1,3 +1,0 @@
-from=z5013491
-time=2013-04-12T05:04:13+0000
-message=definitely you z5117301

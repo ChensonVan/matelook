@@ -1,3 +1,0 @@
-message=She likes her coffee hot
-time=2016-04-25T11:01:47+0000
-from=z5047516

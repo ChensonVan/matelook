@@ -1,3 +1,0 @@
-time=2016-09-01T13:13:15+0000
-from=z5051889
-message=z5048360 will notice u!!

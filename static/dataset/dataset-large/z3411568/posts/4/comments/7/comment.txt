@@ -1,3 +1,0 @@
-time=2016-08-30T12:00:55+0000
-message=z5043226 mate come on now
-from=z5043507

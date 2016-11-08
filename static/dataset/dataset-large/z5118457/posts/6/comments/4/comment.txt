@@ -1,3 +1,0 @@
-from=z5062608
-message=😂Lol Saraaah
-time=2013-06-14T00:41:34+0000

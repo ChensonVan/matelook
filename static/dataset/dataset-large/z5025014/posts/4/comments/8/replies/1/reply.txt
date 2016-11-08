@@ -1,3 +1,0 @@
-message=z5110358 wow it's over
-time=2016-09-13T06:40:23+0000
-from=z3219170

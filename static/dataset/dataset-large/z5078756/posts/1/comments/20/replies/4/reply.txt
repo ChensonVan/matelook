@@ -1,3 +1,0 @@
-from=z5098088
-time=2016-05-17T22:51:54+0000
-message=Yeah I regret that, made me worse

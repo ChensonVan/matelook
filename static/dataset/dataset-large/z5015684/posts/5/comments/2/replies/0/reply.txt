@@ -1,3 +1,0 @@
-message=They wish they were as cool as you ;)
-time=2016-04-15T23:36:29+0000
-from=z3462055

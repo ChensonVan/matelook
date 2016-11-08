@@ -1,5 +1,0 @@
-message=To my amazing tutor, Monday is now my favourite day of the week. Marry me?
-time=2013-04-19T05:25:41+0000
-longitude=151.2377
-latitude=-33.9079
-from=z5075726

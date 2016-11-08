@@ -1,3 +1,0 @@
-time=2016-09-21T04:39:17+0000
-message=the dude thinks he's funny
-from=z5062732

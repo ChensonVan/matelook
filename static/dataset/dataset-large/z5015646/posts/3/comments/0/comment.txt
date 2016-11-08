@@ -1,3 +1,0 @@
-from=z5015700
-message=z3458687 someone is on to you
-time=2016-06-15T06:33:36+0000

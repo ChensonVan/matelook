@@ -1,3 +1,0 @@
-from=z5098313
-message=Christian he doesnt even go unsw
-time=2016-10-05T10:43:26+0000

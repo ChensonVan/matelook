@@ -1,3 +1,0 @@
-message=z5061590 this is betty z5109786
-time=2016-09-05T07:09:42+0000
-from=z5076156

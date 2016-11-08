@@ -1,3 +1,0 @@
-time=2016-08-27T14:22:52+0000
-message=... Why have I been retagged in this?
-from=z3459423

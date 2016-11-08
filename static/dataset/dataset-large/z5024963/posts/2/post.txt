@@ -1,5 +1,0 @@
-message=Jerin from AIESEC. You are so adorable!
-time=2016-05-11T06:27:54+0000
-latitude=-33.9254
-longitude=151.2366
-from=z5024963

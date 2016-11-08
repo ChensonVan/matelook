@@ -1,3 +1,0 @@
-from=z3219170
-time=2016-08-09T12:19:36+0000
-message=WoIfram Alpha

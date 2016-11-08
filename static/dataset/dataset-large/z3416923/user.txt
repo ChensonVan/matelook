@@ -1,9 +1,0 @@
-mates=[z5062024, z5019161, z5088545, z5015280, z3406406, z5098292, z5025014, z3365499, z5075496, z5024967]
-email=D.Gansler@unsw.edu.au
-zid=z3416923
-home_suburb=Macquarie Links
-birthday=1998-07-16
-password=ginger
-program=Engineering (Honours)
-courses=[2016 S1 CHEM1011, 2016 S1 ENGG1811, 2016 S1 MATH1131, 2016 S1 PHYS1121, 2016 S2 CEIC1000, 2016 S2 CHEM1021, 2016 S2 ENGG1000, 2016 S2 MATH1231]
-full_name=Douglas Gansler

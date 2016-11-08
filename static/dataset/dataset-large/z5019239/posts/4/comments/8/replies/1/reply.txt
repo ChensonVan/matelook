@@ -1,3 +1,0 @@
-message=Now we're here
-time=2016-09-22T00:58:48+0000
-from=z3458687

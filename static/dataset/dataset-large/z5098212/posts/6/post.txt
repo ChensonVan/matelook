@@ -1,5 +1,0 @@
-latitude=-33.9164
-message=Who is this cute guy:\n\nz5025014\n\nI think I want some hotdog too...
-from=z5098212
-longitude=151.2282
-time=2013-07-30T11:46:36+0000

@@ -1,3 +1,0 @@
-message=t rhymes with c z3489361
-from=z5017666
-time=2016-10-05T10:55:42+0000

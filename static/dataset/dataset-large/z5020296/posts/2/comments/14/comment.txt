@@ -1,3 +1,0 @@
-message=z5129633 what does BTS mean. Its a factor to consider.
-from=z5019361
-time=2016-07-26T13:00:59+0000

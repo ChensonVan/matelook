@@ -1,3 +1,0 @@
-from=z5062115
-time=2016-05-23T13:04:53+0000
-message=this guy must have mistaken the lecture, incorrectly thought you were mixed and when you were alone waiting for your friends

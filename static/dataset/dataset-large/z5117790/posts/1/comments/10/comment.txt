@@ -1,3 +1,0 @@
-time=2016-04-16T12:24:28+0000
-from=z5016565
-message=z5048639 in disguise

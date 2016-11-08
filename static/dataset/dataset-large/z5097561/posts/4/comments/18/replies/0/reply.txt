@@ -1,3 +1,0 @@
-message=Was going to tag you in this
-from=z5060479
-time=2016-06-21T09:06:20+0000

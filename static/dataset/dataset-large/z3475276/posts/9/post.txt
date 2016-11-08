@@ -1,5 +1,0 @@
-latitude=-33.9120
-longitude=151.2307
-from=z3475276
-time=2013-04-22T02:59:19+0000
-message=To the guy in my psyc tut. We walk together from Matthews to main walkway talking about anything and everything. I like that.

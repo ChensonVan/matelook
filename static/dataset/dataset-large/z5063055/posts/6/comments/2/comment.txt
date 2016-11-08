@@ -1,3 +1,0 @@
-message=Dam u adam :p
-time=2013-04-25T08:06:12+0000
-from=z5024967

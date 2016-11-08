@@ -1,5 +1,0 @@
-message=To my dear sweet heart Harry,\n\nTomorrow is your 21st birthday. I wish you all the best. I love you so much.
-from=z5118764
-longitude=151.0805
-latitude=-33.8197
-time=2016-08-23T13:13:38+0000

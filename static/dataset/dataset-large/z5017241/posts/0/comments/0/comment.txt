@@ -1,3 +1,0 @@
-from=z5024438
-message=And your child must be a Hindu just to keep the balance right.
-time=2013-09-21T09:36:23+0000

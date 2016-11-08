@@ -1,5 +1,0 @@
-message=Girlfriend (Full-time) - NSW Sydney Suburbs\n\nTime: Full-time\nLocation: NSW Sydney Suburbs\nOpening Application Date: 11/06/2016 10:00PM AEST\nClosing Application Date: 30/06/2016 7:00PM AEST\n\nApply within. Please submit cover letter, resume, and references. References will be contacted.
-time=2016-06-30T12:28:53+0000
-from=z5017842
-longitude=151.0766
-latitude=-33.9711

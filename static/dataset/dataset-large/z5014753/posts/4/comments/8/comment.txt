@@ -1,3 +1,0 @@
-message=z5098157 relax bro
-time=2016-04-25T11:00:00+0000
-from=z5048611

@@ -1,3 +1,0 @@
-from=z5098135
-message=wow and didn't tell me?
-time=2016-05-24T13:18:12+0000

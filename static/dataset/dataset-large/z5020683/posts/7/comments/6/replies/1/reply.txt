@@ -1,3 +1,0 @@
-message=he can whisper carelessly to me anyday
-from=z5117377
-time=2016-05-23T16:06:04+0000

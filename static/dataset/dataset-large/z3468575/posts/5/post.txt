@@ -1,5 +1,0 @@
-from=z3468575
-longitude=151.1986
-latitude=-33.8449
-message=Nicholas Wong, \nFrom talking to you the other day I know I'm not your type, \nYou asked me if I am a ""good girl"", and yes you guessed it right. \nI know you probably think I'm boring cos I don't club or drink the way you do.\nBut I'm still a girl you ought to know with a personality that will woo you.
-time=2013-10-30T09:42:00+0000

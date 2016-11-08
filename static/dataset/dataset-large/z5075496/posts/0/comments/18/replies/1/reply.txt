@@ -1,3 +1,0 @@
-message=u do this
-time=2016-09-17T09:20:16+0000
-from=z5075496

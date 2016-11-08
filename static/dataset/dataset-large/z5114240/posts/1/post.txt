@@ -1,5 +1,0 @@
-latitude=-33.9085
-message=To Andrew Taylor.\nI love how savage you are. please roast me more.
-longitude=151.2313
-from=z5114240
-time=2016-08-28T01:34:09+0000

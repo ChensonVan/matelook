@@ -1,3 +1,0 @@
-from=z5025090
-message=z5060140 your uni friend lol
-time=2016-06-27T22:06:39+0000

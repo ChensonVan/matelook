@@ -1,3 +1,0 @@
-message=z5043507 didn't know you were a guy.
-time=2013-05-17T12:24:36+0000
-from=z3487885

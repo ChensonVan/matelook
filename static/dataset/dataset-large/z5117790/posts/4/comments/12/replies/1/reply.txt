@@ -1,3 +1,0 @@
-from=z3470057
-message=U mad...dy
-time=2016-05-06T11:23:34+0000

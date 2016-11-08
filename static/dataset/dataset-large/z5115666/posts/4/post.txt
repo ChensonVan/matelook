@@ -1,5 +1,0 @@
-longitude=151.2386
-latitude=-33.9082
-time=2013-11-10T08:31:34+0000
-message=Hasi. I want to marry you.
-from=z5115666

@@ -1,3 +1,0 @@
-message=went to go tag you z5119655 but here you are
-from=z5099358
-time=2016-08-26T01:27:25+0000

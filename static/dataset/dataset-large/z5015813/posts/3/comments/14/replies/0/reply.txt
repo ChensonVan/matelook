@@ -1,3 +1,0 @@
-time=2016-09-05T10:50:53+0000
-message=z3459050 you're such a joker
-from=z5075827

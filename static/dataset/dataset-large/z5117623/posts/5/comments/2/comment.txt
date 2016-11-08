@@ -1,3 +1,0 @@
-time=2016-04-22T11:07:28+0000
-message=Geez z5074933, I didn't realise it'd gotten this bad
-from=z5059596

@@ -1,3 +1,0 @@
-from=z5098292
-time=2016-05-17T00:58:28+0000
-message=lolololololololol omfg

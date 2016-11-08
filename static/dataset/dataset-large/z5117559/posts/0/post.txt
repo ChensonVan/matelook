@@ -1,5 +1,0 @@
-message=To the girl I met at the full moon party named Mia, you were the only girl I had a decent conversation with that night. Even talking for a few minutes made me realise how interesting you are. *sigh* Why can't you be single? ):
-from=z5117559
-longitude=151.2337
-latitude=-33.9264
-time=2016-06-24T23:18:42+0000

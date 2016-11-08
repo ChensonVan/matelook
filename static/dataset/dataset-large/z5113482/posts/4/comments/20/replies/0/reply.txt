@@ -1,3 +1,0 @@
-message=Sorry busy gym-y
-from=z3463809
-time=2016-05-17T05:21:46+0000

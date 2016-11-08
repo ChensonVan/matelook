@@ -1,3 +1,0 @@
-from=z5012884
-time=2016-10-03T14:39:27+0000
-message=Sikat rin! z5015646

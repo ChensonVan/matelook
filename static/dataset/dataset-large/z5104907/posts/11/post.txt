@@ -1,5 +1,0 @@
-longitude=151.2289
-from=z5104907
-message=Rachel Yang, I miss you like I miss Kbbq <3
-latitude=-33.9087
-time=2016-09-06T14:29:25+0000

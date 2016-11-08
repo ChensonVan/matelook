@@ -1,3 +1,0 @@
-from=z5060140
-time=2016-08-28T02:31:38+0000
-message=z5017258, i told you I was amazing and you still didn't believe me.

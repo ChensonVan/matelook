@@ -1,5 +1,0 @@
-longitude=151.2354
-time=2016-05-06T23:48:09+0000
-message=To the Indian guy with sexy hair at Macdonald's last Wednesday, I hope that wasn't your girlfriend you were taking selfies with.
-from=z5042720
-latitude=-33.9198

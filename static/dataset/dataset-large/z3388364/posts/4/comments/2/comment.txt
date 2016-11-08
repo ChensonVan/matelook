@@ -1,3 +1,0 @@
-from=z3459459
-time=2013-12-11T13:17:54+0000
-message=real men use a knife

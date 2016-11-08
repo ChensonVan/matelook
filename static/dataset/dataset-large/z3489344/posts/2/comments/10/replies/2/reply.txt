@@ -1,3 +1,0 @@
-from=z5109880
-time=2016-08-15T13:34:29+0000
-message=in our school that means somethign entirely different.

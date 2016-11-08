@@ -1,3 +1,0 @@
-from=z5040176
-message=z5004669 omg you have a secret admirer
-time=2016-09-17T09:07:03+0000

@@ -1,3 +1,0 @@
-from=z5063045
-message=Glory pls
-time=2016-09-19T03:49:38+0000

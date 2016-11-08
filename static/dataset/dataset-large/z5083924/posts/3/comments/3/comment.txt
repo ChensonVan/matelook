@@ -1,3 +1,0 @@
-time=2016-04-21T07:09:58+0000
-message=z3459509 since when were you at UNSW
-from=z5015243

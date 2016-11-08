@@ -1,3 +1,0 @@
-message=Age shouldn't be a restriction, at least not if it's less than 5 years.
-from=z5024438
-time=2013-10-02T06:42:21+0000

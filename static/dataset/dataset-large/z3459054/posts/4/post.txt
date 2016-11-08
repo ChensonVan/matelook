@@ -1,5 +1,0 @@
-longitude=151.1749
-from=z3459054
-latitude=-33.8898
-message=To anybody reading this - you're hot. There, I just saved you all time reading through all the rest of these hoping your name pops up.
-time=2013-06-13T23:37:02+0000

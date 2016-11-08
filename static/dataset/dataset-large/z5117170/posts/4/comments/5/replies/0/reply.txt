@@ -1,3 +1,0 @@
-message=HAHAHAHA 'brown guy'
-from=z3480991
-time=2016-05-07T06:08:41+0000

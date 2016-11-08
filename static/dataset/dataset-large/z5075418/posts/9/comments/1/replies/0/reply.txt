@@ -1,3 +1,0 @@
-message=luckylast
-from=z5091950
-time=2016-05-06T00:11:56+0000

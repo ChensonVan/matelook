@@ -1,5 +1,0 @@
-longitude=151.1772
-latitude=-33.8315
-message=Dear Boost Juice @UNSW, \nI like your drinks, but you need to change your Eftpos business name/id, because I get confused as hell when I see Chilly Duo Pty Ltd on my bank statement. It sounds pretty kinky. \nKind Regards, \nBoost Juice Patron
-from=z3452764
-time=2016-04-26T10:05:57+0000

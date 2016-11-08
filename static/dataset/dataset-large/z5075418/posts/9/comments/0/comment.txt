@@ -1,3 +1,0 @@
-from=z5117377
-time=2016-05-06T00:55:01+0000
-message=Tfw the only guy in cse

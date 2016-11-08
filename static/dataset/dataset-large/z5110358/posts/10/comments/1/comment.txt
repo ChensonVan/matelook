@@ -1,3 +1,0 @@
-time=2016-09-13T10:01:23+0000
-from=z5132843
-message=z3462428 which one are you in?

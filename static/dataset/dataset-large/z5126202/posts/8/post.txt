@@ -1,5 +1,0 @@
-message=To all the girls who come to uni party's with boyfriends.\n\nPlease don't bother coming.\n\nSincerely,\nAll single guys of UNSW.
-from=z5126202
-time=2013-08-11T10:24:25+0000
-latitude=-34.0393
-longitude=151.1387

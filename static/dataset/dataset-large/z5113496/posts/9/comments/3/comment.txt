@@ -1,3 +1,0 @@
-from=z5091950
-message=She is you, but stronger
-time=2016-04-18T07:11:54+0000

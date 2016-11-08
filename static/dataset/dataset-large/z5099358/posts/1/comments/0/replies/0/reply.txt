@@ -1,3 +1,0 @@
-time=2016-09-12T01:46:28+0000
-message=Too true
-from=z3461271

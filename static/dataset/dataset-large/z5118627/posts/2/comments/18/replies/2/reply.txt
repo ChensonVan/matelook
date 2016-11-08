@@ -1,3 +1,0 @@
-from=z5016305
-message=Totally studying law as well aye
-time=2016-08-24T23:45:16+0000

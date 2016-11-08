@@ -1,5 +1,0 @@
-from=z5062448
-latitude=-33.9235
-longitude=151.2319
-message=There is a guy in my finance class....his name starts with an r....rajeef? rajeev? rajeesh? anyway....youre not too bad looking and i also see you trying to cheat all the time...maybe we can catch coffee sometime? I like mine long black ;)
-time=2016-05-25T15:09:02+0000

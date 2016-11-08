@@ -1,3 +1,0 @@
-time=2016-09-05T11:26:12+0000
-message=z5019900 can be directly contacted via bebo
-from=z5020683

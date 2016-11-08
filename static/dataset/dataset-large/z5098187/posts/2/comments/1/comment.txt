@@ -1,3 +1,0 @@
-message=India is in Asia
-from=z5116685
-time=2013-11-07T14:48:38+0000

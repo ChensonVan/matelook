@@ -1,3 +1,0 @@
-from=z3463809
-time=2016-09-10T07:47:04+0000
-message=z5110851 z5113700 the lock strikes again

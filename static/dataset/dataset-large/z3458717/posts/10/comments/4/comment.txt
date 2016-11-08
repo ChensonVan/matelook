@@ -1,3 +1,0 @@
-from=z5099216
-time=2016-09-08T15:56:28+0000
-message=Stop playing slither.io z5109880

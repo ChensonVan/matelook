@@ -1,5 +1,0 @@
-time=2013-03-25T10:47:57+0000
-longitude=151.2819
-latitude=-33.8632
-message=hi mum
-from=z3415383

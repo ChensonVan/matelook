@@ -1,5 +1,0 @@
-message=My favourite snack is a Danish ;)\n\nHere's looking at you, my little Snowflake ;)
-from=z5118185
-latitude=-33.8889
-time=2013-08-11T10:20:50+0000
-longitude=151.1922

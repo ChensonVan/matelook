@@ -1,3 +1,0 @@
-message=Hahah y is this going in circles?
-from=z5123999
-time=2016-09-10T09:14:03+0000

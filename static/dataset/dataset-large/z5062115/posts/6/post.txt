@@ -1,3 +1,0 @@
-from=z5062115
-time=2016-08-14T14:12:34+0000
-message=If i got 50 cents for every failed math exam,\n\nI'd have $ 6.30 now

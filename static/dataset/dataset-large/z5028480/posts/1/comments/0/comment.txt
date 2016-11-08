@@ -1,3 +1,0 @@
-from=z3219170
-time=2016-05-17T06:42:18+0000
-message=So many people studying science but 99/100 are Asian.

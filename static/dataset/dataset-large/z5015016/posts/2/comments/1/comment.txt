@@ -1,3 +1,0 @@
-from=z5048611
-time=2016-09-19T11:48:20+0000
-message=z3379933 when did u transfer?

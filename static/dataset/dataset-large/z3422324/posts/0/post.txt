@@ -1,5 +1,0 @@
-message=To one of the receptionists at unsw health service...I have a crush on you. Can I get her name somehow? Anyone.
-time=2013-07-03T05:41:42+0000
-longitude=150.8918
-from=z3422324
-latitude=-33.9827

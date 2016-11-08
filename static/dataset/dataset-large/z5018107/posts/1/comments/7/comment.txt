@@ -1,3 +1,0 @@
-time=2016-09-19T07:25:07+0000
-message=z5028693 what would you prefer?
-from=z3406406

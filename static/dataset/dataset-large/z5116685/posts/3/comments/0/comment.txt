@@ -1,3 +1,0 @@
-message=z5102263 this is cute for you to write
-time=2016-05-23T21:43:00+0000
-from=z5117982

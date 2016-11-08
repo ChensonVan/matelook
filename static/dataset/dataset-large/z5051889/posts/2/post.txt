@@ -1,5 +1,0 @@
-message=To my Vincieboo, \nMany want to be your babyboo, \nbut let me be the only one
-from=z5051889
-longitude=151.0278
-latitude=-33.7021
-time=2016-06-07T11:45:20+0000

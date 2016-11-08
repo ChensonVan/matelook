@@ -1,3 +1,0 @@
-message=z5083924 punch on
-time=2016-10-01T10:26:29+0000
-from=z5048663

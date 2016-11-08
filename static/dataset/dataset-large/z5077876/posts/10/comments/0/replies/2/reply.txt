@@ -1,3 +1,0 @@
-message=So modest
-time=2016-05-05T11:37:47+0000
-from=z5074933

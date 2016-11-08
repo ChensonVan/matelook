@@ -1,3 +1,0 @@
-from=z5059421
-message=LOL i only watch k2 though
-time=2016-10-01T10:20:56+0000

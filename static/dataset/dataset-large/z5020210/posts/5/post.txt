@@ -1,5 +1,0 @@
-longitude=151.2239
-latitude=-33.9088
-message=joe haris\nu r a hottie <3\ncome to eng ball with me?
-from=z5020210
-time=2016-04-22T15:24:47+0000

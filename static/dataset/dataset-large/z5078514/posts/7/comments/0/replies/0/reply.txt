@@ -1,3 +1,0 @@
-message=LOL BRAH
-from=z3289658
-time=2016-08-13T07:38:42+0000

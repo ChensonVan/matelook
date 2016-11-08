@@ -1,3 +1,0 @@
-from=z5110713
-time=2016-05-17T14:00:16+0000
-message=z5115903 can provide you with the secret sauce to your HSP

@@ -1,3 +1,0 @@
-message=Da faq, why me.
-time=2013-09-02T04:58:23+0000
-from=z5014972

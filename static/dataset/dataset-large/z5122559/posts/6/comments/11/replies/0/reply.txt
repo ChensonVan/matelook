@@ -1,3 +1,0 @@
-message=Oh yeah them vegans
-from=z5032269
-time=2016-08-24T00:46:43+0000

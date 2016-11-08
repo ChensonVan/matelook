@@ -1,5 +1,0 @@
-from=z5013191
-time=2016-05-13T04:20:18+0000
-message=Garox Lee,\nIt's been a while, I think I'm in love with you
-latitude=-33.9129
-longitude=151.2210

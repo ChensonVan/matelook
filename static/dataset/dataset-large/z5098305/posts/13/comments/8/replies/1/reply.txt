@@ -1,3 +1,0 @@
-from=z5113482
-message=90kgs of pure muscle
-time=2016-09-11T11:00:44+0000

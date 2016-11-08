@@ -1,5 +1,0 @@
-latitude=-33.9198
-message=To the guy in 7th year commerce, even though you're short, you have the best body, and you can bench me any time you want
-longitude=151.2211
-time=2013-04-27T06:39:35+0000
-from=z5020328

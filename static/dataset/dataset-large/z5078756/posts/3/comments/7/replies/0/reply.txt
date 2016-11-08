@@ -1,3 +1,0 @@
-from=z3431766
-message=z5013491 and Sabre iMX6 board #34
-time=2016-08-08T12:15:13+0000

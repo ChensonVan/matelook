@@ -1,5 +1,0 @@
-latitude=-34.0609
-longitude=150.8166
-time=2013-04-14T05:49:48+0000
-message=Note from the Admin: If there is an issue with the page or with your letter not appearing, please inbox. We can work it out that way :)
-from=z3459293

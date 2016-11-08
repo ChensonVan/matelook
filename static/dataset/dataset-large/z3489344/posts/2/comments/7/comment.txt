@@ -1,3 +1,0 @@
-from=z5061301
-message="When in doubt flop it out" - z5043507
-time=2016-08-15T23:51:46+0000

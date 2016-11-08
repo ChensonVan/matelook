@@ -1,3 +1,0 @@
-message=do a flip
-from=z5059421
-time=2016-08-14T11:01:03+0000

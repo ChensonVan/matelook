@@ -1,3 +1,0 @@
-message=Impossible* imho
-from=z5060477
-time=2016-09-14T23:48:03+0000

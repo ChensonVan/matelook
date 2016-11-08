@@ -1,5 +1,0 @@
-longitude=151.2340
-time=2016-04-26T12:28:51+0000
-latitude=-33.9226
-message=ANYONE GOING LSE THIS WINTER BREAK?!?!?! TAG PLS
-from=z5115780

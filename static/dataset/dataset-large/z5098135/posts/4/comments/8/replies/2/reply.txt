@@ -1,3 +1,0 @@
-message=Not really. Im just doing 1 computing course this sem
-time=2016-04-20T13:09:55+0000
-from=z5117935

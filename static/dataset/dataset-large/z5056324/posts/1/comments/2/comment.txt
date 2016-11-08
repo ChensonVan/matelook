@@ -1,3 +1,0 @@
-from=z5013310
-message=z5113715 the shawl brings all the girls to the yard!
-time=2016-08-04T00:10:26+0000

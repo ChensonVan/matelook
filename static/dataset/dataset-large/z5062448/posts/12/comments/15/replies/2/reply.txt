@@ -1,3 +1,0 @@
-time=2016-05-18T12:07:07+0000
-message=so much salt
-from=z5019330

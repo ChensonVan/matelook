@@ -24,6 +24,10 @@ _RE_EMAIL_ = re.compile('^z[0-9]{7}$')
 
 
 def login_required(function_to_wrap):
+    """
+    login required wrapper, if zid not in session
+    then go to login page
+    """
     @wraps(function_to_wrap)
     def wrap(*args, **kwargs):
         if "zid" in session:
@@ -37,8 +41,9 @@ def login_required(function_to_wrap):
 @app.route('/home', methods=['POST', 'GET'])
 @login_required
 def home():
-    # if session.get('zid') == None:
-    #     return redirect(url_for('login'))
+    """
+        home page
+    """
     zid = session['zid']
     user = User.findByKey(zid)
     page = int(request.args.get('page', '1'))
@@ -51,9 +56,13 @@ def home():
 @app.route('/')
 @app.route('/login', methods=['POST', 'GET'])
 def login():
+    """
+        login handler, validate zmail and user
+    """
     if request.method == 'GET':
         return render_template('login.html')
 
+    # validate zid and user
     zid = request.form.get('zid')
     password = request.form.get('password')
     if not _RE_EMAIL_.match(zid):
@@ -68,6 +77,7 @@ def login():
         flash('password was wrong!')
         return render_template('login.html')
 
+    # encrypt password
     sha1 = hashlib.sha1()
     sha1.update(zid.encode('utf-8'))
     sha1.update(b':')
@@ -85,6 +95,9 @@ def login():
 @app.route('/logout', methods=['POST', 'GET'])
 @login_required
 def logout():
+    """
+    logout, remove zid and password(encrypted) at session
+    """
     if 'zid' in session:
         session.pop('zid')
     if 'password' in session:
@@ -95,6 +108,10 @@ def logout():
 
 @app.route('/register', methods=['POST', 'GET'])
 def register():
+    """
+        register handler, validate zid and password
+        if success, go to login handler
+    """
     if request.method == 'GET':
         return render_template('register.html')
 
@@ -127,18 +144,28 @@ def register():
 @app.route('/matelook', methods=['POST', 'GET'])
 @login_required
 def matelook():
+    """
+        matelook handler, return to mate page
+    """
     u_zid = request.args.get('u_zid')
     mate = User.findByKey(u_zid)
     zid = session['zid']
     user = User.findByKey(zid)
+    page = int(request.args.get('page', '1'))
+    total = len(mate.getPosts())
+    pag = Pagination(page, total)
     if not mate:
         flash('User ' + u_zid + ' not found!')
-    return render_template('matelook.html', user=user, mate=mate)
+    return render_template('matelook.html', user=user, mate=mate, pag=pag)
 
 
 @app.route('/profile', methods=['POST', 'GET'])
 @login_required
 def profile():
+    """
+        profile handler, get all infomation,
+        if infomation is not empty, then update it
+    """
     zid = session['zid']
     password = session['password']
     user = User.findByKey(zid)
@@ -196,28 +223,49 @@ def profile():
 @app.route('/search/<action>', methods=['POST', 'GET'])
 @login_required
 def search(action=None):
+    """
+        search handler, 
+        if query for user, then return all users contain the query
+        if query for post, then return all posts contain the query
+    """
     zid = session['zid']
     user = User.findByKey(zid)
     page = int(request.args.get('page', '1'))
     total = len(user.mateSuggestions())
     pag = Pagination(page, total)
+    if not action:
+        action = request.args.get('action')
     if action == 'user':
         query = request.args.get('query', '')
-        users = User.findByName(query)
+        if "'" not in query:
+            users = User.findByName(query)
+        else:
+            users = []
+            flash('Failed: query contains illegal character.')
         total = len(users)
         pag = Pagination(page, total)
         return render_template('search.html', user=user, users=users, query=query, pag=pag)
     if action == 'post':
         query = request.args.get('query', '')
-        posts = Post.findPosts('message', query)
+        if "'" not in query:
+            posts = Post.findPosts('message', query)
+        else:
+            posts = []
+            flash('Failed: query contains illegal character.')
         total = len(posts)
         pag = Pagination(page, total)
-        return render_template('home.html', user=user, posts=posts, query=query, pag=pag)
+        return render_template('search.html', user=user, posts=posts, query=query, pag=pag)
     return render_template('search.html', user=user, pag=pag)
 
 
 @app.route('/account/<action>', methods=['POST', 'GET'])
 def account(action):
+    """
+        account handler, 
+        if action == recovery, validate its zid and email and send a validate email
+        if action == reset, get resetCode and return to recovery page
+        if action == resetSave, save new password
+    """
     if action == 'recovery':
         if request.method == 'GET':
             return render_template('recovery.html')
@@ -267,6 +315,9 @@ def account(action):
 @app.route('/post', methods=['POST'])
 @login_required
 def post():
+    """
+        post handler, add a new post to db
+    """
     zid = session['zid']
     if not zid:
         return redirect(url_for('login'))
@@ -280,6 +331,9 @@ def post():
 @app.route('/postlook', methods=['POST', 'GET'])
 @login_required
 def postlook():
+    """
+        postlook handler, go to post page by post id
+    """
     zid = session['zid']
     user = User.findByKey(zid)
     pid = request.args.get('pid')
@@ -292,15 +346,21 @@ def postlook():
     return render_template('postlook.html', post=post, user=user, poster=poster, pag=pag)
 
 
-@app.route('/comment', methods=['POST'])
+@app.route('/comment', methods=['POST', 'GET'])
 @login_required
 def comment():
+    """
+        comment handler, add a new comment to DB
+        give a new notification to post poster
+        and send a validate email
+    """
     zid = session['zid']
     user = User.findByKey(zid)
     if not user:
         return redirect(url_for('login'))
     pid = request.form.get('pid')
     poster_zid = request.form.get('poster_zid')
+    m_user = User.findByKey(poster_zid)
     message = request.form.get('message')
     new_comment = Comment(pid=pid, zid=zid, message=message)
     new_comment.save()
@@ -308,6 +368,8 @@ def comment():
     notification = Notifications(from_zid=user.zid, to_zid=poster_zid, noti_type='reply', from_name=user.full_name, from_img=user.image, pid=pid)
     # notification.pid = pid
     notification.save()
+    mail = MailUtils('chenson.van@gmail.com', 'MateLook Team', m_user.full_name)
+    mail.notificaion()
     post = Post.findByKey(pid)
     poster = User.findByKey(post.zid)
     page = int(request.args.get('page', '1'))
@@ -319,6 +381,9 @@ def comment():
 @app.route('/notifications', methods=['POST', 'GET'])
 @login_required
 def notifications():
+    """
+        notifications handler
+    """
     zid = session['zid']
     user = User.findByKey(zid)
     action = request.form.get('action', '')
@@ -371,6 +436,9 @@ def notifications():
 @app.route('/myposts', methods=['POST', 'GET'])
 @login_required
 def myposts():
+    """
+        look my post hander
+    """
     zid = session['zid']
     user = User.findByKey(zid)
     page = int(request.args.get('page', '1'))
@@ -389,19 +457,20 @@ def myposts():
 @app.route('/mateManager', methods=['POST', 'GET'])
 @login_required
 def mateManager():
+    """
+        mate manager handler, user can add or delete a user
+    """
     zid = session['zid']
     user = User.findByKey(zid)
     action = request.form.get('action', '')
+    m_zid = request.form.get('m_zid', '')
     if action == 'delete':
-        m_zid = request.form.get('m_zid', '')
-        # delete at both sides
+        # delete at both sides and send a notification
         user.unmate(m_zid)
-
         notification = Notifications(from_zid=user.zid, to_zid=m_zid, noti_type='delete', from_name=user.full_name, from_img=user.image)
         notification.save()
     elif action == 'add':
-        m_zid = request.form.get('m_zid', '')
-        # add to requests table
+        # add to requests table and send a notification
         mate_request = Requests(from_zid=zid, to_zid=m_zid)
         mate_request.save()
         notification = Notifications(from_zid=user.zid, to_zid=m_zid, noti_type='add', from_name=user.full_name, from_img=user.image)
@@ -409,8 +478,12 @@ def mateManager():
     query = request.form.get('query', '')
     page = int(request.form.get('page', '1'))
     suggestion = request.form.get('suggestion', '')
+    matelook = request.form.get('matelook', '')
+    print(matelook)
     if suggestion:
         return redirect(url_for('search', page=page))
+    if matelook:
+        return redirect(url_for('matelook', u_zid=m_zid))
     return redirect(url_for('search', action='user', query=query, page=page))
 
 
@@ -426,6 +499,6 @@ def mateManager():
 
 if __name__ == '__main__':
     # app.run(host, port, debug, options)
-    # app.run(host=_URL_, port=_PORT_)
-    app.run(port=8080)
+    app.run(host=_URL_, port=_PORT_)
+    # app.run(port=_PORT_)
     # debug=True, user_reloader=True

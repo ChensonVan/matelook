@@ -1,3 +1,0 @@
-message=Watch this:\nhttps://www.youtube.com/watch?v=KHrXtzYC0Jc
-from=z5077131
-time=2016-05-04T11:29:50+0000

@@ -1,3 +1,0 @@
-from=z5117658
-time=2016-08-25T10:05:58+0000
-message=z5021190 he's very dirty guy yaar...

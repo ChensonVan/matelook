@@ -1,3 +1,0 @@
-message=foreveralone
-time=2013-09-06T12:11:42+0000
-from=z5119437

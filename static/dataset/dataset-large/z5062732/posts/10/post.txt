@@ -1,3 +1,0 @@
-from=z5062732
-message=Jon from BSOC i hope no girl has your heart because i want it
-time=2013-09-12T02:52:59+0000

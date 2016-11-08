@@ -1,3 +1,0 @@
-message=HAHAHAH too good
-from=z5116218
-time=2013-03-19T06:27:08+0000

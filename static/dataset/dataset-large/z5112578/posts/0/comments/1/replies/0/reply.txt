@@ -1,3 +1,0 @@
-message=Pls someone
-time=2016-08-12T04:29:44+0000
-from=z5074933

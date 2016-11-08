@@ -1,3 +1,0 @@
-time=2016-08-30T09:23:39+0000
-message=An excellent analysis z5113482, we'll make a fine lawyer out of you yet
-from=z5110851

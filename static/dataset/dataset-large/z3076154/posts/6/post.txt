@@ -1,5 +1,0 @@
-from=z3076154
-longitude=151.2108
-latitude=-33.9002
-message=Roland, I wish you'd just talk to me  <3
-time=2013-03-17T20:58:36+0000

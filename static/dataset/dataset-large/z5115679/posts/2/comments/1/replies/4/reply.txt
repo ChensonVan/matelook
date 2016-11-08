@@ -1,3 +1,0 @@
-message=it was silver-purple last night
-from=z5078514
-time=2016-05-13T10:14:38+0000

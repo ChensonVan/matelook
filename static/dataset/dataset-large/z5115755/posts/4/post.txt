@@ -1,5 +1,0 @@
-message=Im an indonesian chinese guy desperately looking for love and gf.
-latitude=-33.9271
-longitude=151.2361
-from=z5115755
-time=2016-09-11T20:54:13+0000

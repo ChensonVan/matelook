@@ -1,3 +1,0 @@
-from=z3418657
-time=2016-09-13T23:26:56+0000
-message=z3460924 z5059860 z5017822 I think they want a lightshow

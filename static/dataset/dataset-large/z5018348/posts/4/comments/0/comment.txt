@@ -1,3 +1,0 @@
-message=join the club 💃
-from=z3379830
-time=2016-08-29T14:30:04+0000

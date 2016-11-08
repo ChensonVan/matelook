@@ -1,3 +1,0 @@
-message=Stop being ungrateful
-from=z5109980
-time=2016-09-25T05:19:48+0000

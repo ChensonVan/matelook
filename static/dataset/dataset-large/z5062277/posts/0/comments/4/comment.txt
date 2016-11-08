@@ -1,3 +1,0 @@
-message=z5062742 just transferred to UNSW. You can join the waiting list.
-from=z5015700
-time=2016-09-11T13:44:46+0000

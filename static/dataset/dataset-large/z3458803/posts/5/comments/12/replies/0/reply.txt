@@ -1,3 +1,0 @@
-from=z5062957
-message=Brah i dont even actl
-time=2016-08-30T11:41:22+0000

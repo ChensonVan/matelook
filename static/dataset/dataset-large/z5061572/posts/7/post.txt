@@ -1,5 +1,0 @@
-latitude=-33.8860
-message=Pick up at the Picnic!! 
-longitude=151.1012
-from=z5061572
-time=2013-05-13T04:09:39+0000

@@ -1,3 +1,0 @@
-from=z3462432
-time=2016-09-13T03:09:39+0000
-message=z3459423 someone wants to have coffee with you

@@ -1,5 +1,0 @@
-longitude=151.1987
-message=Aiden Green from cofa you are the sexiest man at uni. Do me?
-from=z5019361
-latitude=-33.8370
-time=2016-09-15T02:37:44+0000

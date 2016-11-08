@@ -1,3 +1,0 @@
-message=not liking this
-from=z5106767
-time=2016-08-28T23:43:01+0000

@@ -1,3 +1,0 @@
-message=Jonathan Tran almost man missing the height requirement :(
-from=z3219170
-time=2016-09-04T13:06:18+0000

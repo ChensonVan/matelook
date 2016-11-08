@@ -1,5 +1,0 @@
-from=z5015700
-message=To Eunike V Utojo. I'm in one of your class ( can't tell which one that is) and I really like you. your smile is so, so wow. You look gorgeous every time I see you. I just can't stop looking at you every time I'm in your class. Hope you belong to no one so I can have a chance.
-longitude=151.2323
-latitude=-33.9183
-time=2016-05-18T10:21:05+0000

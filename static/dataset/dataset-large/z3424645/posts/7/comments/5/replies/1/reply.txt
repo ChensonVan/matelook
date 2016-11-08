@@ -1,3 +1,0 @@
-message=I'm full blooded bruh
-from=z5116685
-time=2016-05-16T12:51:09+0000

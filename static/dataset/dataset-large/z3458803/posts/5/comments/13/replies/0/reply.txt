@@ -1,3 +1,0 @@
-message=damn we got exposed :/
-from=z3492794
-time=2016-09-02T11:56:52+0000

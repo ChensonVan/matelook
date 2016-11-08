@@ -1,3 +1,0 @@
-time=2013-08-07T11:10:12+0000
-message=kids these days....
-from=z5025014

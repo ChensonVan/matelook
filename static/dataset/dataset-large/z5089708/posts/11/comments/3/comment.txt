@@ -1,3 +1,0 @@
-from=z5115403
-message=Claiming it z5021190
-time=2016-08-15T11:45:28+0000

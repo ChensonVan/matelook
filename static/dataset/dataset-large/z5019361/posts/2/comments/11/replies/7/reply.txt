@@ -1,3 +1,0 @@
-from=z5085507
-time=2016-08-25T01:09:16+0000
-message=Okay I forfeit

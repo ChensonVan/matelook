@@ -1,3 +1,0 @@
-time=2016-10-06T00:08:55+0000
-message=omg mich
-from=z5020296

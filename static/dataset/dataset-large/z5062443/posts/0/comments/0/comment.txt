@@ -1,3 +1,0 @@
-time=2013-08-11T02:47:49+0000
-from=z5062732
-message=Haha who did you have?

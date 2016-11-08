@@ -1,3 +1,0 @@
-time=2016-08-17T13:40:02+0000
-message=She knows where I sleep...
-from=z5112650

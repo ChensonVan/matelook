@@ -1,3 +1,0 @@
-message=Thanks shout out to myself #shameless #sadlyf
-time=2016-05-07T01:26:30+0000
-from=z3492794

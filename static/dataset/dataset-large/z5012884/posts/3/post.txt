@@ -1,5 +1,0 @@
-from=z5012884
-message=Confession: I always meet cute guys and introduce myself, then mistake their kindness for flirting. Later, I facebook stalk them and invariably find out they are unavailable.
-longitude=151.1214
-time=2013-06-11T14:42:16+0000
-latitude=-33.7511

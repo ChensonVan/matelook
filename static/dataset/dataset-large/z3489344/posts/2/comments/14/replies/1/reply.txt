@@ -1,3 +1,0 @@
-from=z3493008
-message=i always use both hands
-time=2016-08-18T02:48:35+0000

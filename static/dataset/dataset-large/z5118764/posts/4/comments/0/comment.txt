@@ -1,3 +1,0 @@
-from=z5119655
-message=If the chemistry was there, sure. Why not?
-time=2013-10-02T06:14:56+0000

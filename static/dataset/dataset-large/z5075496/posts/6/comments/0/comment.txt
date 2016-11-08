@@ -1,3 +1,0 @@
-from=z5060223
-message=z3489344 stop posting these up yourself
-time=2013-11-05T02:27:52+0000

@@ -1,3 +1,0 @@
-from=z3413889
-message=took off my sticker :(
-time=2016-08-21T13:42:08+0000

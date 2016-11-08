@@ -1,3 +1,0 @@
-message=I am a comedian but this was not my doing\n (z5059449 is in love with me, sometimes I think she's joking but most of the time I know she's not)
-from=z5076156
-time=2013-05-03T09:26:26+0000

@@ -1,3 +1,0 @@
-from=z5061301
-time=2016-09-15T03:08:37+0000
-message=Y won't senpai notice me

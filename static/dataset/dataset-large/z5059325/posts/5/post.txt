@@ -1,5 +1,0 @@
-longitude=151.2231
-from=z5059325
-message=The amount of people writing to the same few individuals just to troll them or promote them is making this page utterly unbearable.
-time=2013-09-04T02:03:37+0000
-latitude=-33.9231

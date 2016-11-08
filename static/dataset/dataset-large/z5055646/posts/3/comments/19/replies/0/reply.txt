@@ -1,3 +1,0 @@
-time=2016-05-19T00:43:29+0000
-from=z5016305
-message=go make my AI

@@ -1,3 +1,0 @@
-from=z5076554
-time=2016-05-16T13:43:44+0000
-message=sorry gave up smiling for lent

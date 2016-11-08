@@ -1,3 +1,0 @@
-message=no idea m8
-time=2016-07-26T14:03:09+0000
-from=z5129633

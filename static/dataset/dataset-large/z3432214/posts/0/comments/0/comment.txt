@@ -1,3 +1,0 @@
-from=z3422324
-message=the only word I saw in the hashtag was sewer
-time=2013-05-29T11:41:24+0000

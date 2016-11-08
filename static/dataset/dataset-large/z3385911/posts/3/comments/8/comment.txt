@@ -1,3 +1,0 @@
-from=z5015243
-time=2016-06-14T06:56:52+0000
-message=z5062448 the thirst is real

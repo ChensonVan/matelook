@@ -1,3 +1,0 @@
-time=2016-05-24T23:31:58+0000
-message=Sounds like z5061572\n\nz5057619
-from=z3462432

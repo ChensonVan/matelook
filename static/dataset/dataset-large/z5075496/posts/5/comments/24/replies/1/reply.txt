@@ -1,3 +1,0 @@
-from=z5062448
-message=what abt nick tho
-time=2016-09-07T12:27:40+0000

@@ -1,3 +1,0 @@
-from=z5021190
-message=Hey, z5024967 is the exact match
-time=2016-06-19T11:27:07+0000

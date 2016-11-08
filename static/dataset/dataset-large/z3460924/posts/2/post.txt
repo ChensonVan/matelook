@@ -1,5 +1,0 @@
-time=2013-05-27T21:58:49+0000
-longitude=151.2212
-from=z3460924
-latitude=-33.9105
-message=To all the awkward kids in the Chem 1011 tute after Wednesday afternoon's lecture. I love you all and even though no one answers our tutor's questions, I will miss you all when we go our own ways next sem.

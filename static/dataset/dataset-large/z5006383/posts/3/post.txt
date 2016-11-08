@@ -1,5 +1,0 @@
-longitude=151.2329
-from=z5006383
-time=2016-04-26T08:21:12+0000
-message=To the asian guy with glasses walking along main walkway last tuesday around 4pm, I think your name is Justin? You gave me a cheeky grin when you noticed me wearing ultra boosts as well. Let me change that grin of yours ;)
-latitude=-33.9217

@@ -1,3 +1,0 @@
-time=2016-08-18T11:59:12+0000
-message=u bloody deactivated
-from=z5115903

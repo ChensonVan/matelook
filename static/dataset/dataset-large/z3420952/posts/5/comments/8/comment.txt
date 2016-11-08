@@ -1,3 +1,0 @@
-from=z5019900
-message=Someone take me pls.
-time=2013-05-07T21:32:48+0000

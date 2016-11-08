@@ -1,3 +1,0 @@
-message=100% without a doubt
-from=z5036317
-time=2016-06-12T12:38:45+0000

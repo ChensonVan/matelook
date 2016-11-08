@@ -1,3 +1,0 @@
-from=z3439243
-time=2016-09-01T04:18:40+0000
-message=z5012884 I love dogs more than most people

@@ -1,3 +1,0 @@
-message=When Eliza gets fb :O
-time=2016-09-04T08:44:06+0000
-from=z5019746

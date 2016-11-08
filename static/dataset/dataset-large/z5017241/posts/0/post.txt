@@ -1,5 +1,0 @@
-message=I'm a Muslim, and he's a Jew. And together, we will make world Peace Baby! WORLD PEACE!! <3
-longitude=151.2322
-from=z5017241
-latitude=-33.9105
-time=2013-09-22T15:45:18+0000

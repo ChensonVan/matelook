@@ -1,5 +1,0 @@
-time=2013-04-21T01:58:47+0000
-message=To the guy walking down High St Last week wearing a singlet and USYD rugby shorts, I followed you from ASB hoping you were going to go the gym. You looked sad, can I cheer you up next week? - Footy fangirl Mmm my loins
-from=z5020200
-longitude=151.1496
-latitude=-33.6158

@@ -1,3 +1,0 @@
-from=z3462191
-time=2013-10-02T06:00:58+0000
-message=Hey ALR guy with the cool shoes,\nIf you see this, will I see you at the review class this Tuesday?\nYou know who you are.

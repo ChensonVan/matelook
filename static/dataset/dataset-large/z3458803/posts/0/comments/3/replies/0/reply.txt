@@ -1,3 +1,0 @@
-message=web stream bruh
-from=z9591011
-time=2016-08-12T03:48:23+0000

@@ -1,5 +1,0 @@
-message=To the girl bopping to the sick beats while waiting for coffee at the quad food court today,\nYou looked so happy, especially for a Monday morning (almost afternoon), you actually made my day. I hope the rest of the week keeps you smiling!
-longitude=151.1906
-from=z3411568
-time=2016-09-12T09:10:08+0000
-latitude=-33.7785

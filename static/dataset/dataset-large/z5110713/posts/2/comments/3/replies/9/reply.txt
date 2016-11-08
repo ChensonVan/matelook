@@ -1,3 +1,0 @@
-from=z3411568
-time=2016-09-08T05:30:23+0000
-message=duhhh

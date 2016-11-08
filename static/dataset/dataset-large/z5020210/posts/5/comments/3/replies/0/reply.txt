@@ -1,3 +1,0 @@
-message=The engagement party's in June :)
-from=z5076642
-time=2016-04-22T05:21:26+0000

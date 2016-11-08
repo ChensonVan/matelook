@@ -1,3 +1,0 @@
-message=Was this you? 😂
-from=z5033280
-time=2016-09-07T03:42:43+0000

@@ -1,5 +1,0 @@
-message=About eddie kim: Whenever i see you at uni, i have to say, it really brightens up my day, you dont really know me but i want to get close to you xx
-latitude=-33.8808
-from=z5010380
-longitude=151.2153
-time=2013-05-03T04:23:16+0000

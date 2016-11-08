@@ -1,5 +1,0 @@
-longitude=151.2336
-latitude=-33.9243
-time=2016-04-15T23:06:07+0000
-from=z3464412
-message=Dear Shaz from Tamora, I will never forgive you for stealing my kraken.

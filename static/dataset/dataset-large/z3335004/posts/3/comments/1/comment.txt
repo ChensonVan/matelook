@@ -1,3 +1,0 @@
-time=2014-01-02T09:51:54+0000
-message=Dammit z5024986, empty promises break my heart. I don't think it's going to work.
-from=z5056324

@@ -1,3 +1,0 @@
-message=z5099971  you are Malaysian right ?
-from=z5015526
-time=2016-05-17T05:49:25+0000

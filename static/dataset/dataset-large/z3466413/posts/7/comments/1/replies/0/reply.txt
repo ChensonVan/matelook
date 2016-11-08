@@ -1,3 +1,0 @@
-from=z5074933
-message=My lecturer once gave one of the student a beer in the 9am lecture
-time=2016-06-17T05:22:44+0000

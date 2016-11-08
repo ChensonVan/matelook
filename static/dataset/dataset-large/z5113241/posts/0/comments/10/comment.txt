@@ -1,3 +1,0 @@
-message=north korea
-from=z5098088
-time=2013-09-22T05:32:29+0000

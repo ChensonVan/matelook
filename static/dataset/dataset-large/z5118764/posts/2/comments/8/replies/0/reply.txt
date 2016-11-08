@@ -1,3 +1,0 @@
-from=z3439243
-message=thats a good question haha
-time=2016-05-26T06:41:31+0000

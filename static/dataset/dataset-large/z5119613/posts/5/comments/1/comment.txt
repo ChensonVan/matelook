@@ -1,3 +1,0 @@
-from=z5016876
-time=2013-05-15T23:36:08+0000
-message=Did you write this z5018549

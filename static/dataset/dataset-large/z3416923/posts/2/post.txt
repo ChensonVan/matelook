@@ -1,5 +1,0 @@
-from=z3416923
-latitude=-33.8997
-time=2016-08-29T04:17:09+0000
-longitude=151.2475
-message=Eliza Avery I love you

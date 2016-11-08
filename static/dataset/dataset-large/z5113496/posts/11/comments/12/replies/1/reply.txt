@@ -1,3 +1,0 @@
-message=Tell us who she is z5024967
-from=z5098292
-time=2016-08-08T00:41:58+0000

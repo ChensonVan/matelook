@@ -1,5 +1,0 @@
-from=z3489361
-longitude=151.2238
-latitude=-33.9125
-time=2013-09-23T07:16:36+0000
-message=Hey Timstar,\n\nI've missed your presence around UNSW. Can you please come back to UNSW so I can visit you again?\n\n<3\n\nOne of your many secret admirers

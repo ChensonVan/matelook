@@ -1,5 +1,0 @@
-from=z5014861
-latitude=-33.9255
-message=To jiahua Yang (a girl from  petroleum engineering) it looks like you have bf but the truth is the first time i saw you i realized something has happened, i do have feeling for you
-time=2016-08-13T09:11:51+0000
-longitude=151.2383

@@ -1,3 +1,0 @@
-from=z5019886
-message=He forgot to invite you lol
-time=2016-05-17T13:07:01+0000

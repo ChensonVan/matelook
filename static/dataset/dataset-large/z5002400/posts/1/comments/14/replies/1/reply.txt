@@ -1,3 +1,0 @@
-time=2016-05-10T07:52:20+0000
-message=YO NO WAY
-from=z5059413

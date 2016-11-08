@@ -1,5 +1,0 @@
-longitude=151.2381
-time=2016-09-29T04:11:14+0000
-from=z5074933
-latitude=-33.9155
-message=Osama Monayem, is it true you have yellow fever?

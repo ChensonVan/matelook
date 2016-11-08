@@ -1,3 +1,0 @@
-message=Youd know (Y)
-time=2016-09-23T03:55:36+0000
-from=z3372872

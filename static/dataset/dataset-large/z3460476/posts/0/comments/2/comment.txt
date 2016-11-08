@@ -1,3 +1,0 @@
-message=i think i better print these off and show them to shaun, maybe he'll consider rehiring me
-from=z5059325
-time=2013-08-05T06:41:33+0000

@@ -1,3 +1,0 @@
-message=too close for comfort z5089708
-from=z5113715
-time=2016-05-01T07:23:30+0000

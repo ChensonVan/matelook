@@ -1,3 +1,0 @@
-message=nope. i live by the 3 date rule
-time=2013-04-25T12:23:07+0000
-from=z5059719

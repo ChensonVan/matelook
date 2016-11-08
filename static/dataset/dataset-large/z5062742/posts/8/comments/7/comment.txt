@@ -1,3 +1,0 @@
-message=Cat people don't want to make friends though
-from=z5119655
-time=2016-04-22T09:48:21+0000

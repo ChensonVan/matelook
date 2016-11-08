@@ -1,3 +1,0 @@
-from=z5116167
-time=2013-05-10T11:29:24+0000
-message=To the lass wearing the cow onesie, can i have some milk?

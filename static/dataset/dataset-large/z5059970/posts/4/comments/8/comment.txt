@@ -1,3 +1,0 @@
-time=2016-10-06T02:10:26+0000
-message=z5098202 waiting for z3462055 to tag.....
-from=z5019361

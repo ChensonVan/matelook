@@ -1,3 +1,0 @@
-from=z5019361
-message=AVSOC BBY
-time=2013-05-10T05:44:58+0000

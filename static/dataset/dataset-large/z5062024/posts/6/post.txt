@@ -1,5 +1,0 @@
-time=2016-07-05T17:09:44+0000
-latitude=-33.8447
-message=Reply to #12028\n\nIt was lovely talking to you as well! You definitely made my night :) I've been thinking about you as well and I hope everything worked out :) If not, all good- come and join me on a food adventure! We can hit up Bovine and Swine, Pie Tin, Crumble Top, Bar Luca, Cow and Moon, Dough Box Diner, Sultan's Table and drink our way through Newtown! \n\nP.S. don't forget about the R8 in the garage :D
-from=z5062024
-longitude=151.2321

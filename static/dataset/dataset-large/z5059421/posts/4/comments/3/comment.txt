@@ -1,3 +1,0 @@
-from=z5013098
-message=z5082545 Tony told me to do it
-time=2016-06-08T06:09:52+0000

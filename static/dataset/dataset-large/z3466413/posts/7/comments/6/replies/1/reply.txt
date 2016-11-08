@@ -1,3 +1,0 @@
-from=z5059583
-message=I have #noshame
-time=2016-06-16T11:44:01+0000

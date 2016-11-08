@@ -1,3 +1,0 @@
-message=i dont get it
-time=2016-07-27T23:34:13+0000
-from=z5122559

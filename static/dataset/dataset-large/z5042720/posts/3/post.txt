@@ -1,5 +1,0 @@
-from=z5042720
-time=2013-11-24T01:45:30+0000
-latitude=-34.0805
-longitude=151.0163
-message=To the tall guy with curly brown hair that was in ARTS1781. I'm sorry; girls can still be that shy.

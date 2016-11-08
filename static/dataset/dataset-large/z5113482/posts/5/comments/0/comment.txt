@@ -1,3 +1,0 @@
-message=bethereorbesquare
-from=z5016876
-time=2016-05-03T08:30:29+0000

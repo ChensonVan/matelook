@@ -1,3 +1,0 @@
-message=Wit a Knick knack paddywhack give a dog a bone
-time=2016-09-14T09:30:20+0000
-from=z5017822

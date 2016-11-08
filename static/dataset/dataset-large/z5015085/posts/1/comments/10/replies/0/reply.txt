@@ -1,3 +1,0 @@
-message=i don't even go to this uni
-time=2016-06-07T11:27:55+0000
-from=z5020410

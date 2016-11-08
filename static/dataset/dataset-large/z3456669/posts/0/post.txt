@@ -1,5 +1,0 @@
-time=2013-07-30T00:41:49+0000
-latitude=-33.8780
-message=Hey Yongy, you're so fine\nYou're so fine you blow my mind\nHey Yongy! Hey! Hey!\nHey Yongy! Hey! Hey!
-from=z3456669
-longitude=151.1821

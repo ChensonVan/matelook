@@ -1,3 +1,0 @@
-message=but you can barely see without your glasses anyway
-time=2016-09-11T11:48:26+0000
-from=z5115454

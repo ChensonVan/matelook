@@ -1,5 +1,0 @@
-from=z3374132
-time=2016-08-18T01:24:41+0000
-longitude=151.2694
-message=Dear Maryjo,\nWill you mary me? <3
-latitude=-33.8952

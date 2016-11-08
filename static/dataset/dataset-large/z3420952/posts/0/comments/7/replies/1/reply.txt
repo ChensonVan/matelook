@@ -1,3 +1,0 @@
-message=ahahaha bs
-time=2016-08-17T04:42:58+0000
-from=z5061590

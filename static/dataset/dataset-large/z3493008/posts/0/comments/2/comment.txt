@@ -1,3 +1,0 @@
-from=z5087067
-time=2013-03-19T06:30:36+0000
-message=z5076485, watch out. z5059999 is showing his true colours.

@@ -1,3 +1,0 @@
-message=and not enough love
-from=z5028693
-time=2016-08-30T12:03:44+0000

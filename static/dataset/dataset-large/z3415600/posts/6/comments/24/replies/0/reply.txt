@@ -1,3 +1,0 @@
-message=richie2k16
-from=z3493008
-time=2016-08-14T00:58:27+0000

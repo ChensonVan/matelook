@@ -1,3 +1,0 @@
-time=2013-08-20T14:05:06+0000
-from=z5115679
-message=Who wrote this???

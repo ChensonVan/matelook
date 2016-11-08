@@ -1,3 +1,0 @@
-message=but santa is white
-from=z5075455
-time=2016-06-04T23:44:20+0000

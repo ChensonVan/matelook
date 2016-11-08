@@ -1,5 +1,0 @@
-from=z5098071
-time=2016-09-14T02:48:23+0000
-message=Dear my beloved,\n\nNever have I ever met such a handsome gentleman as you. In my heart you reside and in my dreams you fly. Killing me with your timidness, please approach me already. How long must I wait till you take my hand. Irrespective of our imperfections, our romance will blossom. Love is my present to you and you are the first letter of each sentence. \n\nLove, ..........
-longitude=151.2347
-latitude=-33.9199

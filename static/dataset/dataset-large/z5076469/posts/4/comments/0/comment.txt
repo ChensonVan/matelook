@@ -1,3 +1,0 @@
-from=z5015016
-message=A moment of silence for a brother in the friendzone.
-time=2013-04-15T21:10:11+0000

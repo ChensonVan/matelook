@@ -1,3 +1,0 @@
-time=2016-09-28T04:32:26+0000
-message=z5048639 Ayy lad close enough
-from=z5015526

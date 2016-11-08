@@ -1,5 +1,0 @@
-longitude=151.2166
-latitude=-33.8918
-message=Guys, I need help\nI recently bought a robe and wizard hat. But when do I get my magic powers?\nSincerely,\nYour local UNSW aspiring wizard
-time=2016-08-26T23:47:07+0000
-from=z3489344

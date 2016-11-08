@@ -1,3 +1,0 @@
-time=2016-09-04T07:23:20+0000
-message=Don't wear glasses
-from=z5075962

@@ -1,3 +1,0 @@
-from=z5074940
-time=2013-06-10T09:20:00+0000
-message=I swear I did not write that

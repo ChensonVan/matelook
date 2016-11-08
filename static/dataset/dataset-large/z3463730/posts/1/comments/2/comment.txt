@@ -1,3 +1,0 @@
-from=z5020410
-message=z5020683 m8. don't forget our convo about chicken. that's where u set the benchmark.
-time=2016-04-15T15:15:16+0000

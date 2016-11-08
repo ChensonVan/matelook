@@ -1,3 +1,0 @@
-message=Are you kripp?
-from=z5019746
-time=2016-06-30T11:01:58+0000

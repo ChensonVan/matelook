@@ -1,3 +1,0 @@
-from=z5122559
-time=2016-08-25T12:50:25+0000
-message=LOL you are not tall mate

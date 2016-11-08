@@ -1,3 +1,0 @@
-from=z5060359
-message=reality cheque
-time=2016-04-26T10:51:59+0000

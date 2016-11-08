@@ -1,3 +1,0 @@
-message=med/law does not cover IB. I maintain that I am still right
-time=2016-09-19T20:28:51+0000
-from=z5023123

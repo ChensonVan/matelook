@@ -1,5 +1,0 @@
-from=z5117623
-message=DAAAMMNN BOI!!! I saw you on library lawn a few weeks back. Can I have a taste of your chocolate D-elight?
-latitude=-34.0887
-time=2013-04-21T07:29:31+0000
-longitude=151.1281

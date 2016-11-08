@@ -1,3 +1,0 @@
-from=z5059970
-message=z5113700 there there
-time=2016-05-11T13:35:45+0000

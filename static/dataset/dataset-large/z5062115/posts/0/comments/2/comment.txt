@@ -1,3 +1,0 @@
-message=It was a woman.. Do you swing that way?
-time=2013-05-05T14:48:05+0000
-from=z5015813

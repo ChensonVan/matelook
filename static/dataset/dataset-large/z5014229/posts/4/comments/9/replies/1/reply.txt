@@ -1,3 +1,0 @@
-from=z5020200
-message=z5113245 for good luck
-time=2016-05-05T09:14:58+0000

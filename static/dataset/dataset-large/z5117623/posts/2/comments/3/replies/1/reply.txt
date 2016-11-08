@@ -1,3 +1,0 @@
-message=This is the 3rd time I've been tagged HAHAHAHA
-from=z5019746
-time=2016-09-04T08:44:16+0000

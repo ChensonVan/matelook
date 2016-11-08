@@ -1,5 +1,0 @@
-time=2013-11-21T12:44:26+0000
-latitude=-33.7957
-message=To Rargo saxophonist, I like you.
-longitude=151.2679
-from=z3464149

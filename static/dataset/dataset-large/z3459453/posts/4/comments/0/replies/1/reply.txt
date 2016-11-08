@@ -1,3 +1,0 @@
-from=z5130883
-time=2016-08-19T08:28:34+0000
-message=Look...I don't know. Let's roll with it

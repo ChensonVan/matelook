@@ -1,3 +1,0 @@
-from=z5113482
-message=z3420952 that time you threw up carrots and peas!
-time=2016-09-09T04:52:55+0000

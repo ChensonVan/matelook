@@ -1,5 +1,0 @@
-longitude=151.2315
-message=Dear Pokemon Go, \n\nThank you for being the motivation to go to uni for all my classes to get those Pokestops and take advantage of the lures I could never afford.
-time=2016-08-09T10:11:38+0000
-latitude=-33.9525
-from=z5060454

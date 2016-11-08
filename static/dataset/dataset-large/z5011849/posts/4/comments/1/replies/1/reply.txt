@@ -1,3 +1,0 @@
-time=2016-06-27T12:46:19+0000
-message=Better find the lucky lady
-from=z5126202

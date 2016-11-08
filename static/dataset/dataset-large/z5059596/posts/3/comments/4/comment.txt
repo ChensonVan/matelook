@@ -1,3 +1,0 @@
-message=z5019900 u going bro?
-time=2016-09-03T10:28:39+0000
-from=z5011849

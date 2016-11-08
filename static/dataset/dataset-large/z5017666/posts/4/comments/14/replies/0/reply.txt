@@ -1,3 +1,0 @@
-message=Yeh i did the smarter homes project im elegible
-time=2016-05-05T11:42:43+0000
-from=z5019900

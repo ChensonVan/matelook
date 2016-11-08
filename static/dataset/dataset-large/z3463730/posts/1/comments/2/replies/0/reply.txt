@@ -1,3 +1,0 @@
-time=2016-04-16T03:30:58+0000
-from=z5020683
-message=What if the chicken wrote this?

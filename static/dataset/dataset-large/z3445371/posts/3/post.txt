@@ -1,5 +1,0 @@
-latitude=-33.9143
-from=z3445371
-longitude=151.2312
-time=2016-10-05T22:30:49+0000
-message=Avi V...Marry me?

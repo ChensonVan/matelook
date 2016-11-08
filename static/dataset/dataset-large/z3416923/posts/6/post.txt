@@ -1,5 +1,0 @@
-time=2016-09-15T23:58:25+0000
-message=I wonder if Shyam visits UNSW for Niharika or Ashika?
-from=z3416923
-longitude=151.2558
-latitude=-33.8956

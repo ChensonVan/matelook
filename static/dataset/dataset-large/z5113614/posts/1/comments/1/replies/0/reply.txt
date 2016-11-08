@@ -1,3 +1,0 @@
-time=2016-05-24T23:41:10+0000
-message=The accuracy though
-from=z5061572

@@ -1,5 +1,0 @@
-from=z3460724
-time=2013-08-13T02:29:47+0000
-latitude=-33.8750
-message=To the sexy chairperson of BSOC. Coffee sometime?
-longitude=151.2351

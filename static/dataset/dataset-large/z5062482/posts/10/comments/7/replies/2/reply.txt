@@ -1,3 +1,0 @@
-time=2016-06-19T11:27:10+0000
-from=z5015191
-message=I thought it was you!

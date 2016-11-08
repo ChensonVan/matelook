@@ -1,5 +1,0 @@
-latitude=-33.9238
-longitude=151.2350
-time=2013-08-05T08:50:20+0000
-from=z5015085
-message=theres this chick in the front of my social policy class that makes it that much less boring

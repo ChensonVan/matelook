@@ -1,3 +1,0 @@
-message=yeah nice try
-from=z5118844
-time=2016-10-06T00:09:30+0000

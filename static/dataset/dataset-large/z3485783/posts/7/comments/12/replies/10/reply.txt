@@ -1,3 +1,0 @@
-message=you're all terrible people
-from=z5020296
-time=2016-09-04T10:19:39+0000

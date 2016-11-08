@@ -1,3 +1,0 @@
-from=z5116179
-message=z3377644 m8 go for it
-time=2016-08-05T04:08:04+0000

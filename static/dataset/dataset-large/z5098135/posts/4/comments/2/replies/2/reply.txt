@@ -1,3 +1,0 @@
-message=It's most definitely z3462438
-from=z3459459
-time=2016-04-23T11:17:18+0000

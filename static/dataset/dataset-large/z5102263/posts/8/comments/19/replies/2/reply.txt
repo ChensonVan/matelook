@@ -1,3 +1,0 @@
-message=Fml I have to catch the train AND the bus
-from=z5013491
-time=2016-08-21T07:05:55+0000

@@ -1,3 +1,0 @@
-time=2016-09-24T02:51:14+0000
-message=z3420952 do you do maths now
-from=z5056054

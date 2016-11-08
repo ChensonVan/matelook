@@ -1,3 +1,0 @@
-from=z5061308
-message=but i go tafe
-time=2016-08-17T13:55:46+0000

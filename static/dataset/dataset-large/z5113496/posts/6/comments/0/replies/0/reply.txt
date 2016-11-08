@@ -1,3 +1,0 @@
-from=z5118782
-message=Hahahaha immediately came to mind
-time=2016-09-25T22:09:41+0000

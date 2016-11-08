@@ -1,3 +1,0 @@
-message=only with you xx
-from=z3452764
-time=2016-07-27T01:08:04+0000

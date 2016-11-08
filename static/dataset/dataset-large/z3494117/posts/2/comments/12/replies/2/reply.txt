@@ -1,3 +1,0 @@
-from=z5115403
-time=2016-08-25T09:13:02+0000
-message=Can't wait to ring my parents to tell them the good news 🙌

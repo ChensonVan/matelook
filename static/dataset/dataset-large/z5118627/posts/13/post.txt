@@ -1,5 +1,0 @@
-from=z5118627
-longitude=151.1879
-message=So I'm in first year and you're in second year. We do completely different courses but I reeeaaaaalllllllly liked you that one time we met at the first roundhouse party this year. Hit me up! We don't see each other around anyway and have no mutuals so what's there to lose?!
-latitude=-33.9055
-time=2016-05-12T05:46:21+0000

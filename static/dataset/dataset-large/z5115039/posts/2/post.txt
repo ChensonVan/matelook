@@ -1,5 +1,0 @@
-latitude=-33.8050
-time=2016-04-30T01:01:15+0000
-longitude=151.1572
-message=To Gordon\n\nI think you're body is pretty hot, only if you had a better head\n\nCoffee sometime though?
-from=z5115039

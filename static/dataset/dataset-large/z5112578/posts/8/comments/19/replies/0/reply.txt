@@ -1,3 +1,0 @@
-message=no thanks
-time=2016-05-31T20:15:18+0000
-from=z5060416

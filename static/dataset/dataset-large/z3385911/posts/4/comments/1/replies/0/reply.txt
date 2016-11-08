@@ -1,3 +1,0 @@
-time=2016-05-02T07:11:33+0000
-message=I've made it
-from=z5076554

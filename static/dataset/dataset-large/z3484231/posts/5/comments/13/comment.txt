@@ -1,3 +1,0 @@
-from=z5024963
-time=2016-08-24T23:54:02+0000
-message=z5021190 could be you bruv

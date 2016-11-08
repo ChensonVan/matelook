@@ -1,3 +1,0 @@
-message=True love.
-from=z5074940
-time=2016-07-26T21:43:56+0000

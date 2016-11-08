@@ -1,5 +1,0 @@
-latitude=-33.9133
-message=Girls, thanks for saying you want to hang out/go out with me when I first asked and then proceed to ignore me as a way of rejecting me "nicely." Playing with my emotions is SO MUCH better than a simple "no" when I first asked you.
-longitude=151.2215
-time=2013-05-27T01:05:25+0000
-from=z5062277

@@ -1,5 +1,0 @@
-message=I'm glad we didn't rush into anything in first year because love would of ruined us. However, it's nearing the end and now I'm waiting for you to make your move. Don't be scared. Show me what you do. Don't you know a girl likes a boy who moves.
-latitude=-33.4040
-from=z3445371
-longitude=151.0277
-time=2013-10-27T00:50:58+0000

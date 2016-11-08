@@ -1,3 +1,0 @@
-from=z3394912
-message=Ohhh shiet you beat me to it
-time=2016-05-04T11:43:40+0000

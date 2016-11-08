@@ -1,3 +1,0 @@
-from=z5112578
-message=I think he did b4?
-time=2016-07-10T12:12:07+0000

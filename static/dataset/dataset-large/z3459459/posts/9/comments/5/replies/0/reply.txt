@@ -1,3 +1,0 @@
-from=z3462856
-time=2016-06-08T12:03:07+0000
-message=how could you...

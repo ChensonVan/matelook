@@ -1,3 +1,0 @@
-from=z3406406
-time=2016-05-14T02:24:38+0000
-message=My friend did this as a joke AHAHAH

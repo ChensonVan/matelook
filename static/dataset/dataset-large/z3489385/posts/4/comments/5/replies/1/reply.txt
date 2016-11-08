@@ -1,3 +1,0 @@
-message=Yea me too Marco Cheung
-time=2016-09-28T09:57:40+0000
-from=z5061590

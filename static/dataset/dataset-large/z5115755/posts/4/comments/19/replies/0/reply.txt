@@ -1,3 +1,0 @@
-from=z5047516
-message=I did not write this...
-time=2016-09-06T00:31:43+0000

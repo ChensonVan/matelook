@@ -1,3 +1,0 @@
-message=Doing the hardwork by going after two. Committed hoe 👌
-from=z3413954
-time=2016-09-15T23:58:25+0000

@@ -1,3 +1,0 @@
-from=z5098187
-message=they beat me to it!!!
-time=2016-08-06T12:32:15+0000

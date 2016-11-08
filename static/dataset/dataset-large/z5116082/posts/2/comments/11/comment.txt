@@ -1,3 +1,0 @@
-from=z3461074
-time=2016-08-10T19:01:42+0000
-message=z3424645, z3374132, z5113715  its z5023123's better looking cousin.

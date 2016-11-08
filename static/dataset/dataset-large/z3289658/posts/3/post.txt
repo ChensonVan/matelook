@@ -1,5 +1,0 @@
-time=2016-10-04T15:30:04+0000
-longitude=151.1348
-message=Does anyone ever feel like you're just not meant for relationships but rather just be on your own?
-latitude=-33.8754
-from=z3289658

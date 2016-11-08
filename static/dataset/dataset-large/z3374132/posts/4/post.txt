@@ -1,5 +1,0 @@
-longitude=151.2400
-from=z3374132
-latitude=-33.9100
-time=2013-07-12T13:29:01+0000
-message=To all the girls and guys who are in love with Jon Snow of Game of Thrones,\n\nHE'S MINE! LEAVE US IN PEACE!\nAnd yes, he knows nothing about this.

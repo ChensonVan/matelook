@@ -1,3 +1,0 @@
-time=2016-08-18T08:28:39+0000
-message=You w0t m8
-from=z3384642

@@ -1,3 +1,0 @@
-message=We will block out the sun.
-time=2016-08-08T09:33:20+0000
-from=z3459327

@@ -1,3 +1,0 @@
-from=z5109880
-message=Try harder use punctuation be more salacious
-time=2016-05-24T04:41:59+0000

@@ -1,3 +1,0 @@
-message="You're cute"
-from=z5063045
-time=2016-08-21T15:50:31+0000

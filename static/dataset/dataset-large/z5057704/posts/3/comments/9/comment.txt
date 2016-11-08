@@ -1,3 +1,0 @@
-time=2016-09-01T19:01:40+0000
-message=z5059413, the ArcWarden #OneTrick
-from=z5024975

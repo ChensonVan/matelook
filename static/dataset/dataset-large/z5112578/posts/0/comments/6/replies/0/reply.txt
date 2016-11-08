@@ -1,3 +1,0 @@
-time=2016-08-12T00:37:19+0000
-from=z5114743
-message=No I didn't

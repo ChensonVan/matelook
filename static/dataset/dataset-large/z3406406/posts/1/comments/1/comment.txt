@@ -1,3 +1,0 @@
-time=2016-06-04T02:58:49+0000
-message=z3379933, don't be greedy 😏 choose one or the other
-from=z5089708

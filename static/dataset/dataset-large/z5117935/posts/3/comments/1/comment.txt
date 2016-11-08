@@ -1,3 +1,0 @@
-from=z5043507
-message=From derick thai, to derick thai
-time=2013-08-11T01:53:06+0000

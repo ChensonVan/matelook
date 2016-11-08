@@ -1,3 +1,0 @@
-from=z5059449
-message=you have 4 yrs chill
-time=2016-09-29T11:05:03+0000

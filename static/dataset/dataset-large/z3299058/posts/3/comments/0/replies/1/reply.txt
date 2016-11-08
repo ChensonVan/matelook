@@ -1,3 +1,0 @@
-from=z5015085
-time=2016-09-02T02:31:07+0000
-message=Why is armour capitalised?

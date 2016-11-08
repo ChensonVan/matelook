@@ -1,3 +1,0 @@
-message=You're the only girl I want
-from=z5020683
-time=2016-05-10T11:41:49+0000

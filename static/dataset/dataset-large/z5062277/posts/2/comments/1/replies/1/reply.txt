@@ -1,3 +1,0 @@
-from=z5110358
-time=2016-04-29T22:16:57+0000
-message=z5016876 its not you?

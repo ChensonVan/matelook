@@ -1,3 +1,0 @@
-message=This is soo you z3299058
-time=2016-05-16T20:51:38+0000
-from=z5019886

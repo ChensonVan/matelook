@@ -1,3 +1,0 @@
-message=ha ha definetly not lol
-from=z3475276
-time=2016-05-17T07:48:57+0000

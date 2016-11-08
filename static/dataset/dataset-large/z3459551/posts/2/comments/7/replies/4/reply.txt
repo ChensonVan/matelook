@@ -1,3 +1,0 @@
-time=2016-09-21T07:12:21+0000
-message=I like that you get me
-from=z5059826

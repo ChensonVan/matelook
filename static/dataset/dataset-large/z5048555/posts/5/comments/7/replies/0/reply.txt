@@ -1,3 +1,0 @@
-message=I dont even go in that building
-time=2016-09-08T09:55:13+0000
-from=z5116995

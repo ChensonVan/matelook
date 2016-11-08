@@ -1,3 +1,0 @@
-from=z5017651
-message=so much to learn
-time=2016-07-26T14:17:06+0000

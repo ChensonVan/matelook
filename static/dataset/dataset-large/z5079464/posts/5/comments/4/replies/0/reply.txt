@@ -1,3 +1,0 @@
-from=z5098292
-time=2016-07-08T07:40:10+0000
-message=HAHA lets chat on moodle now

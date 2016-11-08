@@ -1,3 +1,0 @@
-from=z5060416
-message=Heeeeaaaaps rude
-time=2013-03-21T12:21:20+0000

@@ -1,5 +1,0 @@
-from=z5002400
-latitude=-33.9075
-time=2016-09-21T00:55:45+0000
-longitude=151.2211
-message=To those guys who try too hard with cliche lines and over enthusiastic responses,\n\nI am not impressed.\n\nIf you want to fool me with rehearsed lines, you should try to come up with something better.\n\nSincerely,\n\nA girl who can see through your lies.

@@ -1,3 +1,0 @@
-from=z3462629
-time=2016-09-08T12:11:12+0000
-message=Ghost of village past bro

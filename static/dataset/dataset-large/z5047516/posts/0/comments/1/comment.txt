@@ -1,3 +1,0 @@
-time=2013-12-05T11:51:30+0000
-message=This is great!!!!
-from=z5109786

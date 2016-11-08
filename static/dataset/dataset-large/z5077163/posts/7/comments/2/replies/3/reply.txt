@@ -1,3 +1,0 @@
-message=Too modest
-time=2016-09-10T07:59:00+0000
-from=z5117982

@@ -1,3 +1,0 @@
-message=does it work the other way??
-time=2016-08-10T22:33:49+0000
-from=z5014753

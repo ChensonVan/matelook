@@ -1,3 +1,0 @@
-from=z5059325
-message=z5014335 nice and lowkey
-time=2016-08-17T02:07:39+0000

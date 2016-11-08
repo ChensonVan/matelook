@@ -1,3 +1,0 @@
-from=z5017894
-message=Lol im too cool for accounting bro
-time=2016-06-25T15:57:36+0000

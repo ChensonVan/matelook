@@ -1,5 +1,0 @@
-message=Where are all the hot COFA and UNSW lesbians at? Hit me up!!
-from=z5098313
-latitude=-33.8836
-time=2013-08-03T08:28:52+0000
-longitude=151.2039

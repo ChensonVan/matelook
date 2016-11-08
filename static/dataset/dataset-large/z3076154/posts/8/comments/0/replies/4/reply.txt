@@ -1,3 +1,0 @@
-from=z3486844
-message=alright mate, dont forget to clean up with your gamsat past papers
-time=2016-06-30T13:04:18+0000

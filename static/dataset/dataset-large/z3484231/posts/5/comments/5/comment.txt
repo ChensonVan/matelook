@@ -1,3 +1,0 @@
-from=z3486844
-message=z3470029 u fkn heartbreaker
-time=2016-08-24T15:26:04+0000

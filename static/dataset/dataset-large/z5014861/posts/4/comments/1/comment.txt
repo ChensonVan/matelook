@@ -1,3 +1,0 @@
-message=dafuq 0_o
-time=2013-05-10T06:00:10+0000
-from=z3462055

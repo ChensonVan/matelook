@@ -1,3 +1,0 @@
-from=z5017258
-time=2016-05-25T12:34:22+0000
-message=z5017077 was this you

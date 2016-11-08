@@ -1,3 +1,0 @@
-from=z5015243
-message=Why isn't there a dog appreciation society...
-time=2016-08-31T10:01:57+0000

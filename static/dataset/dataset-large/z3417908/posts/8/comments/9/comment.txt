@@ -1,3 +1,0 @@
-from=z5059596
-time=2016-05-16T12:10:39+0000
-message=z5017651 are you going to leave your number or should I?

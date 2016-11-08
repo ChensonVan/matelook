@@ -1,3 +1,0 @@
-from=z3462191
-message=z5056324 double whammy
-time=2016-06-14T21:29:13+0000

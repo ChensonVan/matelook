@@ -1,3 +1,0 @@
-from=z5085507
-message=Too bad he's not
-time=2016-09-14T06:41:45+0000

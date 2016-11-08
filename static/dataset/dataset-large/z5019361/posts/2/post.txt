@@ -1,5 +1,0 @@
-from=z5019361
-latitude=-33.9149
-message=To that first year hottie,\n\nI miss you when I don't see you in our lectures - is this why no matter how much i learn about the heart, I still can't understand my own? All I know is that when you send me that sexy snapchat pout, it hits me in the left 5th intercostal space below my midclavicular line. Even though I know that you send that lovely snap to all the mean girls, I still get dyspnoea when I think about doing some risky behaviour if we skipped Ute's lecture together. When you walk by me and fling that luscious black hair, I get severe palpitations. I wish you would realise and prescribe me some life-saving CPR ;)\n\nI know you're a bad boy, but I wish you could be my good boy.
-longitude=151.2246
-time=2016-08-25T06:35:55+0000

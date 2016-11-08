@@ -1,5 +1,0 @@
-latitude=-33.9379
-longitude=151.1936
-message=Darren Weinman... You had me to Hello.\nx
-time=2013-06-26T00:45:48+0000
-from=z5002400

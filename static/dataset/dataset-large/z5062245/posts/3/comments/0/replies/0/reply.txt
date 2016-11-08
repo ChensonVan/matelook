@@ -1,3 +1,0 @@
-from=z5041714
-time=2016-10-04T01:37:50+0000
-message=Has anyone ever got your name right???

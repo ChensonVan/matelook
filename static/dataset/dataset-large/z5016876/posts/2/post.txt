@@ -1,5 +1,0 @@
-message=Anthony Tan, \nHow come I never see you around uni anymore? Did you drop out or something??? I loved admiring your biceps\n\n-L
-time=2016-10-06T02:17:48+0000
-from=z5016876
-latitude=-33.9175
-longitude=151.2301

@@ -1,3 +1,0 @@
-message=NOPE AHAHA
-from=z5113715
-time=2016-06-17T21:59:10+0000

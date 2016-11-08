@@ -1,3 +1,0 @@
-message=Cause you wrote it
-from=z5115679
-time=2016-04-28T08:18:17+0000

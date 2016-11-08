@@ -1,3 +1,0 @@
-message=z5110502 - unlucky mash
-time=2016-06-15T02:29:29+0000
-from=z5017651

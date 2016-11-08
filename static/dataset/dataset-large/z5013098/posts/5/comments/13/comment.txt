@@ -1,3 +1,0 @@
-from=z5056324
-time=2013-05-20T12:00:26+0000
-message=^omg isn't he the arc guy?

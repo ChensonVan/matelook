@@ -1,3 +1,0 @@
-from=z3335004
-time=2016-06-30T06:30:46+0000
-message=z3463930, The one and only z5119635

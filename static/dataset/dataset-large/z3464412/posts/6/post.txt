@@ -1,5 +1,0 @@
-latitude=-33.9243
-from=z3464412
-message=To the crusader at the start of session party, hot dayumm
-longitude=151.2336
-time=2013-08-08T15:12:39+0000

@@ -1,3 +1,0 @@
-from=z5055646
-time=2013-07-12T10:29:08+0000
-message=Looks like you have an admirer z5075726!

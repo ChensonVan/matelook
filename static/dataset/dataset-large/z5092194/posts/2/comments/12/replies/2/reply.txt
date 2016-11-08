@@ -1,3 +1,0 @@
-from=z5115755
-message=Gotta do it right :P
-time=2016-04-29T09:38:49+0000

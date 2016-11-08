@@ -1,5 +1,0 @@
-message=I've been recieving a couple of smiles but I'm not sure if it's because I'm a strange outcast or that have their interest. Either way, I'm happy that I got to see cute smiles from pretty faces in this shitty weather
-longitude=151.0887
-time=2016-08-27T06:25:36+0000
-latitude=-33.9827
-from=z5057687

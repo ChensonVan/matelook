@@ -1,3 +1,0 @@
-from=z5118844
-message=you can swap dog to potato (or cat) HAHA but i wish i had a doooooog :(
-time=2016-08-31T11:53:36+0000

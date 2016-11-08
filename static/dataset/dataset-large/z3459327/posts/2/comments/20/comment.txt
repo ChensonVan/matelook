@@ -1,3 +1,0 @@
-message=z5059583 retired slaya?
-time=2016-05-30T12:51:02+0000
-from=z5013098

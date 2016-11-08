@@ -1,3 +1,0 @@
-from=z5117076
-time=2016-05-25T23:03:59+0000
-message=Omfg lol

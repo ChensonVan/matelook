@@ -1,3 +1,0 @@
-message=why's this in love letters
-time=2016-06-24T22:30:16+0000
-from=z5098088

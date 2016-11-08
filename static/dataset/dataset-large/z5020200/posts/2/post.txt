@@ -1,5 +1,0 @@
-message=To the Eurasian guy who works at Manpuku, you seem really nice and friendly. ^~^\n\nI would like to get to know you better. (Are you single?)\n\nAvid ramen eater <3
-latitude=-33.9286
-time=2013-10-28T11:45:37+0000
-longitude=151.2185
-from=z5020200

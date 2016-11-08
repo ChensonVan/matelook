@@ -1,3 +1,0 @@
-message=my class is from 11-1 nice try arjun
-from=z5075496
-time=2016-09-25T10:27:34+0000

@@ -1,5 +1,0 @@
-message=Shoutout to the girl, going to her 9am class on Thursday, on the 895, asian girl, brown hair, 150-155cm, black hoodie with camouflage interior lining, black handbag, navy skirt. Hopefully see you there next week.\n\n- guy behind you
-longitude=151.1017
-latitude=-33.8856
-from=z5118627
-time=2016-05-11T12:29:28+0000

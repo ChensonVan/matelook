@@ -1,3 +1,0 @@
-from=z5037271
-time=2016-08-25T22:40:38+0000
-message=Yeah he's really cute

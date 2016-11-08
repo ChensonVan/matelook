@@ -1,3 +1,0 @@
-message=Hahaha wtf :L
-time=2013-09-12T04:36:10+0000
-from=z5052081

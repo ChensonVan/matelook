@@ -1,3 +1,0 @@
-from=z5014972
-time=2013-05-20T11:13:31+0000
-message=Wait what?. A Pokemon society?

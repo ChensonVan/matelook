@@ -1,3 +1,0 @@
-message=z3459509, a benefit of doing CSE; its a science course
-from=z5063045
-time=2016-08-09T15:31:19+0000

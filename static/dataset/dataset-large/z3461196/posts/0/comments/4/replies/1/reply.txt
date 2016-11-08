@@ -1,3 +1,0 @@
-time=2016-09-21T06:09:32+0000
-message=z3462438 pompeii
-from=z5116218

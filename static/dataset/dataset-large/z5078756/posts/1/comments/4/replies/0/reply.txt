@@ -1,3 +1,0 @@
-message=Hahahah i feel you brother
-from=z3294734
-time=2016-05-16T13:13:05+0000

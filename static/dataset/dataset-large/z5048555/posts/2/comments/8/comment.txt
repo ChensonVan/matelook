@@ -1,3 +1,0 @@
-time=2016-05-07T04:15:23+0000
-message=z3459551 sam got in man
-from=z3492794

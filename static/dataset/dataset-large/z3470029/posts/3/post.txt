@@ -1,5 +1,0 @@
-time=2016-09-07T05:37:04+0000
-message=yo if you like her just send her goddamn message from time to time
-longitude=151.0881
-from=z3470029
-latitude=-33.9171

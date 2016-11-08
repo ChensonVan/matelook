@@ -1,3 +1,0 @@
-message=Oh shit its almost week 9...
-time=2016-09-13T11:06:09+0000
-from=z5060306

@@ -1,3 +1,0 @@
-message=Exercise Physiology is in the Medicine Faculty.....if that counts then z3493921, z5115479, z5019330, z5018248, z5043981 and z3076154
-from=z5021034
-time=2016-05-17T07:50:19+0000

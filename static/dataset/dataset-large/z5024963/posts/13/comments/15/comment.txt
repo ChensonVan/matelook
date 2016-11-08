@@ -1,3 +1,0 @@
-from=z5075827
-message=z5098187 .. Your time to shine mate
-time=2016-08-14T13:07:57+0000

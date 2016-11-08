@@ -1,5 +1,0 @@
-latitude=-33.9696
-longitude=151.2505
-message=To Lucy,\nWe haven't talked face to face before, and I'm not sure I've got the guts to be able to. You do politics classes with me, sometimes Monday, sometimes Wednesday, and I enjoy your intelligent answers to questions in class. Although I have only seen it a few times you have a smile that is beyond incredible. It is actually ridiculous - I mean come on? Some celebrities would kill for a smile like that.\nI don't know if you're single or taken, or even looking for a relationship right now - I just hope you keep being awesome, because the world is a better place with you in it.\nI hope to see you again, because my heart seems to skip and miss a beat or two when you're around.\nAll the best,\nW.
-from=z3456408
-time=2013-09-24T12:43:43+0000

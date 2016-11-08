@@ -1,3 +1,0 @@
-from=z5019353
-time=2016-05-16T13:03:40+0000
-message=I'm not a worrier but a warrior

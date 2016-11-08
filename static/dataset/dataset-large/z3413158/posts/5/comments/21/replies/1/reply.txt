@@ -1,3 +1,0 @@
-time=2016-04-20T07:15:42+0000
-from=z5074933
-message=and you call me dr.strange

@@ -1,3 +1,0 @@
-from=z5117170
-message=HAHAHAHAHAHAHAHA stfu
-time=2016-08-09T11:31:56+0000

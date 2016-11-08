@@ -1,3 +1,0 @@
-message=I should have dropped chem
-from=z5038337
-time=2016-04-16T07:49:41+0000

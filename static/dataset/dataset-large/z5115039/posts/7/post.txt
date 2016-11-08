@@ -1,5 +1,0 @@
-message=To the curry guy with skinny legs and facial hair who works at the clubs office. I keep coming in to ask questions just to see if you're there. Just spare me the effort and ask me out next time xo princess jasmine
-latitude=-34.0851
-time=2013-07-30T11:10:29+0000
-longitude=151.0590
-from=z5115039

@@ -1,3 +1,0 @@
-time=2016-06-15T08:50:40+0000
-from=z5110502
-message=WHO. WHERE.

@@ -1,3 +1,0 @@
-message=for his little bunny
-from=z5076025
-time=2013-11-02T13:40:06+0000

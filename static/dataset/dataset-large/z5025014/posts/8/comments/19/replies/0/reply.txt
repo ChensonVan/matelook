@@ -1,3 +1,0 @@
-from=z3431766
-message=The yakult brings all the girls to the yard
-time=2016-08-18T22:09:53+0000

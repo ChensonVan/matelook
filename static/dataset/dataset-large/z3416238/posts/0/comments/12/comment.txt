@@ -1,3 +1,0 @@
-from=z5028693
-time=2016-05-12T08:25:28+0000
-message=z5114240 DW man I gotcha

@@ -1,3 +1,0 @@
-from=z5019353
-message=z5043981 you're not the only one haha
-time=2016-08-14T14:46:45+0000

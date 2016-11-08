@@ -1,5 +1,0 @@
-from=z5112650
-latitude=-33.9373
-time=2016-04-29T08:12:45+0000
-message=To the blonde-haired, bearded guy who read aloud in the ARTS2480 lecture last Monday: Your accent was so perfect, I'm pretty sure all the hearts in the room melted at every utterance. \nI want your HD.\nSincerely,\nwomen / men of ARTS2480.
-longitude=151.0074

@@ -1,3 +1,0 @@
-from=z5059860
-message=I wish it was me, but some one was ahead of me :(
-time=2013-08-13T04:13:54+0000

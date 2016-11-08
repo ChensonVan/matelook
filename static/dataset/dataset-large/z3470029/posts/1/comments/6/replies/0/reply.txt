@@ -1,3 +1,0 @@
-from=z5115479
-time=2016-09-07T10:47:55+0000
-message=Is it that obvious? :/

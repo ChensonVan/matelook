@@ -1,3 +1,0 @@
-from=z5021190
-time=2013-05-05T02:15:33+0000
-message=Defintely z5076642!

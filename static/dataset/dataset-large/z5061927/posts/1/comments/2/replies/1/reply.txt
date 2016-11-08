@@ -1,3 +1,0 @@
-time=2016-09-12T23:21:06+0000
-message=Poor jim
-from=z3431766

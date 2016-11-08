@@ -1,3 +1,0 @@
-message=Jeremy's the bison, not the avatar
-time=2016-04-20T13:22:28+0000
-from=z5059064

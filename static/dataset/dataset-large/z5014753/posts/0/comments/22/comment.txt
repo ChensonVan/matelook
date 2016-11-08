@@ -1,3 +1,0 @@
-from=z3461651
-message=z5085507 top notch choice
-time=2016-09-21T13:45:01+0000

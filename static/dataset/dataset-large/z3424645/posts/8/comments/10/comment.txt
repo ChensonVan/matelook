@@ -1,3 +1,0 @@
-message=http://www.quickmeme.com/meme/3tiljs/
-time=2013-03-25T12:17:41+0000
-from=z3484231

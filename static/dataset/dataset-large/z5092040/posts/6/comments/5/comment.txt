@@ -1,3 +1,0 @@
-from=z5110851
-message=LOL ooh la la nancy hahaha
-time=2013-06-26T03:23:57+0000

@@ -1,3 +1,0 @@
-time=2016-08-26T12:57:40+0000
-message=No nmds
-from=z5062448

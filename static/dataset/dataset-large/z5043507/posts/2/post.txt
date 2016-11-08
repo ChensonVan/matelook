@@ -1,5 +1,0 @@
-message=To the ArtsSoc president, who also appears to be Oxfam vice president, when I saw you at the Pokesoc AGM last week, I found you attractive. Lets do some more society stuff together 5eva, yeah? :)
-latitude=-33.8092
-from=z5043507
-time=2013-06-01T14:00:02+0000
-longitude=151.2054

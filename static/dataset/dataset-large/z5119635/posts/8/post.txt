@@ -1,5 +1,0 @@
-latitude=-33.9138
-time=2013-05-10T13:00:52+0000
-from=z5119635
-longitude=151.0475
-message=I'm looking for love, what societies have hot guys in them?

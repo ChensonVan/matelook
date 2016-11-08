@@ -1,3 +1,0 @@
-from=z5074940
-message=z5078514 once again hits it up with more love letters
-time=2013-06-15T05:30:42+0000

@@ -1,3 +1,0 @@
-message=young they might be, but eager
-from=z5015700
-time=2016-05-10T06:14:41+0000

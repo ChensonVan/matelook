@@ -1,3 +1,0 @@
-message=Why didn't you give z5110851 ur number?
-from=z5024986
-time=2016-05-05T08:38:10+0000

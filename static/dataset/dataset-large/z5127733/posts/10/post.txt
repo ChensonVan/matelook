@@ -1,5 +1,0 @@
-message=Tanzi Raysa I am in love with you and your cute smile. You brighten my Monday mornings by catching 8.23 train from lakemba.
-longitude=150.4506
-time=2016-09-15T10:54:47+0000
-latitude=-33.4985
-from=z5127733

@@ -1,5 +1,0 @@
-message=To the most selfless person I know,\nI love you bec lin
-longitude=151.1942
-latitude=-33.8893
-from=z5098157
-time=2013-06-20T07:39:41+0000

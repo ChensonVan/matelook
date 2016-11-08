@@ -1,3 +1,0 @@
-from=z5075496
-message=Hahahahaha! He's the best :')
-time=2013-06-13T01:09:40+0000

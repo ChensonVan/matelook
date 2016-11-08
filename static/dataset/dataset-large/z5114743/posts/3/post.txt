@@ -1,5 +1,0 @@
-from=z5114743
-longitude=151.2303
-message=Viv from med sci! I've noticed you all year from afar! Are yout taken??\n\nYour admirer
-latitude=-33.9165
-time=2016-10-05T21:36:58+0000

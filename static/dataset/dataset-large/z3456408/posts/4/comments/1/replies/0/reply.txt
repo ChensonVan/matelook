@@ -1,3 +1,0 @@
-from=z5017258
-time=2016-09-04T09:54:36+0000
-message=No feelings, only friendship

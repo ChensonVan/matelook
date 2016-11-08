@@ -1,5 +1,0 @@
-longitude=151.0909
-message=To the gorgeous black guy I saw in a suit in the UNSW pharmacy last year. I'm pretty sure you're a post grad and wish I had talked to you waiting in line. Coffee sometime? xox
-time=2013-05-05T06:28:57+0000
-from=z3484231
-latitude=-34.0323

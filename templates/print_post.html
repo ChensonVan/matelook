@@ -54,7 +54,7 @@
             {% if notification.noti_type == 'add' %}
                 <p><a href="{{ url_for('notifications') }}"> 
                     {{ notification.from_name }} want add you as friend.
-                    <form action="/notifications" method="POST">
+                    <form action="{{ url_for('notifications') }}" method="POST">
                         <input type="hidden" name="nid", value={{ notification.nid }}>
                         <input type="submit" name="action" value="accept" class="btn btn-theme btn-xs"/>
                         <input type="submit" name="action" value="decline" class="btn btn-theme btn-xs"/>
@@ -63,7 +63,7 @@
             {% elif notification.noti_type == 'delete' %}
                 <p><a href="{{ url_for('notifications') }}"> 
                     {{ notification.from_name }} has release your friendship.
-                    <form action="/notifications" method="POST">
+                    <form action="{{ url_for('notifications') }}" method="POST">
                         <input type="submit" name="action" value="look" class="btn btn-theme btn-xs"/>
                         <input type="hidden" name="nid", value={{ notification.nid }}>
                         <input type="submit" name="action" value="ignore" class="btn btn-theme btn-xs"/>
@@ -72,7 +72,7 @@
             {% elif notification.noti_type == 'reply' %}
                 <p><a href="{{ url_for('notifications') }}"> 
                     {{ notification.from_name }} replied your post.
-                    <form action="/notifications" method="POST">
+                    <form action="{{ url_for('notifications') }}" method="POST">
                         <input type="hidden" name="nid", value={{ notification.nid }}>
                         <input type="submit" name="action" value="read" class="btn btn-theme btn-xs"/>
                         <input type="submit" name="action" value="ignore" class="btn btn-theme btn-xs"/>
@@ -81,7 +81,7 @@
             {% elif notification.noti_type == 'accept' %}
                 <p><a href="{{ url_for('notifications') }}"> 
                     {{ notification.from_name }} has accepted your request. 
-                    <form action="/notifications" method="POST">
+                    <form action="{{ url_for('notifications') }}" method="POST">
                         <input type="hidden" name="nid", value={{ notification.nid }}>
                         <input type="submit" name="action" value="look" class="btn btn-theme btn-xs"/>
                         <input type="submit" name="action" value="ignore" class="btn btn-theme btn-xs"/>
@@ -90,7 +90,7 @@
             {% elif notification.noti_type == 'decline' %}
                 <p><a href="{{ url_for('notifications') }}"> 
                     {{ notification.from_name }} has declined your request. 
-                    <form action="/notifications" method="POST">
+                    <form action="{{ url_for('notifications') }}" method="POST">
                         <input type="hidden" name="nid", value={{ notification.nid }}>
                         <input type="submit" name="action" value="look" class="btn btn-theme btn-xs"/>
                         <input type="submit" name="action" value="ignore" class="btn btn-theme btn-xs"/>

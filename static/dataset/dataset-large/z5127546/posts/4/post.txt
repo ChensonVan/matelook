@@ -1,5 +1,0 @@
-longitude=151.2264
-message=To the asian guy with black hair and brown eyes who goes to UNSW (you know who you are), I would like to sniff your hair a little some time? call me ;)
-time=2013-04-23T12:31:36+0000
-latitude=-33.9229
-from=z5127546

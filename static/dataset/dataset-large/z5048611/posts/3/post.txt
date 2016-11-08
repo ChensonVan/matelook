@@ -1,5 +1,0 @@
-time=2016-08-10T21:49:02+0000
-from=z5048611
-latitude=-33.6864
-longitude=151.3089
-message=My mum puts more effort into making my lunches than I put into my courses.

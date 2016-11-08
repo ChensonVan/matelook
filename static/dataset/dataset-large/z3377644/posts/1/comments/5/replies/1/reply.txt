@@ -1,3 +1,0 @@
-message=Thank you.  If only gilbert could see my merits
-from=z5113482
-time=2016-08-30T10:27:06+0000

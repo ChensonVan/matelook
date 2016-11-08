@@ -1,3 +1,0 @@
-message=A walk in the park
-from=z3459459
-time=2016-09-04T13:36:23+0000

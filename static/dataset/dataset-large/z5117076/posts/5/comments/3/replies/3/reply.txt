@@ -1,3 +1,0 @@
-message=Inb4 finn reads this
-from=z3379933
-time=2016-05-20T12:06:49+0000

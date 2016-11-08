@@ -1,3 +1,0 @@
-time=2016-09-06T00:07:24+0000
-from=z5013098
-message=I wonder who this could be

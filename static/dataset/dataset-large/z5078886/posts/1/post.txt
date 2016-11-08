@@ -1,5 +1,0 @@
-time=2013-09-17T05:00:21+0000
-from=z5078886
-message=Dr Ann Lee, you're the best looking lecturer in UNSW. If only I found you before, I would have studied Mechanical Engineering. You are the motivation students need to turn up to class. I would attend a 9am class to see your face. <3
-latitude=-33.9112
-longitude=151.2236

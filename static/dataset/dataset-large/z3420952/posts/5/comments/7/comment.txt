@@ -1,3 +1,0 @@
-message=Who wants me
-from=z5019900
-time=2013-05-07T21:32:42+0000

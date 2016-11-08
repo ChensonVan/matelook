@@ -1,3 +1,0 @@
-time=2016-08-11T12:59:20+0000
-from=z5048555
-message=z5077131 have you tried turning it off and on again?

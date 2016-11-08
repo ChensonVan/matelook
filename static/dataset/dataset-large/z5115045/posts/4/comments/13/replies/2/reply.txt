@@ -1,3 +1,0 @@
-from=z5117377
-message=1v1 me this midsem break!!
-time=2016-09-13T08:57:00+0000

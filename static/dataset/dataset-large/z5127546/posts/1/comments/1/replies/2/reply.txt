@@ -1,3 +1,0 @@
-message=u wish
-from=z5024986
-time=2016-05-06T14:09:38+0000

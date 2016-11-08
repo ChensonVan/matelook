@@ -1,3 +1,0 @@
-message=Nah but engineers go hard on the beer
-from=z5118782
-time=2016-06-23T07:11:35+0000

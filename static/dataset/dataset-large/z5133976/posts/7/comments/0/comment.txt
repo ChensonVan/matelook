@@ -1,3 +1,0 @@
-message=Can't believe I wasted 5 seconds reading that
-time=2013-03-28T14:23:05+0000
-from=z3377644

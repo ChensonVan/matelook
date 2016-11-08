@@ -1,5 +1,0 @@
-latitude=-33.8175
-longitude=151.2024
-message=To Sarah M in second year med,\n\nBlood is red, cyanosis is blue. I get tachycardia when I think of you. \n\nPls go on a date with me <3\n\nXoxo your secret admirer
-from=z5060921
-time=2016-06-30T04:02:48+0000

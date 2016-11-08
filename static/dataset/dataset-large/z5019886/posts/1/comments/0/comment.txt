@@ -1,3 +1,0 @@
-from=z5122559
-message=z5098341 wemadeit
-time=2016-08-31T23:33:53+0000

@@ -1,3 +1,0 @@
-message=https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/941127_10151593007127779_1516405981_n.jpg
-from=z3484231
-time=2013-06-20T07:00:30+0000

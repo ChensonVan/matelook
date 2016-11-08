@@ -1,3 +1,0 @@
-message=*you're
-from=z5074940
-time=2013-08-11T01:57:27+0000

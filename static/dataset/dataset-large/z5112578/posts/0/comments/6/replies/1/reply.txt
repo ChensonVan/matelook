@@ -1,3 +1,0 @@
-time=2016-08-12T00:37:26+0000
-message=Bc I know exactly why no one does
-from=z5114743

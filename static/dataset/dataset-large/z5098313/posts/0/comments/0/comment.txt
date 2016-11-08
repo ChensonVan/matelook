@@ -1,3 +1,0 @@
-from=z3475276
-message=z5083924 i thought the same thing the other night
-time=2016-04-21T12:45:58+0000

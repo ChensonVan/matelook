@@ -1,3 +1,0 @@
-time=2016-08-22T00:03:49+0000
-message="a guy on the left"\n\nHow many of him are there?
-from=z3468575

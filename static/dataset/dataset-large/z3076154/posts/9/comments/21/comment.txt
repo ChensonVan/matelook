@@ -1,3 +1,0 @@
-message=z5023123 ruthless
-time=2016-08-04T09:16:31+0000
-from=z5062448

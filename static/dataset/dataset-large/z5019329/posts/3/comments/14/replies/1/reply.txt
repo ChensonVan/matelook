@@ -1,3 +1,0 @@
-message=Actually red hot tho
-from=z5089708
-time=2016-05-05T03:15:12+0000

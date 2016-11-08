@@ -1,3 +1,0 @@
-from=z5127546
-message=z5106767 you always had it
-time=2016-08-28T23:06:32+0000

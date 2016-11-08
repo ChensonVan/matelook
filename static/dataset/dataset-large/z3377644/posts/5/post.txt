@@ -1,5 +1,0 @@
-time=2016-07-02T11:52:33+0000
-message=To the cute girl in my ECON1101 final in Leighton Hall. You were sitting in K3 and took my breath away... Wanna grab some lunch sometime?\n- Guy in M1
-from=z3377644
-latitude=-33.7640
-longitude=151.2607

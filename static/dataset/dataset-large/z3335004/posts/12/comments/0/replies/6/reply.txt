@@ -1,3 +1,0 @@
-message=Go ahead and try and hit me if you're able
-from=z5019746
-time=2016-09-25T21:48:10+0000

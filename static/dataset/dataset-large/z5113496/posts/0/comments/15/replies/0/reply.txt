@@ -1,3 +1,0 @@
-message=Nah I'm replying to it
-from=z5113236
-time=2016-09-02T03:39:55+0000

@@ -1,3 +1,0 @@
-from=z5110851
-time=2016-09-22T13:10:41+0000
-message=Dear H.S. \n\nDude are you single or taken?

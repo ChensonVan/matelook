@@ -1,3 +1,0 @@
-message=Maybe convince her to go to ski trip first :P
-time=2013-04-23T20:44:38+0000
-from=z5015280

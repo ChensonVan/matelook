@@ -1,3 +1,0 @@
-message=z5014861 life story
-from=z3493008
-time=2016-05-11T11:44:40+0000

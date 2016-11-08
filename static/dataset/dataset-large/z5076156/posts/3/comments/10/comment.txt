@@ -1,3 +1,0 @@
-from=z5013310
-time=2016-09-21T15:37:50+0000
-message=z5109786 I'm in with a chance

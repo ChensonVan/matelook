@@ -1,3 +1,0 @@
-from=z5012884
-message="I only live 4 min walk from unsw" brah
-time=2016-07-26T08:09:25+0000

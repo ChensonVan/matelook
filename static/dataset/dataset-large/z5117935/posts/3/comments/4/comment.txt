@@ -1,3 +1,0 @@
-from=z5024967
-message=Haha. Awwww yeah
-time=2013-08-11T02:25:37+0000

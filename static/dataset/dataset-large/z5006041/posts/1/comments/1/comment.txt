@@ -1,3 +1,0 @@
-from=z3463930
-message=z5079464 I think we all know who this is
-time=2014-01-13T12:18:39+0000

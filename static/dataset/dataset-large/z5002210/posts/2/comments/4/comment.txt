@@ -1,3 +1,0 @@
-message=You're the one who lives under the stairs z5056054
-from=z3460724
-time=2013-08-13T03:54:43+0000

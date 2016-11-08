@@ -1,5 +1,0 @@
-longitude=151.2394
-from=z5078756
-time=2015-04-14T00:01:01+0000
-message=She was the one and only and I took her for granted, my only regret is not being with her more. \n\nI love you, Sleep.
-latitude=-33.9138

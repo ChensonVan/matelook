@@ -1,3 +1,0 @@
-from=z3415383
-time=2016-06-03T09:42:48+0000
-message=Omg too good

@@ -1,3 +1,0 @@
-from=z5017666
-message=thats like guy at uni
-time=2016-08-24T16:35:21+0000

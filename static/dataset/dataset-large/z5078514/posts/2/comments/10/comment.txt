@@ -1,3 +1,0 @@
-from=z5115039
-message=180cm is child's play
-time=2013-09-25T22:52:52+0000

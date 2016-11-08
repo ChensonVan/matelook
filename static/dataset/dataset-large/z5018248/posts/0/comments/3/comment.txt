@@ -1,3 +1,0 @@
-from=z3439243
-time=2016-05-12T02:10:16+0000
-message=z3493921 he's singing at Med Revue!

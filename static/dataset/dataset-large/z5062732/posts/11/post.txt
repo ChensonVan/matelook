@@ -1,5 +1,0 @@
-message=To my special someone,\nI've liked you for some time now, but i feel like you don't feel the same way. I'm at the verge of giving up but I won't until i know for certain how you feel about me.
-longitude=151.3262
-latitude=-33.6206
-from=z5062732
-time=2016-06-29T15:49:54+0000

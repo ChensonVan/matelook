@@ -1,3 +1,0 @@
-from=z5116179
-time=2016-08-06T13:05:31+0000
-message=I thought z3464149 wrote it about z3330003

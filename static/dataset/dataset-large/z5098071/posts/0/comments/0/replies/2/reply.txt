@@ -1,3 +1,0 @@
-from=z5020210
-time=2016-09-17T12:53:11+0000
-message=Hahahahaha very very true

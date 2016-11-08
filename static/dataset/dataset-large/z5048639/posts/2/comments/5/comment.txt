@@ -1,3 +1,0 @@
-from=z5059860
-message=Mohini wouldn't be shy about it
-time=2013-05-10T07:48:01+0000

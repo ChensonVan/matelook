@@ -1,3 +1,0 @@
-message=They def are Tom
-from=z5118627
-time=2013-03-21T12:01:08+0000

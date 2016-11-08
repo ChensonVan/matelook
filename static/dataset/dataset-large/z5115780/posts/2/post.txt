@@ -1,5 +1,0 @@
-from=z5115780
-latitude=-34.0015
-message=To the hunky guy in the red top in the law Library today that went to get water like 10 times, \n\nhugely enjoyed the eye contact today, \n\nFrom the two girls giggling and staring at you the entire time, \nXOXO
-longitude=151.0991
-time=2016-04-27T10:46:17+0000

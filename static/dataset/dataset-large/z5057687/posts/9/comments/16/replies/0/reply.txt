@@ -1,3 +1,0 @@
-message=nah carrots aint my thing
-time=2016-09-09T07:20:51+0000
-from=z3459453

@@ -1,3 +1,0 @@
-from=z5059325
-time=2016-06-03T05:25:07+0000
-message=Can you please answer the question bro?

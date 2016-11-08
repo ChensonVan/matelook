@@ -1,3 +1,0 @@
-message=sprung
-time=2016-06-03T01:17:55+0000
-from=z5062277

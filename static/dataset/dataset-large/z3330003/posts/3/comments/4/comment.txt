@@ -1,3 +1,0 @@
-from=z3464149
-time=2013-04-15T10:51:05+0000
-message=Call me Maybe - Carly Rae Jepsen ? 

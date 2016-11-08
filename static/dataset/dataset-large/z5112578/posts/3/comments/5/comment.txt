@@ -1,3 +1,0 @@
-time=2016-08-31T22:49:14+0000
-message=z5059325 this was 100% you
-from=z3413158

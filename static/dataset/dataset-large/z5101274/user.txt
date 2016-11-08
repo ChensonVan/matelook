@@ -1,9 +1,0 @@
-mates=[z3462856, z5028693]
-program=Eng (Hons) / MBiomedE
-home_suburb=Enfield South
-zid=z5101274
-full_name=Keanu Reeves
-password=hunter
-courses=[2016 S1 CHEM1011, 2016 S1 ENGG1000, 2016 S1 MATH1131, 2016 S1 PHYS1121, 2016 S2 BIOS1101, 2016 S2 CHEM1021, 2016 S2 MATH1041, 2016 S2 PHYS1160]
-email=K.Reeves@unsw.edu.au
-birthday=1992-12-01

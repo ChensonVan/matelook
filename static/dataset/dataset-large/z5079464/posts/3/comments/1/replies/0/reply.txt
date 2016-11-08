@@ -1,3 +1,0 @@
-time=2016-07-04T07:43:11+0000
-message=Cheese is always there for u
-from=z5006041

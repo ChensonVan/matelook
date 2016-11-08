@@ -1,3 +1,0 @@
-message=labs is z5113715's hunting ground
-from=z3416923
-time=2016-07-01T22:19:07+0000

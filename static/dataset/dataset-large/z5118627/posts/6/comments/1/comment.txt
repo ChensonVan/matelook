@@ -1,3 +1,0 @@
-from=z5052081
-message=HAHAHAHAH omgg
-time=2013-04-22T03:22:05+0000

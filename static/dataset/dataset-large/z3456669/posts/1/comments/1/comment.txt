@@ -1,3 +1,0 @@
-from=z5043981
-message=z3461651 has a waiting list, he can fit you in for January 26th 4:59pm -5:00pm 2069
-time=2016-09-17T08:41:40+0000

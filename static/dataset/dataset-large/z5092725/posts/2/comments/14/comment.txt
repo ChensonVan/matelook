@@ -1,3 +1,0 @@
-from=z5019330
-message=The quiet ones are the killers no?
-time=2013-06-26T02:54:14+0000

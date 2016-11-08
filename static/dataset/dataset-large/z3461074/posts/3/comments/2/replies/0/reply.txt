@@ -1,3 +1,0 @@
-message=Yeah - why do you stop replying to me Albu?
-from=z3406406
-time=2016-09-27T23:59:26+0000

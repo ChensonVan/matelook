@@ -1,3 +1,0 @@
-from=z5004426
-message=Babe we so cute they need to make a lifetime movie about us
-time=2016-08-06T23:13:15+0000

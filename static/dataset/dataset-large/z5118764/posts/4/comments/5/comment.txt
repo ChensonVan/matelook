@@ -1,3 +1,0 @@
-from=z5061590
-time=2013-10-02T06:42:48+0000
-message=age is just a number

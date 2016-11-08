@@ -1,3 +1,0 @@
-from=z5048611
-message=nahh its you
-time=2016-06-11T14:54:57+0000

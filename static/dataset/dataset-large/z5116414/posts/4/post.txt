@@ -1,5 +1,0 @@
-message=Ana marija, wanna grab coffee sometime. We've only met recently, but just seeing you and hearing you talk really brightens my day!!! 😁
-latitude=-33.9206
-time=2016-09-08T06:44:03+0000
-from=z5116414
-longitude=151.2312

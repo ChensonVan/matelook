@@ -1,5 +1,0 @@
-longitude=151.2336
-latitude=-33.9259
-message=To the token white guy in 2nd year physiology with quiksilver frames, I heard you play ozTag. when are you free to pull on my tags?
-from=z5117170
-time=2013-09-12T01:30:43+0000

@@ -1,5 +1,0 @@
-from=z5062443
-latitude=-33.9100
-longitude=151.2211
-message=Sugar is sweet and so r u! I luv u John Day!!!!
-time=2016-10-04T22:10:03+0000

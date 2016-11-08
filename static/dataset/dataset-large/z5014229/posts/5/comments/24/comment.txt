@@ -1,3 +1,0 @@
-message=z5112578 Astro you're in
-time=2016-05-13T08:30:33+0000
-from=z5062654

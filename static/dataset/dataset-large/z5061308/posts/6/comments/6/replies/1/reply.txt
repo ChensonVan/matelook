@@ -1,3 +1,0 @@
-from=z5114240
-time=2016-05-13T02:25:49+0000
-message=just because you're only have turk tat xx

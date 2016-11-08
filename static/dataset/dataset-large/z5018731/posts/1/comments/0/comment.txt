@@ -1,3 +1,0 @@
-from=z5024963
-message=Take a gander, her goose is cooked!
-time=2013-09-21T09:10:14+0000

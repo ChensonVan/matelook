@@ -1,5 +1,0 @@
-message=To the curry guy at roundhouse on a Wednesday playing pool with your friends! I think your name is Krishan. You're cute but I'm shy to come say hi when your friends are around!\nCatch up with a few drinks?
-latitude=-33.9233
-longitude=151.2206
-from=z3462438
-time=2016-06-08T02:01:54+0000

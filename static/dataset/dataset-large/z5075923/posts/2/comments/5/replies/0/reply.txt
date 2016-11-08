@@ -1,3 +1,0 @@
-from=z3463930
-time=2016-09-24T04:13:00+0000
-message=Died laughing z3460924

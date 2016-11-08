@@ -1,3 +1,0 @@
-from=z3406406
-message=z5028693 I'm sorry
-time=2016-09-17T05:14:16+0000

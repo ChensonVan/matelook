@@ -1,3 +1,0 @@
-message=They get violent those who get drunk
-from=z3459459
-time=2013-07-31T05:00:11+0000

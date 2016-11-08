@@ -1,5 +1,0 @@
-latitude=-33.9180
-message=Guy in transmission hoodie and country road bag. You know who you are. Holla
-longitude=151.2379
-from=z5089708
-time=2016-08-16T03:13:36+0000

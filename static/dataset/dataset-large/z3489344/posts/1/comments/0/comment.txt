@@ -1,3 +1,0 @@
-from=z5013098
-message=Though, wouldn't that defeat the anonymity. The point of the original eForm being that even the admin wouldn't know who the letters were from, whereas they would know who is inboxing them?
-time=2013-06-17T11:45:30+0000

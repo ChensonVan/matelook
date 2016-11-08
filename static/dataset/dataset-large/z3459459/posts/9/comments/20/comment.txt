@@ -1,3 +1,0 @@
-time=2016-06-05T05:18:44+0000
-message=http://www.klc.unsw.edu.au/free-legal-advice
-from=z3462438

@@ -1,5 +1,0 @@
-time=2016-10-05T16:34:35+0000
-latitude=-33.9135
-longitude=151.2280
-message=Dear Joanna, \nTim is not the only person who thinks you are a sexy, typecast military chick.\nPlease be my phasma.
-from=z5122559

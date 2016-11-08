@@ -1,3 +1,0 @@
-message=i didn't know i was a curry either
-time=2016-06-04T15:42:44+0000
-from=z3406406

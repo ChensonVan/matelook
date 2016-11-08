@@ -1,3 +1,0 @@
-message=All I did was commented that a guy is cute
-time=2016-06-13T07:55:50+0000
-from=z3470057

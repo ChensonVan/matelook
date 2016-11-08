@@ -1,3 +1,0 @@
-time=2016-06-13T01:11:19+0000
-message=cheers mate, lunch sometime?
-from=z5062024

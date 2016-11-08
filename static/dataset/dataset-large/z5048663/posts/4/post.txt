@@ -1,5 +1,0 @@
-from=z5048663
-time=2016-09-04T13:03:26+0000
-message=Babe who are you?
-latitude=-33.9151
-longitude=151.2611

@@ -1,5 +1,0 @@
-message=I did it guys\nClare giang has finally tasted my curry
-from=z5099216
-time=2016-08-13T02:12:54+0000
-longitude=151.2382
-latitude=-33.9152

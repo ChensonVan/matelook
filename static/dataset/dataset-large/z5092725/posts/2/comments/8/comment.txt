@@ -1,3 +1,0 @@
-from=z5036317
-time=2013-06-26T01:02:39+0000
-message=Aw you got me i wrote this for you :(

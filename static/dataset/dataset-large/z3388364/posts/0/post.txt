@@ -1,5 +1,0 @@
-message=I don't know where we are, I don't know what we are. You said no, but now you're giving yes signals. What is that?!?!?
-time=2016-08-29T03:35:48+0000
-from=z3388364
-longitude=151.0920
-latitude=-34.0244

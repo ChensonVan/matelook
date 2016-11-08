@@ -1,3 +1,0 @@
-time=2016-06-10T04:49:05+0000
-message=z5014695  is a top bloke
-from=z5091050

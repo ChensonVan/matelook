@@ -1,3 +1,0 @@
-from=z3480991
-time=2016-07-09T02:12:18+0000
-message=I'll find someone to dig you out nws

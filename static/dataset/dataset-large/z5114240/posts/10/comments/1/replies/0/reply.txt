@@ -1,3 +1,0 @@
-from=z5109880
-message="I had a nosebleed"
-time=2016-07-03T06:17:43+0000

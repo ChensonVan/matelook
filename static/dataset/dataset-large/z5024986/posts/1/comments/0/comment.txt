@@ -1,3 +1,0 @@
-from=z5015526
-message=z5061572 you babe
-time=2013-11-21T13:03:08+0000

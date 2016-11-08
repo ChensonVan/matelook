@@ -1,3 +1,0 @@
-message=z5060416 did you write this yourself?
-time=2016-06-11T14:54:10+0000
-from=z3466413

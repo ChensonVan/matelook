@@ -1,3 +1,0 @@
-from=z5085507
-message=z5123999 maybe you should get tinder
-time=2016-04-20T12:38:17+0000

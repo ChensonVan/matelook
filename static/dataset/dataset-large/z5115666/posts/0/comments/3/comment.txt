@@ -1,3 +1,0 @@
-time=2016-10-05T21:32:22+0000
-message=z5060359 go for it
-from=z5019330

@@ -1,3 +1,0 @@
-from=z5062245
-time=2016-04-28T05:48:54+0000
-message=Jiateng z3462432

@@ -1,3 +1,0 @@
-time=2016-09-21T13:41:11+0000
-message=I appreciate the help
-from=z5112578

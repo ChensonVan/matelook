@@ -1,3 +1,0 @@
-from=z5092725
-time=2016-08-17T14:14:04+0000
-message=this is why i took commerce as well

@@ -1,3 +1,0 @@
-time=2016-08-24T23:01:11+0000
-from=z3461074
-message=this is so sad

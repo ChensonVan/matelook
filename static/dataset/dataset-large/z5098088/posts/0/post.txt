@@ -1,5 +1,0 @@
-message=This time last year I was feeling the pain over telling someone I liked them and not getting the answer I was hoping for.\n\nThis year I'm hurting over someone who I couldn't bring myself to confess to yet, and now it's been awhile since we've spoken and I feel like I may have been forgotten. \n\nHopefully by next R U OK day I'll have someone? Or at the very least, not feel like my emotions have taken control of everything I say and do...
-longitude=151.2375
-time=2016-09-10T07:19:45+0000
-from=z5098088
-latitude=-33.9208

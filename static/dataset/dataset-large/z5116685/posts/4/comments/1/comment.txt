@@ -1,3 +1,0 @@
-message=Haram love letter
-time=2016-05-19T05:01:25+0000
-from=z5017842

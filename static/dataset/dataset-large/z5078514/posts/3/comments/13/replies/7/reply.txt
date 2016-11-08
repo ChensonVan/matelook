@@ -1,3 +1,0 @@
-from=z5104907
-message=If you think I'm sitting here fingers ready on the keyboard you're wrong
-time=2016-04-21T08:38:23+0000

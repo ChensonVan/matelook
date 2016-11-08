@@ -1,3 +1,0 @@
-from=z5110502
-message=Andrew wrote it, I just helped him with the maths parts of it
-time=2016-08-15T08:22:08+0000

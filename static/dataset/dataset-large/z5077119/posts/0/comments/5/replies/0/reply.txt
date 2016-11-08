@@ -1,3 +1,0 @@
-time=2016-07-11T04:55:19+0000
-message=Whaaaat
-from=z3452764

@@ -1,3 +1,0 @@
-from=z5017651
-message=I do like a good curry
-time=2016-05-16T12:13:41+0000

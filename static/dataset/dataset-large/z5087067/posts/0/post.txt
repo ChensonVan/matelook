@@ -1,5 +1,0 @@
-from=z5087067
-message=To my hot philosophy tutor,\nI strongly dislike philosophy. You are the only reason I didn't drop it.
-longitude=151.2526
-time=2013-09-26T04:34:41+0000
-latitude=-33.8973

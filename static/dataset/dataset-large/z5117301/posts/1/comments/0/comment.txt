@@ -1,3 +1,0 @@
-message=Spotted z3446230
-time=2013-07-31T13:42:16+0000
-from=z3251972

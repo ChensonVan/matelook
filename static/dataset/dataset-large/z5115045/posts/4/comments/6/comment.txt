@@ -1,3 +1,0 @@
-message=z5098157 fits your description perfectly
-time=2016-09-13T09:53:43+0000
-from=z5020410

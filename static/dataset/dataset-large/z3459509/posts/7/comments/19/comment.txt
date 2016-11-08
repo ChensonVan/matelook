@@ -1,3 +1,0 @@
-from=z5018248
-time=2016-06-21T12:56:33+0000
-message=Vinnies Society Sleepout on the Library Lawn!\n\n[Support pls z5060140, z5110713, z3374132, z5048611, z5019886]

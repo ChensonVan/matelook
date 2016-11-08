@@ -1,3 +1,0 @@
-from=z5017894
-message=z3413954 is a lonely boy
-time=2016-10-05T04:08:11+0000

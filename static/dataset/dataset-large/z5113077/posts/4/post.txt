@@ -1,5 +1,0 @@
-message=UNSW? More like u never sleep well.
-latitude=-34.1417
-from=z5113077
-time=2016-08-08T14:13:14+0000
-longitude=150.6560

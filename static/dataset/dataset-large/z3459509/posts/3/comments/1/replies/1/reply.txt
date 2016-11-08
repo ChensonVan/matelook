@@ -1,3 +1,0 @@
-from=z5110502
-message=Because I *am* linguistics. :P
-time=2016-09-22T05:37:00+0000

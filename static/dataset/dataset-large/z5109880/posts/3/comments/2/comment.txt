@@ -1,3 +1,0 @@
-message=Shanghai nights baby
-from=z5092040
-time=2013-04-11T08:26:53+0000

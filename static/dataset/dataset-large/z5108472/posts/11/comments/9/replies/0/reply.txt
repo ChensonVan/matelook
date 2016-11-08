@@ -1,3 +1,0 @@
-message=mate it is nothing like that at all
-from=z5048611
-time=2016-04-27T09:12:21+0000

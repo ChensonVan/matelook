@@ -1,3 +1,0 @@
-from=z5082545
-time=2013-05-10T06:21:33+0000
-message=squat on yash's barbell

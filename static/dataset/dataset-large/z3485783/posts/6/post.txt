@@ -1,5 +1,0 @@
-message=I think your name is Fiona, you're in my market analysis class. you are so beautiful and hot, you make my platykurtic go leptokurtic
-from=z3485783
-longitude=151.2409
-time=2013-04-29T12:09:03+0000
-latitude=-33.8884

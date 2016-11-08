@@ -1,3 +1,0 @@
-message=What's bloody new Michelle? Control yourself please!
-time=2016-08-14T08:24:07+0000
-from=z3462428

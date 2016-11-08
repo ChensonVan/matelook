@@ -1,5 +1,0 @@
-from=z5015016
-latitude=-33.9200
-longitude=150.8811
-message=If you're a boy, two years younger than a girl and said girl is very clearly showing interest, man up and do something about it. She clearly thinks you have more going on than you give yourself credit for so the least you can do is put her out of her misery and buy her a bloody coffee. If you don't know her coffee order by now, then you're useless and should pay more attention to the things that are evidently extremely important to her. Do something or she'll graduate and it'll be too late. \n\nIf you are indeed not interested, stop being so damn bloody fricking cute! \n\nWith compliments, \nThe Girl with the Little Legs
-time=2016-06-18T08:02:21+0000

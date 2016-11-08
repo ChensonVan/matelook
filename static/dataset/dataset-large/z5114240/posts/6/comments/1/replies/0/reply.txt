@@ -1,3 +1,0 @@
-from=z5113702
-message=Haha omg
-time=2016-05-12T22:31:09+0000

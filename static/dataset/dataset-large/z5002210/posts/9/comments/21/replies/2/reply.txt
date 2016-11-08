@@ -1,3 +1,0 @@
-message=Cutie
-time=2016-05-24T03:29:31+0000
-from=z5028693

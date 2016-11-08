@@ -1,3 +1,0 @@
-time=2016-08-26T13:20:56+0000
-from=z5113614
-message=roasting from the other side of the world

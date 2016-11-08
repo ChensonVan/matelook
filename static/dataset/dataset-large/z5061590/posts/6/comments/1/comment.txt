@@ -1,3 +1,0 @@
-message=Definitely hitting up the F3 in future to pick up...
-from=z5098135
-time=2013-03-25T23:05:26+0000

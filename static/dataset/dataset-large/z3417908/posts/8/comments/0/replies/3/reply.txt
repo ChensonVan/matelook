@@ -1,3 +1,0 @@
-message=fair play (Y)
-time=2016-05-16T13:10:55+0000
-from=z5075071

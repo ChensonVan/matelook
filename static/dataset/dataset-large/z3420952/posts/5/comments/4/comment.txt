@@ -1,3 +1,0 @@
-time=2013-05-01T00:25:39+0000
-from=z3461196
-message=z5062277 he probably sent it to himself

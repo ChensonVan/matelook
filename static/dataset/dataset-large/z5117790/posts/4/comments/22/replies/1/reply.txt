@@ -1,3 +1,0 @@
-message=Whoah that's a bit aggressive
-from=z5113245
-time=2016-05-06T07:54:25+0000

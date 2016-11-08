@@ -1,5 +1,0 @@
-time=2016-09-21T07:16:45+0000
-from=z5114240
-message=Sandy Bassi\n\nI reckon you're cuter than the underwater astronaut squirrel
-latitude=-33.9413
-longitude=151.0715

@@ -1,3 +1,0 @@
-time=2016-09-14T01:07:53+0000
-message=Not for long
-from=z5110502

@@ -1,3 +1,0 @@
-time=2016-04-21T09:03:08+0000
-message=z5117559 get ready for a ball!
-from=z3462432

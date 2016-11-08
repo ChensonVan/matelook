@@ -1,3 +1,0 @@
-from=z3493008
-message=Challenge accepted
-time=2016-09-13T09:54:07+0000

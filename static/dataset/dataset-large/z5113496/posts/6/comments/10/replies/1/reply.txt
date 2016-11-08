@@ -1,3 +1,0 @@
-message=it's ranga ffs, find a dictionary
-from=z3406406
-time=2016-09-25T08:47:46+0000

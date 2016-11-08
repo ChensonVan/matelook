@@ -1,3 +1,0 @@
-from=z3377644
-message=stop trying to use me as a cover chun
-time=2016-05-10T07:22:39+0000

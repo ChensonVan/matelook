@@ -1,5 +1,0 @@
-time=2016-09-13T09:41:33+0000
-from=z3484231
-longitude=151.1928
-message=To Olsen, \n\nAre you loved?
-latitude=-33.7882

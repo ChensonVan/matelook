@@ -1,3 +1,0 @@
-message=The z3460924 brothers are at it again
-time=2016-05-30T21:35:03+0000
-from=z5019361

@@ -1,5 +1,0 @@
-message=Sarah S from second year engineering... You are girlfriend goals.
-time=2016-09-18T01:12:09+0000
-latitude=-33.9200
-from=z3494117
-longitude=151.2324

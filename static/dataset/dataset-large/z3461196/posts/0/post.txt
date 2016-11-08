@@ -1,5 +1,0 @@
-from=z3461196
-latitude=-33.8254
-message=To the Pomeranian that was in front of Matthews lecture theatre, you were so cute and fluffy I wanted to tear up but I was with a friend and I didn't want them to think I was crazy. Still sad that I didn't get to boop your head. Keep being a princess/prince and make your owner carry you when you're tired.
-time=2016-09-25T12:24:58+0000
-longitude=151.1895

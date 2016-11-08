@@ -1,3 +1,0 @@
-message=Hey my name is kamal girl
-from=z5117020
-time=2016-06-04T14:32:42+0000

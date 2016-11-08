@@ -1,3 +1,0 @@
-message=I'm on my eighth year at UNSW (4 years Bachelor, 4 years PhD) without ever having a girlfriend. So don't have too much hope
-from=z5016565
-time=2016-10-05T09:02:05+0000

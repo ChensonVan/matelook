@@ -1,5 +1,0 @@
-from=z5059970
-time=2016-10-06T02:45:06+0000
-message=Dear all best friends who have become 3rd wheels. How do you deal?
-latitude=-33.7767
-longitude=150.7118

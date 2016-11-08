@@ -1,3 +1,0 @@
-from=z5113700
-message=z5039294 z5057704 appreciate my snapstory
-time=2016-06-19T10:55:35+0000

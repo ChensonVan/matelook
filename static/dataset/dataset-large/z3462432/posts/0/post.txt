@@ -1,5 +1,0 @@
-from=z3462432
-time=2013-04-26T03:21:53+0000
-latitude=-33.9116
-message=To the cute asian guy in my physiology lab that wore a grey hoodie today, I think your name is Richard. You have a cute bum :)
-longitude=151.2205

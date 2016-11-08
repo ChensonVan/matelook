@@ -1,5 +1,0 @@
-from=z5092311
-longitude=151.1648
-latitude=-33.8176
-time=2013-04-14T11:18:53+0000
-message=To David Li Wang, I met you at camp and you seemed like such a fun guy to be around!! Although you were always behind the camera, you didn't take that many of me, Let's say we change that. I'll see you at the BSOC Closing Event, and I'll drop a hint of who I am then. ;)

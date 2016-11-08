@@ -1,3 +1,0 @@
-from=z5020410
-time=2013-05-10T12:26:03+0000
-message=take me now dim

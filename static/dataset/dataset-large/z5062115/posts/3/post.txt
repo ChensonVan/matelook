@@ -1,5 +1,0 @@
-latitude=-33.8537
-time=2016-05-13T11:34:14+0000
-message=Matthew Lee, I thought I liked you and then I didn't.. Can we start over?
-longitude=151.1482
-from=z5062115

@@ -1,3 +1,0 @@
-from=z3462856
-message=fricken gross aha
-time=2016-05-19T00:37:25+0000

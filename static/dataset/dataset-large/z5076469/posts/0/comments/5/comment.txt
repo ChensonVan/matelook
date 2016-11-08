@@ -1,3 +1,0 @@
-from=z5113614
-time=2016-06-12T21:38:48+0000
-message=z3413158 was this the love letter you wrote

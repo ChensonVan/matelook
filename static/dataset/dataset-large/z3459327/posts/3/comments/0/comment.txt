@@ -1,3 +1,0 @@
-from=z5017787
-message=z3219170 fins god pls
-time=2016-06-23T05:35:36+0000

@@ -1,5 +1,0 @@
-from=z5114240
-time=2016-05-26T13:41:05+0000
-message=Can i just meet a guy who is 6ft and isnt a fboi please
-longitude=150.8683
-latitude=-33.9091

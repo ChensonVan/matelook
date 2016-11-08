@@ -1,3 +1,0 @@
-message=even the stairs?
-from=z5130883
-time=2013-11-13T15:46:57+0000

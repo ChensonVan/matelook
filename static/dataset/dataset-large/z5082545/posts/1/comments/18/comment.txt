@@ -1,3 +1,0 @@
-message=z5056054 do you have a sister?
-from=z5020476
-time=2016-04-16T07:53:38+0000

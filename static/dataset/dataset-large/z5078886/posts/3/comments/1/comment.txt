@@ -1,3 +1,0 @@
-from=z5075687
-time=2013-04-11T12:58:40+0000
-message=I don't knw where that guy finds the enthusiasm from

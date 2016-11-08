@@ -1,3 +1,0 @@
-message=And he receives
-from=z3416238
-time=2013-04-12T04:49:38+0000

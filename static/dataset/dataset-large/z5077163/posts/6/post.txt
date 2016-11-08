@@ -1,5 +1,0 @@
-longitude=151.2328
-time=2016-05-03T10:46:29+0000
-latitude=-33.9097
-message=This is more like an appreciation post but to the girl sitting in front of me on the bus at around 9:15. You were wearing a grey t and blue jeans and you had your brown hair tied up in a bun. I was the girl sitting behind you and I couldn't help but notice how pretty you were when the sun was shining on you. Also good luck with whatever you were studying on the bus~
-from=z5077163

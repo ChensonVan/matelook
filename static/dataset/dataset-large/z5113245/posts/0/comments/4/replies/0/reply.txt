@@ -1,3 +1,0 @@
-message=nah doesnt count
-time=2016-08-27T08:48:47+0000
-from=z3299058

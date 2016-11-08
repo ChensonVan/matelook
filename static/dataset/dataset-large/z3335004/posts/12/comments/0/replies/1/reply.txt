@@ -1,3 +1,0 @@
-message=Come at me without any of your fancy tools
-time=2016-09-22T05:41:22+0000
-from=z3462856

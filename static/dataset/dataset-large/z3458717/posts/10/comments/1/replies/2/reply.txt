@@ -1,3 +1,0 @@
-time=2016-09-09T00:42:50+0000
-from=z5109880
-message=Wtf u guys

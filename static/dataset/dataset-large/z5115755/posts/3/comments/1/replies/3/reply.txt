@@ -1,3 +1,0 @@
-message=True but z5116179 wrote it
-from=z3464149
-time=2016-08-06T12:53:01+0000

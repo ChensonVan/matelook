@@ -1,3 +1,0 @@
-message=thats like asking if im a girl or a boy
-from=z3459551
-time=2016-09-19T03:53:40+0000

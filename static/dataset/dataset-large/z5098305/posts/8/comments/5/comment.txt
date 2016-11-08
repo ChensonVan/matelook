@@ -1,3 +1,0 @@
-time=2016-06-12T23:52:33+0000
-message=z5092311 Our saviour
-from=z5016305

@@ -1,3 +1,0 @@
-time=2016-08-25T03:31:43+0000
-message=Yuck! This is absolute paste
-from=z3459405

@@ -1,3 +1,0 @@
-from=z5040176
-message=z5018731 don't be mean, Alex is manly.
-time=2016-09-28T02:26:23+0000

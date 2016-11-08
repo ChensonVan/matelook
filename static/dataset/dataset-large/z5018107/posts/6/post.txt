@@ -1,5 +1,0 @@
-message=Just being with you brightens up my day. Who needs the sun when I have you :)
-from=z5018107
-longitude=151.2378
-time=2013-08-08T13:17:59+0000
-latitude=-33.9182

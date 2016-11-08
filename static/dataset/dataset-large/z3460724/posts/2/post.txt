@@ -1,5 +1,0 @@
-longitude=151.1589
-message=Daniel Dang. Why are you so massive <3 Are you taken?
-latitude=-33.7518
-time=2016-06-07T05:31:45+0000
-from=z3460724

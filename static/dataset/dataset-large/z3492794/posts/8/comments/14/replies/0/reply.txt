@@ -1,3 +1,0 @@
-time=2016-10-06T00:59:54+0000
-message=I think shes talking about the temperature
-from=z3417908

@@ -1,3 +1,0 @@
-message=Uni? Meh.
-from=z5060306
-time=2016-09-13T12:11:58+0000

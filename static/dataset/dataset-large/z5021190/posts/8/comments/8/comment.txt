@@ -1,3 +1,0 @@
-from=z5060479
-message=She does - z3411568
-time=2013-04-21T02:43:46+0000

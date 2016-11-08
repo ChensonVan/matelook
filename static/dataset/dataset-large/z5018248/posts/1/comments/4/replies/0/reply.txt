@@ -1,3 +1,0 @@
-message=Go explain what love is
-from=z5024986
-time=2016-04-24T14:19:35+0000

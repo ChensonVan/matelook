@@ -1,3 +1,0 @@
-time=2016-08-30T05:13:14+0000
-from=z5076554
-message=Great minds ;)

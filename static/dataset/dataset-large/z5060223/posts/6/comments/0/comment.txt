@@ -1,3 +1,0 @@
-message=The name is z5014695.
-from=z5016876
-time=2013-03-27T05:02:26+0000

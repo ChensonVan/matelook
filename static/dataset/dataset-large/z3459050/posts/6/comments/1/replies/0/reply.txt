@@ -1,3 +1,0 @@
-message=I can't relate to this for obvious reason
-from=z5118627
-time=2016-06-22T15:06:35+0000

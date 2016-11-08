@@ -1,5 +1,0 @@
-time=2016-10-01T13:40:25+0000
-longitude=151.2009
-message=There isn't a single ginger in my course. My only criteria is a fine ginger man. Please help me find him 😢
-from=z5113496
-latitude=-33.8075

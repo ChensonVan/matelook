@@ -1,3 +1,0 @@
-message=Well, we know you cannot lie about that. #trooth
-from=z5056324
-time=2013-11-21T13:50:03+0000

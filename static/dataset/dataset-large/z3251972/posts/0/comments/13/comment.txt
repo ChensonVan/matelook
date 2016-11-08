@@ -1,3 +1,0 @@
-time=2016-08-15T07:34:32+0000
-from=z5042720
-message=z5098313 has two types of HDs

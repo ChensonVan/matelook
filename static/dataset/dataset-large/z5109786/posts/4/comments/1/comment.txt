@@ -1,3 +1,0 @@
-from=z5109480
-message=Apparently this isnt exclusive to me z5113715
-time=2016-07-04T00:10:42+0000

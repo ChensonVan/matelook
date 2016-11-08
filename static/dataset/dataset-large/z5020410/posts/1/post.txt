@@ -1,5 +1,0 @@
-from=z5020410
-latitude=-33.9191
-longitude=151.2261
-time=2016-10-02T14:31:52+0000
-message=To A.R\n\nPlease teach me how to pull chicks like you do.

@@ -1,3 +1,0 @@
-message=Best Bait is Best.
-from=z5015016
-time=2013-05-20T10:32:41+0000

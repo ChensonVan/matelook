@@ -1,3 +1,0 @@
-message=Ekans see what you did there.
-from=z5048663
-time=2013-05-27T10:14:06+0000

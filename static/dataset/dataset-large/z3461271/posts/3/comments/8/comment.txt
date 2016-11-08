@@ -1,3 +1,0 @@
-message=Definitely written by z5014229 himself
-time=2016-05-16T13:04:40+0000
-from=z3456408

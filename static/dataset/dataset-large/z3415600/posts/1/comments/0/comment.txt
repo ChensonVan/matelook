@@ -1,3 +1,0 @@
-message="Roses are red, violets are blue, Dennis Guo I want to eat your poo" - fixed it for you
-time=2013-05-29T11:47:31+0000
-from=z5015280

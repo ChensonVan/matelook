@@ -1,3 +1,0 @@
-message="A standard baguette has a diameter of about 5 or 6 centimetres  and a usual length of about 65 centimetres, although a baguette can be up to a metre long."\n\nPlenty to go around, mes amours.
-from=z5061920
-time=2013-05-23T02:13:43+0000

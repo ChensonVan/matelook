@@ -1,3 +1,0 @@
-from=z9591011
-message=oh jaaaaaaaaa
-time=2013-03-29T04:35:01+0000

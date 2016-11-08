@@ -1,3 +1,0 @@
-message=don't tell me you wrote this, jarrod.
-from=z3484231
-time=2013-05-30T09:58:06+0000

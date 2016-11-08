@@ -1,3 +1,0 @@
-time=2016-06-19T07:12:22+0000
-from=z5019746
-message=I don't even do engineering

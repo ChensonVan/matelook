@@ -1,3 +1,0 @@
-time=2016-10-06T01:26:40+0000
-from=z3456669
-message=this is bullying

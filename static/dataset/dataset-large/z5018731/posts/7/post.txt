@@ -1,5 +1,0 @@
-time=2013-04-12T04:36:19+0000
-latitude=-33.7218
-message=To the beautiful girl in my slsp3000 lecture. I think your name is Grace, and I've got to say you are the prettiest girl I've ever seen, you're amazing <3
-longitude=150.4457
-from=z5018731

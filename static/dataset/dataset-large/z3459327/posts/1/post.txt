@@ -1,5 +1,0 @@
-message=Geoffrey, my love for you is like a TAIdal wave.
-time=2013-10-30T01:15:04+0000
-latitude=-33.8279
-longitude=151.1868
-from=z3459327

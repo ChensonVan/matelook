@@ -1,3 +1,0 @@
-message=LOL it's not wrong though
-from=z3458687
-time=2016-08-31T10:40:29+0000

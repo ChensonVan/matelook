@@ -1,3 +1,0 @@
-time=2016-06-04T07:48:24+0000
-message=z5040176 very true
-from=z5041714

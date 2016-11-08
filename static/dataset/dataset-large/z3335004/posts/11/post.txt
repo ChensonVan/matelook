@@ -1,5 +1,0 @@
-latitude=-33.9244
-message=to the guy handing out easter eggs a while ago. i think your name is adam. can i be your eve?
-from=z3335004
-time=2013-03-27T06:57:43+0000
-longitude=151.2322

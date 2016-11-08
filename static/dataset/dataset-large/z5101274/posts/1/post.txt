@@ -1,5 +1,0 @@
-from=z5101274
-message=michael wong aka chip why are you dating three girls at once and another girl wants your d? this isnt fair
-latitude=-33.8383
-longitude=151.2105
-time=2013-07-02T02:10:21+0000

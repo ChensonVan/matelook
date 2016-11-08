@@ -1,5 +1,0 @@
-from=z5021034
-time=2013-06-24T12:33:56+0000
-longitude=151.0340
-latitude=-34.0015
-message=To the Philippine lady named Phoebe, I like you a lot without you knowing. Too bad you're married.

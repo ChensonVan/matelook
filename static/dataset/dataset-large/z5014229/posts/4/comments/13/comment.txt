@@ -1,3 +1,0 @@
-from=z5060573
-message=z5113614 dude you're up
-time=2016-05-05T09:43:16+0000

@@ -1,5 +1,0 @@
-from=z5075827
-message=Booker, I noticed you in Theatre class and I've always wanted to act out a love scene with you. Will you be my Romeo because I can be your cat woman in leather....
-longitude=151.1275
-latitude=-33.8154
-time=2013-04-05T11:08:01+0000

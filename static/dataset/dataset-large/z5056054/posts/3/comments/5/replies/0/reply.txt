@@ -1,3 +1,0 @@
-message=This is so cringe
-time=2016-08-01T02:13:06+0000
-from=z5012884

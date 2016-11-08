@@ -1,3 +1,0 @@
-message=I am a brain eater
-from=z5019353
-time=2016-05-16T13:03:44+0000

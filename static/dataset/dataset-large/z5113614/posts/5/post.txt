@@ -1,5 +1,0 @@
-from=z5113614
-time=2016-08-27T16:14:12+0000
-latitude=-33.8355
-longitude=151.1365
-message=Show love to a random friend you haven't talked to in a while! Type @, randomly press a key, and hit enter.\n\nDon't be shy.

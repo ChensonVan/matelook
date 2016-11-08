@@ -1,5 +1,0 @@
-message=To the guy that was wearing black skinnies, carrying a skateboard and was drawing in the middle of the library lawn - pretty sure i have seen you in one of my lectures. Lets get one thing straight, I'm not and was wondering if you bat for the same team? :)
-from=z3493921
-latitude=-33.8062
-time=2013-05-08T12:47:12+0000
-longitude=151.2003

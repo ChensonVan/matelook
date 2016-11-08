@@ -1,3 +1,0 @@
-message=HAHAHA Winston is available!
-time=2016-10-06T00:04:36+0000
-from=z5088545

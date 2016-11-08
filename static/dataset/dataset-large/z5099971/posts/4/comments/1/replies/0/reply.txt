@@ -1,3 +1,0 @@
-from=z5075071
-time=2016-05-16T13:10:39+0000
-message=what a shame :(

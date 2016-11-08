@@ -1,5 +1,0 @@
-longitude=151.2365
-latitude=-33.9246
-message=To the indian guy with 99.95 and dean's list ..... we get it. you are smart.
-from=z5042720
-time=2016-04-21T01:25:09+0000

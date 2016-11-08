@@ -1,3 +1,0 @@
-from=z5061920
-message=z3335004 my man your time to shine
-time=2016-09-04T09:54:28+0000

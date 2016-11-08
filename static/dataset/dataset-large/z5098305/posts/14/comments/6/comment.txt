@@ -1,3 +1,0 @@
-from=z5063055
-message=Ummmm I'm totally not messy, nor do I hand in stuff late, totally punctual ! But LOL
-time=2013-05-22T08:37:02+0000

@@ -1,3 +1,0 @@
-from=z5110713
-time=2016-08-22T22:28:06+0000
-message=z3480991 he's got a nice knee

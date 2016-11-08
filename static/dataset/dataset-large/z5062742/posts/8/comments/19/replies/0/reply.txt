@@ -1,3 +1,0 @@
-from=z5078886
-message=ME TOO
-time=2016-04-22T06:51:43+0000

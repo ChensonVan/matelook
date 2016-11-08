@@ -1,5 +1,0 @@
-longitude=151.2323
-latitude=-33.9115
-message=Where do I start?\n\nTo the girl whose name sounds like 'Antarctica' if you ever feel cold, I can always warm you up ;)
-time=2016-05-11T11:39:52+0000
-from=z3463730

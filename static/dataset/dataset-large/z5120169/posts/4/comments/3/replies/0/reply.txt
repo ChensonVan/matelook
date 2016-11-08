@@ -1,3 +1,0 @@
-message=Thanks man, was hoping someone would realise this was me
-time=2016-09-09T03:22:42+0000
-from=z3464149

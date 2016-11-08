@@ -1,3 +1,0 @@
-message=I developed a crush much earlier than this
-from=z5113968
-time=2016-09-17T11:34:09+0000

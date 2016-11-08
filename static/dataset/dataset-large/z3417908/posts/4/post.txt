@@ -1,5 +1,0 @@
-message=I'm pretty sure you've graduated by now, but we just wanted to tell Tim (We think your last name started with a W) who took Intermediate Spanish A in 2011 that you made that class worth going to. We looked forward to seeing the back of your head every lecture. We hope your film career is going well.
-from=z3417908
-time=2013-04-12T04:43:06+0000
-longitude=151.2320
-latitude=-33.9125

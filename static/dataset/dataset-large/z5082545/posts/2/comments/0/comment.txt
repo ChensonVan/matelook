@@ -1,3 +1,0 @@
-time=2016-05-05T11:22:01+0000
-message=z5048360 not again!
-from=z3459509

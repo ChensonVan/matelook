@@ -1,3 +1,0 @@
-from=z5091050
-time=2016-05-04T12:40:06+0000
-message=Pretty dang sure it's you, buddy. Do you finish at 2 on Thursday? Yes you do.

@@ -1,3 +1,0 @@
-message=z5021028 who is it this time?
-from=z5024963
-time=2016-09-14T08:19:46+0000

@@ -1,3 +1,0 @@
-time=2016-06-09T13:03:09+0000
-message=Bro this is the dino lady I'm certain
-from=z5115403

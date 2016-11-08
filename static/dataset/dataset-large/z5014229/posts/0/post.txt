@@ -1,5 +1,0 @@
-message=It's that time of year again! The weather is warming up and Professor Geoffrey Nathan is wearing t-shirts again. That dude could invade France with those arm cannons. Major guy crush.
-latitude=-33.9098
-longitude=151.2292
-from=z5014229
-time=2013-10-11T02:23:41+0000

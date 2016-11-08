@@ -1,5 +1,0 @@
-latitude=-33.6568
-message=I was talking to you late on campus last week\nI was so surprised at our chemistry, it was like a fire had erupted within my heart!\nI was weak at the knees as though the universe stilled when you touched my shoulder.\nI'm still waiting for you to come up to upper campus for another late night chat. \n\nYours forever and death do us part,\ngirl from goldstein
-from=z5004426
-longitude=151.0416
-time=2016-05-06T13:17:03+0000

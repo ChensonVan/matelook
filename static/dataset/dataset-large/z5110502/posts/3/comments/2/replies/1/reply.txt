@@ -1,3 +1,0 @@
-message=A storms coming
-time=2016-06-29T11:46:56+0000
-from=z5115780

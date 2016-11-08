@@ -1,5 +1,0 @@
-from=z5057687
-message=You're tall blonde, a little goofy and clumsy and i think i might like you
-time=2016-07-26T09:11:51+0000
-latitude=-33.8221
-longitude=151.0462

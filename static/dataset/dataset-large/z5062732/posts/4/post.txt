@@ -1,5 +1,0 @@
-from=z5062732
-time=2013-12-11T20:30:43+0000
-message=Hey Dan M (eng student),\nI’ve had a crush on you since first year, ever since you led that campus tour. I even considered joining the society that you founded just for an opportunity to get to know you. I’m pretty sure this was your final year and I’ll never have the opportunity to awkwardly see you on campus and debate whether or not to approach you ever again. Anyway, you’re awesome :)\nFaffy
-longitude=151.2683
-latitude=-33.9045

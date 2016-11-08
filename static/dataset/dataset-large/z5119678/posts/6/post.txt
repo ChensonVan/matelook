@@ -1,5 +1,0 @@
-longitude=151.0372
-message=Dear Sydney Storms\n\nYou make me wet. \n\nxoxo
-time=2016-06-24T09:47:58+0000
-latitude=-33.8704
-from=z5119678

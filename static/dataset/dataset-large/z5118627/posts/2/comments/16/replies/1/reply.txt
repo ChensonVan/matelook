@@ -1,3 +1,0 @@
-from=z3076154
-message=1. Indian [Tick]\n4. Job [Patience Tick]
-time=2016-08-24T07:26:06+0000

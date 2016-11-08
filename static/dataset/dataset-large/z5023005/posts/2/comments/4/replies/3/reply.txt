@@ -1,3 +1,0 @@
-time=2016-09-22T23:54:16+0000
-from=z3418936
-message=You mean z3415600

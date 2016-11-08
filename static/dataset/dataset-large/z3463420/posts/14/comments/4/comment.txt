@@ -1,3 +1,0 @@
-message=whoa whoa z5092311
-from=z5012884
-time=2013-05-10T07:24:47+0000

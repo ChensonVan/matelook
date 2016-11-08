@@ -1,3 +1,0 @@
-from=z3475276
-time=2016-08-24T04:28:08+0000
-message=Yeah man me too haha

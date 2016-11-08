@@ -1,3 +1,0 @@
-time=2013-09-10T02:18:45+0000
-from=z5117935
-message=wow seemslegit

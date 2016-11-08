@@ -1,3 +1,0 @@
-from=z5092311
-message=So kilegzzzzz
-time=2016-06-07T15:23:14+0000

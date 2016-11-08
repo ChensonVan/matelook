@@ -1,3 +1,0 @@
-time=2013-05-10T05:38:05+0000
-message=UNSW queer collective :3
-from=z5061308

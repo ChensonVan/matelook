@@ -1,3 +1,0 @@
-from=z5048611
-message=z5109480 is dis u? :o
-time=2016-05-06T13:25:16+0000

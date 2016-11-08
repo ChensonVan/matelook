@@ -1,3 +1,0 @@
-message=Back off please.....
-from=z3458803
-time=2013-07-03T14:18:56+0000

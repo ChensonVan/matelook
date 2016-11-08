@@ -1,3 +1,0 @@
-message=Works every time
-from=z3462055
-time=2016-09-12T10:10:57+0000

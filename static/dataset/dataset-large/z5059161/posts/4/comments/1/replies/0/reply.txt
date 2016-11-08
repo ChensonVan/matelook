@@ -1,3 +1,0 @@
-from=z5011849
-message=KB you are a poet
-time=2016-06-10T06:01:37+0000

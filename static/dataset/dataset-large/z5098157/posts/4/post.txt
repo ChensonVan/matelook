@@ -1,5 +1,0 @@
-latitude=-33.9343
-message=Johnson Zhang, from CSA and SocSocSoc, I found that your soccer skills are as great as Lewandowski. Seriously it's amazing. I remember you said you wanted someone to write a love letter to you, so I guess I'd write one to you to express my love of your striking skillz.
-longitude=151.2245
-time=2013-08-27T13:56:23+0000
-from=z5098157

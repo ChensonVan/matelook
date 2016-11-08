@@ -1,3 +1,0 @@
-time=2016-06-28T17:31:43+0000
-message=z3385911 dies in the long time
-from=z5017666

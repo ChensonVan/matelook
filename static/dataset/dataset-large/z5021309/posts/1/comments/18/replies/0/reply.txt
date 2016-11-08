@@ -1,3 +1,0 @@
-message=Hmmmm contemplating...
-from=z5060306
-time=2016-08-17T07:15:49+0000

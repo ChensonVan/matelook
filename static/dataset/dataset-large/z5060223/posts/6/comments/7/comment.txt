@@ -1,3 +1,0 @@
-message=Haha you sure? Looks like you're in bro hahah
-from=z3334316
-time=2013-03-29T05:08:13+0000

@@ -1,3 +1,0 @@
-message=is physiology 1a mid sem test on this friday ? lol
-time=2013-04-23T11:34:48+0000
-from=z5019161

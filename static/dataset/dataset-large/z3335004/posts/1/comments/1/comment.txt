@@ -1,3 +1,0 @@
-message=You should have told me before I left... :P
-from=z3417908
-time=2013-04-07T02:59:41+0000

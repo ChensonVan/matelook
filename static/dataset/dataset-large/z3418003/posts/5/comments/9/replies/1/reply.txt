@@ -1,3 +1,0 @@
-message=z5098212 Next step is Medicine :P
-from=z5036317
-time=2016-06-27T09:38:36+0000

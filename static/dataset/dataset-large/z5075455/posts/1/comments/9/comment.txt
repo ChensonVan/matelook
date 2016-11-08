@@ -1,3 +1,0 @@
-message=z5099971 you know who to tag
-from=z3462432
-time=2016-08-23T01:45:46+0000

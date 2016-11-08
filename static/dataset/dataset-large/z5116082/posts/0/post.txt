@@ -1,5 +1,0 @@
-message=Dear Bryce in the First Year's Physics Lab,\n\nBryce, Bryce\nAlways so nice\nThank you for always giving good advice\n\nYou make physics seem like paradise\nBut two hours per week will have to suffice\nFor being a fresher, I must pay the price\n\nIs there someway I can see you twice?\n\nXoxo, fresher than fresh first-year
-longitude=151.2957
-time=2016-06-05T11:57:53+0000
-latitude=-33.7880
-from=z5116082

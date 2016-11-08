@@ -1,5 +1,0 @@
-time=2016-08-04T11:19:41+0000
-from=z5018549
-latitude=-33.9110
-longitude=151.2222
-message=Any cute greek girls around campus?

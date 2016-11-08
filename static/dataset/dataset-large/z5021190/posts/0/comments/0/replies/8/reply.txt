@@ -1,3 +1,0 @@
-from=z3299058
-message=Shots fired *pew pew*
-time=2016-08-26T20:52:48+0000

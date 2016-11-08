@@ -1,3 +1,0 @@
-from=z5101274
-message=z5113241 my condolences
-time=2016-09-25T11:50:25+0000

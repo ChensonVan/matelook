@@ -1,3 +1,0 @@
-time=2016-05-15T08:56:57+0000
-message=If only I went to psych Lectures
-from=z5048360

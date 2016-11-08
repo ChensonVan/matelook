@@ -1,3 +1,0 @@
-from=z5097972
-message=z5048360 are you sure you don't go to Basser?
-time=2016-08-28T12:02:35+0000

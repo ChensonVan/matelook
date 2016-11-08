@@ -1,3 +1,0 @@
-message=z3379933 who's the orange potato
-from=z5025014
-time=2016-08-14T14:02:25+0000

@@ -1,5 +1,0 @@
-longitude=151.2240
-time=2013-08-07T05:29:00+0000
-latitude=-33.9153
-message=To my professor Leigh Aldous. Your British accent is hot. As hot as your buns.
-from=z5060359

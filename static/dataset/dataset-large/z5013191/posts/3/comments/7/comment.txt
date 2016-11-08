@@ -1,3 +1,0 @@
-time=2013-03-25T21:47:30+0000
-from=z5098157
-message=*sheer

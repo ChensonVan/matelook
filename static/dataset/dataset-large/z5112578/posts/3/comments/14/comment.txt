@@ -1,3 +1,0 @@
-from=z5023123
-time=2016-09-01T01:25:04+0000
-message=z5060573 z5078886 z3461651 aight which one of u wrote this

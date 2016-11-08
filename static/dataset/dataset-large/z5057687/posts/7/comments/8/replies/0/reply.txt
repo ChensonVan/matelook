@@ -1,3 +1,0 @@
-message=Maybe you'll finally find Bae :^)
-from=z5060306
-time=2016-09-01T03:36:14+0000

@@ -1,3 +1,0 @@
-from=z3462428
-time=2013-05-06T10:46:39+0000
-message=LOLOL

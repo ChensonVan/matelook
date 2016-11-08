@@ -1,3 +1,0 @@
-message=I dress like a hobo
-from=z5015684
-time=2016-07-07T12:27:00+0000

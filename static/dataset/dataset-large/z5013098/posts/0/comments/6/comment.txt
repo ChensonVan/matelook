@@ -1,3 +1,0 @@
-time=2016-08-11T00:31:09+0000
-message=Be Harambe
-from=z3463638

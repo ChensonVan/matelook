@@ -1,3 +1,0 @@
-message=dat hidden message
-from=z3463248
-time=2016-08-01T15:38:51+0000

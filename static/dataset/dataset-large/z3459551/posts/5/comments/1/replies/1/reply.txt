@@ -1,3 +1,0 @@
-time=2016-09-10T11:15:14+0000
-message=z5013491 can't slay all day
-from=z3484231

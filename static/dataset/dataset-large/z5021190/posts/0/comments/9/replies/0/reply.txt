@@ -1,3 +1,0 @@
-from=z5024967
-message=we're all modest too, apparently
-time=2016-08-26T01:11:15+0000

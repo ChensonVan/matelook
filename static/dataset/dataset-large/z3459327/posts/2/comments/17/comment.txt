@@ -1,3 +1,0 @@
-time=2016-06-01T06:06:44+0000
-from=z5110713
-message=z5115903 in a couple of months time

@@ -1,3 +1,0 @@
-from=z5017077
-time=2016-06-24T11:09:16+0000
-message=z5015243 fight him

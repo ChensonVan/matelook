@@ -1,3 +1,0 @@
-from=z5059526
-time=2016-09-04T07:31:12+0000
-message=z5017651 "Few inches"

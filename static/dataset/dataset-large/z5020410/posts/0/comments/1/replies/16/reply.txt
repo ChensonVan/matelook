@@ -1,3 +1,0 @@
-from=z3379933
-time=2016-05-17T11:25:42+0000
-message=Cmon now don't be shy

@@ -1,3 +1,0 @@
-from=z3458687
-message=z5056054 mah boiiiiii
-time=2016-09-12T02:58:39+0000

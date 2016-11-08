@@ -1,3 +1,0 @@
-message=Lol I wrote this z3416238
-time=2016-05-17T11:33:04+0000
-from=z5024963

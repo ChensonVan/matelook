@@ -1,3 +1,0 @@
-from=z5063045
-time=2013-06-12T06:42:21+0000
-message=OH FARK HAHAHA

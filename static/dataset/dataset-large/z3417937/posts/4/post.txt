@@ -1,5 +1,0 @@
-longitude=151.2320
-time=2013-08-07T05:24:52+0000
-message=To Jeffrey Cheung , Stop wearing sweat pants and hoodies to uni.\nSUIT UP!!! ;)
-from=z3417937
-latitude=-33.9150

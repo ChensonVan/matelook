@@ -1,3 +1,0 @@
-message=z5061301 control urself
-from=z3459509
-time=2016-04-15T23:03:29+0000

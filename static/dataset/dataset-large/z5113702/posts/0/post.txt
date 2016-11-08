@@ -1,5 +1,0 @@
-message=To the girl in my law class, I'm straight, really I am. But you have such a perfect figure, and you're smart, and the gold flecks in your blonde hair reflect the sunlight whenever you move around. There is no burden of proof for how fine you are.
-time=2013-03-22T09:22:20+0000
-latitude=-33.9183
-from=z5113702
-longitude=151.2395

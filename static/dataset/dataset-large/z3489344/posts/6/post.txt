@@ -1,5 +1,0 @@
-from=z3489344
-longitude=151.2912
-time=2013-12-05T12:38:36+0000
-latitude=-33.6594
-message=Bissyboy, are you religious? 'Cause you're the answer to all my prayers.

@@ -1,5 +1,0 @@
-from=z5062957
-time=2016-07-01T01:49:16+0000
-latitude=-33.7682
-message=Dear Richard the anatomy tutor,\n\nI've watched you from afar (I'm never in your workspace, but I watch you through the curtains) for a whole semester now and I'm so devastated you weren't around to teach me the male reproductive anatomy...I just hope I'll get to be in your group for cardio next sem, and you can show me your heart.\n\nP.S. I've heard you have a long frenulum...can you show me how you use it?\n\nP.P.S. I've also heard you were an expert on your gynaecology rotation, how do I volunteer to be your simulated patient?
-longitude=151.0626

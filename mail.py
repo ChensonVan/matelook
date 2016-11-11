@@ -19,7 +19,7 @@ _PORT_ = configs['PORT']
 class MailUtils():
     def __init__(self, to_addr, sender, receiver):
         self.from_addr = 'andersonvan.cn@gmail.com'
-        self.password = 'Anderson186.'
+        self.password = '*****'
         self.to_addr = to_addr
         self.sender = sender
         self.receiver = receiver
